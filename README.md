@@ -15,3 +15,6 @@ The site lists each program with its name, URL, scope, rewards, and guidelines, 
 ## Updating the data
 
 The workflow automatically refreshes the site daily. You can also push updates to the markdown file manually; the next workflow run will regenerate the HTML.
+
+---
+*Last updated: $(date +"%Y-%m-%d %H:%M:%S")*
