@@ -17,9 +17,9 @@ html_template = f"""<!DOCTYPE html>
 <meta charset='UTF-8'>
 <title>Public Bug Bounty Programs</title>
 <style>
-body {font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6;}
-h1, h2, h3 {color: #2c3e50;}
-pre {background:#f4f4f4; padding:1rem; overflow:auto;}
+body {{font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6;}}
+ h1, h2, h3 {{color: #2c3e50;}}
+pre {{background:#f4f4f4; padding:1rem; overflow:auto;}}
 </style>
 </head>
 <body>
