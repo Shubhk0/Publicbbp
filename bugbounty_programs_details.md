@@ -1,31 +1,47 @@
 # Detailed Bug Bounty Program Information
 
-## [YesWeHack #1 Bug Bounty Platform in Europe](https://yeswehack.com/programs/lcl)
+## YesWeHack #1 Bug Bounty Platform in Europe
+
+**URL:** [https://yeswehack.com/programs/lcl](https://yeswehack.com/programs/lcl)
 
 
-## [YesWeHack #1 Bug Bounty Platform in Europe](https://yeswehack.com/programs/edenred)
+## YesWeHack #1 Bug Bounty Platform in Europe
+
+**URL:** [https://yeswehack.com/programs/edenred](https://yeswehack.com/programs/edenred)
 
 
-## [Redirecting...](https://immunify.io/programs/acme-corp)
+## Redirecting...
+
+**URL:** [https://immunify.io/programs/acme-corp](https://immunify.io/programs/acme-corp)
 
 
-## [https://integrity.io/programs/nimbus](https://integrity.io/programs/nimbus)
+## https://integrity.io/programs/nimbus
 
-*Error:* failed to fetch
+**URL:** [https://integrity.io/programs/nimbus](https://integrity.io/programs/nimbus)
 
-## [https://bugbase.com/programs/libreoffice](https://bugbase.com/programs/libreoffice)
+*Error:* fetch failed
 
-*Error:* failed to fetch
+## https://bugbase.com/programs/libreoffice
 
-## [https://openbugbounty.org/programs/reddit](https://openbugbounty.org/programs/reddit)
+**URL:** [https://bugbase.com/programs/libreoffice](https://bugbase.com/programs/libreoffice)
 
-*Error:* failed to fetch
+*Error:* fetch failed
 
-## [https://bugcrowd.com/programs/airbnb](https://bugcrowd.com/programs/airbnb)
+## https://openbugbounty.org/programs/reddit
 
-*Error:* failed to fetch
+**URL:** [https://openbugbounty.org/programs/reddit](https://openbugbounty.org/programs/reddit)
 
-## [https://synack.com/programs/cisco](https://synack.com/programs/cisco)
+*Error:* fetch failed
 
-*Error:* failed to fetch
+## https://bugcrowd.com/programs/airbnb
+
+**URL:** [https://bugcrowd.com/programs/airbnb](https://bugcrowd.com/programs/airbnb)
+
+*Error:* fetch failed
+
+## https://synack.com/programs/cisco
+
+**URL:** [https://synack.com/programs/cisco](https://synack.com/programs/cisco)
+
+*Error:* fetch failed
 
