@@ -1,4 +1,4 @@
-name: Deploy Bug Bounty Database to GitHub Pages
+name: Aggregate & Deploy Bug Bounty Database
 
 permissions:
   contents: write
@@ -7,28 +7,38 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    # Run every 6 hours to keep data fresh
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual triggers
 
 jobs:
-  build:
+  aggregate-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install dependencies
+
+      - name: Run aggregation (no API keys needed)
+        run: python scripts/aggregate.py
+
+      - name: Generate static site
+        run: python scripts/generate_site.py
+
+      - name: Commit updated data
         run: |
-          python -m pip install --upgrade pip
-          pip install markdown
-      - name: Generate HTML site
-        run: |
-          mkdir -p docs
-          python scripts/generate_site.py
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "chore: update bug bounty data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push origin main || true
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

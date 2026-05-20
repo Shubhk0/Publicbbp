@@ -1,0 +1,389 @@
+{
+  "entries": [
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Twitter/X",
+      "platform": "HackerOne",
+      "details": "New program: Twitter/X on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "OVHcloud",
+      "platform": "YesWeHack",
+      "details": "New program: OVHcloud on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Doctolib",
+      "platform": "YesWeHack",
+      "details": "New program: Doctolib on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "WordPress",
+      "platform": "HackerOne",
+      "details": "New program: WordPress on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Verizon Media",
+      "platform": "HackerOne",
+      "details": "New program: Verizon Media on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Wormhole",
+      "platform": "Immunefi",
+      "details": "New program: Wormhole on Immunefi"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Valve (Steam)",
+      "platform": "HackerOne",
+      "details": "New program: Valve (Steam) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Automattic",
+      "platform": "HackerOne",
+      "details": "New program: Automattic on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "LCL",
+      "platform": "YesWeHack",
+      "details": "New program: LCL on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Aurora",
+      "platform": "Immunefi",
+      "details": "New program: Aurora on Immunefi"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "OpenAI",
+      "platform": "Bugcrowd",
+      "details": "New program: OpenAI on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Pinterest",
+      "platform": "Bugcrowd",
+      "details": "New program: Pinterest on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Google VRP",
+      "platform": "HackerOne",
+      "details": "New program: Google VRP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Uber",
+      "platform": "HackerOne",
+      "details": "New program: Uber on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "GitLab",
+      "platform": "HackerOne",
+      "details": "New program: GitLab on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Apple Security Bounty",
+      "platform": "Independent",
+      "details": "New program: Apple Security Bounty on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Brave Browser",
+      "platform": "HackerOne",
+      "details": "New program: Brave Browser on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Intigriti",
+      "platform": "Intigriti",
+      "details": "New program: Intigriti on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Shopify",
+      "platform": "HackerOne",
+      "details": "New program: Shopify on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Okta",
+      "platform": "Bugcrowd",
+      "details": "New program: Okta on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Atlassian",
+      "platform": "Bugcrowd",
+      "details": "New program: Atlassian on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Slack",
+      "platform": "HackerOne",
+      "details": "New program: Slack on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Olympus DAO",
+      "platform": "Immunefi",
+      "details": "New program: Olympus DAO on Immunefi"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Swiss Post",
+      "platform": "YesWeHack",
+      "details": "New program: Swiss Post on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Alibaba",
+      "platform": "HackerOne",
+      "details": "New program: Alibaba on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Notion",
+      "platform": "HackerOne",
+      "details": "New program: Notion on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "KBC Group",
+      "platform": "Intigriti",
+      "details": "New program: KBC Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "PayPal",
+      "platform": "HackerOne",
+      "details": "New program: PayPal on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Netflix",
+      "platform": "Bugcrowd",
+      "details": "New program: Netflix on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Intel",
+      "platform": "Independent",
+      "details": "New program: Intel on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Samsung",
+      "platform": "Bugcrowd",
+      "details": "New program: Samsung on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Spotify",
+      "platform": "HackerOne",
+      "details": "New program: Spotify on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Yahoo",
+      "platform": "HackerOne",
+      "details": "New program: Yahoo on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Dropbox",
+      "platform": "HackerOne",
+      "details": "New program: Dropbox on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Tesla",
+      "platform": "Bugcrowd",
+      "details": "New program: Tesla on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Twitch",
+      "platform": "Bugcrowd",
+      "details": "New program: Twitch on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Mastercard",
+      "platform": "Bugcrowd",
+      "details": "New program: Mastercard on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Polygon",
+      "platform": "Immunefi",
+      "details": "New program: Polygon on Immunefi"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "GitHub",
+      "platform": "HackerOne",
+      "details": "New program: GitHub on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "TikTok",
+      "platform": "HackerOne",
+      "details": "New program: TikTok on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Randstad",
+      "platform": "Intigriti",
+      "details": "New program: Randstad on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Microsoft MSRC",
+      "platform": "Independent",
+      "details": "New program: Microsoft MSRC on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Sony PlayStation",
+      "platform": "Independent",
+      "details": "New program: Sony PlayStation on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Infomaniak",
+      "platform": "YesWeHack",
+      "details": "New program: Infomaniak on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "De Lijn",
+      "platform": "Intigriti",
+      "details": "New program: De Lijn on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "ExpressVPN",
+      "platform": "Bugcrowd",
+      "details": "New program: ExpressVPN on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Proximus",
+      "platform": "Intigriti",
+      "details": "New program: Proximus on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Coinbase",
+      "platform": "HackerOne",
+      "details": "New program: Coinbase on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "MakerDAO",
+      "platform": "Immunefi",
+      "details": "New program: MakerDAO on Immunefi"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Mozilla",
+      "platform": "Independent",
+      "details": "New program: Mozilla on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Government of Quebec",
+      "platform": "YesWeHack",
+      "details": "New program: Government of Quebec on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Meta",
+      "platform": "Independent",
+      "details": "New program: Meta on Independent"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "U.S. Dept of Defense",
+      "platform": "HackerOne",
+      "details": "New program: U.S. Dept of Defense on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Cloudflare",
+      "platform": "HackerOne",
+      "details": "New program: Cloudflare on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T08:57:10.649860+00:00",
+      "type": "added",
+      "program_name": "Snapchat",
+      "platform": "HackerOne",
+      "details": "New program: Snapchat on HackerOne"
+    }
+  ]
+}
