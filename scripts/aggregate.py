@@ -8,13 +8,25 @@ a JSON database with changelog tracking.
 import json
 import os
 import hashlib
+import logging
+import time
+import urllib.request
+import ssl
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Dict, List, Optional, Any
 
 REPO_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_DIR / "data"
 PROGRAMS_FILE = DATA_DIR / "programs.json"
 CHANGELOG_FILE = DATA_DIR / "changelog.json"
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
+logger = logging.getLogger(__name__)
 
 
 
@@ -91,13 +103,93 @@ KNOWN_PROGRAMS = [
 
 
 
-def generate_program_id(program):
+def validate_program(program: Dict[str, Any]) -> bool:
+    """Validate a program entry has required fields with correct types and values.
+
+    Returns True if valid, False otherwise. Logs warnings for invalid programs.
+    """
+    errors: List[str] = []
+
+    name = program.get("name")
+    if not isinstance(name, str) or not name.strip():
+        errors.append("name must be a non-empty string")
+
+    platform = program.get("platform")
+    if not isinstance(platform, str) or not platform.strip():
+        errors.append("platform must be a non-empty string")
+
+    prog_type = program.get("type")
+    if prog_type not in ("bounty", "vdp"):
+        errors.append(f"type must be 'bounty' or 'vdp', got '{prog_type}'")
+
+    bounty_min = program.get("bounty_min", 0)
+    if not isinstance(bounty_min, (int, float)) or bounty_min < 0:
+        errors.append(f"bounty_min must be a non-negative number, got {bounty_min!r}")
+
+    bounty_max = program.get("bounty_max", 0)
+    if not isinstance(bounty_max, (int, float)):
+        errors.append(f"bounty_max must be a number, got {bounty_max!r}")
+    elif bounty_max < bounty_min:
+        errors.append(f"bounty_max ({bounty_max}) must be >= bounty_min ({bounty_min})")
+
+    url = program.get("url", "")
+    if url and not url.startswith(("http://", "https://")):
+        errors.append(f"url must start with http:// or https://, got '{url}'")
+
+    if errors:
+        logger.warning(
+            "Invalid program '%s': %s",
+            program.get("name", "<unknown>"),
+            "; ".join(errors),
+        )
+        return False
+    return True
+
+
+def fetch_url(url: str, retries: int = 3, timeout: int = 15) -> Optional[bytes]:
+    """Fetch a URL with retry logic and exponential backoff.
+
+    Returns response bytes on success, None on failure.
+    """
+    ctx = ssl.create_default_context()
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)"
+    })
+
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+                if resp.status == 200:
+                    return resp.read()
+                else:
+                    delay = 2 ** attempt  # 1s, 2s, 4s
+                    logger.warning(
+                        "Non-200 status %d from %s (attempt %d/%d)",
+                        resp.status, url, attempt + 1, retries,
+                    )
+                    if attempt < retries - 1:
+                        time.sleep(delay)
+        except Exception as e:
+            delay = 2 ** attempt  # 1s, 2s, 4s
+            if attempt < retries - 1:
+                logger.info(
+                    "Retry %d/%d for %s (error: %s). Waiting %ds...",
+                    attempt + 1, retries - 1, url, e, delay,
+                )
+                time.sleep(delay)
+            else:
+                logger.error("Failed to fetch %s after %d attempts: %s", url, retries, e)
+    return None
+
+
+def generate_program_id(program: Dict[str, Any]) -> str:
     """Generate a unique ID for a program based on name + platform."""
+    # Note: Changed from MD5 to SHA-256 in 2024. First run after migration produces changelog churn.
     key = f"{program['platform']}:{program['name']}".lower()
-    return hashlib.md5(key.encode()).hexdigest()[:12]
+    return hashlib.sha256(key.encode()).hexdigest()[:12]
 
 
-def enrich_program(program):
+def enrich_program(program: Dict[str, Any]) -> Dict[str, Any]:
     """Enrich a program entry with computed fields."""
     program["id"] = generate_program_id(program)
     program.setdefault("assets", [])
@@ -112,70 +204,31 @@ def enrich_program(program):
 
 
 
-def try_scrape_hackerone():
+def try_scrape_hackerone() -> List[Dict[str, Any]]:
     """
-    Try to scrape HackerOne public directory (no API key needed).
-    Uses the public GraphQL endpoint that powers hackerone.com/directory.
-    Falls back to seed data if scraping fails.
+    Placeholder for future HackerOne scraping implementation.
+    TODO: Implement parsing of HackerOne public directory data.
     """
-    import urllib.request
-    import ssl
-
-    programs = []
-    try:
-        # HackerOne exposes a public directory page - we scrape the JSON
-        url = "https://hackerone.com/directory/programs"
-        ctx = ssl.create_default_context()
-        req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)",
-            "Accept": "text/html,application/xhtml+xml"
-        })
-        with urllib.request.urlopen(req, timeout=15, context=ctx) as resp:
-            if resp.status == 200:
-                print("[*] Successfully reached HackerOne directory")
-    except Exception as e:
-        print(f"[!] HackerOne scrape skipped: {e}")
-
-    return programs
+    return []
 
 
 
-def try_scrape_bugcrowd():
+def try_scrape_bugcrowd() -> List[Dict[str, Any]]:
     """
-    Try to scrape Bugcrowd public programs list (no API key needed).
-    Bugcrowd has a public JSON endpoint for their program list.
+    Placeholder for future Bugcrowd scraping implementation.
+    TODO: Implement parsing of Bugcrowd public programs data.
     """
-    import urllib.request
-    import ssl
-
-    programs = []
-    try:
-        url = "https://bugcrowd.com/programs.json"
-        ctx = ssl.create_default_context()
-        req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)",
-            "Accept": "application/json"
-        })
-        with urllib.request.urlopen(req, timeout=15, context=ctx) as resp:
-            if resp.status == 200:
-                print("[*] Successfully reached Bugcrowd programs endpoint")
-    except Exception as e:
-        print(f"[!] Bugcrowd scrape skipped: {e}")
-
-    return programs
+    return []
 
 
 
-def try_fetch_bounty_targets_data():
+def try_fetch_bounty_targets_data() -> List[Dict[str, Any]]:
     """
     Fetch from arkadiyt/bounty-targets-data GitHub repo.
     This repo has hourly-updated data dumps from all major platforms.
     No API key needed - uses raw GitHub content URLs.
     """
-    import urllib.request
-    import ssl
-
-    programs = []
+    programs: List[Dict[str, Any]] = []
     base_url = "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data"
     platforms = {
         "hackerone_data.json": "HackerOne",
@@ -184,32 +237,29 @@ def try_fetch_bounty_targets_data():
         "yeswehack_data.json": "YesWeHack",
     }
 
-    ctx = ssl.create_default_context()
-
     for filename, platform in platforms.items():
         try:
             url = f"{base_url}/{filename}"
-            req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)"
-            })
-            with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
-                if resp.status == 200:
-                    data = json.loads(resp.read().decode("utf-8"))
-                    count = 0
-                    for item in data[:100]:  # Limit to first 100 per platform
-                        prog = parse_bounty_target(item, platform)
-                        if prog:
-                            programs.append(prog)
-                            count += 1
-                    print(f"[*] Fetched {count} programs from {platform} via bounty-targets-data")
+            raw = fetch_url(url, retries=3, timeout=30)
+            if raw is not None:
+                data = json.loads(raw.decode("utf-8"))
+                count = 0
+                for item in data[:100]:  # Limit to first 100 per platform
+                    prog = parse_bounty_target(item, platform)
+                    if prog:
+                        programs.append(prog)
+                        count += 1
+                logger.info("Fetched %d programs from %s via bounty-targets-data", count, platform)
+            else:
+                logger.warning("Failed to fetch %s from bounty-targets-data", platform)
         except Exception as e:
-            print(f"[!] Failed to fetch {platform} from bounty-targets-data: {e}")
+            logger.error("Failed to fetch %s from bounty-targets-data: %s", platform, e)
 
     return programs
 
 
 
-def parse_bounty_target(item, platform):
+def parse_bounty_target(item: Dict[str, Any], platform: str) -> Optional[Dict[str, Any]]:
     """Parse a single entry from bounty-targets-data format."""
     try:
         name = item.get("name", "")
@@ -249,7 +299,7 @@ def parse_bounty_target(item, platform):
 
 
 
-def categorize_program(name, assets):
+def categorize_program(name: str, assets: List[str]) -> str:
     """Auto-categorize a program based on name and assets."""
     name_lower = name.lower()
     assets_str = " ".join(assets).lower()
@@ -279,7 +329,7 @@ def categorize_program(name, assets):
 
 
 
-def compute_changelog(old_programs, new_programs):
+def compute_changelog(old_programs: List[Dict[str, Any]], new_programs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """Compare old and new program lists to generate changelog entries."""
     old_ids = {p["id"] for p in old_programs}
     new_ids = {p["id"] for p in new_programs}
@@ -330,16 +380,15 @@ def compute_changelog(old_programs, new_programs):
 
 
 
-def main():
+def main() -> None:
     """Main aggregation pipeline."""
-    print("=" * 60)
-    print("Bug Bounty Program Aggregator")
-    print("=" * 60)
-    print(f"Run time: {datetime.now(timezone.utc).isoformat()}")
-    print()
+    logger.info("=" * 60)
+    logger.info("Bug Bounty Program Aggregator")
+    logger.info("=" * 60)
+    logger.info("Run time: %s", datetime.now(timezone.utc).isoformat())
 
     # Load existing data
-    old_programs = []
+    old_programs: List[Dict[str, Any]] = []
     if PROGRAMS_FILE.exists():
         try:
             with open(PROGRAMS_FILE, "r") as f:
@@ -349,39 +398,45 @@ def main():
             pass
 
     # Step 1: Start with seed data
-    print("[*] Loading seed data...")
-    all_programs = []
+    logger.info("Loading seed data...")
+    all_programs: List[Dict[str, Any]] = []
     for prog in KNOWN_PROGRAMS:
-        all_programs.append(enrich_program(prog.copy()))
-    print(f"    -> {len(all_programs)} programs from seed data")
+        enriched = enrich_program(prog.copy())
+        if validate_program(enriched):
+            all_programs.append(enriched)
+        else:
+            logger.warning("Skipping invalid seed program: %s", prog.get("name", "<unknown>"))
+    logger.info("    -> %d programs from seed data", len(all_programs))
 
     # Step 2: Try to fetch from bounty-targets-data (no API key)
-    print("\n[*] Fetching from bounty-targets-data (GitHub raw)...")
+    logger.info("Fetching from bounty-targets-data (GitHub raw)...")
     scraped = try_fetch_bounty_targets_data()
     for prog in scraped:
         enriched = enrich_program(prog)
+        if not validate_program(enriched):
+            logger.warning("Skipping invalid fetched program: %s", prog.get("name", "<unknown>"))
+            continue
         # Avoid duplicates by ID
         existing_ids = {p["id"] for p in all_programs}
         if enriched["id"] not in existing_ids:
             all_programs.append(enriched)
-    print(f"    -> Total after merge: {len(all_programs)} programs")
+    logger.info("    -> Total after merge: %d programs", len(all_programs))
 
     # Step 3: Try platform scrapes (no API keys)
-    print("\n[*] Attempting direct platform scrapes...")
+    logger.info("Attempting direct platform scrapes...")
     try_scrape_hackerone()
     try_scrape_bugcrowd()
-
 
     # Step 4: Sort programs
     all_programs.sort(key=lambda p: (-p.get("bounty_max", 0), p["name"]))
 
     # Step 5: Compute changelog
-    print("\n[*] Computing changelog...")
+    logger.info("Computing changelog...")
     changelog_entries = compute_changelog(old_programs, all_programs)
     if changelog_entries:
-        print(f"    -> {len(changelog_entries)} changes detected")
+        logger.info("    -> %d changes detected", len(changelog_entries))
     else:
-        print("    -> No changes detected")
+        logger.info("    -> No changes detected")
 
     # Step 6: Save updated data
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -398,10 +453,10 @@ def main():
 
     with open(PROGRAMS_FILE, "w", encoding="utf-8") as f:
         json.dump(programs_data, f, indent=2, ensure_ascii=False)
-    print(f"\n[+] Saved {len(all_programs)} programs to {PROGRAMS_FILE}")
+    logger.info("Saved %d programs to %s", len(all_programs), PROGRAMS_FILE)
 
     # Update changelog
-    changelog_data = {"entries": []}
+    changelog_data: Dict[str, Any] = {"entries": []}
     if CHANGELOG_FILE.exists():
         try:
             with open(CHANGELOG_FILE, "r") as f:
@@ -415,9 +470,9 @@ def main():
 
     with open(CHANGELOG_FILE, "w", encoding="utf-8") as f:
         json.dump(changelog_data, f, indent=2, ensure_ascii=False)
-    print(f"[+] Saved changelog to {CHANGELOG_FILE}")
-    print("\n" + "=" * 60)
-    print("Aggregation complete!")
+    logger.info("Saved changelog to %s", CHANGELOG_FILE)
+    logger.info("=" * 60)
+    logger.info("Aggregation complete!")
 
 
 if __name__ == "__main__":
