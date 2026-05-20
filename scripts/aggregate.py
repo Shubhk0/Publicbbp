@@ -196,7 +196,7 @@ def try_fetch_bounty_targets_data():
                 if resp.status == 200:
                     data = json.loads(resp.read().decode("utf-8"))
                     count = 0
-                    for item in data[:100]:  # Limit to first 100 per platform
+                    for item in data:  # Fetch ALL programs, no limit
                         prog = parse_bounty_target(item, platform)
                         if prog:
                             programs.append(prog)
@@ -204,6 +204,500 @@ def try_fetch_bounty_targets_data():
                     print(f"[*] Fetched {count} programs from {platform} via bounty-targets-data")
         except Exception as e:
             print(f"[!] Failed to fetch {platform} from bounty-targets-data: {e}")
+
+    return programs
+
+
+def try_fetch_projectdiscovery_chaos():
+    """
+    Fetch from projectdiscovery/public-bugbounty-programs GitHub repo.
+    Contains a curated JSON of public BBP programs with domains.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    urls_to_try = [
+        "https://raw.githubusercontent.com/projectdiscovery/public-bugbounty-programs/main/chaos-bugbounty-list.json",
+        "https://raw.githubusercontent.com/projectdiscovery/public-bugbounty-programs/master/chaos-bugbounty-list.json",
+    ]
+
+    ctx = ssl.create_default_context()
+
+    for url in urls_to_try:
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)"
+            })
+            with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+                if resp.status == 200:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    items = data.get("programs", data) if isinstance(data, dict) else data
+                    for item in items:
+                        prog = parse_chaos_program(item)
+                        if prog:
+                            programs.append(prog)
+                    print(f"[*] Fetched {len(programs)} programs from ProjectDiscovery/chaos")
+                    break
+        except Exception as e:
+            print(f"[!] ProjectDiscovery chaos fetch failed ({url}): {e}")
+
+    return programs
+
+
+def parse_chaos_program(item):
+    """Parse a program from chaos-bugbounty-list.json format."""
+    try:
+        name = item.get("name", "")
+        if not name:
+            return None
+
+        url = item.get("url", "")
+        domains = item.get("domains", [])
+        bounty = item.get("bounty", False)
+
+        # Determine platform from URL
+        platform = "Independent"
+        if "hackerone.com" in url:
+            platform = "HackerOne"
+        elif "bugcrowd.com" in url:
+            platform = "Bugcrowd"
+        elif "intigriti.com" in url:
+            platform = "Intigriti"
+        elif "yeswehack.com" in url:
+            platform = "YesWeHack"
+
+        return {
+            "name": name,
+            "platform": platform,
+            "url": url,
+            "type": "bounty" if bounty else "vdp",
+            "bounty_min": 0,
+            "bounty_max": 0,
+            "currency": "USD",
+            "managed": True,
+            "category": categorize_program(name, domains),
+            "assets": domains[:10],
+        }
+    except Exception:
+        return None
+
+
+def try_fetch_disclose_db():
+    """
+    Fetch from disclose/diodb - Open-source vulnerability disclosure
+    and bug bounty program database. No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    urls_to_try = [
+        "https://raw.githubusercontent.com/disclose/diodb/master/program-list.json",
+        "https://raw.githubusercontent.com/disclose/diodata/master/program-list.json",
+    ]
+
+    ctx = ssl.create_default_context()
+
+    for url in urls_to_try:
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)"
+            })
+            with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+                if resp.status == 200:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    items = data if isinstance(data, list) else data.get("programs", [])
+                    for item in items:
+                        prog = parse_disclose_program(item)
+                        if prog:
+                            programs.append(prog)
+                    print(f"[*] Fetched {len(programs)} programs from disclose.io database")
+                    break
+        except Exception as e:
+            print(f"[!] Disclose.io fetch failed ({url}): {e}")
+
+    return programs
+
+
+def parse_disclose_program(item):
+    """Parse a program from disclose.io format."""
+    try:
+        name = item.get("program_name", item.get("name", ""))
+        if not name:
+            return None
+
+        url = item.get("policy_url", item.get("url", ""))
+        bounty = item.get("bounty", "").lower() == "yes" or item.get("offers_bounty", False)
+
+        # Determine platform
+        platform = "Independent"
+        pgm_platform = item.get("platform", "").lower()
+        if "hackerone" in pgm_platform:
+            platform = "HackerOne"
+        elif "bugcrowd" in pgm_platform:
+            platform = "Bugcrowd"
+        elif "intigriti" in pgm_platform:
+            platform = "Intigriti"
+        elif "yeswehack" in pgm_platform:
+            platform = "YesWeHack"
+
+        assets = []
+        if item.get("targets"):
+            assets = item["targets"][:10] if isinstance(item["targets"], list) else []
+
+        return {
+            "name": name,
+            "platform": platform,
+            "url": url,
+            "type": "bounty" if bounty else "vdp",
+            "bounty_min": 0,
+            "bounty_max": 0,
+            "currency": "USD",
+            "managed": platform != "Independent",
+            "category": categorize_program(name, assets),
+            "assets": assets,
+        }
+    except Exception:
+        return None
+
+
+def try_fetch_firebounty_rss():
+    """
+    Fetch from FireBounty RSS feed to discover NEW programs.
+    FireBounty crawls many platforms and aggregates them.
+    No API key needed - public RSS feed.
+    """
+    import urllib.request
+    import ssl
+    import xml.etree.ElementTree as ET
+
+    programs = []
+    url = "https://firebounty.com/rss.xml"
+
+    ctx = ssl.create_default_context()
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; BugBountyAggregator/1.0)"
+        })
+        with urllib.request.urlopen(req, timeout=20, context=ctx) as resp:
+            if resp.status == 200:
+                content = resp.read().decode("utf-8")
+                root = ET.fromstring(content)
+                # RSS format: <channel><item><title>...</title><link>...</link></item>
+                for item in root.findall(".//item"):
+                    title_el = item.find("title")
+                    link_el = item.find("link")
+                    desc_el = item.find("description")
+
+                    if title_el is not None and title_el.text:
+                        name = title_el.text.strip()
+                        link = link_el.text.strip() if link_el is not None and link_el.text else ""
+                        desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
+
+                        # Determine if it's a bounty or VDP from description
+                        is_bounty = "bounty" in desc.lower() or "reward" in desc.lower()
+
+                        programs.append({
+                            "name": name,
+                            "platform": "FireBounty",
+                            "url": link,
+                            "type": "bounty" if is_bounty else "vdp",
+                            "bounty_min": 0,
+                            "bounty_max": 0,
+                            "currency": "USD",
+                            "managed": False,
+                            "category": categorize_program(name, []),
+                            "assets": [],
+                        })
+
+                print(f"[*] Fetched {len(programs)} programs from FireBounty RSS")
+    except Exception as e:
+        print(f"[!] FireBounty RSS fetch failed: {e}")
+
+    return programs
+
+
+def try_fetch_hackerone_graphql():
+    """
+    Scrape HackerOne's public directory using their GraphQL endpoint.
+    This endpoint is publicly accessible without authentication -
+    it's the same one that powers hackerone.com/directory/programs.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    url = "https://hackerone.com/graphql"
+    ctx = ssl.create_default_context()
+
+    # The public GraphQL query for the directory
+    query = {
+        "operationName": "DirectoryQuery",
+        "variables": {
+            "where": {
+                "submission_state": {"_eq": "open"},
+                "_and": [{"offers_bounties": {"_eq": True}}]
+            },
+            "first": 100,
+            "secureOrderBy": {"started_accepting_at": {"_direction": "DESC"}}
+        },
+        "query": """query DirectoryQuery($first: Int, $where: FiltersTeamFilterInput, $secureOrderBy: FiltersTeamFilterOrder) {
+            teams(first: $first, where: $where, secure_order_by: $secureOrderBy) {
+                edges {
+                    node {
+                        handle
+                        name
+                        currency
+                        offers_bounties
+                        base_bounty
+                        state
+                        started_accepting_at
+                        url
+                    }
+                }
+            }
+        }"""
+    }
+
+    try:
+        data = json.dumps(query).encode("utf-8")
+        req = urllib.request.Request(url, data=data, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        })
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+            if resp.status == 200:
+                result = json.loads(resp.read().decode("utf-8"))
+                edges = result.get("data", {}).get("teams", {}).get("edges", [])
+                for edge in edges:
+                    node = edge.get("node", {})
+                    if node.get("name"):
+                        programs.append({
+                            "name": node["name"],
+                            "platform": "HackerOne",
+                            "url": f"https://hackerone.com/{node.get('handle', '')}",
+                            "type": "bounty" if node.get("offers_bounties") else "vdp",
+                            "bounty_min": 0,
+                            "bounty_max": int(node.get("base_bounty", 0) or 0),
+                            "currency": node.get("currency", "USD"),
+                            "managed": True,
+                            "category": categorize_program(node["name"], []),
+                            "assets": [],
+                        })
+                print(f"[*] Fetched {len(programs)} NEW programs from HackerOne GraphQL (no API key)")
+    except Exception as e:
+        print(f"[!] HackerOne GraphQL scrape failed: {e}")
+
+    return programs
+
+
+def try_fetch_bugcrowd_engagements():
+    """
+    Scrape Bugcrowd's public engagements endpoint.
+    Bugcrowd exposes /engagements.json for their public programs listing.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    ctx = ssl.create_default_context()
+
+    # Bugcrowd public endpoints to try
+    urls = [
+        "https://bugcrowd.com/engagements.json?category=bug_bounty&sort_by=promoted&sort_direction=desc&page=1",
+        "https://bugcrowd.com/programs.json?sort[]=promoted-desc&hidden[]=false&page[]=1",
+    ]
+
+    for url in urls:
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Accept": "application/json",
+            })
+            with urllib.request.urlopen(req, timeout=20, context=ctx) as resp:
+                if resp.status == 200:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    items = data if isinstance(data, list) else data.get("engagements", data.get("programs", []))
+                    for item in items:
+                        name = item.get("name", item.get("program", {}).get("name", ""))
+                        code = item.get("code", item.get("program", {}).get("code", ""))
+                        if name:
+                            programs.append({
+                                "name": name,
+                                "platform": "Bugcrowd",
+                                "url": f"https://bugcrowd.com/{code}" if code else "",
+                                "type": "bounty",
+                                "bounty_min": 0,
+                                "bounty_max": int(item.get("max_payout", 0) or 0),
+                                "currency": "USD",
+                                "managed": True,
+                                "category": categorize_program(name, []),
+                                "assets": [],
+                            })
+                    if programs:
+                        print(f"[*] Fetched {len(programs)} programs from Bugcrowd engagements")
+                        break
+        except Exception as e:
+            print(f"[!] Bugcrowd engagements fetch failed ({url}): {e}")
+
+    return programs
+
+
+def try_fetch_immunefi_programs():
+    """
+    Scrape Immunefi's public bounties list.
+    Immunefi exposes their programs list via their web app's data.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    ctx = ssl.create_default_context()
+
+    # Immunefi serves their data via a public JSON endpoint
+    urls = [
+        "https://immunefi.com/explore/",
+        "https://immunefi.com/bounty/",
+    ]
+
+    try:
+        # Try to fetch the bug bounty listing page and extract JSON data
+        url = "https://immunefi.com/_next/data/bounties.json"
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "application/json",
+        })
+        with urllib.request.urlopen(req, timeout=20, context=ctx) as resp:
+            if resp.status == 200:
+                data = json.loads(resp.read().decode("utf-8"))
+                bounties = data.get("pageProps", {}).get("bounties", [])
+                for item in bounties:
+                    name = item.get("project", "")
+                    if name:
+                        max_reward = 0
+                        try:
+                            max_reward = int(item.get("maxBounty", 0) or 0)
+                        except (ValueError, TypeError):
+                            pass
+                        programs.append({
+                            "name": name,
+                            "platform": "Immunefi",
+                            "url": f"https://immunefi.com/bug-bounty/{item.get('id', name.lower().replace(' ', '-'))}/",
+                            "type": "bounty",
+                            "bounty_min": 0,
+                            "bounty_max": max_reward,
+                            "currency": "USD",
+                            "managed": True,
+                            "category": "Cryptocurrency",
+                            "assets": item.get("assets", [])[:5],
+                        })
+                print(f"[*] Fetched {len(programs)} programs from Immunefi")
+    except Exception as e:
+        print(f"[!] Immunefi fetch failed: {e}")
+
+    return programs
+
+
+def try_fetch_openbugbounty():
+    """
+    Fetch programs from Open Bug Bounty.
+    They have a public listing that can be scraped.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+    import re
+
+    programs = []
+    ctx = ssl.create_default_context()
+
+    try:
+        url = "https://www.openbugbounty.org/bugbounty-list/"
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "text/html",
+        })
+        with urllib.request.urlopen(req, timeout=20, context=ctx) as resp:
+            if resp.status == 200:
+                html = resp.read().decode("utf-8", errors="ignore")
+                # Extract program entries from the HTML table
+                # Pattern: look for domain names in the bounty list
+                pattern = r'<a[^>]*href="(/bugbounty/[^"]+)"[^>]*>([^<]+)</a>'
+                matches = re.findall(pattern, html)
+                for path, name in matches[:200]:  # Limit
+                    name = name.strip()
+                    if name and "." in name:  # Likely a domain
+                        programs.append({
+                            "name": name,
+                            "platform": "Open Bug Bounty",
+                            "url": f"https://www.openbugbounty.org{path}",
+                            "type": "bounty",
+                            "bounty_min": 0,
+                            "bounty_max": 0,
+                            "currency": "USD",
+                            "managed": False,
+                            "category": categorize_program(name, [name]),
+                            "assets": [name],
+                        })
+                if programs:
+                    print(f"[*] Fetched {len(programs)} programs from Open Bug Bounty")
+    except Exception as e:
+        print(f"[!] Open Bug Bounty fetch failed: {e}")
+
+    return programs
+
+
+def try_fetch_hackenproof():
+    """
+    Fetch from HackenProof's public programs listing.
+    No API key needed.
+    """
+    import urllib.request
+    import ssl
+
+    programs = []
+    ctx = ssl.create_default_context()
+
+    try:
+        url = "https://hackenproof.com/programs"
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "application/json, text/html",
+        })
+        with urllib.request.urlopen(req, timeout=20, context=ctx) as resp:
+            if resp.status == 200:
+                content = resp.read().decode("utf-8", errors="ignore")
+                # Try JSON parse first
+                try:
+                    data = json.loads(content)
+                    items = data if isinstance(data, list) else data.get("programs", [])
+                    for item in items:
+                        name = item.get("name", item.get("title", ""))
+                        if name:
+                            programs.append({
+                                "name": name,
+                                "platform": "HackenProof",
+                                "url": item.get("url", f"https://hackenproof.com/programs"),
+                                "type": "bounty",
+                                "bounty_min": 0,
+                                "bounty_max": int(item.get("max_bounty", 0) or 0),
+                                "currency": "USD",
+                                "managed": True,
+                                "category": categorize_program(name, []),
+                                "assets": [],
+                            })
+                except (json.JSONDecodeError, ValueError):
+                    pass
+                if programs:
+                    print(f"[*] Fetched {len(programs)} programs from HackenProof")
+    except Exception as e:
+        print(f"[!] HackenProof fetch failed: {e}")
 
     return programs
 
@@ -366,7 +860,87 @@ def main():
             all_programs.append(enriched)
     print(f"    -> Total after merge: {len(all_programs)} programs")
 
-    # Step 3: Try platform scrapes (no API keys)
+    # Step 3: Fetch from ProjectDiscovery chaos list (no API key)
+    print("\n[*] Fetching from ProjectDiscovery/chaos...")
+    chaos_programs = try_fetch_projectdiscovery_chaos()
+    for prog in chaos_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 4: Fetch from disclose.io database (no API key)
+    print("\n[*] Fetching from disclose.io database...")
+    disclose_programs = try_fetch_disclose_db()
+    for prog in disclose_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 5: Fetch from FireBounty RSS (no API key)
+    print("\n[*] Fetching from FireBounty RSS feed...")
+    firebounty_programs = try_fetch_firebounty_rss()
+    for prog in firebounty_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 6: HackerOne GraphQL public scrape (no API key)
+    print("\n[*] Scraping HackerOne public GraphQL directory...")
+    h1_programs = try_fetch_hackerone_graphql()
+    for prog in h1_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 7: Bugcrowd public engagements (no API key)
+    print("\n[*] Scraping Bugcrowd public engagements...")
+    bc_programs = try_fetch_bugcrowd_engagements()
+    for prog in bc_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 8: Immunefi programs (no API key)
+    print("\n[*] Fetching Immunefi programs...")
+    immunefi_programs = try_fetch_immunefi_programs()
+    for prog in immunefi_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 9: Open Bug Bounty scrape (no API key)
+    print("\n[*] Scraping Open Bug Bounty...")
+    obb_programs = try_fetch_openbugbounty()
+    for prog in obb_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 10: HackenProof (no API key)
+    print("\n[*] Fetching HackenProof programs...")
+    hp_programs = try_fetch_hackenproof()
+    for prog in hp_programs:
+        enriched = enrich_program(prog)
+        existing_ids = {p["id"] for p in all_programs}
+        if enriched["id"] not in existing_ids:
+            all_programs.append(enriched)
+    print(f"    -> Total after merge: {len(all_programs)} programs")
+
+    # Step 11: Try legacy platform scrapes (no API keys)
     print("\n[*] Attempting direct platform scrapes...")
     try_scrape_hackerone()
     try_scrape_bugcrowd()
