@@ -132,6 +132,10 @@ def validate_program(program: Dict[str, Any]) -> bool:
     elif bounty_max < bounty_min:
         errors.append(f"bounty_max ({bounty_max}) must be >= bounty_min ({bounty_min})")
 
+    url = program.get("url", "")
+    if url and not url.startswith(("http://", "https://")):
+        errors.append(f"url must start with http:// or https://, got '{url}'")
+
     if errors:
         logger.warning(
             "Invalid program '%s': %s",
@@ -157,6 +161,14 @@ def fetch_url(url: str, retries: int = 3, timeout: int = 15) -> Optional[bytes]:
             with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
                 if resp.status == 200:
                     return resp.read()
+                else:
+                    delay = 2 ** attempt  # 1s, 2s, 4s
+                    logger.warning(
+                        "Non-200 status %d from %s (attempt %d/%d)",
+                        resp.status, url, attempt + 1, retries,
+                    )
+                    if attempt < retries - 1:
+                        time.sleep(delay)
         except Exception as e:
             delay = 2 ** attempt  # 1s, 2s, 4s
             if attempt < retries - 1:
@@ -172,6 +184,7 @@ def fetch_url(url: str, retries: int = 3, timeout: int = 15) -> Optional[bytes]:
 
 def generate_program_id(program: Dict[str, Any]) -> str:
     """Generate a unique ID for a program based on name + platform."""
+    # Note: Changed from MD5 to SHA-256 in 2024. First run after migration produces changelog churn.
     key = f"{program['platform']}:{program['name']}".lower()
     return hashlib.sha256(key.encode()).hexdigest()[:12]
 
@@ -193,38 +206,19 @@ def enrich_program(program: Dict[str, Any]) -> Dict[str, Any]:
 
 def try_scrape_hackerone() -> List[Dict[str, Any]]:
     """
-    Try to scrape HackerOne public directory (no API key needed).
-    Uses the public GraphQL endpoint that powers hackerone.com/directory.
-    Falls back to seed data if scraping fails.
+    Placeholder for future HackerOne scraping implementation.
+    TODO: Implement parsing of HackerOne public directory data.
     """
-    programs: List[Dict[str, Any]] = []
-    try:
-        url = "https://hackerone.com/directory/programs"
-        data = fetch_url(url)
-        if data is not None:
-            logger.info("Successfully reached HackerOne directory")
-    except Exception as e:
-        logger.warning("HackerOne scrape skipped: %s", e)
-
-    return programs
+    return []
 
 
 
 def try_scrape_bugcrowd() -> List[Dict[str, Any]]:
     """
-    Try to scrape Bugcrowd public programs list (no API key needed).
-    Bugcrowd has a public JSON endpoint for their program list.
+    Placeholder for future Bugcrowd scraping implementation.
+    TODO: Implement parsing of Bugcrowd public programs data.
     """
-    programs: List[Dict[str, Any]] = []
-    try:
-        url = "https://bugcrowd.com/programs.json"
-        data = fetch_url(url)
-        if data is not None:
-            logger.info("Successfully reached Bugcrowd programs endpoint")
-    except Exception as e:
-        logger.warning("Bugcrowd scrape skipped: %s", e)
-
-    return programs
+    return []
 
 
 

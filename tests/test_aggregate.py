@@ -4,6 +4,7 @@ from aggregate import (
     categorize_program,
     compute_changelog,
     enrich_program,
+    fetch_url,
     generate_program_id,
     parse_bounty_target,
     validate_program,
@@ -200,3 +201,85 @@ class TestParseBountyTarget:
         }
         result = parse_bounty_target(item, "HackerOne")
         assert result is None
+
+
+class TestFetchUrl:
+    def test_fetch_url_returns_none_on_failure(self, monkeypatch):
+        """fetch_url returns None when urlopen raises an exception."""
+        import urllib.request
+
+        def mock_urlopen(*args, **kwargs):
+            raise ConnectionError("simulated network failure")
+
+        monkeypatch.setattr(urllib.request, "urlopen", mock_urlopen)
+        result = fetch_url("https://example.com/test", retries=1, timeout=5)
+        assert result is None
+
+    def test_fetch_url_retries_on_error(self, monkeypatch):
+        """fetch_url retries the configured number of times before giving up."""
+        import urllib.request
+        import aggregate
+
+        call_count = {"value": 0}
+
+        def mock_urlopen(*args, **kwargs):
+            call_count["value"] += 1
+            raise ConnectionError("simulated network failure")
+
+        monkeypatch.setattr(urllib.request, "urlopen", mock_urlopen)
+        # Disable sleep to speed up test
+        monkeypatch.setattr(aggregate.time, "sleep", lambda x: None)
+
+        result = fetch_url("https://example.com/test", retries=3, timeout=5)
+        assert result is None
+        assert call_count["value"] == 3
+
+
+class TestValidateProgramUrl:
+    def test_validate_program_rejects_javascript_url(self):
+        """URL with javascript: protocol returns False (XSS prevention)."""
+        prog = {
+            "name": "Test",
+            "platform": "HackerOne",
+            "url": "javascript:alert(1)",
+            "type": "bounty",
+            "bounty_min": 0,
+            "bounty_max": 1000,
+        }
+        assert validate_program(prog) is False
+
+    def test_validate_program_accepts_empty_url(self):
+        """Empty URL is acceptable (some programs have no URL)."""
+        prog = {
+            "name": "Test",
+            "platform": "HackerOne",
+            "url": "",
+            "type": "bounty",
+            "bounty_min": 0,
+            "bounty_max": 1000,
+        }
+        assert validate_program(prog) is True
+
+    def test_validate_program_accepts_https_url(self):
+        """HTTPS URL is valid."""
+        prog = {
+            "name": "Test",
+            "platform": "HackerOne",
+            "url": "https://example.com",
+            "type": "bounty",
+            "bounty_min": 0,
+            "bounty_max": 1000,
+        }
+        assert validate_program(prog) is True
+
+    def test_validate_program_accepts_http_url(self):
+        """HTTP URL is valid."""
+        prog = {
+            "name": "Test",
+            "platform": "HackerOne",
+            "url": "http://example.com",
+            "type": "bounty",
+            "bounty_min": 0,
+            "bounty_max": 1000,
+        }
+        assert validate_program(prog) is True
