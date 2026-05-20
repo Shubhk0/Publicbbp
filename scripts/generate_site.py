@@ -6,6 +6,7 @@ All HTML/CSS/JS is embedded - no external dependencies needed.
 """
 
 import json
+import logging
 from pathlib import Path
 
 REPO_DIR = Path(__file__).resolve().parent.parent
@@ -14,16 +15,41 @@ PROGRAMS_FILE = DATA_DIR / "programs.json"
 CHANGELOG_FILE = DATA_DIR / "changelog.json"
 DOCS_DIR = REPO_DIR / "docs"
 
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
+logger = logging.getLogger(__name__)
+
 
 def load_data():
     programs = {"metadata": {}, "programs": []}
     changelog = {"entries": []}
-    if PROGRAMS_FILE.exists():
-        with open(PROGRAMS_FILE, "r") as f:
-            programs = json.load(f)
-    if CHANGELOG_FILE.exists():
-        with open(CHANGELOG_FILE, "r") as f:
-            changelog = json.load(f)
+    try:
+        if PROGRAMS_FILE.exists():
+            with open(PROGRAMS_FILE, "r") as f:
+                programs = json.load(f)
+            if not isinstance(programs.get("programs"), list):
+                logger.error("programs.json has unexpected structure: missing 'programs' list")
+                programs = {"metadata": {}, "programs": []}
+        else:
+            logger.warning("Programs file not found: %s", PROGRAMS_FILE)
+    except json.JSONDecodeError as e:
+        logger.error("Failed to parse programs.json: %s", e)
+    except OSError as e:
+        logger.error("Failed to read programs.json: %s", e)
+
+    try:
+        if CHANGELOG_FILE.exists():
+            with open(CHANGELOG_FILE, "r") as f:
+                changelog = json.load(f)
+        else:
+            logger.warning("Changelog file not found: %s", CHANGELOG_FILE)
+    except json.JSONDecodeError as e:
+        logger.error("Failed to parse changelog.json: %s", e)
+    except OSError as e:
+        logger.error("Failed to read changelog.json: %s", e)
+
     return programs, changelog
 
 
@@ -34,6 +60,19 @@ def get_css():
 --bg-hover:#334155;--text:#f1f5f9;--text-muted:#94a3b8;--border:#334155;
 --success:#22c55e;--warning:#f59e0b;--danger:#ef4444;--info:#3b82f6}
 
+[data-theme="light"]{--bg:#f8fafc;--bg-card:#ffffff;--bg-hover:#f1f5f9;
+--text:#0f172a;--text-muted:#64748b;--border:#e2e8f0}
+
+@media(prefers-color-scheme:light){
+:root:not([data-theme="dark"]){--bg:#f8fafc;--bg-card:#ffffff;--bg-hover:#f1f5f9;
+--text:#0f172a;--text-muted:#64748b;--border:#e2e8f0}
+}
+
+.skip-link{position:absolute;top:-40px;left:0;background:var(--primary);color:#fff;
+padding:0.5rem 1rem;z-index:1000;font-size:0.9rem;border-radius:0 0 0.5rem 0;
+transition:top 0.2s}
+.skip-link:focus{top:0}
+
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
 a{color:var(--primary);text-decoration:none}
@@ -41,15 +80,21 @@ a:hover{text-decoration:underline}
 .container{max-width:1400px;margin:0 auto;padding:0 1.5rem}
 header{background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%);
 border-bottom:1px solid var(--border);padding:1.5rem 0;position:sticky;top:0;z-index:100}
+[data-theme="light"] header{background:linear-gradient(135deg,#ffffff 0%,#f8fafc 100%)}
+@media(prefers-color-scheme:light){:root:not([data-theme="dark"]) header{background:linear-gradient(135deg,#ffffff 0%,#f8fafc 100%)}}
 .header-content{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem}
 .logo{display:flex;align-items:center;gap:0.75rem}
 .logo h1{font-size:1.75rem;background:linear-gradient(135deg,var(--primary),#a78bfa);
 -webkit-background-clip:text;-webkit-text-fill-color:transparent;font-weight:800}
 .logo .badge{font-size:0.7rem;color:var(--text-muted);background:var(--bg-hover);
 padding:0.2rem 0.6rem;border-radius:9999px}
-.stats-bar{display:flex;gap:2rem;flex-wrap:wrap}
+.stats-bar{display:flex;gap:2rem;flex-wrap:wrap;align-items:center}
 .stat-value{font-size:1.5rem;font-weight:700;color:var(--primary)}
 .stat-label{font-size:0.7rem;color:var(--text-muted);text-transform:uppercase}
+#theme-toggle{background:var(--bg-card);border:1px solid var(--border);color:var(--text);
+padding:0.5rem 0.75rem;border-radius:0.5rem;cursor:pointer;font-size:1rem;
+transition:all 0.2s}
+#theme-toggle:hover{border-color:var(--primary);background:var(--bg-hover)}
 
 .controls{padding:1.5rem 0;display:flex;flex-wrap:wrap;gap:1rem;align-items:center}
 .search-box{flex:1;min-width:250px;position:relative}
@@ -57,7 +102,7 @@ padding:0.2rem 0.6rem;border-radius:9999px}
 border:1px solid var(--border);border-radius:0.5rem;color:var(--text);font-size:0.9rem;
 outline:none;transition:border-color 0.2s}
 .search-box input:focus{border-color:var(--primary)}
-.search-box::before{content:"🔍";position:absolute;left:0.75rem;top:50%;
+.search-box::before{content:"\\1F50D";position:absolute;left:0.75rem;top:50%;
 transform:translateY(-50%);font-size:1rem}
 select{padding:0.75rem 1rem;background:var(--bg-card);border:1px solid var(--border);
 border-radius:0.5rem;color:var(--text);font-size:0.85rem;cursor:pointer;outline:none}
@@ -77,9 +122,10 @@ font-size:0.9rem;transition:all 0.2s;border:none;background:none}
 .programs-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:1rem;
 padding:1rem 0 3rem}
 .program-card{background:var(--bg-card);border:1px solid var(--border);border-radius:0.75rem;
-padding:1.25rem;transition:all 0.2s;cursor:pointer;position:relative;overflow:hidden}
+padding:1.25rem;transition:all 0.2s;cursor:pointer;position:relative;overflow:hidden;
+text-decoration:none;color:inherit;display:block}
 .program-card:hover{border-color:var(--primary);transform:translateY(-2px);
-box-shadow:0 8px 25px rgba(99,102,241,0.1)}
+box-shadow:0 8px 25px rgba(99,102,241,0.1);text-decoration:none}
 .card-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:0.75rem}
 .card-name{font-size:1.05rem;font-weight:600;color:var(--text)}
 .card-platform{font-size:0.7rem;padding:0.2rem 0.5rem;border-radius:9999px;
@@ -143,8 +189,51 @@ let currentView = 'programs';
 function init(programsData, changelogData) {
     allPrograms = programsData;
     changelog = changelogData;
+    initTheme();
     render();
     setupListeners();
+}
+
+function initTheme() {
+    const saved = localStorage.getItem('bbr-theme');
+    if (saved) {
+        document.documentElement.setAttribute('data-theme', saved);
+    }
+    updateThemeButton();
+}
+
+function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme');
+    let newTheme;
+    if (current === 'light') {
+        newTheme = 'dark';
+    } else if (current === 'dark') {
+        newTheme = 'light';
+    } else {
+        // No explicit theme set, detect current preference
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        newTheme = prefersDark ? 'light' : 'dark';
+    }
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('bbr-theme', newTheme);
+    updateThemeButton();
+}
+
+function updateThemeButton() {
+    const btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+    const current = document.documentElement.getAttribute('data-theme');
+    if (current === 'light') {
+        btn.textContent = '\\u263D';
+        btn.title = 'Switch to dark mode';
+    } else if (current === 'dark') {
+        btn.textContent = '\\u2600';
+        btn.title = 'Switch to light mode';
+    } else {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        btn.textContent = prefersDark ? '\\u2600' : '\\u263D';
+        btn.title = prefersDark ? 'Switch to light mode' : 'Switch to dark mode';
+    }
 }
 
 function setupListeners() {
@@ -156,6 +245,7 @@ function setupListeners() {
         currentSort = this.value;
         render();
     });
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
     document.querySelectorAll('.tab').forEach(tab => {
         tab.addEventListener('click', function() {
             currentView = this.dataset.view;
@@ -226,7 +316,8 @@ function renderPrograms() {
             ? `<div class="card-bounty"><span class="bounty-amount">$${formatNumber(p.bounty_max)}</span><span class="bounty-range">max bounty${p.bounty_min > 0 ? ' (min $'+formatNumber(p.bounty_min)+')' : ''}</span></div>`
             : `<div class="card-bounty"><span class="bounty-range">VDP - No monetary reward</span></div>`;
         const assets = (p.assets||[]).slice(0,5).map(a => `<code>${escapeHtml(a)}</code>`).join(' ');
-        return `<div class="program-card" onclick="window.open('${escapeHtml(p.url)}','_blank')">
+        const url = escapeHtml(p.url);
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="program-card" role="listitem">
             <div class="card-header">
                 <span class="card-name">${escapeHtml(p.name)}</span>
                 <span class="card-platform ${platformClass}">${escapeHtml(p.platform)}</span>
@@ -234,11 +325,11 @@ function renderPrograms() {
             ${bountyDisplay}
             <div class="card-meta">
                 <span class="meta-tag">${escapeHtml(p.category)}</span>
-                <span class="meta-tag">${p.type === 'bounty' ? '💰 Paid' : '📋 VDP'}</span>
-                ${p.managed ? '<span class="meta-tag">✓ Managed</span>' : ''}
+                <span class="meta-tag">${p.type === 'bounty' ? '\\u{1F4B0} Paid' : '\\u{1F4CB} VDP'}</span>
+                ${p.managed ? '<span class="meta-tag">\\u2713 Managed</span>' : ''}
             </div>
             ${assets ? '<div class="card-assets">' + assets + '</div>' : ''}
-        </div>`;
+        </a>`;
     }).join('');
 
     document.getElementById('content-programs').style.display = 'block';
@@ -294,43 +385,45 @@ def get_html(css, js, programs_json, changelog_json, total, num_platforms,
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>BBRadar - Public Bug Bounty Programs Aggregator</title>
 <meta name="description" content="Comprehensive aggregator of public bug bounty programs. Search, sort, and filter.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#x1F3AF;</text></svg>">
 <style>{css}</style>
 </head>
 <body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
 <header>
 <div class="container header-content">
 <div class="logo">
-<h1>🎯 BBRadar</h1>
+<h1>&#x1F3AF; BBRadar</h1>
 <span class="badge">Public Bug Bounty Aggregator</span>
 </div>
 <div class="stats-bar">
 <div class="stat"><div class="stat-value">{total}</div><div class="stat-label">Programs</div></div>
 <div class="stat"><div class="stat-value">{num_platforms}</div><div class="stat-label">Platforms</div></div>
 <div class="stat"><div class="stat-value">{num_categories}</div><div class="stat-label">Categories</div></div>
+<button id="theme-toggle" aria-label="Toggle light/dark mode">&#x263D;</button>
 </div>
 </div>
 </header>
 
-<main class="container">
+<main id="main-content" class="container">
 <div class="controls">
 <div class="search-box">
-<input type="text" id="search" placeholder="Search programs, platforms, assets...">
+<input type="text" id="search" placeholder="Search programs, platforms, assets..." aria-label="Search programs">
 </div>
-<select id="platform-filter">
+<select id="platform-filter" aria-label="Filter by platform">
 <option value="">All Platforms</option>
 {plat_options}
 </select>
-<select id="category-filter">
+<select id="category-filter" aria-label="Filter by category">
 <option value="">All Categories</option>
 {cat_options}
 </select>
-<select id="type-filter">
+<select id="type-filter" aria-label="Filter by type">
 <option value="">All Types</option>
 <option value="bounty">Paid Bounty</option>
 <option value="vdp">VDP (No Pay)</option>
 </select>
-<select id="sort-select">
+<select id="sort-select" aria-label="Sort programs">
 <option value="bounty_desc">Bounty: High to Low</option>
 <option value="bounty_asc">Bounty: Low to High</option>
 <option value="name_asc">Name: A-Z</option>
@@ -346,7 +439,7 @@ def get_html(css, js, programs_json, changelog_json, total, num_platforms,
 
 <div id="content-programs">
 <div id="results-count" class="results-count"></div>
-<div id="programs-grid" class="programs-grid"></div>
+<div id="programs-grid" class="programs-grid" role="list"></div>
 </div>
 
 <div id="content-changelog" style="display:none">
