@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-20T19:59:36.156639+00:00",
+      "type": "removed",
+      "program_name": "toom Baumarkt GmbH - Webshop",
+      "platform": "YesWeHack",
+      "details": "Program removed: toom Baumarkt GmbH - Webshop from YesWeHack"
+    },
+    {
       "timestamp": "2026-05-20T09:06:01.597115+00:00",
       "type": "added",
       "program_name": "Agilis LT Bug Bounty",
