@@ -1,0 +1,944 @@
+{
+  "metadata": {
+    "last_updated": "2026-05-20T08:57:10.649964+00:00",
+    "total_programs": 55,
+    "sources": [
+      "Independent",
+      "Bugcrowd",
+      "YesWeHack",
+      "HackerOne",
+      "Intigriti",
+      "Immunefi"
+    ],
+    "categories": [
+      "HR/Recruiting",
+      "Entertainment",
+      "Telecom",
+      "Technology",
+      "Gaming",
+      "Automotive",
+      "E-commerce",
+      "Healthcare",
+      "Social Media",
+      "Cryptocurrency",
+      "Finance",
+      "AI/ML",
+      "Security",
+      "Transportation",
+      "Government"
+    ]
+  },
+  "programs": [
+    {
+      "name": "MakerDAO",
+      "platform": "Immunefi",
+      "url": "https://immunefi.com/bug-bounty/makerdao/",
+      "type": "bounty",
+      "bounty_min": 1000,
+      "bounty_max": 10000000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "Smart Contracts",
+        "DeFi"
+      ],
+      "id": "a5de8e6e8ff1",
+      "last_updated": "2026-05-20T08:57:10.409135+00:00"
+    },
+    {
+      "name": "Aurora",
+      "platform": "Immunefi",
+      "url": "https://immunefi.com/bug-bounty/aurora/",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 6000000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "Smart Contracts",
+        "NEAR Protocol"
+      ],
+      "id": "8272f6788385",
+      "last_updated": "2026-05-20T08:57:10.409127+00:00"
+    },
+    {
+      "name": "Olympus DAO",
+      "platform": "Immunefi",
+      "url": "https://immunefi.com/bug-bounty/olympus/",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 3300000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "Smart Contracts",
+        "DeFi"
+      ],
+      "id": "fec7d4184a88",
+      "last_updated": "2026-05-20T08:57:10.409140+00:00"
+    },
+    {
+      "name": "Wormhole",
+      "platform": "Immunefi",
+      "url": "https://immunefi.com/bug-bounty/wormhole/",
+      "type": "bounty",
+      "bounty_min": 2500,
+      "bounty_max": 2500000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "Smart Contracts",
+        "Blockchain"
+      ],
+      "id": "0e00e76f3c5a",
+      "last_updated": "2026-05-20T08:57:10.409123+00:00"
+    },
+    {
+      "name": "Apple Security Bounty",
+      "platform": "Independent",
+      "url": "https://security.apple.com/bounty/",
+      "type": "bounty",
+      "bounty_min": 5000,
+      "bounty_max": 2000000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Technology",
+      "assets": [
+        "iOS",
+        "macOS",
+        "iCloud"
+      ],
+      "id": "7c72911bfc5b",
+      "last_updated": "2026-05-20T08:57:10.409150+00:00"
+    },
+    {
+      "name": "Polygon",
+      "platform": "Immunefi",
+      "url": "https://immunefi.com/bug-bounty/polygon/",
+      "type": "bounty",
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "Smart Contracts"
+      ],
+      "id": "3b51f9162cc6",
+      "last_updated": "2026-05-20T08:57:10.409131+00:00"
+    },
+    {
+      "name": "Samsung",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/samsung",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 1000000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.samsung.com",
+        "Samsung Mobile"
+      ],
+      "id": "ad7ac2dbaf35",
+      "last_updated": "2026-05-20T08:57:10.409027+00:00"
+    },
+    {
+      "name": "Microsoft MSRC",
+      "platform": "Independent",
+      "url": "https://www.microsoft.com/en-us/msrc/bounty",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 250000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Technology",
+      "assets": [
+        "Windows",
+        "Azure",
+        "Microsoft 365",
+        "Edge"
+      ],
+      "id": "f44a4e265c14",
+      "last_updated": "2026-05-20T08:57:10.409146+00:00"
+    },
+    {
+      "name": "Intel",
+      "platform": "Independent",
+      "url": "https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 100000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Technology",
+      "assets": [
+        "Hardware",
+        "Firmware",
+        "Software"
+      ],
+      "id": "dfcc9b6f6216",
+      "last_updated": "2026-05-20T08:57:10.409158+00:00"
+    },
+    {
+      "name": "Coinbase",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/coinbase",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 50000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Cryptocurrency",
+      "assets": [
+        "*.coinbase.com"
+      ],
+      "id": "96f540fbbf35",
+      "last_updated": "2026-05-20T08:57:10.408955+00:00"
+    },
+    {
+      "name": "Meta",
+      "platform": "Independent",
+      "url": "https://www.facebook.com/whitehat",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 50000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Social Media",
+      "assets": [
+        "*.facebook.com",
+        "*.instagram.com",
+        "*.whatsapp.com"
+      ],
+      "id": "04ea3c52f50f",
+      "last_updated": "2026-05-20T08:57:10.409154+00:00"
+    },
+    {
+      "name": "Shopify",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/shopify",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 50000,
+      "currency": "USD",
+      "managed": true,
+      "category": "E-commerce",
+      "assets": [
+        "*.shopify.com",
+        "*.myshopify.com"
+      ],
+      "id": "f60f67a32e37",
+      "last_updated": "2026-05-20T08:57:10.408935+00:00"
+    },
+    {
+      "name": "Sony PlayStation",
+      "platform": "Independent",
+      "url": "https://hackerone.com/playstation",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 50000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Gaming",
+      "assets": [
+        "PlayStation Network",
+        "*.playstation.com"
+      ],
+      "id": "a4b6302bd1de",
+      "last_updated": "2026-05-20T08:57:10.409162+00:00"
+    },
+    {
+      "name": "GitLab",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/gitlab",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 35000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.gitlab.com"
+      ],
+      "id": "255488fbe306",
+      "last_updated": "2026-05-20T08:57:10.408989+00:00"
+    },
+    {
+      "name": "Dropbox",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/dropbox",
+      "type": "bounty",
+      "bounty_min": 216,
+      "bounty_max": 32768,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.dropbox.com"
+      ],
+      "id": "543776a93a9e",
+      "last_updated": "2026-05-20T08:57:10.408959+00:00"
+    },
+    {
+      "name": "Google VRP",
+      "platform": "HackerOne",
+      "url": "https://bughunters.google.com/",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 31337,
+      "currency": "USD",
+      "managed": false,
+      "category": "Technology",
+      "assets": [
+        "*.google.com",
+        "*.youtube.com",
+        "Android",
+        "Chrome"
+      ],
+      "id": "034f75566627",
+      "last_updated": "2026-05-20T08:57:10.408925+00:00"
+    },
+    {
+      "name": "GitHub",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/github",
+      "type": "bounty",
+      "bounty_min": 617,
+      "bounty_max": 30000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "github.com",
+        "*.github.com"
+      ],
+      "id": "6fd31ec01bdb",
+      "last_updated": "2026-05-20T08:57:10.408931+00:00"
+    },
+    {
+      "name": "Automattic",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/automattic",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 25000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.automattic.com",
+        "*.tumblr.com"
+      ],
+      "id": "8cee4f9abbd1",
+      "last_updated": "2026-05-20T08:57:10.408974+00:00"
+    },
+    {
+      "name": "Valve (Steam)",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/valve",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 25000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Gaming",
+      "assets": [
+        "*.steampowered.com",
+        "*.valvesoftware.com"
+      ],
+      "id": "534c24ca9a87",
+      "last_updated": "2026-05-20T08:57:10.408993+00:00"
+    },
+    {
+      "name": "WordPress",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/wordpress",
+      "type": "bounty",
+      "bounty_min": 150,
+      "bounty_max": 25000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.wordpress.org",
+        "*.wordpress.com"
+      ],
+      "id": "96d8c447ad19",
+      "last_updated": "2026-05-20T08:57:10.408970+00:00"
+    },
+    {
+      "name": "OpenAI",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/openai",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 20000,
+      "currency": "USD",
+      "managed": true,
+      "category": "AI/ML",
+      "assets": [
+        "*.openai.com",
+        "ChatGPT",
+        "API"
+      ],
+      "id": "810f4ce065dc",
+      "last_updated": "2026-05-20T08:57:10.409031+00:00"
+    },
+    {
+      "name": "PayPal",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/paypal",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 20000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Finance",
+      "assets": [
+        "*.paypal.com",
+        "*.venmo.com"
+      ],
+      "id": "104f6cb4977d",
+      "last_updated": "2026-05-20T08:57:10.408951+00:00"
+    },
+    {
+      "name": "TikTok",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/tiktok",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 20000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Social Media",
+      "assets": [
+        "*.tiktok.com"
+      ],
+      "id": "41c09f6612b4",
+      "last_updated": "2026-05-20T08:57:10.409005+00:00"
+    },
+    {
+      "name": "Twitter/X",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/x",
+      "type": "bounty",
+      "bounty_min": 140,
+      "bounty_max": 15120,
+      "currency": "USD",
+      "managed": true,
+      "category": "Social Media",
+      "assets": [
+        "*.twitter.com",
+        "*.x.com"
+      ],
+      "id": "8b05478a2304",
+      "last_updated": "2026-05-20T08:57:10.408947+00:00"
+    },
+    {
+      "name": "Mozilla",
+      "platform": "Independent",
+      "url": "https://www.mozilla.org/en-US/security/bug-bounty/",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": false,
+      "category": "Technology",
+      "assets": [
+        "Firefox",
+        "*.mozilla.org"
+      ],
+      "id": "2ae1741465e0",
+      "last_updated": "2026-05-20T08:57:10.409172+00:00"
+    },
+    {
+      "name": "Netflix",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/netflix",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Entertainment",
+      "assets": [
+        "*.netflix.com"
+      ],
+      "id": "086a3e9518f7",
+      "last_updated": "2026-05-20T08:57:10.409035+00:00"
+    },
+    {
+      "name": "Okta",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/okta",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Security",
+      "assets": [
+        "*.okta.com"
+      ],
+      "id": "9f4a974ee292",
+      "last_updated": "2026-05-20T08:57:10.409058+00:00"
+    },
+    {
+      "name": "Slack",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/slack",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.slack.com"
+      ],
+      "id": "81f0ed80d3e5",
+      "last_updated": "2026-05-20T08:57:10.408964+00:00"
+    },
+    {
+      "name": "Snapchat",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/snapchat",
+      "type": "bounty",
+      "bounty_min": 250,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Social Media",
+      "assets": [
+        "*.snapchat.com"
+      ],
+      "id": "654339acdf6b",
+      "last_updated": "2026-05-20T08:57:10.409001+00:00"
+    },
+    {
+      "name": "Spotify",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/spotify",
+      "type": "bounty",
+      "bounty_min": 250,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Entertainment",
+      "assets": [
+        "*.spotify.com"
+      ],
+      "id": "8929a4bffc1e",
+      "last_updated": "2026-05-20T08:57:10.408984+00:00"
+    },
+    {
+      "name": "Tesla",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/tesla",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Automotive",
+      "assets": [
+        "*.tesla.com"
+      ],
+      "id": "1e53c787e9aa",
+      "last_updated": "2026-05-20T08:57:10.409019+00:00"
+    },
+    {
+      "name": "Twitch",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/twitch",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Entertainment",
+      "assets": [
+        "*.twitch.tv"
+      ],
+      "id": "832bcd5199e0",
+      "last_updated": "2026-05-20T08:57:10.409050+00:00"
+    },
+    {
+      "name": "Uber",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/uber",
+      "type": "bounty",
+      "bounty_min": 500,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Transportation",
+      "assets": [
+        "*.uber.com"
+      ],
+      "id": "1c388161f115",
+      "last_updated": "2026-05-20T08:57:10.408943+00:00"
+    },
+    {
+      "name": "Verizon Media",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/verizonmedia",
+      "type": "bounty",
+      "bounty_min": 150,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.verizonmedia.com"
+      ],
+      "id": "0e93b648bf0a",
+      "last_updated": "2026-05-20T08:57:10.409179+00:00"
+    },
+    {
+      "name": "Yahoo",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/yahoo",
+      "type": "bounty",
+      "bounty_min": 150,
+      "bounty_max": 15000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.yahoo.com"
+      ],
+      "id": "c4afbfa8e438",
+      "last_updated": "2026-05-20T08:57:10.408980+00:00"
+    },
+    {
+      "name": "Alibaba",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/alibaba",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "E-commerce",
+      "assets": [
+        "*.alibaba.com",
+        "*.aliexpress.com"
+      ],
+      "id": "1e663c55ebdd",
+      "last_updated": "2026-05-20T08:57:10.408997+00:00"
+    },
+    {
+      "name": "Atlassian",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/atlassian",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.atlassian.com",
+        "*.jira.com"
+      ],
+      "id": "f16f32637911",
+      "last_updated": "2026-05-20T08:57:10.409046+00:00"
+    },
+    {
+      "name": "Brave Browser",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/brave",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "Brave Browser"
+      ],
+      "id": "e9e28b985ee1",
+      "last_updated": "2026-05-20T08:57:10.409168+00:00"
+    },
+    {
+      "name": "Cloudflare",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/cloudflare",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.cloudflare.com"
+      ],
+      "id": "53fe16a5318a",
+      "last_updated": "2026-05-20T08:57:10.409015+00:00"
+    },
+    {
+      "name": "Intigriti",
+      "platform": "Intigriti",
+      "url": "https://app.intigriti.com/programs/intigriti/intigriti",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Security",
+      "assets": [
+        "*.intigriti.com"
+      ],
+      "id": "02ac19fd9d04",
+      "last_updated": "2026-05-20T08:57:10.409062+00:00"
+    },
+    {
+      "name": "KBC Group",
+      "platform": "Intigriti",
+      "url": "https://app.intigriti.com/programs/kbc",
+      "type": "bounty",
+      "bounty_min": 250,
+      "bounty_max": 10000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Finance",
+      "assets": [
+        "*.kbc.be"
+      ],
+      "id": "ec7d100d39ec",
+      "last_updated": "2026-05-20T08:57:10.409093+00:00"
+    },
+    {
+      "name": "LCL",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/lcl",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 10000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Finance",
+      "assets": [
+        "*.lcl.fr"
+      ],
+      "id": "20bf092af586",
+      "last_updated": "2026-05-20T08:57:10.409097+00:00"
+    },
+    {
+      "name": "Mastercard",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/mastercard",
+      "type": "bounty",
+      "bounty_min": 200,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Finance",
+      "assets": [
+        "*.mastercard.com"
+      ],
+      "id": "28403b708fc8",
+      "last_updated": "2026-05-20T08:57:10.409023+00:00"
+    },
+    {
+      "name": "Notion",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/notion",
+      "type": "bounty",
+      "bounty_min": 250,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.notion.so"
+      ],
+      "id": "4553c4b02abb",
+      "last_updated": "2026-05-20T08:57:10.409011+00:00"
+    },
+    {
+      "name": "OVHcloud",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/ovhcloud",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 10000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.ovhcloud.com",
+        "*.ovh.com"
+      ],
+      "id": "d90e8f3f80c1",
+      "last_updated": "2026-05-20T08:57:10.409101+00:00"
+    },
+    {
+      "name": "Pinterest",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/pinterest",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "USD",
+      "managed": true,
+      "category": "Social Media",
+      "assets": [
+        "*.pinterest.com"
+      ],
+      "id": "cb0e3953cd1f",
+      "last_updated": "2026-05-20T08:57:10.409042+00:00"
+    },
+    {
+      "name": "Proximus",
+      "platform": "Intigriti",
+      "url": "https://app.intigriti.com/programs/proximus",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Telecom",
+      "assets": [
+        "*.proximus.be"
+      ],
+      "id": "d1e12e9bf65c",
+      "last_updated": "2026-05-20T08:57:10.409086+00:00"
+    },
+    {
+      "name": "Swiss Post",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/swiss-post",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 10000,
+      "currency": "CHF",
+      "managed": true,
+      "category": "Government",
+      "assets": [
+        "*.post.ch"
+      ],
+      "id": "a3d50ea19011",
+      "last_updated": "2026-05-20T08:57:10.409109+00:00"
+    },
+    {
+      "name": "Doctolib",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/doctolib",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 5000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Healthcare",
+      "assets": [
+        "*.doctolib.fr"
+      ],
+      "id": "42fe24942735",
+      "last_updated": "2026-05-20T08:57:10.409105+00:00"
+    },
+    {
+      "name": "Government of Quebec",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 5000,
+      "currency": "CAD",
+      "managed": true,
+      "category": "Government",
+      "assets": [
+        "*.quebec.ca"
+      ],
+      "id": "831d06679d80",
+      "last_updated": "2026-05-20T08:57:10.409119+00:00"
+    },
+    {
+      "name": "Infomaniak",
+      "platform": "YesWeHack",
+      "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
+      "type": "bounty",
+      "bounty_min": 100,
+      "bounty_max": 5000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Technology",
+      "assets": [
+        "*.infomaniak.com"
+      ],
+      "id": "eaa37dc95402",
+      "last_updated": "2026-05-20T08:57:10.409115+00:00"
+    },
+    {
+      "name": "Randstad",
+      "platform": "Intigriti",
+      "url": "https://app.intigriti.com/programs/randstad",
+      "type": "bounty",
+      "bounty_min": 50,
+      "bounty_max": 5000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "HR/Recruiting",
+      "assets": [
+        "*.randstad.com"
+      ],
+      "id": "9e521fa14d51",
+      "last_updated": "2026-05-20T08:57:10.409066+00:00"
+    },
+    {
+      "name": "De Lijn",
+      "platform": "Intigriti",
+      "url": "https://app.intigriti.com/programs/delijn",
+      "type": "bounty",
+      "bounty_min": 0,
+      "bounty_max": 3000,
+      "currency": "EUR",
+      "managed": true,
+      "category": "Transportation",
+      "assets": [
+        "*.delijn.be"
+      ],
+      "id": "a37b5ec204dc",
+      "last_updated": "2026-05-20T08:57:10.409072+00:00"
+    },
+    {
+      "name": "ExpressVPN",
+      "platform": "Bugcrowd",
+      "url": "https://bugcrowd.com/expressvpn",
+      "type": "bounty",
+      "bounty_min": 150,
+      "bounty_max": 2500,
+      "currency": "USD",
+      "managed": true,
+      "category": "Security",
+      "assets": [
+        "*.expressvpn.com"
+      ],
+      "id": "e7cfbb51b3c0",
+      "last_updated": "2026-05-20T08:57:10.409054+00:00"
+    },
+    {
+      "name": "U.S. Dept of Defense",
+      "platform": "HackerOne",
+      "url": "https://hackerone.com/deptofdefense",
+      "type": "vdp",
+      "bounty_min": 0,
+      "bounty_max": 0,
+      "currency": "USD",
+      "managed": true,
+      "category": "Government",
+      "assets": [
+        "*.defense.gov"
+      ],
+      "id": "78aec942e587",
+      "last_updated": "2026-05-20T08:57:10.408916+00:00"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BBRadar - Public Bug Bounty Programs Aggregator</title>
+<meta name="description" content="Comprehensive aggregator of public bug bounty programs. Search, sort, and filter.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--primary:#6366f1;--primary-dark:#4f46e5;--bg:#0f172a;--bg-card:#1e293b;
+--bg-hover:#334155;--text:#f1f5f9;--text-muted:#94a3b8;--border:#334155;
+--success:#22c55e;--warning:#f59e0b;--danger:#ef4444;--info:#3b82f6}
+
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
+a{color:var(--primary);text-decoration:none}
+a:hover{text-decoration:underline}
+.container{max-width:1400px;margin:0 auto;padding:0 1.5rem}
+header{background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%);
+border-bottom:1px solid var(--border);padding:1.5rem 0;position:sticky;top:0;z-index:100}
+.header-content{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem}
+.logo{display:flex;align-items:center;gap:0.75rem}
+.logo h1{font-size:1.75rem;background:linear-gradient(135deg,var(--primary),#a78bfa);
+-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-weight:800}
+.logo .badge{font-size:0.7rem;color:var(--text-muted);background:var(--bg-hover);
+padding:0.2rem 0.6rem;border-radius:9999px}
+.stats-bar{display:flex;gap:2rem;flex-wrap:wrap}
+.stat-value{font-size:1.5rem;font-weight:700;color:var(--primary)}
+.stat-label{font-size:0.7rem;color:var(--text-muted);text-transform:uppercase}
+
+.controls{padding:1.5rem 0;display:flex;flex-wrap:wrap;gap:1rem;align-items:center}
+.search-box{flex:1;min-width:250px;position:relative}
+.search-box input{width:100%;padding:0.75rem 1rem 0.75rem 2.5rem;background:var(--bg-card);
+border:1px solid var(--border);border-radius:0.5rem;color:var(--text);font-size:0.9rem;
+outline:none;transition:border-color 0.2s}
+.search-box input:focus{border-color:var(--primary)}
+.search-box::before{content:"🔍";position:absolute;left:0.75rem;top:50%;
+transform:translateY(-50%);font-size:1rem}
+select{padding:0.75rem 1rem;background:var(--bg-card);border:1px solid var(--border);
+border-radius:0.5rem;color:var(--text);font-size:0.85rem;cursor:pointer;outline:none}
+select:focus{border-color:var(--primary)}
+.btn{padding:0.75rem 1.25rem;border-radius:0.5rem;border:1px solid var(--border);
+background:var(--bg-card);color:var(--text);cursor:pointer;font-size:0.85rem;
+transition:all 0.2s}
+.btn:hover{background:var(--bg-hover);border-color:var(--primary)}
+.btn.active{background:var(--primary);border-color:var(--primary);color:white}
+
+.tabs{display:flex;gap:0.5rem;margin-bottom:1rem;border-bottom:1px solid var(--border);
+padding-bottom:0.5rem}
+.tab{padding:0.5rem 1rem;border-radius:0.5rem 0.5rem 0 0;cursor:pointer;color:var(--text-muted);
+font-size:0.9rem;transition:all 0.2s;border:none;background:none}
+.tab:hover{color:var(--text)}
+.tab.active{color:var(--primary);border-bottom:2px solid var(--primary);font-weight:600}
+.programs-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:1rem;
+padding:1rem 0 3rem}
+.program-card{background:var(--bg-card);border:1px solid var(--border);border-radius:0.75rem;
+padding:1.25rem;transition:all 0.2s;cursor:pointer;position:relative;overflow:hidden}
+.program-card:hover{border-color:var(--primary);transform:translateY(-2px);
+box-shadow:0 8px 25px rgba(99,102,241,0.1)}
+.card-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:0.75rem}
+.card-name{font-size:1.05rem;font-weight:600;color:var(--text)}
+.card-platform{font-size:0.7rem;padding:0.2rem 0.5rem;border-radius:9999px;
+font-weight:500;text-transform:uppercase;letter-spacing:0.03em}
+
+.platform-hackerone{background:#494d5f;color:#fff}
+.platform-bugcrowd{background:#f06a24;color:#fff}
+.platform-intigriti{background:#3b82f6;color:#fff}
+.platform-yeswehack{background:#e11d48;color:#fff}
+.platform-immunefi{background:#6366f1;color:#fff}
+.platform-independent{background:#22c55e;color:#fff}
+.platform-hackenproof{background:#8b5cf6;color:#fff}
+.platform-openbugbounty{background:#f59e0b;color:#000}
+.card-bounty{display:flex;align-items:baseline;gap:0.5rem;margin:0.5rem 0}
+.bounty-amount{font-size:1.25rem;font-weight:700;color:var(--success)}
+.bounty-range{font-size:0.8rem;color:var(--text-muted)}
+.card-meta{display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:0.75rem}
+.meta-tag{font-size:0.7rem;padding:0.15rem 0.5rem;background:var(--bg-hover);
+border-radius:9999px;color:var(--text-muted)}
+.card-assets{margin-top:0.75rem;font-size:0.75rem;color:var(--text-muted)}
+.card-assets code{background:var(--bg);padding:0.1rem 0.4rem;border-radius:0.25rem;
+font-size:0.7rem;margin-right:0.25rem}
+
+.changelog-section{padding:1rem 0 3rem}
+.changelog-item{display:flex;gap:1rem;padding:0.75rem 1rem;border-left:3px solid var(--border);
+margin-bottom:0.5rem;background:var(--bg-card);border-radius:0 0.5rem 0.5rem 0}
+.changelog-item.added{border-left-color:var(--success)}
+.changelog-item.removed{border-left-color:var(--danger)}
+.changelog-item.updated{border-left-color:var(--warning)}
+.changelog-type{font-size:0.7rem;font-weight:600;text-transform:uppercase;padding:0.1rem 0.5rem;
+border-radius:9999px;white-space:nowrap;height:fit-content}
+.type-added{background:rgba(34,197,94,0.1);color:var(--success)}
+.type-removed{background:rgba(239,68,68,0.1);color:var(--danger)}
+.type-updated{background:rgba(245,158,11,0.1);color:var(--warning)}
+.changelog-details{flex:1}
+.changelog-name{font-weight:600;font-size:0.9rem}
+.changelog-desc{font-size:0.8rem;color:var(--text-muted)}
+.changelog-time{font-size:0.7rem;color:var(--text-muted);white-space:nowrap}
+.empty-state{text-align:center;padding:4rem 2rem;color:var(--text-muted)}
+.empty-state h3{font-size:1.2rem;margin-bottom:0.5rem}
+footer{padding:2rem 0;border-top:1px solid var(--border);text-align:center;
+color:var(--text-muted);font-size:0.8rem}
+.results-count{font-size:0.85rem;color:var(--text-muted);padding:0.5rem 0}
+@media(max-width:768px){
+.programs-grid{grid-template-columns:1fr}
+.header-content{flex-direction:column;align-items:flex-start}
+.controls{flex-direction:column}
+.search-box{min-width:100%}
+}
+</style>
+</head>
+<body>
+<header>
+<div class="container header-content">
+<div class="logo">
+<h1>🎯 BBRadar</h1>
+<span class="badge">Public Bug Bounty Aggregator</span>
+</div>
+<div class="stats-bar">
+<div class="stat"><div class="stat-value">55</div><div class="stat-label">Programs</div></div>
+<div class="stat"><div class="stat-value">6</div><div class="stat-label">Platforms</div></div>
+<div class="stat"><div class="stat-value">15</div><div class="stat-label">Categories</div></div>
+</div>
+</div>
+</header>
+
+<main class="container">
+<div class="controls">
+<div class="search-box">
+<input type="text" id="search" placeholder="Search programs, platforms, assets...">
+</div>
+<select id="platform-filter">
+<option value="">All Platforms</option>
+<option value="Bugcrowd">Bugcrowd</option><option value="HackerOne">HackerOne</option><option value="Immunefi">Immunefi</option><option value="Independent">Independent</option><option value="Intigriti">Intigriti</option><option value="YesWeHack">YesWeHack</option>
+</select>
+<select id="category-filter">
+<option value="">All Categories</option>
+<option value="AI/ML">AI/ML</option><option value="Automotive">Automotive</option><option value="Cryptocurrency">Cryptocurrency</option><option value="E-commerce">E-commerce</option><option value="Entertainment">Entertainment</option><option value="Finance">Finance</option><option value="Gaming">Gaming</option><option value="Government">Government</option><option value="HR/Recruiting">HR/Recruiting</option><option value="Healthcare">Healthcare</option><option value="Security">Security</option><option value="Social Media">Social Media</option><option value="Technology">Technology</option><option value="Telecom">Telecom</option><option value="Transportation">Transportation</option>
+</select>
+<select id="type-filter">
+<option value="">All Types</option>
+<option value="bounty">Paid Bounty</option>
+<option value="vdp">VDP (No Pay)</option>
+</select>
+<select id="sort-select">
+<option value="bounty_desc">Bounty: High to Low</option>
+<option value="bounty_asc">Bounty: Low to High</option>
+<option value="name_asc">Name: A-Z</option>
+<option value="name_desc">Name: Z-A</option>
+<option value="platform">Platform</option>
+</select>
+</div>
+
+<div class="tabs">
+<button class="tab active" data-view="programs">Programs</button>
+<button class="tab" data-view="changelog">Latest Changes</button>
+</div>
+
+<div id="content-programs">
+<div id="results-count" class="results-count"></div>
+<div id="programs-grid" class="programs-grid"></div>
+</div>
+
+<div id="content-changelog" style="display:none">
+<div id="changelog-list" class="changelog-section"></div>
+</div>
+</main>
+
+<footer>
+<div class="container">
+<p>BBRadar - Open Source Bug Bounty Aggregator | Data updated: 2026-05-20T08:57:10.649964+00:00</p>
+<p>Data sourced from public program listings. No API keys used.</p>
+<p><a href="https://github.com/Shubhk0/Publicbbp">GitHub Repository</a></p>
+</div>
+</footer>
+
+<script>
+
+let allPrograms = [];
+let changelog = [];
+let currentSort = 'bounty_desc';
+let currentView = 'programs';
+
+function init(programsData, changelogData) {
+    allPrograms = programsData;
+    changelog = changelogData;
+    render();
+    setupListeners();
+}
+
+function setupListeners() {
+    document.getElementById('search').addEventListener('input', debounce(render, 200));
+    document.getElementById('platform-filter').addEventListener('change', render);
+    document.getElementById('category-filter').addEventListener('change', render);
+    document.getElementById('type-filter').addEventListener('change', render);
+    document.getElementById('sort-select').addEventListener('change', function() {
+        currentSort = this.value;
+        render();
+    });
+    document.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', function() {
+            currentView = this.dataset.view;
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            render();
+        });
+    });
+}
+
+function debounce(fn, ms) {
+    let timer;
+    return function(...args) { clearTimeout(timer); timer = setTimeout(() => fn(...args), ms); };
+}
+
+
+function getFiltered() {
+    const query = document.getElementById('search').value.toLowerCase();
+    const platform = document.getElementById('platform-filter').value;
+    const category = document.getElementById('category-filter').value;
+    const type = document.getElementById('type-filter').value;
+
+    let filtered = allPrograms.filter(p => {
+        if (query && !p.name.toLowerCase().includes(query) &&
+            !p.platform.toLowerCase().includes(query) &&
+            !(p.assets||[]).join(' ').toLowerCase().includes(query) &&
+            !p.category.toLowerCase().includes(query)) return false;
+        if (platform && p.platform !== platform) return false;
+        if (category && p.category !== category) return false;
+        if (type && p.type !== type) return false;
+        return true;
+    });
+
+    // Sort
+    switch(currentSort) {
+        case 'bounty_desc': filtered.sort((a,b) => (b.bounty_max||0) - (a.bounty_max||0)); break;
+        case 'bounty_asc': filtered.sort((a,b) => (a.bounty_max||0) - (b.bounty_max||0)); break;
+        case 'name_asc': filtered.sort((a,b) => a.name.localeCompare(b.name)); break;
+        case 'name_desc': filtered.sort((a,b) => b.name.localeCompare(a.name)); break;
+        case 'platform': filtered.sort((a,b) => a.platform.localeCompare(b.platform)); break;
+    }
+    return filtered;
+}
+
+
+function render() {
+    if (currentView === 'changelog') {
+        renderChangelog();
+    } else {
+        renderPrograms();
+    }
+}
+
+function renderPrograms() {
+    const filtered = getFiltered();
+    const grid = document.getElementById('programs-grid');
+    const count = document.getElementById('results-count');
+    count.textContent = filtered.length + ' program' + (filtered.length !== 1 ? 's' : '') + ' found';
+
+    if (filtered.length === 0) {
+        grid.innerHTML = '<div class="empty-state"><h3>No programs found</h3><p>Try adjusting your filters or search query.</p></div>';
+        return;
+    }
+
+    grid.innerHTML = filtered.map(p => {
+        const platformClass = 'platform-' + p.platform.toLowerCase().replace(/[^a-z]/g, '');
+        const bountyDisplay = p.bounty_max > 0
+            ? `<div class="card-bounty"><span class="bounty-amount">$${formatNumber(p.bounty_max)}</span><span class="bounty-range">max bounty${p.bounty_min > 0 ? ' (min $'+formatNumber(p.bounty_min)+')' : ''}</span></div>`
+            : `<div class="card-bounty"><span class="bounty-range">VDP - No monetary reward</span></div>`;
+        const assets = (p.assets||[]).slice(0,5).map(a => `<code>${escapeHtml(a)}</code>`).join(' ');
+        return `<div class="program-card" onclick="window.open('${escapeHtml(p.url)}','_blank')">
+            <div class="card-header">
+                <span class="card-name">${escapeHtml(p.name)}</span>
+                <span class="card-platform ${platformClass}">${escapeHtml(p.platform)}</span>
+            </div>
+            ${bountyDisplay}
+            <div class="card-meta">
+                <span class="meta-tag">${escapeHtml(p.category)}</span>
+                <span class="meta-tag">${p.type === 'bounty' ? '💰 Paid' : '📋 VDP'}</span>
+                ${p.managed ? '<span class="meta-tag">✓ Managed</span>' : ''}
+            </div>
+            ${assets ? '<div class="card-assets">' + assets + '</div>' : ''}
+        </div>`;
+    }).join('');
+
+    document.getElementById('content-programs').style.display = 'block';
+    document.getElementById('content-changelog').style.display = 'none';
+}
+
+
+function renderChangelog() {
+    const container = document.getElementById('changelog-list');
+    document.getElementById('content-programs').style.display = 'none';
+    document.getElementById('content-changelog').style.display = 'block';
+
+    if (changelog.length === 0) {
+        container.innerHTML = '<div class="empty-state"><h3>No changes yet</h3><p>Changes will appear here after the next data update.</p></div>';
+        return;
+    }
+
+    container.innerHTML = changelog.map(entry => {
+        const typeClass = 'type-' + entry.type;
+        const itemClass = entry.type;
+        const time = entry.timestamp ? new Date(entry.timestamp).toLocaleDateString() : '';
+        return `<div class="changelog-item ${itemClass}">
+            <span class="changelog-type ${typeClass}">${entry.type}</span>
+            <div class="changelog-details">
+                <div class="changelog-name">${escapeHtml(entry.program_name)} <small>(${escapeHtml(entry.platform)})</small></div>
+                <div class="changelog-desc">${escapeHtml(entry.details)}</div>
+            </div>
+            <span class="changelog-time">${time}</span>
+        </div>`;
+    }).join('');
+}
+
+function formatNumber(n) {
+    if (n >= 1000000) return (n/1000000).toFixed(1) + 'M';
+    if (n >= 1000) return (n/1000).toFixed(0) + 'K';
+    return n.toString();
+}
+
+function escapeHtml(str) {
+    if (!str) return '';
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+const PROGRAMS = [{"name": "MakerDAO", "platform": "Immunefi", "url": "https://immunefi.com/bug-bounty/makerdao/", "type": "bounty", "bounty_min": 1000, "bounty_max": 10000000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["Smart Contracts", "DeFi"], "id": "a5de8e6e8ff1", "last_updated": "2026-05-20T08:57:10.409135+00:00"}, {"name": "Aurora", "platform": "Immunefi", "url": "https://immunefi.com/bug-bounty/aurora/", "type": "bounty", "bounty_min": 500, "bounty_max": 6000000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["Smart Contracts", "NEAR Protocol"], "id": "8272f6788385", "last_updated": "2026-05-20T08:57:10.409127+00:00"}, {"name": "Olympus DAO", "platform": "Immunefi", "url": "https://immunefi.com/bug-bounty/olympus/", "type": "bounty", "bounty_min": 500, "bounty_max": 3300000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["Smart Contracts", "DeFi"], "id": "fec7d4184a88", "last_updated": "2026-05-20T08:57:10.409140+00:00"}, {"name": "Wormhole", "platform": "Immunefi", "url": "https://immunefi.com/bug-bounty/wormhole/", "type": "bounty", "bounty_min": 2500, "bounty_max": 2500000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["Smart Contracts", "Blockchain"], "id": "0e00e76f3c5a", "last_updated": "2026-05-20T08:57:10.409123+00:00"}, {"name": "Apple Security Bounty", "platform": "Independent", "url": "https://security.apple.com/bounty/", "type": "bounty", "bounty_min": 5000, "bounty_max": 2000000, "currency": "USD", "managed": false, "category": "Technology", "assets": ["iOS", "macOS", "iCloud"], "id": "7c72911bfc5b", "last_updated": "2026-05-20T08:57:10.409150+00:00"}, {"name": "Polygon", "platform": "Immunefi", "url": "https://immunefi.com/bug-bounty/polygon/", "type": "bounty", "bounty_min": 1000, "bounty_max": 2000000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["Smart Contracts"], "id": "3b51f9162cc6", "last_updated": "2026-05-20T08:57:10.409131+00:00"}, {"name": "Samsung", "platform": "Bugcrowd", "url": "https://bugcrowd.com/samsung", "type": "bounty", "bounty_min": 200, "bounty_max": 1000000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.samsung.com", "Samsung Mobile"], "id": "ad7ac2dbaf35", "last_updated": "2026-05-20T08:57:10.409027+00:00"}, {"name": "Microsoft MSRC", "platform": "Independent", "url": "https://www.microsoft.com/en-us/msrc/bounty", "type": "bounty", "bounty_min": 500, "bounty_max": 250000, "currency": "USD", "managed": false, "category": "Technology", "assets": ["Windows", "Azure", "Microsoft 365", "Edge"], "id": "f44a4e265c14", "last_updated": "2026-05-20T08:57:10.409146+00:00"}, {"name": "Intel", "platform": "Independent", "url": "https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html", "type": "bounty", "bounty_min": 500, "bounty_max": 100000, "currency": "USD", "managed": false, "category": "Technology", "assets": ["Hardware", "Firmware", "Software"], "id": "dfcc9b6f6216", "last_updated": "2026-05-20T08:57:10.409158+00:00"}, {"name": "Coinbase", "platform": "HackerOne", "url": "https://hackerone.com/coinbase", "type": "bounty", "bounty_min": 200, "bounty_max": 50000, "currency": "USD", "managed": true, "category": "Cryptocurrency", "assets": ["*.coinbase.com"], "id": "96f540fbbf35", "last_updated": "2026-05-20T08:57:10.408955+00:00"}, {"name": "Meta", "platform": "Independent", "url": "https://www.facebook.com/whitehat", "type": "bounty", "bounty_min": 500, "bounty_max": 50000, "currency": "USD", "managed": false, "category": "Social Media", "assets": ["*.facebook.com", "*.instagram.com", "*.whatsapp.com"], "id": "04ea3c52f50f", "last_updated": "2026-05-20T08:57:10.409154+00:00"}, {"name": "Shopify", "platform": "HackerOne", "url": "https://hackerone.com/shopify", "type": "bounty", "bounty_min": 500, "bounty_max": 50000, "currency": "USD", "managed": true, "category": "E-commerce", "assets": ["*.shopify.com", "*.myshopify.com"], "id": "f60f67a32e37", "last_updated": "2026-05-20T08:57:10.408935+00:00"}, {"name": "Sony PlayStation", "platform": "Independent", "url": "https://hackerone.com/playstation", "type": "bounty", "bounty_min": 100, "bounty_max": 50000, "currency": "USD", "managed": false, "category": "Gaming", "assets": ["PlayStation Network", "*.playstation.com"], "id": "a4b6302bd1de", "last_updated": "2026-05-20T08:57:10.409162+00:00"}, {"name": "GitLab", "platform": "HackerOne", "url": "https://hackerone.com/gitlab", "type": "bounty", "bounty_min": 100, "bounty_max": 35000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.gitlab.com"], "id": "255488fbe306", "last_updated": "2026-05-20T08:57:10.408989+00:00"}, {"name": "Dropbox", "platform": "HackerOne", "url": "https://hackerone.com/dropbox", "type": "bounty", "bounty_min": 216, "bounty_max": 32768, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.dropbox.com"], "id": "543776a93a9e", "last_updated": "2026-05-20T08:57:10.408959+00:00"}, {"name": "Google VRP", "platform": "HackerOne", "url": "https://bughunters.google.com/", "type": "bounty", "bounty_min": 100, "bounty_max": 31337, "currency": "USD", "managed": false, "category": "Technology", "assets": ["*.google.com", "*.youtube.com", "Android", "Chrome"], "id": "034f75566627", "last_updated": "2026-05-20T08:57:10.408925+00:00"}, {"name": "GitHub", "platform": "HackerOne", "url": "https://hackerone.com/github", "type": "bounty", "bounty_min": 617, "bounty_max": 30000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["github.com", "*.github.com"], "id": "6fd31ec01bdb", "last_updated": "2026-05-20T08:57:10.408931+00:00"}, {"name": "Automattic", "platform": "HackerOne", "url": "https://hackerone.com/automattic", "type": "bounty", "bounty_min": 50, "bounty_max": 25000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.automattic.com", "*.tumblr.com"], "id": "8cee4f9abbd1", "last_updated": "2026-05-20T08:57:10.408974+00:00"}, {"name": "Valve (Steam)", "platform": "HackerOne", "url": "https://hackerone.com/valve", "type": "bounty", "bounty_min": 200, "bounty_max": 25000, "currency": "USD", "managed": true, "category": "Gaming", "assets": ["*.steampowered.com", "*.valvesoftware.com"], "id": "534c24ca9a87", "last_updated": "2026-05-20T08:57:10.408993+00:00"}, {"name": "WordPress", "platform": "HackerOne", "url": "https://hackerone.com/wordpress", "type": "bounty", "bounty_min": 150, "bounty_max": 25000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.wordpress.org", "*.wordpress.com"], "id": "96d8c447ad19", "last_updated": "2026-05-20T08:57:10.408970+00:00"}, {"name": "OpenAI", "platform": "Bugcrowd", "url": "https://bugcrowd.com/openai", "type": "bounty", "bounty_min": 200, "bounty_max": 20000, "currency": "USD", "managed": true, "category": "AI/ML", "assets": ["*.openai.com", "ChatGPT", "API"], "id": "810f4ce065dc", "last_updated": "2026-05-20T08:57:10.409031+00:00"}, {"name": "PayPal", "platform": "HackerOne", "url": "https://hackerone.com/paypal", "type": "bounty", "bounty_min": 50, "bounty_max": 20000, "currency": "USD", "managed": true, "category": "Finance", "assets": ["*.paypal.com", "*.venmo.com"], "id": "104f6cb4977d", "last_updated": "2026-05-20T08:57:10.408951+00:00"}, {"name": "TikTok", "platform": "HackerOne", "url": "https://hackerone.com/tiktok", "type": "bounty", "bounty_min": 100, "bounty_max": 20000, "currency": "USD", "managed": true, "category": "Social Media", "assets": ["*.tiktok.com"], "id": "41c09f6612b4", "last_updated": "2026-05-20T08:57:10.409005+00:00"}, {"name": "Twitter/X", "platform": "HackerOne", "url": "https://hackerone.com/x", "type": "bounty", "bounty_min": 140, "bounty_max": 15120, "currency": "USD", "managed": true, "category": "Social Media", "assets": ["*.twitter.com", "*.x.com"], "id": "8b05478a2304", "last_updated": "2026-05-20T08:57:10.408947+00:00"}, {"name": "Mozilla", "platform": "Independent", "url": "https://www.mozilla.org/en-US/security/bug-bounty/", "type": "bounty", "bounty_min": 500, "bounty_max": 15000, "currency": "USD", "managed": false, "category": "Technology", "assets": ["Firefox", "*.mozilla.org"], "id": "2ae1741465e0", "last_updated": "2026-05-20T08:57:10.409172+00:00"}, {"name": "Netflix", "platform": "Bugcrowd", "url": "https://bugcrowd.com/netflix", "type": "bounty", "bounty_min": 200, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Entertainment", "assets": ["*.netflix.com"], "id": "086a3e9518f7", "last_updated": "2026-05-20T08:57:10.409035+00:00"}, {"name": "Okta", "platform": "Bugcrowd", "url": "https://bugcrowd.com/okta", "type": "bounty", "bounty_min": 50, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Security", "assets": ["*.okta.com"], "id": "9f4a974ee292", "last_updated": "2026-05-20T08:57:10.409058+00:00"}, {"name": "Slack", "platform": "HackerOne", "url": "https://hackerone.com/slack", "type": "bounty", "bounty_min": 100, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.slack.com"], "id": "81f0ed80d3e5", "last_updated": "2026-05-20T08:57:10.408964+00:00"}, {"name": "Snapchat", "platform": "HackerOne", "url": "https://hackerone.com/snapchat", "type": "bounty", "bounty_min": 250, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Social Media", "assets": ["*.snapchat.com"], "id": "654339acdf6b", "last_updated": "2026-05-20T08:57:10.409001+00:00"}, {"name": "Spotify", "platform": "HackerOne", "url": "https://hackerone.com/spotify", "type": "bounty", "bounty_min": 250, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Entertainment", "assets": ["*.spotify.com"], "id": "8929a4bffc1e", "last_updated": "2026-05-20T08:57:10.408984+00:00"}, {"name": "Tesla", "platform": "Bugcrowd", "url": "https://bugcrowd.com/tesla", "type": "bounty", "bounty_min": 100, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Automotive", "assets": ["*.tesla.com"], "id": "1e53c787e9aa", "last_updated": "2026-05-20T08:57:10.409019+00:00"}, {"name": "Twitch", "platform": "Bugcrowd", "url": "https://bugcrowd.com/twitch", "type": "bounty", "bounty_min": 100, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Entertainment", "assets": ["*.twitch.tv"], "id": "832bcd5199e0", "last_updated": "2026-05-20T08:57:10.409050+00:00"}, {"name": "Uber", "platform": "HackerOne", "url": "https://hackerone.com/uber", "type": "bounty", "bounty_min": 500, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Transportation", "assets": ["*.uber.com"], "id": "1c388161f115", "last_updated": "2026-05-20T08:57:10.408943+00:00"}, {"name": "Verizon Media", "platform": "HackerOne", "url": "https://hackerone.com/verizonmedia", "type": "bounty", "bounty_min": 150, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.verizonmedia.com"], "id": "0e93b648bf0a", "last_updated": "2026-05-20T08:57:10.409179+00:00"}, {"name": "Yahoo", "platform": "HackerOne", "url": "https://hackerone.com/yahoo", "type": "bounty", "bounty_min": 150, "bounty_max": 15000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.yahoo.com"], "id": "c4afbfa8e438", "last_updated": "2026-05-20T08:57:10.408980+00:00"}, {"name": "Alibaba", "platform": "HackerOne", "url": "https://hackerone.com/alibaba", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "E-commerce", "assets": ["*.alibaba.com", "*.aliexpress.com"], "id": "1e663c55ebdd", "last_updated": "2026-05-20T08:57:10.408997+00:00"}, {"name": "Atlassian", "platform": "Bugcrowd", "url": "https://bugcrowd.com/atlassian", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.atlassian.com", "*.jira.com"], "id": "f16f32637911", "last_updated": "2026-05-20T08:57:10.409046+00:00"}, {"name": "Brave Browser", "platform": "HackerOne", "url": "https://hackerone.com/brave", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["Brave Browser"], "id": "e9e28b985ee1", "last_updated": "2026-05-20T08:57:10.409168+00:00"}, {"name": "Cloudflare", "platform": "HackerOne", "url": "https://hackerone.com/cloudflare", "type": "bounty", "bounty_min": 200, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.cloudflare.com"], "id": "53fe16a5318a", "last_updated": "2026-05-20T08:57:10.409015+00:00"}, {"name": "Intigriti", "platform": "Intigriti", "url": "https://app.intigriti.com/programs/intigriti/intigriti", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "EUR", "managed": true, "category": "Security", "assets": ["*.intigriti.com"], "id": "02ac19fd9d04", "last_updated": "2026-05-20T08:57:10.409062+00:00"}, {"name": "KBC Group", "platform": "Intigriti", "url": "https://app.intigriti.com/programs/kbc", "type": "bounty", "bounty_min": 250, "bounty_max": 10000, "currency": "EUR", "managed": true, "category": "Finance", "assets": ["*.kbc.be"], "id": "ec7d100d39ec", "last_updated": "2026-05-20T08:57:10.409093+00:00"}, {"name": "LCL", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/lcl", "type": "bounty", "bounty_min": 50, "bounty_max": 10000, "currency": "EUR", "managed": true, "category": "Finance", "assets": ["*.lcl.fr"], "id": "20bf092af586", "last_updated": "2026-05-20T08:57:10.409097+00:00"}, {"name": "Mastercard", "platform": "Bugcrowd", "url": "https://bugcrowd.com/mastercard", "type": "bounty", "bounty_min": 200, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Finance", "assets": ["*.mastercard.com"], "id": "28403b708fc8", "last_updated": "2026-05-20T08:57:10.409023+00:00"}, {"name": "Notion", "platform": "HackerOne", "url": "https://hackerone.com/notion", "type": "bounty", "bounty_min": 250, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Technology", "assets": ["*.notion.so"], "id": "4553c4b02abb", "last_updated": "2026-05-20T08:57:10.409011+00:00"}, {"name": "OVHcloud", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/ovhcloud", "type": "bounty", "bounty_min": 50, "bounty_max": 10000, "currency": "EUR", "managed": true, "category": "Technology", "assets": ["*.ovhcloud.com", "*.ovh.com"], "id": "d90e8f3f80c1", "last_updated": "2026-05-20T08:57:10.409101+00:00"}, {"name": "Pinterest", "platform": "Bugcrowd", "url": "https://bugcrowd.com/pinterest", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "USD", "managed": true, "category": "Social Media", "assets": ["*.pinterest.com"], "id": "cb0e3953cd1f", "last_updated": "2026-05-20T08:57:10.409042+00:00"}, {"name": "Proximus", "platform": "Intigriti", "url": "https://app.intigriti.com/programs/proximus", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "EUR", "managed": true, "category": "Telecom", "assets": ["*.proximus.be"], "id": "d1e12e9bf65c", "last_updated": "2026-05-20T08:57:10.409086+00:00"}, {"name": "Swiss Post", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/swiss-post", "type": "bounty", "bounty_min": 100, "bounty_max": 10000, "currency": "CHF", "managed": true, "category": "Government", "assets": ["*.post.ch"], "id": "a3d50ea19011", "last_updated": "2026-05-20T08:57:10.409109+00:00"}, {"name": "Doctolib", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/doctolib", "type": "bounty", "bounty_min": 50, "bounty_max": 5000, "currency": "EUR", "managed": true, "category": "Healthcare", "assets": ["*.doctolib.fr"], "id": "42fe24942735", "last_updated": "2026-05-20T08:57:10.409105+00:00"}, {"name": "Government of Quebec", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd", "type": "bounty", "bounty_min": 100, "bounty_max": 5000, "currency": "CAD", "managed": true, "category": "Government", "assets": ["*.quebec.ca"], "id": "831d06679d80", "last_updated": "2026-05-20T08:57:10.409119+00:00"}, {"name": "Infomaniak", "platform": "YesWeHack", "url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program", "type": "bounty", "bounty_min": 100, "bounty_max": 5000, "currency": "EUR", "managed": true, "category": "Technology", "assets": ["*.infomaniak.com"], "id": "eaa37dc95402", "last_updated": "2026-05-20T08:57:10.409115+00:00"}, {"name": "Randstad", "platform": "Intigriti", "url": "https://app.intigriti.com/programs/randstad", "type": "bounty", "bounty_min": 50, "bounty_max": 5000, "currency": "EUR", "managed": true, "category": "HR/Recruiting", "assets": ["*.randstad.com"], "id": "9e521fa14d51", "last_updated": "2026-05-20T08:57:10.409066+00:00"}, {"name": "De Lijn", "platform": "Intigriti", "url": "https://app.intigriti.com/programs/delijn", "type": "bounty", "bounty_min": 0, "bounty_max": 3000, "currency": "EUR", "managed": true, "category": "Transportation", "assets": ["*.delijn.be"], "id": "a37b5ec204dc", "last_updated": "2026-05-20T08:57:10.409072+00:00"}, {"name": "ExpressVPN", "platform": "Bugcrowd", "url": "https://bugcrowd.com/expressvpn", "type": "bounty", "bounty_min": 150, "bounty_max": 2500, "currency": "USD", "managed": true, "category": "Security", "assets": ["*.expressvpn.com"], "id": "e7cfbb51b3c0", "last_updated": "2026-05-20T08:57:10.409054+00:00"}, {"name": "U.S. Dept of Defense", "platform": "HackerOne", "url": "https://hackerone.com/deptofdefense", "type": "vdp", "bounty_min": 0, "bounty_max": 0, "currency": "USD", "managed": true, "category": "Government", "assets": ["*.defense.gov"], "id": "78aec942e587", "last_updated": "2026-05-20T08:57:10.408916+00:00"}];
+const CHANGELOG = [{"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Twitter/X", "platform": "HackerOne", "details": "New program: Twitter/X on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "OVHcloud", "platform": "YesWeHack", "details": "New program: OVHcloud on YesWeHack"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Doctolib", "platform": "YesWeHack", "details": "New program: Doctolib on YesWeHack"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "WordPress", "platform": "HackerOne", "details": "New program: WordPress on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Verizon Media", "platform": "HackerOne", "details": "New program: Verizon Media on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Wormhole", "platform": "Immunefi", "details": "New program: Wormhole on Immunefi"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Valve (Steam)", "platform": "HackerOne", "details": "New program: Valve (Steam) on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Automattic", "platform": "HackerOne", "details": "New program: Automattic on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "LCL", "platform": "YesWeHack", "details": "New program: LCL on YesWeHack"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Aurora", "platform": "Immunefi", "details": "New program: Aurora on Immunefi"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "OpenAI", "platform": "Bugcrowd", "details": "New program: OpenAI on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Pinterest", "platform": "Bugcrowd", "details": "New program: Pinterest on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Google VRP", "platform": "HackerOne", "details": "New program: Google VRP on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Uber", "platform": "HackerOne", "details": "New program: Uber on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "GitLab", "platform": "HackerOne", "details": "New program: GitLab on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Apple Security Bounty", "platform": "Independent", "details": "New program: Apple Security Bounty on Independent"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Brave Browser", "platform": "HackerOne", "details": "New program: Brave Browser on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Intigriti", "platform": "Intigriti", "details": "New program: Intigriti on Intigriti"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Shopify", "platform": "HackerOne", "details": "New program: Shopify on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Okta", "platform": "Bugcrowd", "details": "New program: Okta on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Atlassian", "platform": "Bugcrowd", "details": "New program: Atlassian on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Slack", "platform": "HackerOne", "details": "New program: Slack on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Olympus DAO", "platform": "Immunefi", "details": "New program: Olympus DAO on Immunefi"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Swiss Post", "platform": "YesWeHack", "details": "New program: Swiss Post on YesWeHack"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Alibaba", "platform": "HackerOne", "details": "New program: Alibaba on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Notion", "platform": "HackerOne", "details": "New program: Notion on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "KBC Group", "platform": "Intigriti", "details": "New program: KBC Group on Intigriti"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "PayPal", "platform": "HackerOne", "details": "New program: PayPal on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Netflix", "platform": "Bugcrowd", "details": "New program: Netflix on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Intel", "platform": "Independent", "details": "New program: Intel on Independent"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Samsung", "platform": "Bugcrowd", "details": "New program: Samsung on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Spotify", "platform": "HackerOne", "details": "New program: Spotify on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Yahoo", "platform": "HackerOne", "details": "New program: Yahoo on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Dropbox", "platform": "HackerOne", "details": "New program: Dropbox on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Tesla", "platform": "Bugcrowd", "details": "New program: Tesla on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Twitch", "platform": "Bugcrowd", "details": "New program: Twitch on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Mastercard", "platform": "Bugcrowd", "details": "New program: Mastercard on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Polygon", "platform": "Immunefi", "details": "New program: Polygon on Immunefi"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "GitHub", "platform": "HackerOne", "details": "New program: GitHub on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "TikTok", "platform": "HackerOne", "details": "New program: TikTok on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Randstad", "platform": "Intigriti", "details": "New program: Randstad on Intigriti"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Microsoft MSRC", "platform": "Independent", "details": "New program: Microsoft MSRC on Independent"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Sony PlayStation", "platform": "Independent", "details": "New program: Sony PlayStation on Independent"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Infomaniak", "platform": "YesWeHack", "details": "New program: Infomaniak on YesWeHack"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "De Lijn", "platform": "Intigriti", "details": "New program: De Lijn on Intigriti"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "ExpressVPN", "platform": "Bugcrowd", "details": "New program: ExpressVPN on Bugcrowd"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Proximus", "platform": "Intigriti", "details": "New program: Proximus on Intigriti"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Coinbase", "platform": "HackerOne", "details": "New program: Coinbase on HackerOne"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "MakerDAO", "platform": "Immunefi", "details": "New program: MakerDAO on Immunefi"}, {"timestamp": "2026-05-20T08:57:10.649860+00:00", "type": "added", "program_name": "Mozilla", "platform": "Independent", "details": "New program: Mozilla on Independent"}];
+document.addEventListener('DOMContentLoaded', () => init(PROGRAMS, CHANGELOG));
+</script>
+</body>
+</html>
