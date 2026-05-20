@@ -1,6 +1,2533 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Agilis LT Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Agilis LT Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Certinia (formerly FinancialForce)",
+      "platform": "Bugcrowd",
+      "details": "New program: Certinia (formerly FinancialForce) on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Jora",
+      "platform": "Bugcrowd",
+      "details": "New program: Jora on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "eToro Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: eToro Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Lovable VDP",
+      "platform": "HackerOne",
+      "details": "New program: Lovable VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Meesho",
+      "platform": "HackerOne",
+      "details": "New program: Meesho on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Ooredoo QPSC - Customer Portal Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kaseya",
+      "platform": "HackerOne",
+      "details": "New program: Kaseya on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Tencent Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Tencent Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Elementor: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Elementor: Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "TheFork - B2B - TFM3",
+      "platform": "Bugcrowd",
+      "details": "New program: TheFork - B2B - TFM3 on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "New program: Intercom on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bühler Group VDP",
+      "platform": "Intigriti",
+      "details": "New program: Bühler Group VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Craft Coders Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Craft Coders Marketplace Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "QC VDP",
+      "platform": "Intigriti",
+      "details": "New program: QC VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HubSpot",
+      "platform": "HackerOne",
+      "details": "New program: HubSpot on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Majid Al Futtaim Retail",
+      "platform": "Bugcrowd",
+      "details": "New program: Majid Al Futtaim Retail on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Xelians - Blackbox program",
+      "platform": "YesWeHack",
+      "details": "New program: Xelians - Blackbox program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": " Comcast Xfinity Vulnerability Disclosure Program",
+      "platform": "Bugcrowd",
+      "details": "New program:  Comcast Xfinity Vulnerability Disclosure Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Whoop Bug Bounty",
+      "platform": "HackerOne",
+      "details": "New program: Whoop Bug Bounty on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Gearset: Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Gearset: Managed Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Wallet on Telegram",
+      "platform": "HackerOne",
+      "details": "New program: Wallet on Telegram on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Blockchain.com Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Blockchain.com Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Lowe's Companies VDP",
+      "platform": "HackerOne",
+      "details": "New program: Lowe's Companies VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Neon",
+      "platform": "HackerOne",
+      "details": "New program: Neon on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "New program: Superdrug on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Signicat Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Signicat Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "NBA Public Bug Bounty",
+      "platform": "HackerOne",
+      "details": "New program: NBA Public Bug Bounty on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ClickHouse",
+      "platform": "Bugcrowd",
+      "details": "New program: ClickHouse on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "GovTech - Vulnerability Disclosure Programme",
+      "platform": "YesWeHack",
+      "details": "New program: GovTech - Vulnerability Disclosure Programme on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Coindcx - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Coindcx - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Corebridge Financial",
+      "platform": "HackerOne",
+      "details": "New program: Corebridge Financial on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Aurory Managed Bug Bounty Engagement (Public)",
+      "platform": "Bugcrowd",
+      "details": "New program: Aurory Managed Bug Bounty Engagement (Public) on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "CoinDesk Data - Data API ",
+      "platform": "Bugcrowd",
+      "details": "New program: CoinDesk Data - Data API  on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "23andMe Bug Bounty",
+      "platform": "HackerOne",
+      "details": "New program: 23andMe Bug Bounty on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Colined",
+      "platform": "Bugcrowd",
+      "details": "New program: Colined on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BankUnited",
+      "platform": "HackerOne",
+      "details": "New program: BankUnited on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "GetYourGuide VDP",
+      "platform": "HackerOne",
+      "details": "New program: GetYourGuide VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Lightspeed Hospitality",
+      "platform": "Bugcrowd",
+      "details": "New program: Lightspeed Hospitality on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "De Volkskrant",
+      "platform": "Intigriti",
+      "details": "New program: De Volkskrant on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ExpressVPN - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: ExpressVPN - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HRS Group VDP",
+      "platform": "Intigriti",
+      "details": "New program: HRS Group VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Liferay VDP",
+      "platform": "Intigriti",
+      "details": "New program: Liferay VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "KU Leuven Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: KU Leuven Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Regions Financial",
+      "platform": "HackerOne",
+      "details": "New program: Regions Financial on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Pine Labs Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Pine Labs Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "OneDoc",
+      "platform": "YesWeHack",
+      "details": "New program: OneDoc on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Moneybox Bug Bounty",
+      "platform": "YesWeHack",
+      "details": "New program: Moneybox Bug Bounty on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Mueller Water Products (VDP)",
+      "platform": "HackerOne",
+      "details": "New program: Mueller Water Products (VDP) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DigitalOcean",
+      "platform": "Intigriti",
+      "details": "New program: DigitalOcean on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HPE Networking Product Public Program",
+      "platform": "Bugcrowd",
+      "details": "New program: HPE Networking Product Public Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Tomorrowland",
+      "platform": "Intigriti",
+      "details": "New program: Tomorrowland on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Just Eat Takeaway.com",
+      "platform": "Bugcrowd",
+      "details": "New program: Just Eat Takeaway.com on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Revolut VDP",
+      "platform": "Intigriti",
+      "details": "New program: Revolut VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Harman International Lifestyle Products & Services",
+      "platform": "YesWeHack",
+      "details": "New program: Harman International Lifestyle Products & Services on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Tines (VDP)",
+      "platform": "HackerOne",
+      "details": "New program: Tines (VDP) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "OTTO.DE Bug Bounty",
+      "platform": "YesWeHack",
+      "details": "New program: OTTO.DE Bug Bounty on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cryptobox",
+      "platform": "YesWeHack",
+      "details": "New program: Cryptobox on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dossier Medical Partagé Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Dossier Medical Partagé Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Aeromexico VDP",
+      "platform": "HackerOne",
+      "details": "New program: Aeromexico VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Asana",
+      "platform": "Bugcrowd",
+      "details": "New program: Asana on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "EURid",
+      "platform": "Intigriti",
+      "details": "New program: EURid on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "CyberGhost - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: CyberGhost - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "iRobot",
+      "platform": "Bugcrowd",
+      "details": "New program: iRobot on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Driessen Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Driessen Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth VDP",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DoorDash",
+      "platform": "HackerOne",
+      "details": "New program: DoorDash on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Paddle.com Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Paddle.com Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Digital Flanders Vulnerability Disclosure Program",
+      "platform": "YesWeHack",
+      "details": "New program: Digital Flanders Vulnerability Disclosure Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Intel®",
+      "platform": "Intigriti",
+      "details": "New program: Intel® on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Anduril Industries",
+      "platform": "HackerOne",
+      "details": "New program: Anduril Industries on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "GOJEK - Public Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: GOJEK - Public Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DocuSign",
+      "platform": "HackerOne",
+      "details": "New program: DocuSign on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Salt Mobile SA - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Salt Mobile SA - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Het Laatste Nieuws",
+      "platform": "Intigriti",
+      "details": "New program: Het Laatste Nieuws on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitso Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Bitso Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Syfe",
+      "platform": "HackerOne",
+      "details": "New program: Syfe on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "YesWeHack",
+      "platform": "YesWeHack",
+      "details": "New program: YesWeHack on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Storebrand Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hyland Software",
+      "platform": "HackerOne",
+      "details": "New program: Hyland Software on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Aiven Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Aiven Managed Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BMW Group Automotive",
+      "platform": "Intigriti",
+      "details": "New program: BMW Group Automotive on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "YesWeHack Dojo",
+      "platform": "YesWeHack",
+      "details": "New program: YesWeHack Dojo on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Auth0 by Okta",
+      "platform": "Bugcrowd",
+      "details": "New program: Auth0 by Okta on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "QinetiQ Response",
+      "platform": "HackerOne",
+      "details": "New program: QinetiQ Response on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Fing Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Fing Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Consensus by CoinDesk",
+      "platform": "Bugcrowd",
+      "details": "New program: Consensus by CoinDesk on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Taxwell VDP",
+      "platform": "HackerOne",
+      "details": "New program: Taxwell VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "TeamViewer - Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: TeamViewer - Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Withings",
+      "platform": "YesWeHack",
+      "details": "New program: Withings on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "VFS Global Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: VFS Global Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Arm",
+      "platform": "Intigriti",
+      "details": "New program: Arm on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bug Bounty Program - BlaBlaCar",
+      "platform": "YesWeHack",
+      "details": "New program: Bug Bounty Program - BlaBlaCar on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dropbox Vulnerability Disclosure Program ",
+      "platform": "Intigriti",
+      "details": "New program: Dropbox Vulnerability Disclosure Program  on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ibotta",
+      "platform": "Bugcrowd",
+      "details": "New program: Ibotta on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "IMOU Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: IMOU Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DECATHLON",
+      "platform": "YesWeHack",
+      "details": "New program: DECATHLON on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Glean Technologies Public Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Glean Technologies Public Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HPE VDP",
+      "platform": "HackerOne",
+      "details": "New program: HPE VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Okto - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Okto - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dust",
+      "platform": "HackerOne",
+      "details": "New program: Dust on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Canada Post - Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Canada Post - Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dropbox Bug Bounty",
+      "platform": "Intigriti",
+      "details": "New program: Dropbox Bug Bounty on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Inter & Co. VDP",
+      "platform": "HackerOne",
+      "details": "New program: Inter & Co. VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hack The Box",
+      "platform": "HackerOne",
+      "details": "New program: Hack The Box on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Immutable Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Immutable Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Binance",
+      "platform": "Bugcrowd",
+      "details": "New program: Binance on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Worldpay",
+      "platform": "HackerOne",
+      "details": "New program: Worldpay on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "New program: Trouw on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Qualified Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Qualified Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Luminor",
+      "platform": "HackerOne",
+      "details": "New program: Luminor on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Mon Espace Santé (MES)",
+      "platform": "YesWeHack",
+      "details": "New program: Mon Espace Santé (MES) on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ION Group",
+      "platform": "HackerOne",
+      "details": "New program: ION Group on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Henkel",
+      "platform": "HackerOne",
+      "details": "New program: Henkel on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Unico IDtech",
+      "platform": "HackerOne",
+      "details": "New program: Unico IDtech on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Chia Network",
+      "platform": "HackerOne",
+      "details": "New program: Chia Network on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Itaú Unibanco",
+      "platform": "HackerOne",
+      "details": "New program: Itaú Unibanco on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Recreation.gov",
+      "platform": "HackerOne",
+      "details": "New program: Recreation.gov on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "3DS OUTSCALE",
+      "platform": "YesWeHack",
+      "details": "New program: 3DS OUTSCALE on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BitGo Managed Public Bug Bounty Engagement ",
+      "platform": "Bugcrowd",
+      "details": "New program: BitGo Managed Public Bug Bounty Engagement  on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Twilio",
+      "platform": "HackerOne",
+      "details": "New program: Twilio on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "AXIS OS",
+      "platform": "Bugcrowd",
+      "details": "New program: AXIS OS on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Internet Brands Public",
+      "platform": "Bugcrowd",
+      "details": "New program: Internet Brands Public on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "NVIDIA Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: NVIDIA Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kiteworks",
+      "platform": "Bugcrowd",
+      "details": "New program: Kiteworks on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Vueling",
+      "platform": "HackerOne",
+      "details": "New program: Vueling on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "New program: Port of Antwerp-Bruges on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cross Border Fines",
+      "platform": "Intigriti",
+      "details": "New program: Cross Border Fines on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "vidaXL Services - Open Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: vidaXL Services - Open Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "AppFox",
+      "platform": "Bugcrowd",
+      "details": "New program: AppFox on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitdefender Box v2",
+      "platform": "Bugcrowd",
+      "details": "New program: Bitdefender Box v2 on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Santé Publique France Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Santé Publique France Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Fireblocks Web Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Fireblocks Web Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ferrero",
+      "platform": "HackerOne",
+      "details": "New program: Ferrero on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "FDJ United (Online Betting and Gaming) - Bug Bounty program",
+      "platform": "YesWeHack",
+      "details": "New program: FDJ United (Online Betting and Gaming) - Bug Bounty program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "FIS",
+      "platform": "Bugcrowd",
+      "details": "New program: FIS on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ant Group Security Response Center - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Ant Group Security Response Center - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "1Password - Enterprise Password Manager",
+      "platform": "HackerOne",
+      "details": "New program: 1Password - Enterprise Password Manager on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitpanda Ongoing Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Bitpanda Ongoing Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HostGator LATAM Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: HostGator LATAM Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "GRW Trading FZE - Open Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: GRW Trading FZE - Open Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Proof.com VDP",
+      "platform": "Intigriti",
+      "details": "New program: Proof.com VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kraken Tech",
+      "platform": "HackerOne",
+      "details": "New program: Kraken Tech on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Swapcard",
+      "platform": "YesWeHack",
+      "details": "New program: Swapcard on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: The Coca-Cola Company Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "WellHive",
+      "platform": "HackerOne",
+      "details": "New program: WellHive on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Red Bull",
+      "platform": "Intigriti",
+      "details": "New program: Red Bull on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Penn Entertainment",
+      "platform": "HackerOne",
+      "details": "New program: Penn Entertainment on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Comcast Xfinity Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Comcast Xfinity Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "OPPO",
+      "platform": "HackerOne",
+      "details": "New program: OPPO on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Council on Foreign Relations",
+      "platform": "Bugcrowd",
+      "details": "New program: Council on Foreign Relations on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Vercel Open Source",
+      "platform": "HackerOne",
+      "details": "New program: Vercel Open Source on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "New program: Toast VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Marionnaud",
+      "platform": "Intigriti",
+      "details": "New program: Marionnaud on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Axel Springer SE Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Axel Springer SE Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Personio",
+      "platform": "Intigriti",
+      "details": "New program: Personio on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "KuCoin Managed Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: KuCoin Managed Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Anaconda Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Anaconda Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Tempo-Team ",
+      "platform": "Intigriti",
+      "details": "New program: Tempo-Team  on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "MUFG VDP",
+      "platform": "HackerOne",
+      "details": "New program: MUFG VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Challenge 0526",
+      "platform": "Intigriti",
+      "details": "New program: Challenge 0526 on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kaleido",
+      "platform": "Bugcrowd",
+      "details": "New program: Kaleido on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "3CX",
+      "platform": "HackerOne",
+      "details": "New program: 3CX on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Citymesh Responsible Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Citymesh Responsible Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DataDome Bug Bounty",
+      "platform": "YesWeHack",
+      "details": "New program: DataDome Bug Bounty on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Code.org",
+      "platform": "Bugcrowd",
+      "details": "New program: Code.org on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Algemeen Dagblad",
+      "platform": "Intigriti",
+      "details": "New program: Algemeen Dagblad on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "KOMOJU - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: KOMOJU - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bug Bounty SNCF Connect",
+      "platform": "YesWeHack",
+      "details": "New program: Bug Bounty SNCF Connect on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Moralis VDP",
+      "platform": "Intigriti",
+      "details": "New program: Moralis VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitvavo VDP",
+      "platform": "Intigriti",
+      "details": "New program: Bitvavo VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Maya - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Maya - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kiwa Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Kiwa Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BMW Group",
+      "platform": "Intigriti",
+      "details": "New program: BMW Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BILL VDP",
+      "platform": "HackerOne",
+      "details": "New program: BILL VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "celix Solutions GmbH Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: celix Solutions GmbH Marketplace Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BookBeat",
+      "platform": "YesWeHack",
+      "details": "New program: BookBeat on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Flourish",
+      "platform": "Bugcrowd",
+      "details": "New program: Flourish on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "PepsiCo VDP",
+      "platform": "HackerOne",
+      "details": "New program: PepsiCo VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DPG Media",
+      "platform": "Intigriti",
+      "details": "New program: DPG Media on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "CoinDesk.com",
+      "platform": "Bugcrowd",
+      "details": "New program: CoinDesk.com on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DIGI Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: DIGI Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Klarna",
+      "platform": "HackerOne",
+      "details": "New program: Klarna on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kohl's",
+      "platform": "Bugcrowd",
+      "details": "New program: Kohl's on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Felix Health Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Felix Health Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Afterpay Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Afterpay Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "City of Vienna Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: City of Vienna Managed Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HARMAN International - Web Applications",
+      "platform": "YesWeHack",
+      "details": "New program: HARMAN International - Web Applications on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Exact Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Exact Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Robinhood Markets",
+      "platform": "HackerOne",
+      "details": "New program: Robinhood Markets on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitdefender",
+      "platform": "Bugcrowd",
+      "details": "New program: Bitdefender on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "TomTom",
+      "platform": "HackerOne",
+      "details": "New program: TomTom on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Clear Street Disclosure Program",
+      "platform": "HackerOne",
+      "details": "New program: Clear Street Disclosure Program on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "PeopleCert VDP",
+      "platform": "Intigriti",
+      "details": "New program: PeopleCert VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Chime Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Chime Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Block Open Source",
+      "platform": "Bugcrowd",
+      "details": "New program: Block Open Source on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
+      "platform": "HackerOne",
+      "details": "New program: Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "New program: Allegro on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Peloton",
+      "platform": "HackerOne",
+      "details": "New program: Peloton on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "SBB - Swiss Federal Railways",
+      "platform": "Intigriti",
+      "details": "New program: SBB - Swiss Federal Railways on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bpost",
+      "platform": "Intigriti",
+      "details": "New program: Bpost on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Exoscale Bug Bounty",
+      "platform": "Intigriti",
+      "details": "New program: Exoscale Bug Bounty on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "SimScale",
+      "platform": "Intigriti",
+      "details": "New program: SimScale on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bugcrowd",
+      "platform": "Bugcrowd",
+      "details": "New program: Bugcrowd on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hertz VDP",
+      "platform": "HackerOne",
+      "details": "New program: Hertz VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Swiss Post - E-Voting",
+      "platform": "YesWeHack",
+      "details": "New program: Swiss Post - E-Voting on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cisco Meraki",
+      "platform": "Bugcrowd",
+      "details": "New program: Cisco Meraki on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Latitude Financial Services Bug Bounty ",
+      "platform": "Bugcrowd",
+      "details": "New program: Latitude Financial Services Bug Bounty  on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth Web PACS",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth Web PACS on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "6sense VDP",
+      "platform": "HackerOne",
+      "details": "New program: 6sense VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BitGo Mobile Apps Bug Bounty Engagement ",
+      "platform": "Bugcrowd",
+      "details": "New program: BitGo Mobile Apps Bug Bounty Engagement  on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Citi Group",
+      "platform": "HackerOne",
+      "details": "New program: Citi Group on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "House of HR Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: House of HR Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cloudways by DigitalOcean",
+      "platform": "Intigriti",
+      "details": "New program: Cloudways by DigitalOcean on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "SingleStore",
+      "platform": "HackerOne",
+      "details": "New program: SingleStore on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "MediaMarktSaturn Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: MediaMarktSaturn Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "The Hut Group: Public Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: The Hut Group: Public Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dell Technologies' Products Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Dell Technologies' Products Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "VF Corporation - VDP",
+      "platform": "HackerOne",
+      "details": "New program: VF Corporation - VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bumba",
+      "platform": "HackerOne",
+      "details": "New program: Bumba on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ClassDojo",
+      "platform": "Bugcrowd",
+      "details": "New program: ClassDojo on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "HotDoc",
+      "platform": "Bugcrowd",
+      "details": "New program: HotDoc on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "New program: Axel Springer National Media & Tech on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kong",
+      "platform": "HackerOne",
+      "details": "New program: Kong on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Robinhood Markets Bounty",
+      "platform": "HackerOne",
+      "details": "New program: Robinhood Markets Bounty on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "iFood: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: iFood: Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "LPL Financial VDP",
+      "platform": "HackerOne",
+      "details": "New program: LPL Financial VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ICI PARIS XL",
+      "platform": "Intigriti",
+      "details": "New program: ICI PARIS XL on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Online enrollment for students Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Online enrollment for students Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "eazyBI",
+      "platform": "Bugcrowd",
+      "details": "New program: eazyBI on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Humo",
+      "platform": "Intigriti",
+      "details": "New program: Humo on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Etsy",
+      "platform": "Bugcrowd",
+      "details": "New program: Etsy on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Alasco GmbH - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Alasco GmbH - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "codeclou GmbH",
+      "platform": "Bugcrowd",
+      "details": "New program: codeclou GmbH on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "New program: Twago on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DailyPay VDP",
+      "platform": "HackerOne",
+      "details": "New program: DailyPay VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "MOD Supply Chain VDP",
+      "platform": "HackerOne",
+      "details": "New program: MOD Supply Chain VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Atlassian-Built Apps",
+      "platform": "Bugcrowd",
+      "details": "New program: Atlassian-Built Apps on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Libelle",
+      "platform": "Intigriti",
+      "details": "New program: Libelle on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Atolls Vulnerability Disclosure Program (VDP)",
+      "platform": "Intigriti",
+      "details": "New program: Atolls Vulnerability Disclosure Program (VDP) on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Sogexia",
+      "platform": "YesWeHack",
+      "details": "New program: Sogexia on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cloudinary",
+      "platform": "Bugcrowd",
+      "details": "New program: Cloudinary on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Here Technologies",
+      "platform": "Intigriti",
+      "details": "New program: Here Technologies on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Elements",
+      "platform": "Bugcrowd",
+      "details": "New program: Elements on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Speakap Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BMC",
+      "platform": "Intigriti",
+      "details": "New program: BMC on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Contentsquare Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Contentsquare Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Qwant",
+      "platform": "YesWeHack",
+      "details": "New program: Qwant on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Starbucks China",
+      "platform": "HackerOne",
+      "details": "New program: Starbucks China on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "TransUnion LLC",
+      "platform": "HackerOne",
+      "details": "New program: TransUnion LLC on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Mintel",
+      "platform": "HackerOne",
+      "details": "New program: Mintel on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Mobile Vikings",
+      "platform": "Intigriti",
+      "details": "New program: Mobile Vikings on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Alibaba VDP",
+      "platform": "HackerOne",
+      "details": "New program: Alibaba VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "GoTo Financial - Public Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: GoTo Financial - Public Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "CoinDesk Mobile",
+      "platform": "Bugcrowd",
+      "details": "New program: CoinDesk Mobile on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Nestlé VDP",
+      "platform": "Intigriti",
+      "details": "New program: Nestlé VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Entain Public Managed Bug Bounty Engagement 2024",
+      "platform": "Bugcrowd",
+      "details": "New program: Entain Public Managed Bug Bounty Engagement 2024 on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Finnair Vulnerability Disclosure",
+      "platform": "HackerOne",
+      "details": "New program: Finnair Vulnerability Disclosure on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "InnoGames",
+      "platform": "Intigriti",
+      "details": "New program: InnoGames on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "codefortynine",
+      "platform": "Bugcrowd",
+      "details": "New program: codefortynine on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Imperva - Thales Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Imperva - Thales Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "NetScaler Public Program",
+      "platform": "HackerOne",
+      "details": "New program: NetScaler Public Program on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Varonis",
+      "platform": "HackerOne",
+      "details": "New program: Varonis on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "The Browser Company of NYC",
+      "platform": "HackerOne",
+      "details": "New program: The Browser Company of NYC on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Banco Plata",
+      "platform": "HackerOne",
+      "details": "New program: Banco Plata on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dell Technologies Application Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Dell Technologies Application Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hex",
+      "platform": "HackerOne",
+      "details": "New program: Hex on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bitstamp",
+      "platform": "Bugcrowd",
+      "details": "New program: Bitstamp on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hexagon-VDP",
+      "platform": "HackerOne",
+      "details": "New program: Hexagon-VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Circle BBP",
+      "platform": "HackerOne",
+      "details": "New program: Circle BBP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "FanDuel Response",
+      "platform": "HackerOne",
+      "details": "New program: FanDuel Response on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Netflix",
+      "platform": "HackerOne",
+      "details": "New program: Netflix on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Louis Vuitton Malletier - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Louis Vuitton Malletier - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "MSCI",
+      "platform": "HackerOne",
+      "details": "New program: MSCI on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Experian",
+      "platform": "HackerOne",
+      "details": "New program: Experian on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Fivetran",
+      "platform": "Bugcrowd",
+      "details": "New program: Fivetran on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Chipotle Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Chipotle Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DANA Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: DANA Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Donorbox VDP",
+      "platform": "Intigriti",
+      "details": "New program: Donorbox VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Liverpool Victoria",
+      "platform": "HackerOne",
+      "details": "New program: Liverpool Victoria on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DHL Group Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: DHL Group Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "McGraw Hill",
+      "platform": "HackerOne",
+      "details": "New program: McGraw Hill on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "1Password - CTF",
+      "platform": "HackerOne",
+      "details": "New program: 1Password - CTF on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Programme de prime aux bogues du Gouvernement du Québec",
+      "platform": "YesWeHack",
+      "details": "New program: Programme de prime aux bogues du Gouvernement du Québec on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cyber Security Coalition",
+      "platform": "Intigriti",
+      "details": "New program: Cyber Security Coalition on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Orbia Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Orbia Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Backblaze",
+      "platform": "Bugcrowd",
+      "details": "New program: Backblaze on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "toom Baumarkt GmbH - Webshop",
+      "platform": "YesWeHack",
+      "details": "New program: toom Baumarkt GmbH - Webshop on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Dstny",
+      "platform": "Intigriti",
+      "details": "New program: Dstny on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Fireblocks MPC Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Fireblocks MPC Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "BitOasis - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: BitOasis - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ATG Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: ATG Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bose (VDP)",
+      "platform": "HackerOne",
+      "details": "New program: Bose (VDP) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Verily Life Sciences",
+      "platform": "HackerOne",
+      "details": "New program: Verily Life Sciences on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Directly",
+      "platform": "Bugcrowd",
+      "details": "New program: Directly on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cash App",
+      "platform": "Bugcrowd",
+      "details": "New program: Cash App on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ING Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: ING Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Social Deal",
+      "platform": "Intigriti",
+      "details": "New program: Social Deal on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Ezviz - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Ezviz - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "EPAM Systems Managed Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: EPAM Systems Managed Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
+      "platform": "YesWeHack",
+      "details": "New program: Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "De Morgen",
+      "platform": "Intigriti",
+      "details": "New program: De Morgen on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "The Perfume Shop",
+      "platform": "Intigriti",
+      "details": "New program: The Perfume Shop on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bullish.com",
+      "platform": "Bugcrowd",
+      "details": "New program: Bullish.com on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
+      "platform": "Bugcrowd",
+      "details": "New program: Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026 on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Arlo Cash Rewards",
+      "platform": "Bugcrowd",
+      "details": "New program: Arlo Cash Rewards on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "DataDome Bot Bounty",
+      "platform": "YesWeHack",
+      "details": "New program: DataDome Bot Bounty on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Aikido Security: Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Aikido Security: Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Acorns Grow, Inc.",
+      "platform": "Bugcrowd",
+      "details": "New program: Acorns Grow, Inc. on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Canva",
+      "platform": "Bugcrowd",
+      "details": "New program: Canva on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Tucows (VDP)",
+      "platform": "HackerOne",
+      "details": "New program: Tucows (VDP) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "New program: CM.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Kruidvat",
+      "platform": "Intigriti",
+      "details": "New program: Kruidvat on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Baird",
+      "platform": "HackerOne",
+      "details": "New program: Baird on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Rivian Bug Bounty",
+      "platform": "Intigriti",
+      "details": "New program: Rivian Bug Bounty on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "New program: PDQ bug bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "SecureDrop",
+      "platform": "Bugcrowd",
+      "details": "New program: SecureDrop on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Starbucks Japan",
+      "platform": "HackerOne",
+      "details": "New program: Starbucks Japan on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Braze, Inc.",
+      "platform": "HackerOne",
+      "details": "New program: Braze, Inc. on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Keeper Security Public Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Keeper Security Public Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "RIPE NCC",
+      "platform": "Intigriti",
+      "details": "New program: RIPE NCC on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Private Internet Access - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Private Internet Access - Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "MAGNIFIC VDP",
+      "platform": "Intigriti",
+      "details": "New program: MAGNIFIC VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "LastPass",
+      "platform": "Bugcrowd",
+      "details": "New program: LastPass on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bullish Exchange",
+      "platform": "Bugcrowd",
+      "details": "New program: Bullish Exchange on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Izymes",
+      "platform": "Bugcrowd",
+      "details": "New program: Izymes on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Supabase",
+      "platform": "HackerOne",
+      "details": "New program: Supabase on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "AWS VDP",
+      "platform": "HackerOne",
+      "details": "New program: AWS VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "1win",
+      "platform": "HackerOne",
+      "details": "New program: 1win on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "REI VDP",
+      "platform": "HackerOne",
+      "details": "New program: REI VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+      "platform": "YesWeHack",
+      "details": "New program: ZECIBLE PUBLIC BUG BOUNTY PROGRAM on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "British Airways VDP",
+      "platform": "HackerOne",
+      "details": "New program: British Airways VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Het Parool",
+      "platform": "Intigriti",
+      "details": "New program: Het Parool on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Bolt Technology OÜ",
+      "platform": "Bugcrowd",
+      "details": "New program: Bolt Technology OÜ on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Electroneum Legacy Blockchain: EOL",
+      "platform": "Bugcrowd",
+      "details": "New program: Electroneum Legacy Blockchain: EOL on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Privy (Bounty)",
+      "platform": "HackerOne",
+      "details": "New program: Privy (Bounty) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Balsamiq for Atlassian Products",
+      "platform": "Bugcrowd",
+      "details": "New program: Balsamiq for Atlassian Products on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Indeed",
+      "platform": "Bugcrowd",
+      "details": "New program: Indeed on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "VINCI SA - Public program",
+      "platform": "YesWeHack",
+      "details": "New program: VINCI SA - Public program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "K15t",
+      "platform": "Bugcrowd",
+      "details": "New program: K15t on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Appliances - Barracuda Networks, Inc.",
+      "platform": "Bugcrowd",
+      "details": "New program: Appliances - Barracuda Networks, Inc. on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Memento - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Memento - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Hotmart (VDP)",
+      "platform": "HackerOne",
+      "details": "New program: Hotmart (VDP) on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Arbonia VDP program",
+      "platform": "Intigriti",
+      "details": "New program: Arbonia VDP program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "RGF BE - VDP",
+      "platform": "Intigriti",
+      "details": "New program: RGF BE - VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Coupang Taiwan",
+      "platform": "HackerOne",
+      "details": "New program: Coupang Taiwan on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Adevinta",
+      "platform": "HackerOne",
+      "details": "New program: Adevinta on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Thüringer Aufbaubank Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Thüringer Aufbaubank Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-05-20T09:06:01.597115+00:00",
+      "type": "added",
+      "program_name": "Telenor Sweden Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Telenor Sweden Public Bug Bounty Program on YesWeHack"
+    },
+    {
       "timestamp": "2026-05-20T08:57:10.649860+00:00",
       "type": "added",
       "program_name": "Twitter/X",
