@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-21T14:34:22.995300+00:00",
+      "type": "updated",
+      "program_name": "DataDome Bot Bounty",
+      "platform": "YesWeHack",
+      "details": "Bounty updated: $3000 -> $1000"
+    },
+    {
       "timestamp": "2026-05-21T08:52:27.481117+00:00",
       "type": "added",
       "program_name": "DataCamp",
