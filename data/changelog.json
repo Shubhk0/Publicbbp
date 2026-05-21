@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-21T08:52:27.481117+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-21T08:52:27.481117+00:00",
+      "type": "added",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "New program: Intergamma on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-21T08:52:27.481117+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-21T08:52:27.481117+00:00",
+      "type": "removed",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "Program removed: Twago from Intigriti"
+    },
+    {
       "timestamp": "2026-05-21T01:59:19.116554+00:00",
       "type": "added",
       "program_name": "Tweakers",
