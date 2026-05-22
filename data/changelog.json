@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-22T08:45:54.145289+00:00",
+      "type": "added",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "New program: Tweakers on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-22T08:45:54.145289+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-05-22T02:01:09.801586+00:00",
       "type": "added",
       "program_name": "Twago",
