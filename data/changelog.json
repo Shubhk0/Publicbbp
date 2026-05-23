@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-23T12:54:29.408198+00:00",
+      "type": "removed",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Intercom from Bugcrowd"
+    },
+    {
       "timestamp": "2026-05-23T08:03:04.428176+00:00",
       "type": "added",
       "program_name": "Universitätsspital Zürich VDP",
