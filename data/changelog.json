@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-23T18:51:30.106252+00:00",
+      "type": "added",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "New program: Intercom on Bugcrowd"
+    },
+    {
       "timestamp": "2026-05-23T12:54:29.408198+00:00",
       "type": "removed",
       "program_name": "Intercom",
