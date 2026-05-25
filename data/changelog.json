@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-25T19:13:00.921103+00:00",
+      "type": "added",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-25T19:13:00.921103+00:00",
+      "type": "removed",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "Program removed: Kinepolis Group from Intigriti"
+    },
+    {
       "timestamp": "2026-05-25T14:28:47.720462+00:00",
       "type": "added",
       "program_name": "University of Basel VDP",
