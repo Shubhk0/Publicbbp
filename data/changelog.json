@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-26T01:56:03.073480+00:00",
+      "type": "added",
+      "program_name": "VDP",
+      "platform": "Intigriti",
+      "details": "New program: VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T01:56:03.073480+00:00",
+      "type": "added",
+      "program_name": "Uphold",
+      "platform": "Intigriti",
+      "details": "New program: Uphold on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T01:56:03.073480+00:00",
+      "type": "removed",
+      "program_name": "Challenge 0526",
+      "platform": "Intigriti",
+      "details": "Program removed: Challenge 0526 from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T01:56:03.073480+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-05-25T19:13:00.921103+00:00",
       "type": "added",
       "program_name": "Universitätsspital Zürich VDP",
