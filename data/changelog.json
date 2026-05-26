@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-26T19:51:59.509426+00:00",
+      "type": "added",
+      "program_name": "Cognition",
+      "platform": "HackerOne",
+      "details": "New program: Cognition on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-26T19:51:59.509426+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T19:51:59.509426+00:00",
+      "type": "removed",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "Program removed: Twago from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T19:51:59.509426+00:00",
+      "type": "removed",
+      "program_name": "Aeromexico VDP",
+      "platform": "HackerOne",
+      "details": "Program removed: Aeromexico VDP from HackerOne"
+    },
+    {
       "timestamp": "2026-05-26T14:33:24.817231+00:00",
       "type": "added",
       "program_name": "Capital.com",
