@@ -1,6 +1,104 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "New program: Intergamma on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "New program: PDQ bug bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "Soundtrack Your Brand",
+      "platform": "Intigriti",
+      "details": "New program: Soundtrack Your Brand on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "New program: Port of Antwerp-Bruges on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "Program removed: UZ Leuven from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "Uphold",
+      "platform": "Intigriti",
+      "details": "Program removed: Uphold from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: University of Basel VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-26T14:33:24.817231+00:00",
+      "type": "removed",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Universitätsspital Zürich VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-05-26T01:56:03.073480+00:00",
       "type": "added",
       "program_name": "VDP",
