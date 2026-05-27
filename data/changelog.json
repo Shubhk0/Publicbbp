@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-27T08:56:59.966993+00:00",
+      "type": "added",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "New program: Twago on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-27T08:56:59.966993+00:00",
+      "type": "removed",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "Program removed: Allegro from Intigriti"
+    },
+    {
       "timestamp": "2026-05-26T19:51:59.509426+00:00",
       "type": "added",
       "program_name": "Cognition",
