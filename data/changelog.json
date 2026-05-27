@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "added",
+      "program_name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+      "platform": "Intigriti",
+      "details": "New program: Grafana Labs - Vulnerability Disclosure Program (VDP) on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "added",
+      "program_name": "Gogo VDP",
+      "platform": "HackerOne",
+      "details": "New program: Gogo VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "added",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "New program: Allegro on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "removed",
+      "program_name": "23andMe Bug Bounty",
+      "platform": "HackerOne",
+      "details": "Program removed: 23andMe Bug Bounty from HackerOne"
+    },
+    {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "removed",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "Program removed: Twago from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-27T14:50:10.372061+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-05-27T08:56:59.966993+00:00",
       "type": "added",
       "program_name": "Twago",
