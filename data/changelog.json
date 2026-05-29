@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "added",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "New program: UZ Leuven on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "added",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "added",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "New program: Intergamma on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T20:05:07.182249+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-05-29T14:33:45.157832+00:00",
       "type": "added",
       "program_name": "Capital.com",
@@ -3457,48 +3499,6 @@
       "program_name": "Proximus",
       "platform": "Intigriti",
       "details": "New program: Proximus on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Coinbase",
-      "platform": "HackerOne",
-      "details": "New program: Coinbase on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "MakerDAO",
-      "platform": "Immunefi",
-      "details": "New program: MakerDAO on Immunefi"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Mozilla",
-      "platform": "Independent",
-      "details": "New program: Mozilla on Independent"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Government of Quebec",
-      "platform": "YesWeHack",
-      "details": "New program: Government of Quebec on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Meta",
-      "platform": "Independent",
-      "details": "New program: Meta on Independent"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "U.S. Dept of Defense",
-      "platform": "HackerOne",
-      "details": "New program: U.S. Dept of Defense on HackerOne"
     }
   ]
 }
