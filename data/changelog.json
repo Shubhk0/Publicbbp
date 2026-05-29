@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-29T14:33:45.157832+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-29T14:33:45.157832+00:00",
+      "type": "removed",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Skoda Auto Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-05-29T01:57:22.344833+00:00",
       "type": "added",
       "program_name": "Tweakers",
@@ -3485,20 +3499,6 @@
       "program_name": "U.S. Dept of Defense",
       "platform": "HackerOne",
       "details": "New program: U.S. Dept of Defense on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Cloudflare",
-      "platform": "HackerOne",
-      "details": "New program: Cloudflare on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Snapchat",
-      "platform": "HackerOne",
-      "details": "New program: Snapchat on HackerOne"
     }
   ]
 }
