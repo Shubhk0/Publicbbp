@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-30T01:52:45.650812+00:00",
+      "type": "added",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-30T01:52:45.650812+00:00",
+      "type": "removed",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "Program removed: Intergamma from Intigriti"
+    },
+    {
       "timestamp": "2026-05-29T20:05:07.182249+00:00",
       "type": "added",
       "program_name": "UZ Leuven",
@@ -3485,20 +3499,6 @@
       "program_name": "De Lijn",
       "platform": "Intigriti",
       "details": "New program: De Lijn on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "ExpressVPN",
-      "platform": "Bugcrowd",
-      "details": "New program: ExpressVPN on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Proximus",
-      "platform": "Intigriti",
-      "details": "New program: Proximus on Intigriti"
     }
   ]
 }
