@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-30T08:13:15.997397+00:00",
+      "type": "added",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "New program: University of Basel VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-30T08:13:15.997397+00:00",
+      "type": "removed",
+      "program_name": "Dstny",
+      "platform": "Intigriti",
+      "details": "Program removed: Dstny from Intigriti"
+    },
+    {
       "timestamp": "2026-05-30T01:52:45.650812+00:00",
       "type": "added",
       "program_name": "Ubisoft Responsible Disclosure Program",
@@ -3485,20 +3499,6 @@
       "program_name": "Sony PlayStation",
       "platform": "Independent",
       "details": "New program: Sony PlayStation on Independent"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Infomaniak",
-      "platform": "YesWeHack",
-      "details": "New program: Infomaniak on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "De Lijn",
-      "platform": "Intigriti",
-      "details": "New program: De Lijn on Intigriti"
     }
   ]
 }
