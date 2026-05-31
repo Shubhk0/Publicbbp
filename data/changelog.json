@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-05-31T02:05:43.155017+00:00",
+      "type": "added",
+      "program_name": "Dstny",
+      "platform": "Intigriti",
+      "details": "New program: Dstny on Intigriti"
+    },
+    {
+      "timestamp": "2026-05-31T02:05:43.155017+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-05-30T08:13:15.997397+00:00",
       "type": "added",
       "program_name": "University of Basel VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "Randstad",
       "platform": "Intigriti",
       "details": "New program: Randstad on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Microsoft MSRC",
-      "platform": "Independent",
-      "details": "New program: Microsoft MSRC on Independent"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Sony PlayStation",
-      "platform": "Independent",
-      "details": "New program: Sony PlayStation on Independent"
     }
   ]
 }
