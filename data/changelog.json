@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-01T02:14:32.208753+00:00",
+      "type": "added",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-01T02:14:32.208753+00:00",
+      "type": "removed",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "Program removed: Delen Private Bank from Intigriti"
+    },
+    {
       "timestamp": "2026-05-31T02:05:43.155017+00:00",
       "type": "added",
       "program_name": "Dstny",
@@ -3485,20 +3499,6 @@
       "program_name": "GitHub",
       "platform": "HackerOne",
       "details": "New program: GitHub on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "TikTok",
-      "platform": "HackerOne",
-      "details": "New program: TikTok on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Randstad",
-      "platform": "Intigriti",
-      "details": "New program: Randstad on Intigriti"
     }
   ]
 }
