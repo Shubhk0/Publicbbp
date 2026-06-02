@@ -1,6 +1,83 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "New program: Allegro on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "OURA Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: OURA Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "Infomaniak Bug Bounty program",
+      "platform": "YesWeHack",
+      "details": "New program: Infomaniak Bug Bounty program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "added",
+      "program_name": "Fing Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Fing Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "removed",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: University of Basel VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "removed",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "removed",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "Program removed: UZ Leuven from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "removed",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Universitätsspital Zürich VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T15:53:30.389145+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
       "timestamp": "2026-06-02T09:58:00.288538+00:00",
       "type": "added",
       "program_name": "Universitätsspital Zürich VDP",
@@ -3422,83 +3499,6 @@
       "program_name": "Okta",
       "platform": "Bugcrowd",
       "details": "New program: Okta on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Atlassian",
-      "platform": "Bugcrowd",
-      "details": "New program: Atlassian on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Slack",
-      "platform": "HackerOne",
-      "details": "New program: Slack on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Olympus DAO",
-      "platform": "Immunefi",
-      "details": "New program: Olympus DAO on Immunefi"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Swiss Post",
-      "platform": "YesWeHack",
-      "details": "New program: Swiss Post on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Alibaba",
-      "platform": "HackerOne",
-      "details": "New program: Alibaba on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Notion",
-      "platform": "HackerOne",
-      "details": "New program: Notion on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "KBC Group",
-      "platform": "Intigriti",
-      "details": "New program: KBC Group on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "PayPal",
-      "platform": "HackerOne",
-      "details": "New program: PayPal on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Netflix",
-      "platform": "Bugcrowd",
-      "details": "New program: Netflix on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Intel",
-      "platform": "Independent",
-      "details": "New program: Intel on Independent"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Samsung",
-      "platform": "Bugcrowd",
-      "details": "New program: Samsung on Bugcrowd"
     }
   ]
 }
