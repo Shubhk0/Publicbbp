@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-02T09:58:00.288538+00:00",
+      "type": "added",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-02T09:58:00.288538+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-06-01T17:11:27.160261+00:00",
       "type": "added",
       "program_name": "Capital.com",
@@ -3485,20 +3499,6 @@
       "program_name": "Samsung",
       "platform": "Bugcrowd",
       "details": "New program: Samsung on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Spotify",
-      "platform": "HackerOne",
-      "details": "New program: Spotify on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Yahoo",
-      "platform": "HackerOne",
-      "details": "New program: Yahoo on HackerOne"
     }
   ]
 }
