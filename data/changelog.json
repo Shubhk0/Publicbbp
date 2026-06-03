@@ -1,6 +1,41 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-03T20:44:27.280359+00:00",
+      "type": "added",
+      "program_name": "Kantega SSO",
+      "platform": "Bugcrowd",
+      "details": "New program: Kantega SSO on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-03T20:44:27.280359+00:00",
+      "type": "added",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-03T20:44:27.280359+00:00",
+      "type": "added",
+      "program_name": "DevAcrobats",
+      "platform": "Bugcrowd",
+      "details": "New program: DevAcrobats on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-03T20:44:27.280359+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-03T20:44:27.280359+00:00",
+      "type": "removed",
+      "program_name": "LaunchDarkly Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: LaunchDarkly Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
       "timestamp": "2026-06-03T16:11:06.936591+00:00",
       "type": "added",
       "program_name": "UZ Leuven",
@@ -3464,41 +3499,6 @@
       "program_name": "OVHcloud",
       "platform": "YesWeHack",
       "details": "New program: OVHcloud on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Doctolib",
-      "platform": "YesWeHack",
-      "details": "New program: Doctolib on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "WordPress",
-      "platform": "HackerOne",
-      "details": "New program: WordPress on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Verizon Media",
-      "platform": "HackerOne",
-      "details": "New program: Verizon Media on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Wormhole",
-      "platform": "Immunefi",
-      "details": "New program: Wormhole on Immunefi"
-    },
-    {
-      "timestamp": "2026-05-20T08:57:10.649860+00:00",
-      "type": "added",
-      "program_name": "Valve (Steam)",
-      "platform": "HackerOne",
-      "details": "New program: Valve (Steam) on HackerOne"
     }
   ]
 }
