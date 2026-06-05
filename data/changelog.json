@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-05T19:27:55.729565+00:00",
+      "type": "added",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "New program: Intergamma on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T19:27:55.729565+00:00",
+      "type": "removed",
+      "program_name": "Mobile Vikings",
+      "platform": "Intigriti",
+      "details": "Program removed: Mobile Vikings from Intigriti"
+    },
+    {
       "timestamp": "2026-06-05T14:19:08.387883+00:00",
       "type": "added",
       "program_name": "Allegro",
@@ -3485,20 +3499,6 @@
       "program_name": "MAGNIFIC VDP",
       "platform": "Intigriti",
       "details": "New program: MAGNIFIC VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "LastPass",
-      "platform": "Bugcrowd",
-      "details": "New program: LastPass on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bullish Exchange",
-      "platform": "Bugcrowd",
-      "details": "New program: Bullish Exchange on Bugcrowd"
     }
   ]
 }
