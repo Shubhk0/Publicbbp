@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "added",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "New program: Allegro on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "removed",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "removed",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: University of Basel VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T14:19:08.387883+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-06-05T09:01:10.988158+00:00",
       "type": "added",
       "program_name": "DataCamp",
@@ -3457,48 +3499,6 @@
       "program_name": "Bullish Exchange",
       "platform": "Bugcrowd",
       "details": "New program: Bullish Exchange on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Izymes",
-      "platform": "Bugcrowd",
-      "details": "New program: Izymes on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Supabase",
-      "platform": "HackerOne",
-      "details": "New program: Supabase on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "AWS VDP",
-      "platform": "HackerOne",
-      "details": "New program: AWS VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "1win",
-      "platform": "HackerOne",
-      "details": "New program: 1win on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "REI VDP",
-      "platform": "HackerOne",
-      "details": "New program: REI VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-      "platform": "YesWeHack",
-      "details": "New program: ZECIBLE PUBLIC BUG BOUNTY PROGRAM on YesWeHack"
     }
   ]
 }
