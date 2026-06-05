@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-05T09:01:10.988158+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-05T09:01:10.988158+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-06-05T02:04:10.862187+00:00",
       "type": "added",
       "program_name": "University of Basel VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
       "platform": "YesWeHack",
       "details": "New program: ZECIBLE PUBLIC BUG BOUNTY PROGRAM on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "British Airways VDP",
-      "platform": "HackerOne",
-      "details": "New program: British Airways VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Het Parool",
-      "platform": "Intigriti",
-      "details": "New program: Het Parool on Intigriti"
     }
   ]
 }
