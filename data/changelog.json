@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "added",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "added",
+      "program_name": "Universitätsspital Zürich VDP",
+      "platform": "Intigriti",
+      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "added",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "New program: University of Basel VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "removed",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "Program removed: Intergamma from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T01:55:43.514242+00:00",
+      "type": "removed",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-06-05T19:27:55.729565+00:00",
       "type": "added",
       "program_name": "Intergamma",
@@ -3457,48 +3499,6 @@
       "program_name": "SecureDrop",
       "platform": "Bugcrowd",
       "details": "New program: SecureDrop on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Starbucks Japan",
-      "platform": "HackerOne",
-      "details": "New program: Starbucks Japan on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Braze, Inc.",
-      "platform": "HackerOne",
-      "details": "New program: Braze, Inc. on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Keeper Security Public Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Keeper Security Public Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "RIPE NCC",
-      "platform": "Intigriti",
-      "details": "New program: RIPE NCC on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Private Internet Access - Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Private Internet Access - Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "MAGNIFIC VDP",
-      "platform": "Intigriti",
-      "details": "New program: MAGNIFIC VDP on Intigriti"
     }
   ]
 }
