@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-06T19:01:17.316677+00:00",
+      "type": "added",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "New program: Allegro on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T19:01:17.316677+00:00",
+      "type": "added",
+      "program_name": "VRT",
+      "platform": "Intigriti",
+      "details": "New program: VRT on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T19:01:17.316677+00:00",
+      "type": "removed",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-06T19:01:17.316677+00:00",
+      "type": "removed",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "Program removed: CM.com from Intigriti"
+    },
+    {
       "timestamp": "2026-06-06T13:02:50.610195+00:00",
       "type": "added",
       "program_name": "Uphold",
@@ -3471,34 +3499,6 @@
       "program_name": "Canva",
       "platform": "Bugcrowd",
       "details": "New program: Canva on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Tucows (VDP)",
-      "platform": "HackerOne",
-      "details": "New program: Tucows (VDP) on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "CM.com",
-      "platform": "Intigriti",
-      "details": "New program: CM.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Kruidvat",
-      "platform": "Intigriti",
-      "details": "New program: Kruidvat on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Baird",
-      "platform": "HackerOne",
-      "details": "New program: Baird on HackerOne"
     }
   ]
 }
