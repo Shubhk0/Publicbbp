@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-09T19:53:13.944361+00:00",
+      "type": "added",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-09T19:53:13.944361+00:00",
+      "type": "removed",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "Program removed: UZ Leuven from Intigriti"
+    },
+    {
       "timestamp": "2026-06-09T14:15:40.142046+00:00",
       "type": "added",
       "program_name": "RIPE NCC",
@@ -3485,20 +3499,6 @@
       "program_name": "Netflix",
       "platform": "HackerOne",
       "details": "New program: Netflix on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Louis Vuitton Malletier - Public Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Louis Vuitton Malletier - Public Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "MSCI",
-      "platform": "HackerOne",
-      "details": "New program: MSCI on HackerOne"
     }
   ]
 }
