@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-09T01:52:44.869753+00:00",
+      "type": "added",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-09T01:52:44.869753+00:00",
+      "type": "added",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "New program: UZ Leuven on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-09T01:52:44.869753+00:00",
+      "type": "removed",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "Program removed: CM.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-09T01:52:44.869753+00:00",
+      "type": "removed",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "Program removed: TrueLayer from Intigriti"
+    },
+    {
       "timestamp": "2026-06-08T19:58:08.373554+00:00",
       "type": "added",
       "program_name": "Monzo Public Bug Bounty Program",
@@ -3471,34 +3499,6 @@
       "program_name": "Liverpool Victoria",
       "platform": "HackerOne",
       "details": "New program: Liverpool Victoria on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "DHL Group Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: DHL Group Vulnerability Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "McGraw Hill",
-      "platform": "HackerOne",
-      "details": "New program: McGraw Hill on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "1Password - CTF",
-      "platform": "HackerOne",
-      "details": "New program: 1Password - CTF on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Programme de prime aux bogues du Gouvernement du Québec",
-      "platform": "YesWeHack",
-      "details": "New program: Programme de prime aux bogues du Gouvernement du Québec on YesWeHack"
     }
   ]
 }
