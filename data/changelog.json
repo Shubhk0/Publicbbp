@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-09T08:55:53.318571+00:00",
+      "type": "added",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "New program: CM.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-09T08:55:53.318571+00:00",
+      "type": "removed",
+      "program_name": "RIPE NCC",
+      "platform": "Intigriti",
+      "details": "Program removed: RIPE NCC from Intigriti"
+    },
+    {
       "timestamp": "2026-06-09T01:52:44.869753+00:00",
       "type": "added",
       "program_name": "Ubisoft Responsible Disclosure Program",
@@ -3485,20 +3499,6 @@
       "program_name": "DANA Bug Bounty Program",
       "platform": "YesWeHack",
       "details": "New program: DANA Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Donorbox VDP",
-      "platform": "Intigriti",
-      "details": "New program: Donorbox VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Liverpool Victoria",
-      "platform": "HackerOne",
-      "details": "New program: Liverpool Victoria on HackerOne"
     }
   ]
 }
