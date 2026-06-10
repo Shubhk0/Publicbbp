@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-10T02:04:12.143360+00:00",
+      "type": "added",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "New program: UZ Leuven on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-10T02:04:12.143360+00:00",
+      "type": "removed",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexuzhealth from Intigriti"
+    },
+    {
       "timestamp": "2026-06-09T19:53:13.944361+00:00",
       "type": "added",
       "program_name": "Skoda Auto Bug Bounty Program",
@@ -3485,20 +3499,6 @@
       "program_name": "Circle BBP",
       "platform": "HackerOne",
       "details": "New program: Circle BBP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "FanDuel Response",
-      "platform": "HackerOne",
-      "details": "New program: FanDuel Response on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Netflix",
-      "platform": "HackerOne",
-      "details": "New program: Netflix on HackerOne"
     }
   ]
 }
