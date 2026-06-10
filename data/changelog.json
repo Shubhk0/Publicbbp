@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-10T20:05:31.448936+00:00",
+      "type": "added",
+      "program_name": "Epic Games VDP",
+      "platform": "HackerOne",
+      "details": "New program: Epic Games VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-06-10T20:05:31.448936+00:00",
+      "type": "removed",
+      "program_name": "TransUnion LLC",
+      "platform": "HackerOne",
+      "details": "Program removed: TransUnion LLC from HackerOne"
+    },
+    {
       "timestamp": "2026-06-10T02:04:12.143360+00:00",
       "type": "added",
       "program_name": "UZ Leuven",
@@ -3485,20 +3499,6 @@
       "program_name": "Bitstamp",
       "platform": "Bugcrowd",
       "details": "New program: Bitstamp on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Hexagon-VDP",
-      "platform": "HackerOne",
-      "details": "New program: Hexagon-VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Circle BBP",
-      "platform": "HackerOne",
-      "details": "New program: Circle BBP on HackerOne"
     }
   ]
 }
