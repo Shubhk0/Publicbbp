@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-11T15:28:43.799695+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-11T15:28:43.799695+00:00",
+      "type": "added",
+      "program_name": "Sqills",
+      "platform": "Intigriti",
+      "details": "New program: Sqills on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-11T15:28:43.799695+00:00",
+      "type": "removed",
+      "program_name": "Ubisoft Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-11T15:28:43.799695+00:00",
+      "type": "removed",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "Program removed: UZ Leuven from Intigriti"
+    },
+    {
       "timestamp": "2026-06-11T10:00:09.594266+00:00",
       "type": "added",
       "program_name": "Ubisoft Responsible Disclosure Program",
@@ -3471,34 +3499,6 @@
       "program_name": "CoinDesk Mobile",
       "platform": "Bugcrowd",
       "details": "New program: CoinDesk Mobile on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Nestlé VDP",
-      "platform": "Intigriti",
-      "details": "New program: Nestlé VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Entain Public Managed Bug Bounty Engagement 2024",
-      "platform": "Bugcrowd",
-      "details": "New program: Entain Public Managed Bug Bounty Engagement 2024 on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Finnair Vulnerability Disclosure",
-      "platform": "HackerOne",
-      "details": "New program: Finnair Vulnerability Disclosure on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "InnoGames",
-      "platform": "Intigriti",
-      "details": "New program: InnoGames on Intigriti"
     }
   ]
 }
