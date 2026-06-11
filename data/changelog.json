@@ -1,6 +1,62 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "added",
+      "program_name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "added",
+      "program_name": "Gliffy",
+      "platform": "Bugcrowd",
+      "details": "New program: Gliffy on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "added",
+      "program_name": "Broken Build Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Broken Build Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "added",
+      "program_name": "J-Tricks - Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: J-Tricks - Marketplace Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "removed",
+      "program_name": "LastPass",
+      "platform": "Bugcrowd",
+      "details": "Program removed: LastPass from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "removed",
+      "program_name": "KuCoin Managed Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: KuCoin Managed Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "removed",
+      "program_name": "Kohl's",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Kohl's from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-06-11T02:15:33.520953+00:00",
+      "type": "removed",
+      "program_name": "TheFork - B2B - TFM3",
+      "platform": "Bugcrowd",
+      "details": "Program removed: TheFork - B2B - TFM3 from Bugcrowd"
+    },
+    {
       "timestamp": "2026-06-10T20:05:31.448936+00:00",
       "type": "added",
       "program_name": "Epic Games VDP",
@@ -3443,62 +3499,6 @@
       "program_name": "Imperva - Thales Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Imperva - Thales Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "NetScaler Public Program",
-      "platform": "HackerOne",
-      "details": "New program: NetScaler Public Program on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Varonis",
-      "platform": "HackerOne",
-      "details": "New program: Varonis on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "The Browser Company of NYC",
-      "platform": "HackerOne",
-      "details": "New program: The Browser Company of NYC on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Banco Plata",
-      "platform": "HackerOne",
-      "details": "New program: Banco Plata on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Dell Technologies Application Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Dell Technologies Application Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Hex",
-      "platform": "HackerOne",
-      "details": "New program: Hex on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bitstamp",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitstamp on Bugcrowd"
     }
   ]
 }
