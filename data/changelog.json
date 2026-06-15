@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-15T11:40:20.857536+00:00",
+      "type": "added",
+      "program_name": "Challenge 0626",
+      "platform": "Intigriti",
+      "details": "New program: Challenge 0626 on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-15T11:40:20.857536+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
       "timestamp": "2026-06-14T19:04:56.914371+00:00",
       "type": "added",
       "program_name": "Dstny",
@@ -3485,20 +3499,6 @@
       "program_name": "MOD Supply Chain VDP",
       "platform": "HackerOne",
       "details": "New program: MOD Supply Chain VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Atlassian-Built Apps",
-      "platform": "Bugcrowd",
-      "details": "New program: Atlassian-Built Apps on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Libelle",
-      "platform": "Intigriti",
-      "details": "New program: Libelle on Intigriti"
     }
   ]
 }
