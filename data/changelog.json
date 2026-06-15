@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-15T20:42:21.462358+00:00",
+      "type": "added",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "New program: Twago on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-15T20:42:21.462358+00:00",
+      "type": "removed",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-06-15T16:49:57.748659+00:00",
       "type": "added",
       "program_name": "Port of Antwerp-Bruges",
@@ -3485,20 +3499,6 @@
       "program_name": "Alasco GmbH - Bug Bounty Program",
       "platform": "YesWeHack",
       "details": "New program: Alasco GmbH - Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "codeclou GmbH",
-      "platform": "Bugcrowd",
-      "details": "New program: codeclou GmbH on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
     }
   ]
 }
