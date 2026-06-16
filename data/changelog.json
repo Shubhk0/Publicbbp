@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-16T16:18:17.836593+00:00",
+      "type": "added",
+      "program_name": "Mobile Vikings",
+      "platform": "Intigriti",
+      "details": "New program: Mobile Vikings on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-16T16:18:17.836593+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
       "timestamp": "2026-06-16T10:49:32.421704+00:00",
       "type": "added",
       "program_name": "Torfs",
@@ -3485,20 +3499,6 @@
       "program_name": "Bumba",
       "platform": "HackerOne",
       "details": "New program: Bumba on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "ClassDojo",
-      "platform": "Bugcrowd",
-      "details": "New program: ClassDojo on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "HotDoc",
-      "platform": "Bugcrowd",
-      "details": "New program: HotDoc on Bugcrowd"
     }
   ]
 }
