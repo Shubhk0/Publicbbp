@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-17T10:22:04.900443+00:00",
+      "type": "added",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "New program: Twago on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-17T10:22:04.900443+00:00",
+      "type": "removed",
+      "program_name": "Torfs",
+      "platform": "Intigriti",
+      "details": "Program removed: Torfs from Intigriti"
+    },
+    {
       "timestamp": "2026-06-16T20:34:10.389338+00:00",
       "type": "added",
       "program_name": "Lansweeper Bug Bounty Program",
@@ -3485,20 +3499,6 @@
       "program_name": "MediaMarktSaturn Bug Bounty Program",
       "platform": "YesWeHack",
       "details": "New program: MediaMarktSaturn Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "The Hut Group: Public Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: The Hut Group: Public Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Dell Technologies' Products Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Dell Technologies' Products Bug Bounty Program on Bugcrowd"
     }
   ]
 }
