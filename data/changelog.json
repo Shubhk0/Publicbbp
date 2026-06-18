@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-18T14:39:56.268767+00:00",
+      "type": "added",
+      "program_name": "Nexo",
+      "platform": "Intigriti",
+      "details": "New program: Nexo on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-18T14:39:56.268767+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-06-18T10:01:31.351217+00:00",
       "type": "added",
       "program_name": "Jaanga Marketplace Bug Bounty",
@@ -3485,20 +3499,6 @@
       "program_name": "SBB - Swiss Federal Railways",
       "platform": "Intigriti",
       "details": "New program: SBB - Swiss Federal Railways on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bpost",
-      "platform": "Intigriti",
-      "details": "New program: Bpost on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Exoscale Bug Bounty",
-      "platform": "Intigriti",
-      "details": "New program: Exoscale Bug Bounty on Intigriti"
     }
   ]
 }
