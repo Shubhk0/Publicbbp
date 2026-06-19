@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-19T14:37:14.277641+00:00",
+      "type": "added",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "New program: Soundtrack Technologies on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-19T14:37:14.277641+00:00",
+      "type": "removed",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
+    },
+    {
       "timestamp": "2026-06-19T02:44:38.146040+00:00",
       "type": "added",
       "program_name": "Trusted Firmware",
@@ -3485,20 +3499,6 @@
       "program_name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
       "platform": "HackerOne",
       "details": "New program: Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Allegro",
-      "platform": "Intigriti",
-      "details": "New program: Allegro on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
     }
   ]
 }
