@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "added",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "New program: Trouw on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "added",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "New program: Twago on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "removed",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Housing Application (huisvestingsapp) Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-20T02:04:12.124211+00:00",
+      "type": "removed",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "Program removed: Soundtrack Technologies from Intigriti"
+    },
+    {
       "timestamp": "2026-06-19T19:21:49.390244+00:00",
       "type": "added",
       "program_name": "Nexuzhealth",
@@ -3457,48 +3499,6 @@
       "program_name": "City of Vienna Managed Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: City of Vienna Managed Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "HARMAN International - Web Applications",
-      "platform": "YesWeHack",
-      "details": "New program: HARMAN International - Web Applications on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Exact Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Exact Vulnerability Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Ninja Kiwi Games Bug Bounty program",
-      "platform": "Intigriti",
-      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Robinhood Markets",
-      "platform": "HackerOne",
-      "details": "New program: Robinhood Markets on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bitdefender",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitdefender on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "TomTom",
-      "platform": "HackerOne",
-      "details": "New program: TomTom on HackerOne"
     }
   ]
 }
