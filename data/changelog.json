@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "added",
+      "program_name": "Netflix",
+      "platform": "HackerOne",
+      "details": "New program: Netflix on HackerOne"
+    },
+    {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "removed",
+      "program_name": "Gogo VDP",
+      "platform": "HackerOne",
+      "details": "Program removed: Gogo VDP from HackerOne"
+    },
+    {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-22T16:23:13.485434+00:00",
+      "type": "removed",
+      "program_name": "Twago",
+      "platform": "Intigriti",
+      "details": "Program removed: Twago from Intigriti"
+    },
+    {
       "timestamp": "2026-06-22T11:29:02.170884+00:00",
       "type": "added",
       "program_name": "PDQ bug bounty program",
@@ -3457,48 +3499,6 @@
       "program_name": "Kiwa Vulnerability Disclosure Program",
       "platform": "Intigriti",
       "details": "New program: Kiwa Vulnerability Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "BMW Group",
-      "platform": "Intigriti",
-      "details": "New program: BMW Group on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "BILL VDP",
-      "platform": "HackerOne",
-      "details": "New program: BILL VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "celix Solutions GmbH Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: celix Solutions GmbH Marketplace Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "BookBeat",
-      "platform": "YesWeHack",
-      "details": "New program: BookBeat on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Flourish",
-      "platform": "Bugcrowd",
-      "details": "New program: Flourish on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "PepsiCo VDP",
-      "platform": "HackerOne",
-      "details": "New program: PepsiCo VDP on HackerOne"
     }
   ]
 }
