@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-22T20:29:42.895020+00:00",
+      "type": "added",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "New program: Soundtrack Technologies on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-22T20:29:42.895020+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-06-22T16:23:13.485434+00:00",
       "type": "added",
       "program_name": "Nexuzhealth",
@@ -3485,20 +3499,6 @@
       "program_name": "Bitvavo VDP",
       "platform": "Intigriti",
       "details": "New program: Bitvavo VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Maya - Public Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Maya - Public Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Kiwa Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Kiwa Vulnerability Disclosure Program on Intigriti"
     }
   ]
 }
