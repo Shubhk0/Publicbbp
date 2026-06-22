@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-22T02:31:25.096093+00:00",
+      "type": "added",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "New program: UZ Leuven on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-22T02:31:25.096093+00:00",
+      "type": "removed",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "Program removed: TrueLayer from Intigriti"
+    },
+    {
       "timestamp": "2026-06-20T19:05:53.427115+00:00",
       "type": "added",
       "program_name": "TrueLayer",
@@ -3485,20 +3499,6 @@
       "program_name": "CoinDesk.com",
       "platform": "Bugcrowd",
       "details": "New program: CoinDesk.com on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "DIGI Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: DIGI Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Klarna",
-      "platform": "HackerOne",
-      "details": "New program: Klarna on HackerOne"
     }
   ]
 }
