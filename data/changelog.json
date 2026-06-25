@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-25T19:42:36.592087+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-25T19:42:36.592087+00:00",
+      "type": "added",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-25T19:42:36.592087+00:00",
+      "type": "removed",
+      "program_name": "Tomorrowland",
+      "platform": "Intigriti",
+      "details": "Program removed: Tomorrowland from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-25T19:42:36.592087+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-06-25T13:57:53.625989+00:00",
       "type": "added",
       "program_name": "Lansweeper Bug Bounty Program",
@@ -3471,34 +3499,6 @@
       "program_name": "Port of Antwerp-Bruges",
       "platform": "Intigriti",
       "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Cross Border Fines",
-      "platform": "Intigriti",
-      "details": "New program: Cross Border Fines on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "vidaXL Services - Open Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: vidaXL Services - Open Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "AppFox",
-      "platform": "Bugcrowd",
-      "details": "New program: AppFox on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bitdefender Box v2",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitdefender Box v2 on Bugcrowd"
     }
   ]
 }
