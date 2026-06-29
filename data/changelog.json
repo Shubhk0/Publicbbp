@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-29T15:24:48.177029+00:00",
+      "type": "added",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "New program: Port of Antwerp-Bruges on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-29T15:24:48.177029+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
       "timestamp": "2026-06-29T10:16:31.242393+00:00",
       "type": "added",
       "program_name": "PDQ bug bounty program",
@@ -3485,20 +3499,6 @@
       "program_name": "Canada Post - Responsible Disclosure Program",
       "platform": "Intigriti",
       "details": "New program: Canada Post - Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Dropbox Bug Bounty",
-      "platform": "Intigriti",
-      "details": "New program: Dropbox Bug Bounty on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Inter & Co. VDP",
-      "platform": "HackerOne",
-      "details": "New program: Inter & Co. VDP on HackerOne"
     }
   ]
 }
