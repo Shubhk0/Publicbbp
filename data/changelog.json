@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-29T02:07:40.233095+00:00",
+      "type": "added",
+      "program_name": "University of Basel VDP",
+      "platform": "Intigriti",
+      "details": "New program: University of Basel VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-29T02:07:40.233095+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-06-28T18:58:39.639503+00:00",
       "type": "added",
       "program_name": "Tomorrowland",
@@ -3485,20 +3499,6 @@
       "program_name": "Qualified Responsible Disclosure Program",
       "platform": "Intigriti",
       "details": "New program: Qualified Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Luminor",
-      "platform": "HackerOne",
-      "details": "New program: Luminor on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Mon Espace Santé (MES)",
-      "platform": "YesWeHack",
-      "details": "New program: Mon Espace Santé (MES) on YesWeHack"
     }
   ]
 }
