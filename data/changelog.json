@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-30T19:28:08.195916+00:00",
+      "type": "added",
+      "program_name": "Revolut VDP",
+      "platform": "Intigriti",
+      "details": "New program: Revolut VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-30T19:28:08.195916+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-30T19:28:08.195916+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-06-30T13:50:23.614238+00:00",
       "type": "added",
       "program_name": "DataCamp",
@@ -3478,27 +3499,6 @@
       "program_name": "Withings",
       "platform": "YesWeHack",
       "details": "New program: Withings on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "VFS Global Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: VFS Global Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Arm",
-      "platform": "Intigriti",
-      "details": "New program: Arm on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bug Bounty Program - BlaBlaCar",
-      "platform": "YesWeHack",
-      "details": "New program: Bug Bounty Program - BlaBlaCar on YesWeHack"
     }
   ]
 }
