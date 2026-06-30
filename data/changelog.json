@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-06-30T02:02:22.801391+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-06-30T02:02:22.801391+00:00",
+      "type": "removed",
+      "program_name": "Contentsquare Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Contentsquare Bug Bounty Program from YesWeHack"
+    },
+    {
+      "timestamp": "2026-06-30T02:02:22.801391+00:00",
+      "type": "removed",
+      "program_name": "LeakyJar Challenge",
+      "platform": "Intigriti",
+      "details": "Program removed: LeakyJar Challenge from Intigriti"
+    },
+    {
+      "timestamp": "2026-06-30T02:02:22.801391+00:00",
+      "type": "removed",
+      "program_name": "GovTech - Vulnerability Disclosure Programme",
+      "platform": "YesWeHack",
+      "details": "Program removed: GovTech - Vulnerability Disclosure Programme from YesWeHack"
+    },
+    {
       "timestamp": "2026-06-29T19:29:34.349977+00:00",
       "type": "added",
       "program_name": "Lansweeper Bug Bounty Program",
@@ -3471,34 +3499,6 @@
       "program_name": "IMOU Public Bug Bounty Program",
       "platform": "YesWeHack",
       "details": "New program: IMOU Public Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "DECATHLON",
-      "platform": "YesWeHack",
-      "details": "New program: DECATHLON on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Glean Technologies Public Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Glean Technologies Public Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "HPE VDP",
-      "platform": "HackerOne",
-      "details": "New program: HPE VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Okto - Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Okto - Bug Bounty Program on YesWeHack"
     }
   ]
 }
