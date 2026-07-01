@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-01T14:01:48.710989+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-01T14:01:48.710989+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-07-01T09:25:13.938775+00:00",
       "type": "added",
       "program_name": "KU Leuven Vulnerability Disclosure Program (VDP)",
@@ -3485,20 +3499,6 @@
       "program_name": "YesWeHack Dojo",
       "platform": "YesWeHack",
       "details": "New program: YesWeHack Dojo on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Auth0 by Okta",
-      "platform": "Bugcrowd",
-      "details": "New program: Auth0 by Okta on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "QinetiQ Response",
-      "platform": "HackerOne",
-      "details": "New program: QinetiQ Response on HackerOne"
     }
   ]
 }
