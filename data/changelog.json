@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-02T19:05:03.781633+00:00",
+      "type": "added",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "New program: Soundtrack Technologies on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-02T19:05:03.781633+00:00",
+      "type": "removed",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "Program removed: Trouw from Intigriti"
+    },
+    {
       "timestamp": "2026-07-02T13:24:49.593644+00:00",
       "type": "added",
       "program_name": "Attentia VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "Salt Mobile SA - Bug Bounty Program",
       "platform": "YesWeHack",
       "details": "New program: Salt Mobile SA - Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Het Laatste Nieuws",
-      "platform": "Intigriti",
-      "details": "New program: Het Laatste Nieuws on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Bitso Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitso Managed Bug Bounty Engagement on Bugcrowd"
     }
   ]
 }
