@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-06T19:34:53.683200+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-06T19:34:53.683200+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-07-06T14:51:44.199364+00:00",
       "type": "added",
       "program_name": "Capital.com",
@@ -3485,20 +3499,6 @@
       "program_name": "Revolut VDP",
       "platform": "Intigriti",
       "details": "New program: Revolut VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Harman International Lifestyle Products & Services",
-      "platform": "YesWeHack",
-      "details": "New program: Harman International Lifestyle Products & Services on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Tines (VDP)",
-      "platform": "HackerOne",
-      "details": "New program: Tines (VDP) on HackerOne"
     }
   ]
 }
