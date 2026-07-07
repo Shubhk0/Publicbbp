@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-07T19:29:51.569889+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-07T19:29:51.569889+00:00",
+      "type": "removed",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexuzhealth from Intigriti"
+    },
+    {
       "timestamp": "2026-07-07T14:01:20.843438+00:00",
       "type": "added",
       "program_name": "Port of Antwerp-Bruges",
@@ -3485,20 +3499,6 @@
       "program_name": "DigitalOcean",
       "platform": "Intigriti",
       "details": "New program: DigitalOcean on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "HPE Networking Product Public Program",
-      "platform": "Bugcrowd",
-      "details": "New program: HPE Networking Product Public Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Tomorrowland",
-      "platform": "Intigriti",
-      "details": "New program: Tomorrowland on Intigriti"
     }
   ]
 }
