@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-09T19:16:50.001736+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-09T19:16:50.001736+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-07-09T01:30:15.198833+00:00",
       "type": "added",
       "program_name": "55 Degrees",
@@ -3485,20 +3499,6 @@
       "program_name": "23andMe Bug Bounty",
       "platform": "HackerOne",
       "details": "New program: 23andMe Bug Bounty on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Colined",
-      "platform": "Bugcrowd",
-      "details": "New program: Colined on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "BankUnited",
-      "platform": "HackerOne",
-      "details": "New program: BankUnited on HackerOne"
     }
   ]
 }
