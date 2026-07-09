@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "added",
+      "program_name": "55 Degrees",
+      "platform": "Bugcrowd",
+      "details": "New program: 55 Degrees on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "added",
+      "program_name": "AppLiger",
+      "platform": "Bugcrowd",
+      "details": "New program: AppLiger on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "added",
+      "program_name": "Hypixel Studios Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: Hypixel Studios Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "removed",
+      "program_name": "Jora",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Jora from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "removed",
+      "program_name": "Izymes",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Izymes from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-09T01:30:15.198833+00:00",
+      "type": "removed",
+      "program_name": "J-Tricks - Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: J-Tricks - Marketplace Bug Bounty Program from Bugcrowd"
+    },
+    {
       "timestamp": "2026-07-08T19:01:53.055508+00:00",
       "type": "added",
       "program_name": "TrueLayer",
@@ -3457,48 +3499,6 @@
       "program_name": "BankUnited",
       "platform": "HackerOne",
       "details": "New program: BankUnited on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "GetYourGuide VDP",
-      "platform": "HackerOne",
-      "details": "New program: GetYourGuide VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Lightspeed Hospitality",
-      "platform": "Bugcrowd",
-      "details": "New program: Lightspeed Hospitality on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "De Volkskrant",
-      "platform": "Intigriti",
-      "details": "New program: De Volkskrant on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "ExpressVPN - Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: ExpressVPN - Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "HRS Group VDP",
-      "platform": "Intigriti",
-      "details": "New program: HRS Group VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Liferay VDP",
-      "platform": "Intigriti",
-      "details": "New program: Liferay VDP on Intigriti"
     }
   ]
 }
