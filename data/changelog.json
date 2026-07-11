@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-11T18:41:03.068183+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-11T18:41:03.068183+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-07-11T01:21:16.810780+00:00",
       "type": "added",
       "program_name": "TrueLayer",
@@ -3485,20 +3499,6 @@
       "program_name": "Whoop Bug Bounty",
       "platform": "HackerOne",
       "details": "New program: Whoop Bug Bounty on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Gearset: Managed Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Gearset: Managed Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Wallet on Telegram",
-      "platform": "HackerOne",
-      "details": "New program: Wallet on Telegram on HackerOne"
     }
   ]
 }
