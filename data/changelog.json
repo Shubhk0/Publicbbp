@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-11T01:21:16.810780+00:00",
+      "type": "added",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "New program: TrueLayer on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-11T01:21:16.810780+00:00",
+      "type": "added",
+      "program_name": "Izymes",
+      "platform": "Bugcrowd",
+      "details": "New program: Izymes on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-11T01:21:16.810780+00:00",
+      "type": "removed",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-11T01:21:16.810780+00:00",
+      "type": "removed",
+      "program_name": "Bitstamp",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bitstamp from Bugcrowd"
+    },
+    {
       "timestamp": "2026-07-10T19:12:20.006125+00:00",
       "type": "added",
       "program_name": "Discover VDP",
@@ -3471,34 +3499,6 @@
       "program_name": "Wallet on Telegram",
       "platform": "HackerOne",
       "details": "New program: Wallet on Telegram on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Blockchain.com Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Blockchain.com Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Lowe's Companies VDP",
-      "platform": "HackerOne",
-      "details": "New program: Lowe's Companies VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Neon",
-      "platform": "HackerOne",
-      "details": "New program: Neon on HackerOne"
     }
   ]
 }
