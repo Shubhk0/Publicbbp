@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "added",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "New program: Tweakers on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "added",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "New program: TrueLayer on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:56.151644+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-07-14T01:13:25.349792+00:00",
       "type": "added",
       "program_name": "Ivo: AI VDP",
@@ -3457,48 +3499,6 @@
       "program_name": "eToro Managed Bug Bounty Engagement",
       "platform": "Bugcrowd",
       "details": "New program: eToro Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Lovable VDP",
-      "platform": "HackerOne",
-      "details": "New program: Lovable VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Meesho",
-      "platform": "HackerOne",
-      "details": "New program: Meesho on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Ooredoo QPSC - Customer Portal Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Kaseya",
-      "platform": "HackerOne",
-      "details": "New program: Kaseya on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Tencent Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Tencent Bug Bounty Program on YesWeHack"
-    },
-    {
-      "timestamp": "2026-05-20T09:06:01.597115+00:00",
-      "type": "added",
-      "program_name": "Elementor: Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Elementor: Bug Bounty Program on Bugcrowd"
     }
   ]
 }
