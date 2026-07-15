@@ -1,6 +1,713 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "added",
+      "program_name": "UZ Leuven",
+      "platform": "Intigriti",
+      "details": "New program: UZ Leuven on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Jaanga Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Jaanga Marketplace Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bullish.com",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bullish.com from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "FIS",
+      "platform": "Bugcrowd",
+      "details": "Program removed: FIS from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Canva",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Canva from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Craft Coders Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Craft Coders Marketplace Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bitdefender",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bitdefender from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Certinia (formerly FinancialForce)",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Certinia (formerly FinancialForce) from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Etsy",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Etsy from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "55 Degrees",
+      "platform": "Bugcrowd",
+      "details": "Program removed: 55 Degrees from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Afterpay Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Afterpay Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Imperva - Thales Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Imperva - Thales Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Elementor: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Elementor: Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Dell Technologies' Products Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Dell Technologies' Products Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Appliances - Barracuda Networks, Inc.",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Appliances - Barracuda Networks, Inc. from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Blockchain.com Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Blockchain.com Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Easy Agile",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Easy Agile from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Izymes",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Izymes from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Agilis LT Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Agilis LT Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "The Hut Group: Public Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: The Hut Group: Public Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "EPAM Systems Managed Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: EPAM Systems Managed Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Code.org",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Code.org from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "BitGo Mobile Apps Bug Bounty Engagement ",
+      "platform": "Bugcrowd",
+      "details": "Program removed: BitGo Mobile Apps Bug Bounty Engagement  from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "ClassDojo",
+      "platform": "Bugcrowd",
+      "details": "Program removed: ClassDojo from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Backblaze",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Backblaze from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Cisco Meraki",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Cisco Meraki from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Fireblocks MPC Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Fireblocks MPC Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "CoinDesk.com",
+      "platform": "Bugcrowd",
+      "details": "Program removed: CoinDesk.com from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Acorns Grow, Inc.",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Acorns Grow, Inc. from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Block Open Source",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Block Open Source from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "BitGo Managed Public Bug Bounty Engagement ",
+      "platform": "Bugcrowd",
+      "details": "Program removed: BitGo Managed Public Bug Bounty Engagement  from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "codeclou GmbH",
+      "platform": "Bugcrowd",
+      "details": "Program removed: codeclou GmbH from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "City of Vienna Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: City of Vienna Managed Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Fivetran",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Fivetran from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bugcrowd",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bugcrowd from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Consensus by CoinDesk",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Consensus by CoinDesk from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Entain Public Managed Bug Bounty Engagement 2024",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Entain Public Managed Bug Bounty Engagement 2024 from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Majid Al Futtaim Retail",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Majid Al Futtaim Retail from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Glean Technologies Public Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Glean Technologies Public Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Intercom from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Broken Build Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Broken Build Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "HPE Networking Product Public Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HPE Networking Product Public Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "HostGator LATAM Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HostGator LATAM Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Comcast Xfinity Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Comcast Xfinity Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Chipotle Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Chipotle Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "AXIS OS",
+      "platform": "Bugcrowd",
+      "details": "Program removed: AXIS OS from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bitpanda Ongoing Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bitpanda Ongoing Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Appsvio Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Appsvio Marketplace Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Dell Technologies Application Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Dell Technologies Application Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Inprowiser Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Inprowiser Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "HotDoc",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HotDoc from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "ClickHouse",
+      "platform": "Bugcrowd",
+      "details": "Program removed: ClickHouse from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Council on Foreign Relations",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Council on Foreign Relations from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Cash App",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Cash App from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026 from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bolt Technology OÜ",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bolt Technology OÜ from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "DevAcrobats",
+      "platform": "Bugcrowd",
+      "details": "Program removed: DevAcrobats from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": " Comcast Xfinity Vulnerability Disclosure Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed:  Comcast Xfinity Vulnerability Disclosure Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bitso Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bitso Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Atlassian-Built Apps",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Atlassian-Built Apps from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Elements",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Elements from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Gearset: Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Gearset: Managed Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "eazyBI",
+      "platform": "Bugcrowd",
+      "details": "Program removed: eazyBI from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Deviniti",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Deviniti from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Binance",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Binance from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bullish Exchange",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bullish Exchange from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Auth0 by Okta",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Auth0 by Okta from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "CoinDesk Data - Data API ",
+      "platform": "Bugcrowd",
+      "details": "Program removed: CoinDesk Data - Data API  from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Hypixel Studios Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Hypixel Studios Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "codefortynine",
+      "platform": "Bugcrowd",
+      "details": "Program removed: codefortynine from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Arlo Cash Rewards",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Arlo Cash Rewards from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "CoinDesk Mobile",
+      "platform": "Bugcrowd",
+      "details": "Program removed: CoinDesk Mobile from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Blofin Crypto Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Blofin Crypto Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "iRobot",
+      "platform": "Bugcrowd",
+      "details": "Program removed: iRobot from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Balsamiq for Atlassian Products",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Balsamiq for Atlassian Products from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "AppLiger",
+      "platform": "Bugcrowd",
+      "details": "Program removed: AppLiger from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Immutable Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Immutable Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Asana",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Asana from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Directly",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Directly from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Chime Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Chime Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "iFood: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: iFood: Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Internet Brands Public",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Internet Brands Public from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Colined",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Colined from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "celix Solutions GmbH Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: celix Solutions GmbH Marketplace Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Entain Game Logic Flaws Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "eToro Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: eToro Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Aurory Managed Bug Bounty Engagement (Public)",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Aurory Managed Bug Bounty Engagement (Public) from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Indeed",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Indeed from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "AgilePulse Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: AgilePulse Marketplace Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Gliffy",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Gliffy from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Bitdefender Box v2",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Bitdefender Box v2 from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "AppFox",
+      "platform": "Bugcrowd",
+      "details": "Program removed: AppFox from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Aiven Managed Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Aiven Managed Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "SecureDrop",
+      "platform": "Bugcrowd",
+      "details": "Program removed: SecureDrop from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Fireblocks Web Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Fireblocks Web Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Ibotta",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Ibotta from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Flourish",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Flourish from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Felix Health Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Felix Health Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-15T07:46:23.301208+00:00",
+      "type": "removed",
+      "program_name": "Cloudinary",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Cloudinary from Bugcrowd"
+    },
+    {
       "timestamp": "2026-07-15T01:10:42.212245+00:00",
       "type": "added",
       "program_name": "Trusted Firmware",
@@ -2792,713 +3499,6 @@
       "program_name": "Capital.com",
       "platform": "Intigriti",
       "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T17:11:27.160261+00:00",
-      "type": "added",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "New program: Delen Private Bank on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T17:11:27.160261+00:00",
-      "type": "removed",
-      "program_name": "Fing Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Fing Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T17:11:27.160261+00:00",
-      "type": "removed",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Universitätsspital Zürich VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T11:03:56.448225+00:00",
-      "type": "added",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "New program: PDQ bug bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T11:03:56.448225+00:00",
-      "type": "removed",
-      "program_name": "Allegro",
-      "platform": "Intigriti",
-      "details": "Program removed: Allegro from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T02:14:32.208753+00:00",
-      "type": "added",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-01T02:14:32.208753+00:00",
-      "type": "removed",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "Program removed: Delen Private Bank from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-31T02:05:43.155017+00:00",
-      "type": "added",
-      "program_name": "Dstny",
-      "platform": "Intigriti",
-      "details": "New program: Dstny on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-31T02:05:43.155017+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-30T08:13:15.997397+00:00",
-      "type": "added",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "New program: University of Basel VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-30T08:13:15.997397+00:00",
-      "type": "removed",
-      "program_name": "Dstny",
-      "platform": "Intigriti",
-      "details": "Program removed: Dstny from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-30T01:52:45.650812+00:00",
-      "type": "added",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-30T01:52:45.650812+00:00",
-      "type": "removed",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "Program removed: Intergamma from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "added",
-      "program_name": "Skoda Auto Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "added",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "New program: Intergamma on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "removed",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T20:05:07.182249+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T14:33:45.157832+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T14:33:45.157832+00:00",
-      "type": "removed",
-      "program_name": "Skoda Auto Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Skoda Auto Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T01:57:22.344833+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-29T01:57:22.344833+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T15:01:30.202451+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T15:01:30.202451+00:00",
-      "type": "added",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T15:01:30.202451+00:00",
-      "type": "removed",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "Program removed: Intergamma from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T15:01:30.202451+00:00",
-      "type": "removed",
-      "program_name": "Soundtrack Your Brand",
-      "platform": "Intigriti",
-      "details": "Program removed: Soundtrack Your Brand from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T09:40:59.360861+00:00",
-      "type": "added",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "New program: Intergamma on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T09:40:59.360861+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T01:48:41.399452+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-28T01:48:41.399452+00:00",
-      "type": "removed",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T19:55:51.983774+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T19:55:51.983774+00:00",
-      "type": "removed",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "Program removed: Intergamma from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "added",
-      "program_name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
-      "platform": "Intigriti",
-      "details": "New program: Grafana Labs - Vulnerability Disclosure Program (VDP) on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "added",
-      "program_name": "Gogo VDP",
-      "platform": "HackerOne",
-      "details": "New program: Gogo VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "added",
-      "program_name": "Allegro",
-      "platform": "Intigriti",
-      "details": "New program: Allegro on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "removed",
-      "program_name": "23andMe Bug Bounty",
-      "platform": "HackerOne",
-      "details": "Program removed: 23andMe Bug Bounty from HackerOne"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "removed",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T14:50:10.372061+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T08:56:59.966993+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-27T08:56:59.966993+00:00",
-      "type": "removed",
-      "program_name": "Allegro",
-      "platform": "Intigriti",
-      "details": "Program removed: Allegro from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T19:51:59.509426+00:00",
-      "type": "added",
-      "program_name": "Cognition",
-      "platform": "HackerOne",
-      "details": "New program: Cognition on HackerOne"
-    },
-    {
-      "timestamp": "2026-05-26T19:51:59.509426+00:00",
-      "type": "added",
-      "program_name": "Kinepolis Group",
-      "platform": "Intigriti",
-      "details": "New program: Kinepolis Group on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T19:51:59.509426+00:00",
-      "type": "removed",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T19:51:59.509426+00:00",
-      "type": "removed",
-      "program_name": "Aeromexico VDP",
-      "platform": "HackerOne",
-      "details": "Program removed: Aeromexico VDP from HackerOne"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "New program: Intergamma on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "New program: PDQ bug bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Your Brand",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Your Brand on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "Uphold",
-      "platform": "Intigriti",
-      "details": "Program removed: Uphold from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: University of Basel VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T14:33:24.817231+00:00",
-      "type": "removed",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Universitätsspital Zürich VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T01:56:03.073480+00:00",
-      "type": "added",
-      "program_name": "VDP",
-      "platform": "Intigriti",
-      "details": "New program: VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T01:56:03.073480+00:00",
-      "type": "added",
-      "program_name": "Uphold",
-      "platform": "Intigriti",
-      "details": "New program: Uphold on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T01:56:03.073480+00:00",
-      "type": "removed",
-      "program_name": "Challenge 0526",
-      "platform": "Intigriti",
-      "details": "Program removed: Challenge 0526 from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-26T01:56:03.073480+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T19:13:00.921103+00:00",
-      "type": "added",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T19:13:00.921103+00:00",
-      "type": "removed",
-      "program_name": "Kinepolis Group",
-      "platform": "Intigriti",
-      "details": "Program removed: Kinepolis Group from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T14:28:47.720462+00:00",
-      "type": "added",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "New program: University of Basel VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T14:28:47.720462+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "added",
-      "program_name": "Kinepolis Group",
-      "platform": "Intigriti",
-      "details": "New program: Kinepolis Group on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "added",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "New program: Delen Private Bank on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "added",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "New program: Nexuzhealth on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "added",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "New program: PDQ bug bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "removed",
-      "program_name": "VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "removed",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: University of Basel VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "removed",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Universitätsspital Zürich VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T09:44:00.900490+00:00",
-      "type": "removed",
-      "program_name": "Uphold",
-      "platform": "Intigriti",
-      "details": "Program removed: Uphold from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T02:04:55.513443+00:00",
-      "type": "added",
-      "program_name": "VDP",
-      "platform": "Intigriti",
-      "details": "New program: VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-25T02:04:55.513443+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-24T01:58:09.451441+00:00",
-      "type": "added",
-      "program_name": "Uphold",
-      "platform": "Intigriti",
-      "details": "New program: Uphold on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-24T01:58:09.451441+00:00",
-      "type": "removed",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "Program removed: Nexuzhealth from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T18:51:30.106252+00:00",
-      "type": "added",
-      "program_name": "Intercom",
-      "platform": "Bugcrowd",
-      "details": "New program: Intercom on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-23T12:54:29.408198+00:00",
-      "type": "removed",
-      "program_name": "Intercom",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Intercom from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-05-23T08:03:04.428176+00:00",
-      "type": "added",
-      "program_name": "Universitätsspital Zürich VDP",
-      "platform": "Intigriti",
-      "details": "New program: Universitätsspital Zürich VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T08:03:04.428176+00:00",
-      "type": "removed",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "added",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "New program: University of Basel VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "added",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "removed",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "Program removed: Delen Private Bank from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "removed",
-      "program_name": "Kinepolis Group",
-      "platform": "Intigriti",
-      "details": "Program removed: Kinepolis Group from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-23T01:51:33.020958+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T19:19:59.143509+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T19:19:59.143509+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T14:10:48.782660+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T14:10:48.782660+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T08:45:54.145289+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T08:45:54.145289+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T02:01:09.801586+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-22T02:01:09.801586+00:00",
-      "type": "removed",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "Program removed: Intergamma from Intigriti"
-    },
-    {
-      "timestamp": "2026-05-21T14:34:22.995300+00:00",
-      "type": "updated",
-      "program_name": "DataDome Bot Bounty",
-      "platform": "YesWeHack",
-      "details": "Bounty updated: $3000 -> $1000"
-    },
-    {
-      "timestamp": "2026-05-21T08:52:27.481117+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-21T08:52:27.481117+00:00",
-      "type": "added",
-      "program_name": "Intergamma",
-      "platform": "Intigriti",
-      "details": "New program: Intergamma on Intigriti"
-    },
-    {
-      "timestamp": "2026-05-21T08:52:27.481117+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
     }
   ]
 }
