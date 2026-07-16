@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-16T07:51:14.396641+00:00",
+      "type": "added",
+      "program_name": "BOJA Consulting Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: BOJA Consulting Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-16T07:51:14.396641+00:00",
+      "type": "removed",
+      "program_name": "Izymes",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Izymes from Bugcrowd"
+    },
+    {
       "timestamp": "2026-07-16T01:19:47.681701+00:00",
       "type": "added",
       "program_name": "Cisco Networking",
@@ -3485,20 +3499,6 @@
       "program_name": "UZ Leuven",
       "platform": "Intigriti",
       "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-10T02:04:12.143360+00:00",
-      "type": "removed",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "Program removed: Nexuzhealth from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T19:53:13.944361+00:00",
-      "type": "added",
-      "program_name": "Skoda Auto Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
     }
   ]
 }
