@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "added",
+      "program_name": "Cisco Networking",
+      "platform": "Bugcrowd",
+      "details": "New program: Cisco Networking on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "added",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "New program: Tweakers on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "removed",
+      "program_name": "Cisco Meraki",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Cisco Meraki from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "removed",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T01:19:47.681701+00:00",
+      "type": "removed",
+      "program_name": "Altera",
+      "platform": "Intigriti",
+      "details": "Program removed: Altera from Intigriti"
+    },
+    {
       "timestamp": "2026-07-15T13:04:16.760475+00:00",
       "type": "added",
       "program_name": "BitGo Mobile Apps Bug Bounty Engagement ",
@@ -3457,48 +3499,6 @@
       "program_name": "Skoda Auto Bug Bounty Program",
       "platform": "Intigriti",
       "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T19:53:13.944361+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T14:15:40.142046+00:00",
-      "type": "added",
-      "program_name": "RIPE NCC",
-      "platform": "Intigriti",
-      "details": "New program: RIPE NCC on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T14:15:40.142046+00:00",
-      "type": "added",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "New program: Torfs on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T14:15:40.142046+00:00",
-      "type": "removed",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T14:15:40.142046+00:00",
-      "type": "removed",
-      "program_name": "Sqills",
-      "platform": "Intigriti",
-      "details": "Program removed: Sqills from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-09T08:55:53.318571+00:00",
-      "type": "added",
-      "program_name": "CM.com",
-      "platform": "Intigriti",
-      "details": "New program: CM.com on Intigriti"
     }
   ]
 }
