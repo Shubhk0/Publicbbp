@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-16T18:52:01.990217+00:00",
+      "type": "added",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "New program: TrueLayer on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T18:52:01.990217+00:00",
+      "type": "removed",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-07-16T13:12:54.482723+00:00",
       "type": "added",
       "program_name": "Altera",
@@ -3485,20 +3499,6 @@
       "program_name": "LastPass",
       "platform": "Bugcrowd",
       "details": "Program removed: LastPass from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-11T02:15:33.520953+00:00",
-      "type": "removed",
-      "program_name": "KuCoin Managed Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: KuCoin Managed Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-11T02:15:33.520953+00:00",
-      "type": "removed",
-      "program_name": "Kohl's",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Kohl's from Bugcrowd"
     }
   ]
 }
