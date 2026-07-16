@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-16T13:12:54.482723+00:00",
+      "type": "added",
+      "program_name": "Altera",
+      "platform": "Intigriti",
+      "details": "New program: Altera on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T13:12:54.482723+00:00",
+      "type": "added",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T13:12:54.482723+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-16T13:12:54.482723+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-07-16T07:51:14.396641+00:00",
       "type": "added",
       "program_name": "BOJA Consulting Bug Bounty",
@@ -3471,34 +3499,6 @@
       "program_name": "Kohl's",
       "platform": "Bugcrowd",
       "details": "Program removed: Kohl's from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-11T02:15:33.520953+00:00",
-      "type": "removed",
-      "program_name": "TheFork - B2B - TFM3",
-      "platform": "Bugcrowd",
-      "details": "Program removed: TheFork - B2B - TFM3 from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-10T20:05:31.448936+00:00",
-      "type": "added",
-      "program_name": "Epic Games VDP",
-      "platform": "HackerOne",
-      "details": "New program: Epic Games VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-06-10T20:05:31.448936+00:00",
-      "type": "removed",
-      "program_name": "TransUnion LLC",
-      "platform": "HackerOne",
-      "details": "Program removed: TransUnion LLC from HackerOne"
-    },
-    {
-      "timestamp": "2026-06-10T02:04:12.143360+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
     }
   ]
 }
