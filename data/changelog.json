@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-18T01:15:23.981614+00:00",
+      "type": "added",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "New program: Trouw on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-18T01:15:23.981614+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-07-17T18:49:38.201646+00:00",
       "type": "added",
       "program_name": "Toast VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "Ubisoft Responsible Disclosure Program",
       "platform": "Intigriti",
       "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T10:00:09.594266+00:00",
-      "type": "removed",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "Program removed: Delen Private Bank from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T02:15:33.520953+00:00",
-      "type": "added",
-      "program_name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement on Bugcrowd"
     }
   ]
 }
