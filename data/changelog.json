@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-18T12:43:55.596586+00:00",
+      "type": "added",
+      "program_name": "TrueLayer",
+      "platform": "Intigriti",
+      "details": "New program: TrueLayer on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-18T12:43:55.596586+00:00",
+      "type": "removed",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-07-18T01:15:23.981614+00:00",
       "type": "added",
       "program_name": "Trouw",
@@ -3485,20 +3499,6 @@
       "program_name": "Ubisoft Responsible Disclosure Program",
       "platform": "Intigriti",
       "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T15:28:43.799695+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T10:00:09.594266+00:00",
-      "type": "added",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
     }
   ]
 }
