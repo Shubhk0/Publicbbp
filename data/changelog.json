@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-19T01:20:50.455571+00:00",
+      "type": "added",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "New program: Trusted Firmware on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-19T01:20:50.455571+00:00",
+      "type": "added",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "New program: Tweakers on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-19T01:20:50.455571+00:00",
+      "type": "removed",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-19T01:20:50.455571+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-07-18T12:43:55.596586+00:00",
       "type": "added",
       "program_name": "TrueLayer",
@@ -3471,34 +3499,6 @@
       "program_name": "NVIDIA Public Bug Bounty",
       "platform": "Intigriti",
       "details": "New program: NVIDIA Public Bug Bounty on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T20:06:56.146588+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T15:28:43.799695+00:00",
-      "type": "added",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "New program: Delen Private Bank on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T15:28:43.799695+00:00",
-      "type": "added",
-      "program_name": "Sqills",
-      "platform": "Intigriti",
-      "details": "New program: Sqills on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-11T15:28:43.799695+00:00",
-      "type": "removed",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
     }
   ]
 }
