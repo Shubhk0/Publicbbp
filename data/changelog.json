@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-22T01:19:37.175279+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-22T01:19:37.175279+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
       "timestamp": "2026-07-21T18:59:58.219741+00:00",
       "type": "removed",
       "program_name": "OneDoc",
@@ -3485,20 +3499,6 @@
       "program_name": "Izymes",
       "platform": "Bugcrowd",
       "details": "New program: Izymes on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-13T19:04:15.216622+00:00",
-      "type": "removed",
-      "program_name": "CoinDesk.com",
-      "platform": "Bugcrowd",
-      "details": "Program removed: CoinDesk.com from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-13T13:19:21.030136+00:00",
-      "type": "removed",
-      "program_name": "Izymes",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Izymes from Bugcrowd"
     }
   ]
 }
