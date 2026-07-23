@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-23T18:55:43.758149+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-23T18:55:43.758149+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-07-23T08:06:18.219017+00:00",
       "type": "added",
       "program_name": "CM.com",
@@ -3485,20 +3499,6 @@
       "program_name": "Port of Antwerp-Bruges",
       "platform": "Intigriti",
       "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-15T20:42:21.462358+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-15T20:42:21.462358+00:00",
-      "type": "removed",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
     }
   ]
 }
