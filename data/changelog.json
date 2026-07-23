@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-23T01:26:51.379634+00:00",
+      "type": "added",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "New program: Trouw on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-23T01:26:51.379634+00:00",
+      "type": "removed",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "Program removed: CM.com from Intigriti"
+    },
+    {
       "timestamp": "2026-07-22T18:53:13.400779+00:00",
       "type": "added",
       "program_name": "Glassdoor Managed Bug Bounty Engagement",
@@ -3485,20 +3499,6 @@
       "program_name": "Twago",
       "platform": "Intigriti",
       "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-15T11:40:20.857536+00:00",
-      "type": "added",
-      "program_name": "Challenge 0626",
-      "platform": "Intigriti",
-      "details": "New program: Challenge 0626 on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-15T11:40:20.857536+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
     }
   ]
 }
