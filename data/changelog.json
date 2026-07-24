@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-24T08:03:14.800672+00:00",
+      "type": "added",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "New program: Trouw on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-24T08:03:14.800672+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
       "timestamp": "2026-07-23T18:55:43.758149+00:00",
       "type": "added",
       "program_name": "Capital.com",
@@ -3485,20 +3499,6 @@
       "program_name": "PDQ bug bounty program",
       "platform": "Intigriti",
       "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "removed",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "Program removed: Torfs from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
     }
   ]
 }
