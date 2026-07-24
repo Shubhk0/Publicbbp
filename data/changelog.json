@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-24T13:12:27.970059+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-24T13:12:27.970059+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-24T13:12:27.970059+00:00",
+      "type": "removed",
+      "program_name": "Torfs",
+      "platform": "Intigriti",
+      "details": "Program removed: Torfs from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-24T13:12:27.970059+00:00",
+      "type": "removed",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "Program removed: Trouw from Intigriti"
+    },
+    {
       "timestamp": "2026-07-24T08:03:14.800672+00:00",
       "type": "added",
       "program_name": "Trouw",
@@ -3471,34 +3499,6 @@
       "program_name": "UZ Leuven",
       "platform": "Intigriti",
       "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "added",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Ubisoft Responsible Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T02:34:01.802417+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
     }
   ]
 }
