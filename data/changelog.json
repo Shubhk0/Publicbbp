@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-26T18:51:55.987364+00:00",
+      "type": "added",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "New program: Tweakers on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-26T18:51:55.987364+00:00",
+      "type": "removed",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "Program removed: Delen Private Bank from Intigriti"
+    },
+    {
       "timestamp": "2026-07-25T07:46:51.548123+00:00",
       "type": "added",
       "program_name": "Trouw",
@@ -3485,20 +3499,6 @@
       "program_name": "Lansweeper Bug Bounty Program",
       "platform": "Intigriti",
       "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T20:34:10.389338+00:00",
-      "type": "removed",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T16:18:17.836593+00:00",
-      "type": "added",
-      "program_name": "Mobile Vikings",
-      "platform": "Intigriti",
-      "details": "New program: Mobile Vikings on Intigriti"
     }
   ]
 }
