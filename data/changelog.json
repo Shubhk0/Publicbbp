@@ -1,6 +1,90 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Wolt",
+      "platform": "HackerOne",
+      "details": "New program: Wolt on HackerOne"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Challenge 0726",
+      "platform": "Intigriti",
+      "details": "New program: Challenge 0726 on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "added",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "The Perfume Shop",
+      "platform": "Intigriti",
+      "details": "Program removed: The Perfume Shop from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "Trouw",
+      "platform": "Intigriti",
+      "details": "Program removed: Trouw from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "Torfs",
+      "platform": "Intigriti",
+      "details": "Program removed: Torfs from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "Privy (Bounty)",
+      "platform": "HackerOne",
+      "details": "Program removed: Privy (Bounty) from HackerOne"
+    },
+    {
+      "timestamp": "2026-07-27T14:05:35.530743+00:00",
+      "type": "removed",
+      "program_name": "Tomorrowland",
+      "platform": "Intigriti",
+      "details": "Program removed: Tomorrowland from Intigriti"
+    },
+    {
       "timestamp": "2026-07-27T09:22:10.231168+00:00",
       "type": "added",
       "program_name": "Superbank - Public Bug Bounty Program",
@@ -3415,90 +3499,6 @@
       "program_name": "Appsvio Marketplace Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Appsvio Marketplace Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "added",
-      "program_name": "Easy Agile",
-      "platform": "Bugcrowd",
-      "details": "New program: Easy Agile on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "added",
-      "program_name": "Deviniti",
-      "platform": "Bugcrowd",
-      "details": "New program: Deviniti on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "added",
-      "program_name": "Agoda Public",
-      "platform": "HackerOne",
-      "details": "New program: Agoda Public on HackerOne"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "removed",
-      "program_name": "Kantega SSO",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Kantega SSO from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "removed",
-      "program_name": "Keeper Security Public Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Keeper Security Public Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "removed",
-      "program_name": "Netflix",
-      "platform": "HackerOne",
-      "details": "Program removed: Netflix from HackerOne"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "removed",
-      "program_name": "Kaleido",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Kaleido from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-18T10:01:31.351217+00:00",
-      "type": "removed",
-      "program_name": "Kiteworks",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Kiteworks from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-17T19:55:22.126688+00:00",
-      "type": "added",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "New program: Delen Private Bank on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T19:55:22.126688+00:00",
-      "type": "added",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "New program: Torfs on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T19:55:22.126688+00:00",
-      "type": "removed",
-      "program_name": "Mobile Vikings",
-      "platform": "Intigriti",
-      "details": "Program removed: Mobile Vikings from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T19:55:22.126688+00:00",
-      "type": "removed",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "Program removed: Twago from Intigriti"
     }
   ]
 }
