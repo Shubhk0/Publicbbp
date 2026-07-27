@@ -1,6 +1,41 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-27T09:22:10.231168+00:00",
+      "type": "added",
+      "program_name": "Superbank - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Superbank - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-07-27T09:22:10.231168+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T09:22:10.231168+00:00",
+      "type": "added",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "New program: Capital.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T09:22:10.231168+00:00",
+      "type": "removed",
+      "program_name": "Trusted Firmware",
+      "platform": "Intigriti",
+      "details": "Program removed: Trusted Firmware from Intigriti"
+    },
+    {
+      "timestamp": "2026-07-27T09:22:10.231168+00:00",
+      "type": "removed",
+      "program_name": "Tweakers",
+      "platform": "Intigriti",
+      "details": "Program removed: Tweakers from Intigriti"
+    },
+    {
       "timestamp": "2026-07-26T18:51:55.987364+00:00",
       "type": "added",
       "program_name": "Tweakers",
@@ -3464,41 +3499,6 @@
       "program_name": "Twago",
       "platform": "Intigriti",
       "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T14:45:37.753905+00:00",
-      "type": "added",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T14:45:37.753905+00:00",
-      "type": "removed",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "Program removed: Delen Private Bank from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T10:22:04.900443+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-17T10:22:04.900443+00:00",
-      "type": "removed",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "Program removed: Torfs from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-16T20:34:10.389338+00:00",
-      "type": "added",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
     }
   ]
 }
