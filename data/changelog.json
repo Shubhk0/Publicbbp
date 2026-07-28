@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-28T08:10:06.348192+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-28T08:10:06.348192+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-07-28T01:18:45.785507+00:00",
       "type": "added",
       "program_name": "Omnicell",
@@ -3485,20 +3499,6 @@
       "program_name": "Trouw",
       "platform": "Intigriti",
       "details": "Program removed: Trouw from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-19T14:37:14.277641+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Technologies on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-19T14:37:14.277641+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
     }
   ]
 }
