@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-29T08:14:19.602003+00:00",
+      "type": "added",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "New program: Toast VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-29T08:14:19.602003+00:00",
+      "type": "removed",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "Program removed: Delen Private Bank from Intigriti"
+    },
+    {
       "timestamp": "2026-07-28T19:01:57.008236+00:00",
       "type": "added",
       "program_name": "DataCamp",
@@ -3485,20 +3499,6 @@
       "program_name": "Monzo Public Bug Bounty Program",
       "platform": "Intigriti",
       "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-20T02:04:12.124211+00:00",
-      "type": "removed",
-      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Housing Application (huisvestingsapp) Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-20T02:04:12.124211+00:00",
-      "type": "removed",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "Program removed: Soundtrack Technologies from Intigriti"
     }
   ]
 }
