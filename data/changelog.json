@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-29T13:39:59.725906+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-29T13:39:59.725906+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-07-29T08:14:19.602003+00:00",
       "type": "added",
       "program_name": "Toast VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "Twago",
       "platform": "Intigriti",
       "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-20T02:04:12.124211+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-20T02:04:12.124211+00:00",
-      "type": "removed",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
     }
   ]
 }
