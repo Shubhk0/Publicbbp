@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-30T13:21:28.002969+00:00",
+      "type": "removed",
+      "program_name": "Memento - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Memento - Public Bug Bounty Program from YesWeHack"
+    },
+    {
       "timestamp": "2026-07-29T13:39:59.725906+00:00",
       "type": "added",
       "program_name": "Delen Private Bank",
@@ -3492,13 +3499,6 @@
       "program_name": "Trouw",
       "platform": "Intigriti",
       "details": "New program: Trouw on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-20T02:04:12.124211+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
     }
   ]
 }
