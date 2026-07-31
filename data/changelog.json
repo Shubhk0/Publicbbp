@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-07-31T01:26:59.769866+00:00",
+      "type": "added",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "New program: Tekion VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-07-31T01:26:59.769866+00:00",
+      "type": "removed",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "Program removed: Kinepolis Group from Intigriti"
+    },
+    {
       "timestamp": "2026-07-30T19:05:37.702596+00:00",
       "type": "added",
       "program_name": "Assa Abloy Americas",
@@ -3485,20 +3499,6 @@
       "program_name": "Netflix",
       "platform": "HackerOne",
       "details": "New program: Netflix on HackerOne"
-    },
-    {
-      "timestamp": "2026-06-22T16:23:13.485434+00:00",
-      "type": "removed",
-      "program_name": "Gogo VDP",
-      "platform": "HackerOne",
-      "details": "Program removed: Gogo VDP from HackerOne"
-    },
-    {
-      "timestamp": "2026-06-22T16:23:13.485434+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
     }
   ]
 }
