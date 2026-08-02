@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-02T18:49:55.255755+00:00",
+      "type": "added",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T18:49:55.255755+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-08-02T07:59:49.019367+00:00",
       "type": "added",
       "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
@@ -3485,20 +3499,6 @@
       "program_name": "Tweakers",
       "platform": "Intigriti",
       "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "added",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "removed",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "Program removed: Delen Private Bank from Intigriti"
     }
   ]
 }
