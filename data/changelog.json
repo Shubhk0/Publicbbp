@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "added",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: The Coca-Cola Company Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "added",
+      "program_name": "The Perfume Shop",
+      "platform": "Intigriti",
+      "details": "New program: The Perfume Shop on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "added",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "New program: Toast VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "removed",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-02T07:59:49.019367+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-08-01T01:28:09.116109+00:00",
       "type": "added",
       "program_name": "DataCamp",
@@ -3457,48 +3499,6 @@
       "program_name": "Delen Private Bank",
       "platform": "Intigriti",
       "details": "Program removed: Delen Private Bank from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "removed",
-      "program_name": "Majid Al Futtaim Retail",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Majid Al Futtaim Retail from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "removed",
-      "program_name": "Challenge 0626",
-      "platform": "Intigriti",
-      "details": "Program removed: Challenge 0626 from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T01:58:13.635117+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T01:58:13.635117+00:00",
-      "type": "removed",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "Program removed: Soundtrack Technologies from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-22T20:29:42.895020+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Technologies on Intigriti"
     }
   ]
 }
