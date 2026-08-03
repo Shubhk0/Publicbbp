@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-03T19:14:26.338757+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-03T19:14:26.338757+00:00",
+      "type": "removed",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Tekion VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-08-03T14:09:40.297204+00:00",
       "type": "added",
       "program_name": "Salto Vulnerability Disclosure ",
@@ -3485,20 +3499,6 @@
       "program_name": "DataCamp",
       "platform": "Intigriti",
       "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Technologies on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "removed",
-      "program_name": "Netflix",
-      "platform": "HackerOne",
-      "details": "Program removed: Netflix from HackerOne"
     }
   ]
 }
