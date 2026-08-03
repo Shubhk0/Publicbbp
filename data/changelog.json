@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-03T08:56:10.007711+00:00",
+      "type": "updated",
+      "program_name": "GoTo Financial - Public Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Bounty updated: $7000 -> $5000"
+    },
+    {
+      "timestamp": "2026-08-03T08:56:10.007711+00:00",
+      "type": "updated",
+      "program_name": "Tencent Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Bounty updated: $6425 -> $5000"
+    },
+    {
+      "timestamp": "2026-08-03T08:56:10.007711+00:00",
+      "type": "updated",
+      "program_name": "GOJEK - Public Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Bounty updated: $5000 -> $3500"
+    },
+    {
       "timestamp": "2026-08-02T18:49:55.255755+00:00",
       "type": "added",
       "program_name": "Ninja Kiwi Games Bug Bounty program",
@@ -3478,27 +3499,6 @@
       "program_name": "Twago",
       "platform": "Intigriti",
       "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T08:53:49.305761+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
     }
   ]
 }
