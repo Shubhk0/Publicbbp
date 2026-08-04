@@ -1,6 +1,41 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-04T13:40:06.595001+00:00",
+      "type": "added",
+      "program_name": "Keycloak",
+      "platform": "YesWeHack",
+      "details": "New program: Keycloak on YesWeHack"
+    },
+    {
+      "timestamp": "2026-08-04T13:40:06.595001+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T13:40:06.595001+00:00",
+      "type": "added",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T13:40:06.595001+00:00",
+      "type": "removed",
+      "program_name": "Dropbox Bug Bounty",
+      "platform": "Intigriti",
+      "details": "Program removed: Dropbox Bug Bounty from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T13:40:06.595001+00:00",
+      "type": "removed",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: The Coca-Cola Company Vulnerability Disclosure Program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-04T08:13:18.027859+00:00",
       "type": "added",
       "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
@@ -3464,41 +3499,6 @@
       "program_name": "Trusted Firmware",
       "platform": "Intigriti",
       "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-24T14:00:51.023743+00:00",
-      "type": "removed",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "Program removed: Twago from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T19:46:43.300173+00:00",
-      "type": "added",
-      "program_name": "Twago",
-      "platform": "Intigriti",
-      "details": "New program: Twago on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T19:46:43.300173+00:00",
-      "type": "removed",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "Program removed: Soundtrack Technologies from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Kraken Tech (VDP)",
-      "platform": "HackerOne",
-      "details": "New program: Kraken Tech (VDP) on HackerOne"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
     }
   ]
 }
