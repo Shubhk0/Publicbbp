@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-04T08:13:18.027859+00:00",
+      "type": "added",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: The Coca-Cola Company Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T08:13:18.027859+00:00",
+      "type": "added",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "New program: Tekion VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T08:13:18.027859+00:00",
+      "type": "removed",
+      "program_name": "Challenge 0726",
+      "platform": "Intigriti",
+      "details": "Program removed: Challenge 0726 from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-04T08:13:18.027859+00:00",
+      "type": "removed",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Housing Application (huisvestingsapp) Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-03T19:14:26.338757+00:00",
       "type": "added",
       "program_name": "Kinepolis Group",
@@ -3471,34 +3499,6 @@
       "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
       "platform": "Intigriti",
       "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Gogo VDP",
-      "platform": "HackerOne",
-      "details": "New program: Gogo VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Majid Al Futtaim Retail",
-      "platform": "Bugcrowd",
-      "details": "New program: Majid Al Futtaim Retail on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "details": "New program: Delen Private Bank on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-23T14:16:08.405106+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
     }
   ]
 }
