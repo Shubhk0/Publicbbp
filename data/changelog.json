@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-05T19:09:15.917938+00:00",
+      "type": "added",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "New program: Tekion VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-05T19:09:15.917938+00:00",
+      "type": "added",
+      "program_name": "Deezer Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Deezer Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-08-05T19:09:15.917938+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-08-04T19:15:23.200486+00:00",
       "type": "added",
       "program_name": "Dropbox Bug Bounty",
@@ -3478,27 +3499,6 @@
       "program_name": "K15t",
       "platform": "Bugcrowd",
       "details": "Program removed: K15t from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-24T14:00:51.023743+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Technologies on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-24T14:00:51.023743+00:00",
-      "type": "added",
-      "program_name": "LeakyJar Challenge",
-      "platform": "Intigriti",
-      "details": "New program: LeakyJar Challenge on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-24T14:00:51.023743+00:00",
-      "type": "added",
-      "program_name": "Tekion VDP",
-      "platform": "Intigriti",
-      "details": "New program: Tekion VDP on Intigriti"
     }
   ]
 }
