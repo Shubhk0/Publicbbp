@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-06T23:46:10.608336+00:00",
+      "type": "added",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: The Coca-Cola Company Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-06T23:46:10.608336+00:00",
+      "type": "removed",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "Program removed: Kinepolis Group from Intigriti"
+    },
+    {
       "timestamp": "2026-08-06T13:28:43.195310+00:00",
       "type": "added",
       "program_name": "toom Baumarkt GmbH - Webshop",
@@ -3485,20 +3499,6 @@
       "program_name": "Trouw",
       "platform": "Intigriti",
       "details": "New program: Trouw on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T02:01:17.063557+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T02:01:17.063557+00:00",
-      "type": "removed",
-      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Entain Game Logic Flaws Bug Bounty Program from Bugcrowd"
     }
   ]
 }
