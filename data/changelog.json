@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-06T13:28:43.195310+00:00",
+      "type": "added",
+      "program_name": "toom Baumarkt GmbH - Webshop",
+      "platform": "YesWeHack",
+      "details": "New program: toom Baumarkt GmbH - Webshop on YesWeHack"
+    },
+    {
       "timestamp": "2026-08-05T19:09:15.917938+00:00",
       "type": "added",
       "program_name": "Tekion VDP",
@@ -3492,13 +3499,6 @@
       "program_name": "Entain Game Logic Flaws Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "Program removed: Entain Game Logic Flaws Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-25T02:01:17.063557+00:00",
-      "type": "removed",
-      "program_name": "K15t",
-      "platform": "Bugcrowd",
-      "details": "Program removed: K15t from Bugcrowd"
     }
   ]
 }
