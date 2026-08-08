@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-08T12:20:41.126435+00:00",
+      "type": "removed",
+      "program_name": "Withings",
+      "platform": "YesWeHack",
+      "details": "Program removed: Withings from YesWeHack"
+    },
+    {
       "timestamp": "2026-08-06T23:46:10.608336+00:00",
       "type": "added",
       "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
@@ -3492,13 +3499,6 @@
       "program_name": "AgilePulse Marketplace Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "New program: AgilePulse Marketplace Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-25T02:01:17.063557+00:00",
-      "type": "added",
-      "program_name": "Trouw",
-      "platform": "Intigriti",
-      "details": "New program: Trouw on Intigriti"
     }
   ]
 }
