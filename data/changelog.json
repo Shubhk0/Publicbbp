@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-08T18:18:58.339760+00:00",
+      "type": "added",
+      "program_name": "The Perfume Shop",
+      "platform": "Intigriti",
+      "details": "New program: The Perfume Shop on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-08T18:18:58.339760+00:00",
+      "type": "removed",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "Program removed: CM.com from Intigriti"
+    },
+    {
       "timestamp": "2026-08-08T12:20:41.126435+00:00",
       "type": "removed",
       "program_name": "Withings",
@@ -3485,20 +3499,6 @@
       "program_name": "Entain Game Logic Flaws Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-06-25T08:44:29.957537+00:00",
-      "type": "removed",
-      "program_name": "Trouw",
-      "platform": "Intigriti",
-      "details": "Program removed: Trouw from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T02:01:17.063557+00:00",
-      "type": "added",
-      "program_name": "AgilePulse Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: AgilePulse Marketplace Bug Bounty Program on Bugcrowd"
     }
   ]
 }
