@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-09T18:20:55.675778+00:00",
+      "type": "added",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "New program: Toast VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-09T18:20:55.675778+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-08T18:18:58.339760+00:00",
       "type": "added",
       "program_name": "The Perfume Shop",
@@ -3485,20 +3499,6 @@
       "program_name": "Torfs",
       "platform": "Intigriti",
       "details": "Program removed: Torfs from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T08:44:29.957537+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T08:44:29.957537+00:00",
-      "type": "added",
-      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
     }
   ]
 }
