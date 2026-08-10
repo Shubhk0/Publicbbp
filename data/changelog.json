@@ -1,6 +1,76 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "added",
+      "program_name": "Spacelift VDP",
+      "platform": "Intigriti",
+      "details": "New program: Spacelift VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "added",
+      "program_name": "Sqills",
+      "platform": "Intigriti",
+      "details": "New program: Sqills on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "added",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "New program: CM.com on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "added",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "New program: Soundtrack Technologies on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "removed",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Tekion VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "removed",
+      "program_name": "Toast VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Toast VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "removed",
+      "program_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: The Coca-Cola Company Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "removed",
+      "program_name": "The Perfume Shop",
+      "platform": "Intigriti",
+      "details": "Program removed: The Perfume Shop from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-10T12:38:51.572084+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
       "timestamp": "2026-08-09T18:20:55.675778+00:00",
       "type": "added",
       "program_name": "Toast VDP",
@@ -3429,76 +3499,6 @@
       "program_name": "Lansweeper Bug Bounty Program",
       "platform": "Intigriti",
       "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "RIPE NCC",
-      "platform": "Intigriti",
-      "details": "Program removed: RIPE NCC from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T19:42:36.592087+00:00",
-      "type": "added",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "New program: Nexuzhealth on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T19:42:36.592087+00:00",
-      "type": "added",
-      "program_name": "Skoda Auto Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T19:42:36.592087+00:00",
-      "type": "removed",
-      "program_name": "Tomorrowland",
-      "platform": "Intigriti",
-      "details": "Program removed: Tomorrowland from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T19:42:36.592087+00:00",
-      "type": "removed",
-      "program_name": "Toast VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Toast VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T13:57:53.625989+00:00",
-      "type": "added",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-25T13:57:53.625989+00:00",
-      "type": "removed",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "Program removed: Torfs from Intigriti"
     }
   ]
 }
