@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-11T18:42:40.884259+00:00",
+      "type": "added",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "New program: Tekion VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-11T18:42:40.884259+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-08-11T12:36:00.592644+00:00",
       "type": "added",
       "program_name": "PRISM",
@@ -3485,20 +3499,6 @@
       "program_name": "Toast VDP",
       "platform": "Intigriti",
       "details": "New program: Toast VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "added",
-      "program_name": "Torfs",
-      "platform": "Intigriti",
-      "details": "New program: Torfs on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
     }
   ]
 }
