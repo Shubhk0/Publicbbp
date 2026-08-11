@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-11T06:42:56.956833+00:00",
+      "type": "added",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "New program: Superdrug on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-11T06:42:56.956833+00:00",
+      "type": "removed",
+      "program_name": "Soundtrack Technologies",
+      "platform": "Intigriti",
+      "details": "Program removed: Soundtrack Technologies from Intigriti"
+    },
+    {
       "timestamp": "2026-08-10T12:38:51.572084+00:00",
       "type": "added",
       "program_name": "Spacelift VDP",
@@ -3485,20 +3499,6 @@
       "program_name": "BMC",
       "platform": "Intigriti",
       "details": "Program removed: BMC from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "Tempo-Team ",
-      "platform": "Intigriti",
-      "details": "Program removed: Tempo-Team  from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "removed",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
     }
   ]
 }
