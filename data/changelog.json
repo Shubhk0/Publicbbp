@@ -1,6 +1,41 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-16T00:32:19.603561+00:00",
+      "type": "added",
+      "program_name": "Dutch Lottery VDP",
+      "platform": "Intigriti",
+      "details": "New program: Dutch Lottery VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-16T00:32:19.603561+00:00",
+      "type": "added",
+      "program_name": "Aelbox Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Aelbox Marketplace Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-16T00:32:19.603561+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-16T00:32:19.603561+00:00",
+      "type": "removed",
+      "program_name": "Salt Mobile SA - Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Salt Mobile SA - Bug Bounty Program from YesWeHack"
+    },
+    {
+      "timestamp": "2026-08-16T00:32:19.603561+00:00",
+      "type": "removed",
+      "program_name": "Internet Brands Public",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Internet Brands Public from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-12T12:38:57.482481+00:00",
       "type": "added",
       "program_name": "BIND 9 Bug Bounty Program",
@@ -3464,41 +3499,6 @@
       "program_name": "University of Basel VDP",
       "platform": "Intigriti",
       "details": "Program removed: University of Basel VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-29T10:16:31.242393+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-29T10:16:31.242393+00:00",
-      "type": "removed",
-      "program_name": "Ubisoft Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ubisoft Responsible Disclosure Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-29T02:07:40.233095+00:00",
-      "type": "added",
-      "program_name": "University of Basel VDP",
-      "platform": "Intigriti",
-      "details": "New program: University of Basel VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-29T02:07:40.233095+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-28T18:58:39.639503+00:00",
-      "type": "added",
-      "program_name": "Tomorrowland",
-      "platform": "Intigriti",
-      "details": "New program: Tomorrowland on Intigriti"
     }
   ]
 }
