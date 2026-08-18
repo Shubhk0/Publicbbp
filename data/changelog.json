@@ -1,6 +1,41 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-18T00:30:02.996978+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-18T00:30:02.996978+00:00",
+      "type": "added",
+      "program_name": "Nexuzhealth Web PACS",
+      "platform": "Intigriti",
+      "details": "New program: Nexuzhealth Web PACS on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-18T00:30:02.996978+00:00",
+      "type": "removed",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Tekion VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-18T00:30:02.996978+00:00",
+      "type": "removed",
+      "program_name": "Sqills",
+      "platform": "Intigriti",
+      "details": "Program removed: Sqills from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-18T00:30:02.996978+00:00",
+      "type": "removed",
+      "program_name": "Keycloak",
+      "platform": "YesWeHack",
+      "details": "Program removed: Keycloak from YesWeHack"
+    },
+    {
       "timestamp": "2026-08-17T18:19:23.774688+00:00",
       "type": "added",
       "program_name": "Tekion VDP",
@@ -3464,41 +3499,6 @@
       "program_name": "Trusted Firmware",
       "platform": "Intigriti",
       "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-30T02:02:22.801391+00:00",
-      "type": "removed",
-      "program_name": "Contentsquare Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "Program removed: Contentsquare Bug Bounty Program from YesWeHack"
-    },
-    {
-      "timestamp": "2026-06-30T02:02:22.801391+00:00",
-      "type": "removed",
-      "program_name": "LeakyJar Challenge",
-      "platform": "Intigriti",
-      "details": "Program removed: LeakyJar Challenge from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-30T02:02:22.801391+00:00",
-      "type": "removed",
-      "program_name": "GovTech - Vulnerability Disclosure Programme",
-      "platform": "YesWeHack",
-      "details": "Program removed: GovTech - Vulnerability Disclosure Programme from YesWeHack"
-    },
-    {
-      "timestamp": "2026-06-29T19:29:34.349977+00:00",
-      "type": "added",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-29T19:29:34.349977+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
     }
   ]
 }
