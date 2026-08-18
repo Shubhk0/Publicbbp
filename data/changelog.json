@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-18T12:19:04.361868+00:00",
+      "type": "added",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "New program: Intercom on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-18T12:19:04.361868+00:00",
+      "type": "added",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "New program: PDQ bug bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-18T12:19:04.361868+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
       "timestamp": "2026-08-18T06:20:29.553179+00:00",
       "type": "removed",
       "program_name": "Intercom",
@@ -3478,27 +3499,6 @@
       "program_name": "Trusted Firmware",
       "platform": "Intigriti",
       "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-30T13:50:23.614238+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-06-30T13:50:23.614238+00:00",
-      "type": "removed",
-      "program_name": "Revolut VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Revolut VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-06-30T08:51:51.754321+00:00",
-      "type": "added",
-      "program_name": "GovTech - Vulnerability Disclosure Programme",
-      "platform": "YesWeHack",
-      "details": "New program: GovTech - Vulnerability Disclosure Programme on YesWeHack"
     }
   ]
 }
