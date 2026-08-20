@@ -1,6 +1,62 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "added",
+      "program_name": "Accxia Marketplace Bug Bounty ",
+      "platform": "Bugcrowd",
+      "details": "New program: Accxia Marketplace Bug Bounty  on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "added",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Speakap Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "added",
+      "program_name": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "New program: BrowserStack Inc. Marketplace Managed Bug Bounty Engagement on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "added",
+      "program_name": "DevSamurai",
+      "platform": "Bugcrowd",
+      "details": "New program: DevSamurai on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "removed",
+      "program_name": "Inprowiser Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Inprowiser Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "removed",
+      "program_name": "Intercom",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Intercom from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-20T00:30:24.270234+00:00",
+      "type": "removed",
+      "program_name": "Indeed",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Indeed from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-19T18:15:09.509789+00:00",
       "type": "added",
       "program_name": "DataCamp",
@@ -3443,62 +3499,6 @@
       "program_name": "Trouw",
       "platform": "Intigriti",
       "details": "Program removed: Trouw from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-02T13:24:49.593644+00:00",
-      "type": "added",
-      "program_name": "Attentia VDP",
-      "platform": "Intigriti",
-      "details": "New program: Attentia VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-02T13:24:49.593644+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-02T02:00:28.417937+00:00",
-      "type": "added",
-      "program_name": "Anthropic Cyber Jailbreak",
-      "platform": "HackerOne",
-      "details": "New program: Anthropic Cyber Jailbreak on HackerOne"
-    },
-    {
-      "timestamp": "2026-07-02T02:00:28.417937+00:00",
-      "type": "removed",
-      "program_name": "DailyPay VDP",
-      "platform": "HackerOne",
-      "details": "Program removed: DailyPay VDP from HackerOne"
-    },
-    {
-      "timestamp": "2026-07-01T19:26:36.590769+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-01T19:26:36.590769+00:00",
-      "type": "added",
-      "program_name": "Blofin Crypto Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Blofin Crypto Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-01T19:26:36.590769+00:00",
-      "type": "removed",
-      "program_name": "Just Eat Takeaway.com",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Just Eat Takeaway.com from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-01T19:26:36.590769+00:00",
-      "type": "removed",
-      "program_name": "Kinepolis Group",
-      "platform": "Intigriti",
-      "details": "Program removed: Kinepolis Group from Intigriti"
     }
   ]
 }
