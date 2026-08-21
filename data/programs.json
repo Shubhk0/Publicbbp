@@ -1,31 +1,31 @@
 {
   "metadata": {
-    "last_updated": "2026-08-21T06:22:34.757191+00:00",
-    "total_programs": 414,
+    "last_updated": "2026-08-21T12:20:05.953050+00:00",
+    "total_programs": 314,
     "sources": [
-      "HackerOne",
-      "Independent",
-      "Intigriti",
       "Immunefi",
+      "Independent",
+      "Bugcrowd",
       "YesWeHack",
-      "Bugcrowd"
+      "Intigriti",
+      "HackerOne"
     ],
     "categories": [
+      "E-commerce",
+      "Gaming",
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Entertainment",
       "Social Media",
-      "Cryptocurrency",
       "HR/Recruiting",
+      "AI/ML",
+      "Transportation",
       "Automotive",
       "Government",
-      "Healthcare",
-      "Transportation",
+      "Cryptocurrency",
       "Telecom",
-      "Technology",
-      "Security",
-      "Gaming",
-      "E-commerce",
-      "Entertainment",
-      "Finance",
-      "AI/ML"
+      "Security"
     ]
   },
   "programs": [
@@ -44,7 +44,7 @@
         "DeFi"
       ],
       "id": "a5de8e6e8ff1",
-      "last_updated": "2026-08-21T06:22:32.246121+00:00"
+      "last_updated": "2026-08-21T12:20:03.398895+00:00"
     },
     {
       "name": "Aurora",
@@ -61,7 +61,7 @@
         "NEAR Protocol"
       ],
       "id": "8272f6788385",
-      "last_updated": "2026-08-21T06:22:32.246117+00:00"
+      "last_updated": "2026-08-21T12:20:03.398892+00:00"
     },
     {
       "name": "Olympus DAO",
@@ -78,7 +78,7 @@
         "DeFi"
       ],
       "id": "fec7d4184a88",
-      "last_updated": "2026-08-21T06:22:32.246122+00:00"
+      "last_updated": "2026-08-21T12:20:03.398897+00:00"
     },
     {
       "name": "Wormhole",
@@ -95,7 +95,7 @@
         "Blockchain"
       ],
       "id": "0e00e76f3c5a",
-      "last_updated": "2026-08-21T06:22:32.246115+00:00"
+      "last_updated": "2026-08-21T12:20:03.398890+00:00"
     },
     {
       "name": "Apple Security Bounty",
@@ -113,7 +113,7 @@
         "iCloud"
       ],
       "id": "7c72911bfc5b",
-      "last_updated": "2026-08-21T06:22:32.246127+00:00"
+      "last_updated": "2026-08-21T12:20:03.398902+00:00"
     },
     {
       "name": "Polygon",
@@ -129,7 +129,7 @@
         "Smart Contracts"
       ],
       "id": "3b51f9162cc6",
-      "last_updated": "2026-08-21T06:22:32.246119+00:00"
+      "last_updated": "2026-08-21T12:20:03.398894+00:00"
     },
     {
       "name": "Samsung",
@@ -146,7 +146,7 @@
         "Samsung Mobile"
       ],
       "id": "ad7ac2dbaf35",
-      "last_updated": "2026-08-21T06:22:32.246077+00:00"
+      "last_updated": "2026-08-21T12:20:03.398852+00:00"
     },
     {
       "name": "Microsoft MSRC",
@@ -165,7 +165,7 @@
         "Edge"
       ],
       "id": "f44a4e265c14",
-      "last_updated": "2026-08-21T06:22:32.246125+00:00"
+      "last_updated": "2026-08-21T12:20:03.398900+00:00"
     },
     {
       "name": "Swiss Post - E-Voting",
@@ -179,7 +179,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2daaf54b62ca",
-      "last_updated": "2026-08-21T06:22:34.243569+00:00"
+      "last_updated": "2026-08-21T12:20:05.309191+00:00"
     },
     {
       "name": "Intel",
@@ -197,7 +197,7 @@
         "Software"
       ],
       "id": "dfcc9b6f6216",
-      "last_updated": "2026-08-21T06:22:32.246130+00:00"
+      "last_updated": "2026-08-21T12:20:03.398906+00:00"
     },
     {
       "name": "Coinbase",
@@ -213,7 +213,7 @@
         "*.coinbase.com"
       ],
       "id": "96f540fbbf35",
-      "last_updated": "2026-08-21T06:22:32.246045+00:00"
+      "last_updated": "2026-08-21T12:20:03.398818+00:00"
     },
     {
       "name": "Meta",
@@ -231,7 +231,7 @@
         "*.whatsapp.com"
       ],
       "id": "04ea3c52f50f",
-      "last_updated": "2026-08-21T06:22:32.246129+00:00"
+      "last_updated": "2026-08-21T12:20:03.398904+00:00"
     },
     {
       "name": "Shopify",
@@ -248,7 +248,7 @@
         "*.myshopify.com"
       ],
       "id": "f60f67a32e37",
-      "last_updated": "2026-08-21T06:22:32.246028+00:00"
+      "last_updated": "2026-08-21T12:20:03.398802+00:00"
     },
     {
       "name": "Sony PlayStation",
@@ -265,7 +265,7 @@
         "*.playstation.com"
       ],
       "id": "a4b6302bd1de",
-      "last_updated": "2026-08-21T06:22:32.246132+00:00"
+      "last_updated": "2026-08-21T12:20:03.398907+00:00"
     },
     {
       "name": "GitLab",
@@ -281,7 +281,7 @@
         "*.gitlab.com"
       ],
       "id": "255488fbe306",
-      "last_updated": "2026-08-21T06:22:32.246059+00:00"
+      "last_updated": "2026-08-21T12:20:03.398833+00:00"
     },
     {
       "name": "Dropbox",
@@ -297,7 +297,7 @@
         "*.dropbox.com"
       ],
       "id": "543776a93a9e",
-      "last_updated": "2026-08-21T06:22:32.246047+00:00"
+      "last_updated": "2026-08-21T12:20:03.398821+00:00"
     },
     {
       "name": "Google VRP",
@@ -316,7 +316,7 @@
         "Chrome"
       ],
       "id": "034f75566627",
-      "last_updated": "2026-08-21T06:22:32.246023+00:00"
+      "last_updated": "2026-08-21T12:20:03.398797+00:00"
     },
     {
       "name": "GitHub",
@@ -333,7 +333,7 @@
         "*.github.com"
       ],
       "id": "6fd31ec01bdb",
-      "last_updated": "2026-08-21T06:22:32.246026+00:00"
+      "last_updated": "2026-08-21T12:20:03.398800+00:00"
     },
     {
       "name": "Automattic",
@@ -350,7 +350,7 @@
         "*.tumblr.com"
       ],
       "id": "8cee4f9abbd1",
-      "last_updated": "2026-08-21T06:22:32.246053+00:00"
+      "last_updated": "2026-08-21T12:20:03.398828+00:00"
     },
     {
       "name": "Valve (Steam)",
@@ -367,7 +367,7 @@
         "*.valvesoftware.com"
       ],
       "id": "534c24ca9a87",
-      "last_updated": "2026-08-21T06:22:32.246061+00:00"
+      "last_updated": "2026-08-21T12:20:03.398835+00:00"
     },
     {
       "name": "WordPress",
@@ -384,7 +384,7 @@
         "*.wordpress.com"
       ],
       "id": "96d8c447ad19",
-      "last_updated": "2026-08-21T06:22:32.246052+00:00"
+      "last_updated": "2026-08-21T12:20:03.398826+00:00"
     },
     {
       "name": "OpenAI",
@@ -402,7 +402,7 @@
         "API"
       ],
       "id": "810f4ce065dc",
-      "last_updated": "2026-08-21T06:22:32.246079+00:00"
+      "last_updated": "2026-08-21T12:20:03.398853+00:00"
     },
     {
       "name": "PayPal",
@@ -419,7 +419,7 @@
         "*.venmo.com"
       ],
       "id": "104f6cb4977d",
-      "last_updated": "2026-08-21T06:22:32.246035+00:00"
+      "last_updated": "2026-08-21T12:20:03.398808+00:00"
     },
     {
       "name": "TikTok",
@@ -435,7 +435,7 @@
         "*.tiktok.com"
       ],
       "id": "41c09f6612b4",
-      "last_updated": "2026-08-21T06:22:32.246068+00:00"
+      "last_updated": "2026-08-21T12:20:03.398843+00:00"
     },
     {
       "name": "Twitter/X",
@@ -452,7 +452,7 @@
         "*.x.com"
       ],
       "id": "8b05478a2304",
-      "last_updated": "2026-08-21T06:22:32.246033+00:00"
+      "last_updated": "2026-08-21T12:20:03.398806+00:00"
     },
     {
       "name": "FDJ United (Online Betting and Gaming) - Bug Bounty program",
@@ -466,7 +466,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "bbdc538f7032",
-      "last_updated": "2026-08-21T06:22:34.243216+00:00"
+      "last_updated": "2026-08-21T12:20:05.308973+00:00"
     },
     {
       "name": "Mozilla",
@@ -483,7 +483,7 @@
         "*.mozilla.org"
       ],
       "id": "2ae1741465e0",
-      "last_updated": "2026-08-21T06:22:32.246135+00:00"
+      "last_updated": "2026-08-21T12:20:03.398912+00:00"
     },
     {
       "name": "Netflix",
@@ -499,7 +499,7 @@
         "*.netflix.com"
       ],
       "id": "086a3e9518f7",
-      "last_updated": "2026-08-21T06:22:32.246081+00:00"
+      "last_updated": "2026-08-21T12:20:03.398855+00:00"
     },
     {
       "name": "Okta",
@@ -515,7 +515,7 @@
         "*.okta.com"
       ],
       "id": "9f4a974ee292",
-      "last_updated": "2026-08-21T06:22:32.246090+00:00"
+      "last_updated": "2026-08-21T12:20:03.398868+00:00"
     },
     {
       "name": "Slack",
@@ -531,7 +531,7 @@
         "*.slack.com"
       ],
       "id": "81f0ed80d3e5",
-      "last_updated": "2026-08-21T06:22:32.246050+00:00"
+      "last_updated": "2026-08-21T12:20:03.398824+00:00"
     },
     {
       "name": "Snapchat",
@@ -547,7 +547,7 @@
         "*.snapchat.com"
       ],
       "id": "654339acdf6b",
-      "last_updated": "2026-08-21T06:22:32.246066+00:00"
+      "last_updated": "2026-08-21T12:20:03.398840+00:00"
     },
     {
       "name": "Spotify",
@@ -563,7 +563,7 @@
         "*.spotify.com"
       ],
       "id": "8929a4bffc1e",
-      "last_updated": "2026-08-21T06:22:32.246057+00:00"
+      "last_updated": "2026-08-21T12:20:03.398832+00:00"
     },
     {
       "name": "Tesla",
@@ -579,7 +579,7 @@
         "*.tesla.com"
       ],
       "id": "1e53c787e9aa",
-      "last_updated": "2026-08-21T06:22:32.246073+00:00"
+      "last_updated": "2026-08-21T12:20:03.398848+00:00"
     },
     {
       "name": "Twitch",
@@ -595,7 +595,7 @@
         "*.twitch.tv"
       ],
       "id": "832bcd5199e0",
-      "last_updated": "2026-08-21T06:22:32.246087+00:00"
+      "last_updated": "2026-08-21T12:20:03.398861+00:00"
     },
     {
       "name": "Uber",
@@ -611,7 +611,7 @@
         "*.uber.com"
       ],
       "id": "1c388161f115",
-      "last_updated": "2026-08-21T06:22:32.246031+00:00"
+      "last_updated": "2026-08-21T12:20:03.398804+00:00"
     },
     {
       "name": "Verizon Media",
@@ -627,7 +627,7 @@
         "*.verizonmedia.com"
       ],
       "id": "0e93b648bf0a",
-      "last_updated": "2026-08-21T06:22:32.246138+00:00"
+      "last_updated": "2026-08-21T12:20:03.398913+00:00"
     },
     {
       "name": "Yahoo",
@@ -643,7 +643,7 @@
         "*.yahoo.com"
       ],
       "id": "c4afbfa8e438",
-      "last_updated": "2026-08-21T06:22:32.246056+00:00"
+      "last_updated": "2026-08-21T12:20:03.398830+00:00"
     },
     {
       "name": "YesWeHack",
@@ -657,7 +657,7 @@
       "category": "Technology",
       "assets": [],
       "id": "08790ac64db4",
-      "last_updated": "2026-08-21T06:22:34.243665+00:00"
+      "last_updated": "2026-08-21T12:20:05.309264+00:00"
     },
     {
       "name": "Alibaba",
@@ -674,7 +674,7 @@
         "*.aliexpress.com"
       ],
       "id": "1e663c55ebdd",
-      "last_updated": "2026-08-21T06:22:32.246062+00:00"
+      "last_updated": "2026-08-21T12:20:03.398837+00:00"
     },
     {
       "name": "Atlassian",
@@ -691,7 +691,7 @@
         "*.jira.com"
       ],
       "id": "f16f32637911",
-      "last_updated": "2026-08-21T06:22:32.246085+00:00"
+      "last_updated": "2026-08-21T12:20:03.398859+00:00"
     },
     {
       "name": "BIND 9 Bug Bounty Program",
@@ -705,7 +705,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0a0d494c2991",
-      "last_updated": "2026-08-21T06:22:34.243007+00:00"
+      "last_updated": "2026-08-21T12:20:05.308839+00:00"
     },
     {
       "name": "Brave Browser",
@@ -721,7 +721,7 @@
         "Brave Browser"
       ],
       "id": "e9e28b985ee1",
-      "last_updated": "2026-08-21T06:22:32.246133+00:00"
+      "last_updated": "2026-08-21T12:20:03.398910+00:00"
     },
     {
       "name": "Cloudflare",
@@ -737,7 +737,7 @@
         "*.cloudflare.com"
       ],
       "id": "53fe16a5318a",
-      "last_updated": "2026-08-21T06:22:32.246071+00:00"
+      "last_updated": "2026-08-21T12:20:03.398846+00:00"
     },
     {
       "name": "Intigriti",
@@ -753,7 +753,7 @@
         "*.intigriti.com"
       ],
       "id": "02ac19fd9d04",
-      "last_updated": "2026-08-21T06:22:32.246092+00:00"
+      "last_updated": "2026-08-21T12:20:03.398869+00:00"
     },
     {
       "name": "KBC Group",
@@ -769,7 +769,7 @@
         "*.kbc.be"
       ],
       "id": "ec7d100d39ec",
-      "last_updated": "2026-08-21T06:22:32.246102+00:00"
+      "last_updated": "2026-08-21T12:20:03.398876+00:00"
     },
     {
       "name": "LCL",
@@ -785,7 +785,7 @@
         "*.lcl.fr"
       ],
       "id": "20bf092af586",
-      "last_updated": "2026-08-21T06:22:32.246104+00:00"
+      "last_updated": "2026-08-21T12:20:03.398878+00:00"
     },
     {
       "name": "Mastercard",
@@ -801,7 +801,7 @@
         "*.mastercard.com"
       ],
       "id": "28403b708fc8",
-      "last_updated": "2026-08-21T06:22:32.246075+00:00"
+      "last_updated": "2026-08-21T12:20:03.398850+00:00"
     },
     {
       "name": "Notion",
@@ -817,7 +817,7 @@
         "*.notion.so"
       ],
       "id": "4553c4b02abb",
-      "last_updated": "2026-08-21T06:22:32.246069+00:00"
+      "last_updated": "2026-08-21T12:20:03.398844+00:00"
     },
     {
       "name": "OVHcloud",
@@ -834,7 +834,7 @@
         "*.ovh.com"
       ],
       "id": "d90e8f3f80c1",
-      "last_updated": "2026-08-21T06:22:32.246107+00:00"
+      "last_updated": "2026-08-21T12:20:03.398881+00:00"
     },
     {
       "name": "Pinterest",
@@ -850,7 +850,7 @@
         "*.pinterest.com"
       ],
       "id": "cb0e3953cd1f",
-      "last_updated": "2026-08-21T06:22:32.246082+00:00"
+      "last_updated": "2026-08-21T12:20:03.398857+00:00"
     },
     {
       "name": "Proximus",
@@ -866,7 +866,7 @@
         "*.proximus.be"
       ],
       "id": "d1e12e9bf65c",
-      "last_updated": "2026-08-21T06:22:32.246101+00:00"
+      "last_updated": "2026-08-21T12:20:03.398874+00:00"
     },
     {
       "name": "Swiss Post",
@@ -882,7 +882,7 @@
         "*.post.ch"
       ],
       "id": "a3d50ea19011",
-      "last_updated": "2026-08-21T06:22:32.246110+00:00"
+      "last_updated": "2026-08-21T12:20:03.398885+00:00"
     },
     {
       "name": "TeamViewer - Bounty Program",
@@ -896,7 +896,7 @@
       "category": "Technology",
       "assets": [],
       "id": "500ceb5c5d45",
-      "last_updated": "2026-08-21T06:22:34.243581+00:00"
+      "last_updated": "2026-08-21T12:20:05.309198+00:00"
     },
     {
       "name": "Mon Espace Santé (MES)",
@@ -910,7 +910,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e76599c0001b",
-      "last_updated": "2026-08-21T06:22:34.243378+00:00"
+      "last_updated": "2026-08-21T12:20:05.309064+00:00"
     },
     {
       "name": "Infomaniak Bug Bounty program",
@@ -924,7 +924,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7b24d11fefe3",
-      "last_updated": "2026-08-21T06:22:34.243317+00:00"
+      "last_updated": "2026-08-21T12:20:05.309025+00:00"
     },
     {
       "name": "KOMOJU - Public Bug Bounty Program",
@@ -938,7 +938,7 @@
       "category": "Technology",
       "assets": [],
       "id": "157e18938dcb",
-      "last_updated": "2026-08-21T06:22:34.243330+00:00"
+      "last_updated": "2026-08-21T12:20:05.309032+00:00"
     },
     {
       "name": "Thüringer Aufbaubank Bug Bounty Program",
@@ -952,7 +952,7 @@
       "category": "Finance",
       "assets": [],
       "id": "e9cf0860d16c",
-      "last_updated": "2026-08-21T06:22:34.243617+00:00"
+      "last_updated": "2026-08-21T12:20:05.309222+00:00"
     },
     {
       "name": "Telenor Sweden Public Bug Bounty Program",
@@ -966,7 +966,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6c01cdf55b34",
-      "last_updated": "2026-08-21T06:22:34.243593+00:00"
+      "last_updated": "2026-08-21T12:20:05.309206+00:00"
     },
     {
       "name": "3DS OUTSCALE",
@@ -980,7 +980,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f15812db43e8",
-      "last_updated": "2026-08-21T06:22:34.242962+00:00"
+      "last_updated": "2026-08-21T12:20:05.308811+00:00"
     },
     {
       "name": "Cryptobox",
@@ -994,7 +994,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "7094b2a31c12",
-      "last_updated": "2026-08-21T06:22:34.243064+00:00"
+      "last_updated": "2026-08-21T12:20:05.308876+00:00"
     },
     {
       "name": "Doctolib",
@@ -1010,7 +1010,7 @@
         "*.doctolib.fr"
       ],
       "id": "42fe24942735",
-      "last_updated": "2026-08-21T06:22:32.246108+00:00"
+      "last_updated": "2026-08-21T12:20:03.398883+00:00"
     },
     {
       "name": "Ezviz - Bug Bounty Program",
@@ -1024,7 +1024,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b4e889ff1c6",
-      "last_updated": "2026-08-21T06:22:34.243204+00:00"
+      "last_updated": "2026-08-21T12:20:05.308965+00:00"
     },
     {
       "name": "GoTo Financial - Public Bounty Program",
@@ -1038,7 +1038,7 @@
       "category": "Technology",
       "assets": [],
       "id": "ee3064273149",
-      "last_updated": "2026-08-21T06:22:34.243251+00:00"
+      "last_updated": "2026-08-21T12:20:05.308995+00:00"
     },
     {
       "name": "Government of Quebec",
@@ -1054,7 +1054,7 @@
         "*.quebec.ca"
       ],
       "id": "831d06679d80",
-      "last_updated": "2026-08-21T06:22:32.246114+00:00"
+      "last_updated": "2026-08-21T12:20:03.398889+00:00"
     },
     {
       "name": "Infomaniak",
@@ -1070,7 +1070,7 @@
         "*.infomaniak.com"
       ],
       "id": "eaa37dc95402",
-      "last_updated": "2026-08-21T06:22:32.246112+00:00"
+      "last_updated": "2026-08-21T12:20:03.398886+00:00"
     },
     {
       "name": "Louis Vuitton Malletier - Public Bug Bounty Program",
@@ -1084,7 +1084,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10208bfafbd1",
-      "last_updated": "2026-08-21T06:22:34.243342+00:00"
+      "last_updated": "2026-08-21T12:20:05.309040+00:00"
     },
     {
       "name": "Maya - Public Bug Bounty Program",
@@ -1098,7 +1098,7 @@
       "category": "Technology",
       "assets": [],
       "id": "afa364578f68",
-      "last_updated": "2026-08-21T06:22:34.243354+00:00"
+      "last_updated": "2026-08-21T12:20:05.309048+00:00"
     },
     {
       "name": "Paddle.com Public Bug Bounty Program",
@@ -1112,7 +1112,7 @@
       "category": "Technology",
       "assets": [],
       "id": "44a333c5072b",
-      "last_updated": "2026-08-21T06:22:34.243449+00:00"
+      "last_updated": "2026-08-21T12:20:05.309111+00:00"
     },
     {
       "name": "Qwant",
@@ -1126,7 +1126,7 @@
       "category": "Technology",
       "assets": [],
       "id": "d92611f0cf39",
-      "last_updated": "2026-08-21T06:22:34.243498+00:00"
+      "last_updated": "2026-08-21T12:20:05.309142+00:00"
     },
     {
       "name": "Randstad",
@@ -1142,7 +1142,7 @@
         "*.randstad.com"
       ],
       "id": "9e521fa14d51",
-      "last_updated": "2026-08-21T06:22:32.246094+00:00"
+      "last_updated": "2026-08-21T12:20:03.398871+00:00"
     },
     {
       "name": "Tencent Bug Bounty Program",
@@ -1156,7 +1156,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4d8433b524d8",
-      "last_updated": "2026-08-21T06:22:34.243604+00:00"
+      "last_updated": "2026-08-21T12:20:05.309214+00:00"
     },
     {
       "name": "ATG Public Bug Bounty Program",
@@ -1170,7 +1170,7 @@
       "category": "Technology",
       "assets": [],
       "id": "90c163ed0300",
-      "last_updated": "2026-08-21T06:22:34.242974+00:00"
+      "last_updated": "2026-08-21T12:20:05.308818+00:00"
     },
     {
       "name": "HARMAN International - Web Applications",
@@ -1184,7 +1184,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1cdac63a574f",
-      "last_updated": "2026-08-21T06:22:34.243263+00:00"
+      "last_updated": "2026-08-21T12:20:05.309002+00:00"
     },
     {
       "name": "Harman International Lifestyle Products & Services",
@@ -1198,7 +1198,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8580470a9ee5",
-      "last_updated": "2026-08-21T06:22:34.243275+00:00"
+      "last_updated": "2026-08-21T12:20:05.309010+00:00"
     },
     {
       "name": "MediaMarktSaturn Bug Bounty Program",
@@ -1212,7 +1212,7 @@
       "category": "Entertainment",
       "assets": [],
       "id": "21df1245fbf2",
-      "last_updated": "2026-08-21T06:22:34.243366+00:00"
+      "last_updated": "2026-08-21T12:20:05.309056+00:00"
     },
     {
       "name": "GOJEK - Public Bounty Program",
@@ -1226,7 +1226,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a6312a9d4e5f",
-      "last_updated": "2026-08-21T06:22:34.243227+00:00"
+      "last_updated": "2026-08-21T12:20:05.308980+00:00"
     },
     {
       "name": "Bug Bounty Program - BlaBlaCar",
@@ -1240,7 +1240,7 @@
       "category": "Technology",
       "assets": [],
       "id": "26e3ef3a2b2e",
-      "last_updated": "2026-08-21T06:22:34.243041+00:00"
+      "last_updated": "2026-08-21T12:20:05.308861+00:00"
     },
     {
       "name": "DANA Bug Bounty Program",
@@ -1254,7 +1254,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4f591bff80b9",
-      "last_updated": "2026-08-21T06:22:34.243099+00:00"
+      "last_updated": "2026-08-21T12:20:05.308898+00:00"
     },
     {
       "name": "DataDome Bug Bounty",
@@ -1268,7 +1268,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c2af94afeb4e",
-      "last_updated": "2026-08-21T06:22:34.243133+00:00"
+      "last_updated": "2026-08-21T12:20:05.308920+00:00"
     },
     {
       "name": "De Lijn",
@@ -1284,7 +1284,7 @@
         "*.delijn.be"
       ],
       "id": "a37b5ec204dc",
-      "last_updated": "2026-08-21T06:22:32.246098+00:00"
+      "last_updated": "2026-08-21T12:20:03.398873+00:00"
     },
     {
       "name": "GRW Trading FZE - Open Bug Bounty Program",
@@ -1298,7 +1298,7 @@
       "category": "Finance",
       "assets": [],
       "id": "662bb2947095",
-      "last_updated": "2026-08-21T06:22:34.243239+00:00"
+      "last_updated": "2026-08-21T12:20:05.308987+00:00"
     },
     {
       "name": "Programme de prime aux bogues du Gouvernement du Québec",
@@ -1312,7 +1312,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b72354bec37",
-      "last_updated": "2026-08-21T06:22:34.243486+00:00"
+      "last_updated": "2026-08-21T12:20:05.309135+00:00"
     },
     {
       "name": "VINCI SA - Public program",
@@ -1326,7 +1326,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f078cd723ce7",
-      "last_updated": "2026-08-21T06:22:34.243641+00:00"
+      "last_updated": "2026-08-21T12:20:05.309238+00:00"
     },
     {
       "name": "toom Baumarkt GmbH - Webshop",
@@ -1340,7 +1340,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "6933d4f80e78",
-      "last_updated": "2026-08-21T06:22:34.243702+00:00"
+      "last_updated": "2026-08-21T12:20:05.309299+00:00"
     },
     {
       "name": "vidaXL Services - Open Bug Bounty Program",
@@ -1354,7 +1354,7 @@
       "category": "Technology",
       "assets": [],
       "id": "95253a256034",
-      "last_updated": "2026-08-21T06:22:34.243714+00:00"
+      "last_updated": "2026-08-21T12:20:05.309310+00:00"
     },
     {
       "name": "Ant Group Security Response Center - Bug Bounty Program",
@@ -1368,7 +1368,7 @@
       "category": "Security",
       "assets": [],
       "id": "74fced93030b",
-      "last_updated": "2026-08-21T06:22:34.242996+00:00"
+      "last_updated": "2026-08-21T12:20:05.308832+00:00"
     },
     {
       "name": "DECATHLON",
@@ -1382,7 +1382,7 @@
       "category": "Technology",
       "assets": [],
       "id": "59bf7151cc8b",
-      "last_updated": "2026-08-21T06:22:34.243110+00:00"
+      "last_updated": "2026-08-21T12:20:05.308905+00:00"
     },
     {
       "name": "Deezer Bug Bounty Program",
@@ -1396,7 +1396,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4e204cb28968",
-      "last_updated": "2026-08-21T06:22:34.243145+00:00"
+      "last_updated": "2026-08-21T12:20:05.308928+00:00"
     },
     {
       "name": "ExpressVPN",
@@ -1412,7 +1412,7 @@
         "*.expressvpn.com"
       ],
       "id": "e7cfbb51b3c0",
-      "last_updated": "2026-08-21T06:22:32.246089+00:00"
+      "last_updated": "2026-08-21T12:20:03.398863+00:00"
     },
     {
       "name": "ExpressVPN - Bug Bounty Program",
@@ -1426,7 +1426,7 @@
       "category": "Security",
       "assets": [],
       "id": "aa88bbc66db7",
-      "last_updated": "2026-08-21T06:22:34.243192+00:00"
+      "last_updated": "2026-08-21T12:20:05.308958+00:00"
     },
     {
       "name": "OTTO.DE Bug Bounty",
@@ -1440,7 +1440,7 @@
       "category": "Technology",
       "assets": [],
       "id": "88beea7077e2",
-      "last_updated": "2026-08-21T06:22:34.243401+00:00"
+      "last_updated": "2026-08-21T12:20:05.309079+00:00"
     },
     {
       "name": "BitOasis - Bug Bounty Program",
@@ -1454,7 +1454,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fb0027b541df",
-      "last_updated": "2026-08-21T06:22:34.243018+00:00"
+      "last_updated": "2026-08-21T12:20:05.308847+00:00"
     },
     {
       "name": "BookBeat",
@@ -1468,7 +1468,7 @@
       "category": "Technology",
       "assets": [],
       "id": "abbbccea0c51",
-      "last_updated": "2026-08-21T06:22:34.243030+00:00"
+      "last_updated": "2026-08-21T12:20:05.308854+00:00"
     },
     {
       "name": "Coindcx - Bug Bounty Program",
@@ -1482,7 +1482,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0e2da5450f4e",
-      "last_updated": "2026-08-21T06:22:34.243053+00:00"
+      "last_updated": "2026-08-21T12:20:05.308869+00:00"
     },
     {
       "name": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
@@ -1496,7 +1496,7 @@
       "category": "Security",
       "assets": [],
       "id": "75a09a754bd6",
-      "last_updated": "2026-08-21T06:22:34.243087+00:00"
+      "last_updated": "2026-08-21T12:20:05.308890+00:00"
     },
     {
       "name": "Dossier Medical Partagé Bug Bounty Program",
@@ -1510,7 +1510,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "e1c9ab0c280e",
-      "last_updated": "2026-08-21T06:22:34.243180+00:00"
+      "last_updated": "2026-08-21T12:20:05.308951+00:00"
     },
     {
       "name": "Moneybox Bug Bounty",
@@ -1524,7 +1524,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4fca813fb1c1",
-      "last_updated": "2026-08-21T06:22:34.243390+00:00"
+      "last_updated": "2026-08-21T12:20:05.309072+00:00"
     },
     {
       "name": "Okto - Bug Bounty Program",
@@ -1538,7 +1538,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2ac36ae59f32",
-      "last_updated": "2026-08-21T06:22:34.243425+00:00"
+      "last_updated": "2026-08-21T12:20:05.309095+00:00"
     },
     {
       "name": "Sogexia",
@@ -1552,7 +1552,7 @@
       "category": "Technology",
       "assets": [],
       "id": "ad286b7acd3c",
-      "last_updated": "2026-08-21T06:22:34.243522+00:00"
+      "last_updated": "2026-08-21T12:20:05.309159+00:00"
     },
     {
       "name": "Superbank - Public Bug Bounty Program",
@@ -1566,7 +1566,7 @@
       "category": "Finance",
       "assets": [],
       "id": "6b867ac0cea6",
-      "last_updated": "2026-08-21T06:22:34.243533+00:00"
+      "last_updated": "2026-08-21T12:20:05.309167+00:00"
     },
     {
       "name": "Swapcard",
@@ -1580,7 +1580,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "0e71d34817b9",
-      "last_updated": "2026-08-21T06:22:34.243545+00:00"
+      "last_updated": "2026-08-21T12:20:05.309175+00:00"
     },
     {
       "name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
@@ -1594,7 +1594,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6f66ca3f3b48",
-      "last_updated": "2026-08-21T06:22:34.243690+00:00"
+      "last_updated": "2026-08-21T12:20:05.309288+00:00"
     },
     {
       "name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
@@ -1608,7 +1608,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b40f5d8fd028",
-      "last_updated": "2026-08-21T06:22:34.243437+00:00"
+      "last_updated": "2026-08-21T12:20:05.309103+00:00"
     },
     {
       "name": "Santé Publique France Bug Bounty Program",
@@ -1622,7 +1622,7 @@
       "category": "Technology",
       "assets": [],
       "id": "43b78e911e78",
-      "last_updated": "2026-08-21T06:22:34.243510+00:00"
+      "last_updated": "2026-08-21T12:20:05.309151+00:00"
     },
     {
       "name": "VFS Global Bug Bounty Program",
@@ -1636,7 +1636,7 @@
       "category": "Technology",
       "assets": [],
       "id": "cd52bcc9e48d",
-      "last_updated": "2026-08-21T06:22:34.243629+00:00"
+      "last_updated": "2026-08-21T12:20:05.309230+00:00"
     },
     {
       "name": "Xelians - Blackbox program",
@@ -1650,7 +1650,7 @@
       "category": "Technology",
       "assets": [],
       "id": "441a506901b1",
-      "last_updated": "2026-08-21T06:22:34.243653+00:00"
+      "last_updated": "2026-08-21T12:20:05.309250+00:00"
     },
     {
       "name": "CyberGhost - Bug Bounty Program",
@@ -1664,7 +1664,7 @@
       "category": "Security",
       "assets": [],
       "id": "4e60eef5607c",
-      "last_updated": "2026-08-21T06:22:34.243075+00:00"
+      "last_updated": "2026-08-21T12:20:05.308883+00:00"
     },
     {
       "name": "Private Internet Access - Bug Bounty Program",
@@ -1678,7 +1678,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c0dc63eb04b2",
-      "last_updated": "2026-08-21T06:22:34.243473+00:00"
+      "last_updated": "2026-08-21T12:20:05.309126+00:00"
     },
     {
       "name": "IMOU Public Bug Bounty Program",
@@ -1692,7 +1692,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a282445020a9",
-      "last_updated": "2026-08-21T06:22:34.243286+00:00"
+      "last_updated": "2026-08-21T12:20:05.309018+00:00"
     },
     {
       "name": "Alasco GmbH - Bug Bounty Program",
@@ -1706,7 +1706,7 @@
       "category": "Technology",
       "assets": [],
       "id": "dc05c7e52bdb",
-      "last_updated": "2026-08-21T06:22:34.242985+00:00"
+      "last_updated": "2026-08-21T12:20:05.308825+00:00"
     },
     {
       "name": "DataDome Bot Bounty",
@@ -1720,7 +1720,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8f19cf2140d6",
-      "last_updated": "2026-08-21T06:22:34.243122+00:00"
+      "last_updated": "2026-08-21T12:20:05.308913+00:00"
     },
     {
       "name": "Pine Labs Bug Bounty Program",
@@ -1734,7 +1734,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c98bdbe3edde",
-      "last_updated": "2026-08-21T06:22:34.243460+00:00"
+      "last_updated": "2026-08-21T12:20:05.309118+00:00"
     },
     {
       "name": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1748,7 +1748,7 @@
       "category": "Technology",
       "assets": [],
       "id": "702ac98c26f3",
-      "last_updated": "2026-08-21T06:22:34.241729+00:00"
+      "last_updated": "2026-08-21T12:20:05.308526+00:00"
     },
     {
       "name": "1Password - Enterprise Password Manager",
@@ -1767,7 +1767,7 @@
         "https://events.1password.com/api/"
       ],
       "id": "8f570120c119",
-      "last_updated": "2026-08-21T06:22:34.241165+00:00"
+      "last_updated": "2026-08-21T12:20:05.307954+00:00"
     },
     {
       "name": "1win",
@@ -1788,7 +1788,7 @@
         "https://1win.com/casino"
       ],
       "id": "3522601aab4d",
-      "last_updated": "2026-08-21T06:22:34.241030+00:00"
+      "last_updated": "2026-08-21T12:20:05.307817+00:00"
     },
     {
       "name": "55 Degrees",
@@ -1802,7 +1802,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c387ba36176",
-      "last_updated": "2026-08-21T06:22:34.241869+00:00"
+      "last_updated": "2026-08-21T12:20:05.308660+00:00"
     },
     {
       "name": "6sense VDP",
@@ -1820,7 +1820,7 @@
         "https://chromewebstore.google.com/detail/6sense-si-extension-for-c/mkpoonlmiaknmcdcmdhbnehhglndcolf?hl=en"
       ],
       "id": "acfb0370148c",
-      "last_updated": "2026-08-21T06:22:34.241270+00:00"
+      "last_updated": "2026-08-21T12:20:05.308059+00:00"
     },
     {
       "name": "AWS VDP",
@@ -1845,7 +1845,7 @@
         "*.people.aws.com"
       ],
       "id": "ae7baca9457d",
-      "last_updated": "2026-08-21T06:22:34.241231+00:00"
+      "last_updated": "2026-08-21T12:20:05.308021+00:00"
     },
     {
       "name": "AXIS OS",
@@ -1859,7 +1859,7 @@
       "category": "Technology",
       "assets": [],
       "id": "eb746f63ed9f",
-      "last_updated": "2026-08-21T06:22:34.241471+00:00"
+      "last_updated": "2026-08-21T12:20:05.308252+00:00"
     },
     {
       "name": "Accxia Marketplace Bug Bounty ",
@@ -1873,7 +1873,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "c6b798fed42f",
-      "last_updated": "2026-08-21T06:22:34.241378+00:00"
+      "last_updated": "2026-08-21T12:20:05.308157+00:00"
     },
     {
       "name": "Acorns Grow, Inc.",
@@ -1887,7 +1887,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e3693d6ea61e",
-      "last_updated": "2026-08-21T06:22:34.241384+00:00"
+      "last_updated": "2026-08-21T12:20:05.308163+00:00"
     },
     {
       "name": "Adevinta",
@@ -1912,7 +1912,7 @@
         "kijijiautos.ca"
       ],
       "id": "4cdd9f8cce29",
-      "last_updated": "2026-08-21T06:22:34.241211+00:00"
+      "last_updated": "2026-08-21T12:20:05.308000+00:00"
     },
     {
       "name": "Aelbox Marketplace Bug Bounty",
@@ -1926,7 +1926,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "bc977aa2e9b6",
-      "last_updated": "2026-08-21T06:22:34.241389+00:00"
+      "last_updated": "2026-08-21T12:20:05.308169+00:00"
     },
     {
       "name": "Afterpay Bug Bounty Program",
@@ -1940,7 +1940,7 @@
       "category": "Finance",
       "assets": [],
       "id": "a088235c06dc",
-      "last_updated": "2026-08-21T06:22:34.241395+00:00"
+      "last_updated": "2026-08-21T12:20:05.308175+00:00"
     },
     {
       "name": "AgilePulse Marketplace Bug Bounty Program",
@@ -1954,7 +1954,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "5faa4c0ad8ea",
-      "last_updated": "2026-08-21T06:22:34.241401+00:00"
+      "last_updated": "2026-08-21T12:20:05.308181+00:00"
     },
     {
       "name": "Agilis LT Bug Bounty",
@@ -1968,7 +1968,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fe1f8525dbd9",
-      "last_updated": "2026-08-21T06:22:34.241407+00:00"
+      "last_updated": "2026-08-21T12:20:05.308187+00:00"
     },
     {
       "name": "Agoda Public",
@@ -1984,21 +1984,7 @@
         "https://www.agoda.com/book/"
       ],
       "id": "cbda04503a55",
-      "last_updated": "2026-08-21T06:22:34.240882+00:00"
-    },
-    {
-      "name": "Aikido Security: Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/aikido/aikido/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Security",
-      "assets": [],
-      "id": "d2e967bedf32",
-      "last_updated": "2026-08-21T06:22:34.242016+00:00"
+      "last_updated": "2026-08-21T12:20:05.307674+00:00"
     },
     {
       "name": "Aiven Managed Bug Bounty",
@@ -2012,21 +1998,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "4c11594ebad5",
-      "last_updated": "2026-08-21T06:22:34.241413+00:00"
-    },
-    {
-      "name": "Algemeen Dagblad",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "1c2cb40a66cf",
-      "last_updated": "2026-08-21T06:22:34.242023+00:00"
+      "last_updated": "2026-08-21T12:20:05.308192+00:00"
     },
     {
       "name": "Alibaba VDP",
@@ -2051,49 +2023,7 @@
         "*.alios.cn"
       ],
       "id": "d7137d8eeea2",
-      "last_updated": "2026-08-21T06:22:34.241155+00:00"
-    },
-    {
-      "name": "Allegro",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "2291578ca3b1",
-      "last_updated": "2026-08-21T06:22:34.242030+00:00"
-    },
-    {
-      "name": "Altera",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/altera/altera/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "f355800dc326",
-      "last_updated": "2026-08-21T06:22:34.242037+00:00"
-    },
-    {
-      "name": "Anaconda Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "294790ee64c3",
-      "last_updated": "2026-08-21T06:22:34.242045+00:00"
+      "last_updated": "2026-08-21T12:20:05.307944+00:00"
     },
     {
       "name": "Anduril Industries",
@@ -2114,7 +2044,7 @@
         "*.andurildev.com"
       ],
       "id": "4bc3faa740e3",
-      "last_updated": "2026-08-21T06:22:34.240942+00:00"
+      "last_updated": "2026-08-21T12:20:05.307733+00:00"
     },
     {
       "name": "Anthropic Cyber Jailbreak",
@@ -2130,7 +2060,7 @@
         "Fable 5"
       ],
       "id": "03973d776a34",
-      "last_updated": "2026-08-21T06:22:34.240886+00:00"
+      "last_updated": "2026-08-21T12:20:05.307678+00:00"
     },
     {
       "name": "AppFox",
@@ -2144,7 +2074,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c06dc2cbf047",
-      "last_updated": "2026-08-21T06:22:34.241465+00:00"
+      "last_updated": "2026-08-21T12:20:05.308245+00:00"
     },
     {
       "name": "AppLiger",
@@ -2158,7 +2088,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1f41c4354a91",
-      "last_updated": "2026-08-21T06:22:34.241418+00:00"
+      "last_updated": "2026-08-21T12:20:05.308198+00:00"
     },
     {
       "name": "Appliances - Barracuda Networks, Inc.",
@@ -2172,7 +2102,7 @@
       "category": "Technology",
       "assets": [],
       "id": "dc4f5e2150bc",
-      "last_updated": "2026-08-21T06:22:34.241488+00:00"
+      "last_updated": "2026-08-21T12:20:05.308270+00:00"
     },
     {
       "name": "Appsvio Marketplace Bug Bounty",
@@ -2186,21 +2116,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "49a33b16fe97",
-      "last_updated": "2026-08-21T06:22:34.241424+00:00"
-    },
-    {
-      "name": "Arbonia VDP program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/arbonia/arboniavdpprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "5c40c44df7bc",
-      "last_updated": "2026-08-21T06:22:34.242052+00:00"
+      "last_updated": "2026-08-21T12:20:05.308204+00:00"
     },
     {
       "name": "Arlo Cash Rewards",
@@ -2214,21 +2130,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f04477e66d13",
-      "last_updated": "2026-08-21T06:22:34.241430+00:00"
-    },
-    {
-      "name": "Arm",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/arm/arm/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "5e3850cc8efa",
-      "last_updated": "2026-08-21T06:22:34.242059+00:00"
+      "last_updated": "2026-08-21T12:20:05.308210+00:00"
     },
     {
       "name": "Asana",
@@ -2242,7 +2144,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3717a474dfcd",
-      "last_updated": "2026-08-21T06:22:34.241436+00:00"
+      "last_updated": "2026-08-21T12:20:05.308216+00:00"
     },
     {
       "name": "Assa Abloy Americas",
@@ -2267,7 +2169,7 @@
         "https://bittings.medeco.com"
       ],
       "id": "669b67c6a57d",
-      "last_updated": "2026-08-21T06:22:34.240864+00:00"
+      "last_updated": "2026-08-21T12:20:05.307651+00:00"
     },
     {
       "name": "Atlassian-Built Apps",
@@ -2281,35 +2183,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b508fa19c6bf",
-      "last_updated": "2026-08-21T06:22:34.241447+00:00"
-    },
-    {
-      "name": "Atolls Vulnerability Disclosure Program (VDP)",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/atolls/atollsvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "00b508db1d5f",
-      "last_updated": "2026-08-21T06:22:34.242067+00:00"
-    },
-    {
-      "name": "Attentia VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/attentia/attentiavdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "55703f868a36",
-      "last_updated": "2026-08-21T06:22:34.242074+00:00"
+      "last_updated": "2026-08-21T12:20:05.308227+00:00"
     },
     {
       "name": "Aurory Managed Bug Bounty Engagement (Public)",
@@ -2323,7 +2197,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4263574003f7",
-      "last_updated": "2026-08-21T06:22:34.241453+00:00"
+      "last_updated": "2026-08-21T12:20:05.308233+00:00"
     },
     {
       "name": "Auth0 by Okta",
@@ -2337,35 +2211,7 @@
       "category": "Security",
       "assets": [],
       "id": "1695d293f5b7",
-      "last_updated": "2026-08-21T06:22:34.241459+00:00"
-    },
-    {
-      "name": "Axel Springer National Media & Tech",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Entertainment",
-      "assets": [],
-      "id": "4ece7b845e9a",
-      "last_updated": "2026-08-21T06:22:34.242081+00:00"
-    },
-    {
-      "name": "Axel Springer SE Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "7af0ea85e900",
-      "last_updated": "2026-08-21T06:22:34.242089+00:00"
+      "last_updated": "2026-08-21T12:20:05.308239+00:00"
     },
     {
       "name": "BILL VDP",
@@ -2390,35 +2236,7 @@
         "id1114962353"
       ],
       "id": "e0abd5f4f5e2",
-      "last_updated": "2026-08-21T06:22:34.241170+00:00"
-    },
-    {
-      "name": "BMW Group",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "394b189b3d32",
-      "last_updated": "2026-08-21T06:22:34.242096+00:00"
-    },
-    {
-      "name": "BMW Group Automotive",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "5bf547ab5af2",
-      "last_updated": "2026-08-21T06:22:34.242104+00:00"
+      "last_updated": "2026-08-21T12:20:05.307959+00:00"
     },
     {
       "name": "BOJA Consulting Bug Bounty",
@@ -2432,7 +2250,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1a745bb0c51e",
-      "last_updated": "2026-08-21T06:22:34.241556+00:00"
+      "last_updated": "2026-08-21T12:20:05.308338+00:00"
     },
     {
       "name": "Backblaze",
@@ -2446,7 +2264,7 @@
       "category": "Technology",
       "assets": [],
       "id": "164ae64e2f55",
-      "last_updated": "2026-08-21T06:22:34.241476+00:00"
+      "last_updated": "2026-08-21T12:20:05.308258+00:00"
     },
     {
       "name": "Baird",
@@ -2463,7 +2281,7 @@
         "https://*.rwbaird.com"
       ],
       "id": "7a8acd94ae26",
-      "last_updated": "2026-08-21T06:22:34.241120+00:00"
+      "last_updated": "2026-08-21T12:20:05.307909+00:00"
     },
     {
       "name": "Balsamiq for Atlassian Products",
@@ -2477,7 +2295,7 @@
       "category": "Technology",
       "assets": [],
       "id": "caf9e9edb6c8",
-      "last_updated": "2026-08-21T06:22:34.241482+00:00"
+      "last_updated": "2026-08-21T12:20:05.308264+00:00"
     },
     {
       "name": "Banco Plata",
@@ -2496,7 +2314,7 @@
         "id6443932656"
       ],
       "id": "7c12aac10a30",
-      "last_updated": "2026-08-21T06:22:34.241044+00:00"
+      "last_updated": "2026-08-21T12:20:05.307831+00:00"
     },
     {
       "name": "BankUnited",
@@ -2521,7 +2339,7 @@
         "lockboxir.bankunited.com"
       ],
       "id": "08ad4f2fbf63",
-      "last_updated": "2026-08-21T06:22:34.240973+00:00"
+      "last_updated": "2026-08-21T12:20:05.307763+00:00"
     },
     {
       "name": "Binance",
@@ -2535,7 +2353,7 @@
       "category": "Technology",
       "assets": [],
       "id": "16efa983fedb",
-      "last_updated": "2026-08-21T06:22:34.241494+00:00"
+      "last_updated": "2026-08-21T12:20:05.308276+00:00"
     },
     {
       "name": "BitGo Managed Public Bug Bounty Engagement ",
@@ -2549,7 +2367,7 @@
       "category": "Technology",
       "assets": [],
       "id": "22b9d12f515e",
-      "last_updated": "2026-08-21T06:22:34.241512+00:00"
+      "last_updated": "2026-08-21T12:20:05.308294+00:00"
     },
     {
       "name": "BitGo Mobile Apps Bug Bounty Engagement ",
@@ -2563,7 +2381,7 @@
       "category": "Telecom",
       "assets": [],
       "id": "c8edb911debb",
-      "last_updated": "2026-08-21T06:22:34.241518+00:00"
+      "last_updated": "2026-08-21T12:20:05.308301+00:00"
     },
     {
       "name": "Bitdefender",
@@ -2577,7 +2395,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f37d3a88a861",
-      "last_updated": "2026-08-21T06:22:34.241500+00:00"
+      "last_updated": "2026-08-21T12:20:05.308282+00:00"
     },
     {
       "name": "Bitdefender Box v2",
@@ -2591,7 +2409,7 @@
       "category": "Technology",
       "assets": [],
       "id": "68c1dfed6c65",
-      "last_updated": "2026-08-21T06:22:34.241506+00:00"
+      "last_updated": "2026-08-21T12:20:05.308288+00:00"
     },
     {
       "name": "Bitpanda Ongoing Bug Bounty",
@@ -2605,7 +2423,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bab6938a4d80",
-      "last_updated": "2026-08-21T06:22:34.241524+00:00"
+      "last_updated": "2026-08-21T12:20:05.308307+00:00"
     },
     {
       "name": "Bitso Managed Bug Bounty Engagement",
@@ -2619,21 +2437,7 @@
       "category": "Technology",
       "assets": [],
       "id": "060dc13d82a4",
-      "last_updated": "2026-08-21T06:22:34.241530+00:00"
-    },
-    {
-      "name": "Bitvavo VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "6d660ad17c5d",
-      "last_updated": "2026-08-21T06:22:34.242111+00:00"
+      "last_updated": "2026-08-21T12:20:05.308313+00:00"
     },
     {
       "name": "Block Open Source",
@@ -2647,7 +2451,7 @@
       "category": "Technology",
       "assets": [],
       "id": "538eb42eb8f3",
-      "last_updated": "2026-08-21T06:22:34.241543+00:00"
+      "last_updated": "2026-08-21T12:20:05.308325+00:00"
     },
     {
       "name": "Blockchain.com Managed Bug Bounty Engagement",
@@ -2661,7 +2465,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "7fa69fc089ec",
-      "last_updated": "2026-08-21T06:22:34.241536+00:00"
+      "last_updated": "2026-08-21T12:20:05.308319+00:00"
     },
     {
       "name": "Blofin Crypto Managed Bug Bounty Engagement",
@@ -2675,7 +2479,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "f24fe3ec5419",
-      "last_updated": "2026-08-21T06:22:34.241549+00:00"
+      "last_updated": "2026-08-21T12:20:05.308331+00:00"
     },
     {
       "name": "Bolt Technology OÜ",
@@ -2689,7 +2493,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c445a24c9f17",
-      "last_updated": "2026-08-21T06:22:34.241562+00:00"
+      "last_updated": "2026-08-21T12:20:05.308345+00:00"
     },
     {
       "name": "Bose (VDP)",
@@ -2712,21 +2516,7 @@
         "support.bose.xx"
       ],
       "id": "ac993af74b11",
-      "last_updated": "2026-08-21T06:22:34.240935+00:00"
-    },
-    {
-      "name": "Bpost",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/bpost/dummy/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "9a99a7ea5761",
-      "last_updated": "2026-08-21T06:22:34.242119+00:00"
+      "last_updated": "2026-08-21T12:20:05.307725+00:00"
     },
     {
       "name": "Braze, Inc.",
@@ -2744,7 +2534,7 @@
         "https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/"
       ],
       "id": "966924abdd7b",
-      "last_updated": "2026-08-21T06:22:34.241072+00:00"
+      "last_updated": "2026-08-21T12:20:05.307860+00:00"
     },
     {
       "name": "British Airways VDP",
@@ -2766,7 +2556,7 @@
         "www.britishairways.com"
       ],
       "id": "193b59ad9664",
-      "last_updated": "2026-08-21T06:22:34.241015+00:00"
+      "last_updated": "2026-08-21T12:20:05.307803+00:00"
     },
     {
       "name": "Broken Build Bug Bounty",
@@ -2780,7 +2570,7 @@
       "category": "Technology",
       "assets": [],
       "id": "63027b114f24",
-      "last_updated": "2026-08-21T06:22:34.241569+00:00"
+      "last_updated": "2026-08-21T12:20:05.308351+00:00"
     },
     {
       "name": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
@@ -2794,7 +2584,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "d47206c38f7d",
-      "last_updated": "2026-08-21T06:22:34.241575+00:00"
+      "last_updated": "2026-08-21T12:20:05.308358+00:00"
     },
     {
       "name": "Bugcrowd",
@@ -2808,7 +2598,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e9bd0139b248",
-      "last_updated": "2026-08-21T06:22:34.241581+00:00"
+      "last_updated": "2026-08-21T12:20:05.308364+00:00"
     },
     {
       "name": "Bullish Exchange",
@@ -2822,7 +2612,7 @@
       "category": "Technology",
       "assets": [],
       "id": "06980f2062d6",
-      "last_updated": "2026-08-21T06:22:34.241594+00:00"
+      "last_updated": "2026-08-21T12:20:05.308376+00:00"
     },
     {
       "name": "Bullish.com",
@@ -2836,7 +2626,7 @@
       "category": "Technology",
       "assets": [],
       "id": "98e1d4adf025",
-      "last_updated": "2026-08-21T06:22:34.241588+00:00"
+      "last_updated": "2026-08-21T12:20:05.308370+00:00"
     },
     {
       "name": "Bumba",
@@ -2852,49 +2642,7 @@
         "http://bumba.global"
       ],
       "id": "e42b87ae397b",
-      "last_updated": "2026-08-21T06:22:34.241196+00:00"
-    },
-    {
-      "name": "Bühler Group VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "a031f7848ab6",
-      "last_updated": "2026-08-21T06:22:34.242127+00:00"
-    },
-    {
-      "name": "CM.com",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "8ec3245679f0",
-      "last_updated": "2026-08-21T06:22:34.242134+00:00"
-    },
-    {
-      "name": "Canada Post - Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "020e8489a739",
-      "last_updated": "2026-08-21T06:22:34.242142+00:00"
+      "last_updated": "2026-08-21T12:20:05.307984+00:00"
     },
     {
       "name": "Canva",
@@ -2908,21 +2656,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bdcb2a882c27",
-      "last_updated": "2026-08-21T06:22:34.241600+00:00"
-    },
-    {
-      "name": "Capital.com",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "d89ffbfdb8d5",
-      "last_updated": "2026-08-21T06:22:34.242149+00:00"
+      "last_updated": "2026-08-21T12:20:05.308383+00:00"
     },
     {
       "name": "Cash App",
@@ -2936,7 +2670,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0d6af6325c3e",
-      "last_updated": "2026-08-21T06:22:34.241613+00:00"
+      "last_updated": "2026-08-21T12:20:05.308408+00:00"
     },
     {
       "name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
@@ -2950,7 +2684,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "8375583dab6e",
-      "last_updated": "2026-08-21T06:22:34.241677+00:00"
+      "last_updated": "2026-08-21T12:20:05.308475+00:00"
     },
     {
       "name": "Certinia (formerly FinancialForce)",
@@ -2964,7 +2698,7 @@
       "category": "Technology",
       "assets": [],
       "id": "84a89761fc6d",
-      "last_updated": "2026-08-21T06:22:34.241877+00:00"
+      "last_updated": "2026-08-21T12:20:05.308667+00:00"
     },
     {
       "name": "Chime Managed Bug Bounty Engagement",
@@ -2978,7 +2712,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fd8eebc40cb7",
-      "last_updated": "2026-08-21T06:22:34.241632+00:00"
+      "last_updated": "2026-08-21T12:20:05.308429+00:00"
     },
     {
       "name": "Chipotle Managed Bug Bounty Engagement",
@@ -2992,7 +2726,7 @@
       "category": "Technology",
       "assets": [],
       "id": "908043658866",
-      "last_updated": "2026-08-21T06:22:34.241638+00:00"
+      "last_updated": "2026-08-21T12:20:05.308435+00:00"
     },
     {
       "name": "Circle BBP",
@@ -3017,7 +2751,7 @@
         "https://github.com/circlefin/evm-cpn-contracts"
       ],
       "id": "2f57519748c5",
-      "last_updated": "2026-08-21T06:22:34.241280+00:00"
+      "last_updated": "2026-08-21T12:20:05.308070+00:00"
     },
     {
       "name": "Cisco Networking",
@@ -3031,7 +2765,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b75ff799cfb",
-      "last_updated": "2026-08-21T06:22:34.241645+00:00"
+      "last_updated": "2026-08-21T12:20:05.308441+00:00"
     },
     {
       "name": "Citi Group",
@@ -3047,7 +2781,7 @@
         "Any Citigroup owned asset"
       ],
       "id": "e014774abf33",
-      "last_updated": "2026-08-21T06:22:34.241034+00:00"
+      "last_updated": "2026-08-21T12:20:05.307822+00:00"
     },
     {
       "name": "City of Vienna Managed Bug Bounty",
@@ -3061,21 +2795,7 @@
       "category": "Technology",
       "assets": [],
       "id": "05b821df9978",
-      "last_updated": "2026-08-21T06:22:34.241651+00:00"
-    },
-    {
-      "name": "Citymesh Responsible Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "062e85d6de35",
-      "last_updated": "2026-08-21T06:22:34.242157+00:00"
+      "last_updated": "2026-08-21T12:20:05.308449+00:00"
     },
     {
       "name": "ClassDojo",
@@ -3089,7 +2809,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4899f7ac2fd6",
-      "last_updated": "2026-08-21T06:22:34.241658+00:00"
+      "last_updated": "2026-08-21T12:20:05.308455+00:00"
     },
     {
       "name": "Clear Street Disclosure Program",
@@ -3105,7 +2825,7 @@
         "clearstreet.io"
       ],
       "id": "30789e4e0ba9",
-      "last_updated": "2026-08-21T06:22:34.240906+00:00"
+      "last_updated": "2026-08-21T12:20:05.307697+00:00"
     },
     {
       "name": "ClickHouse",
@@ -3119,7 +2839,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1ae837815a43",
-      "last_updated": "2026-08-21T06:22:34.241664+00:00"
+      "last_updated": "2026-08-21T12:20:05.308462+00:00"
     },
     {
       "name": "Cloudinary",
@@ -3133,21 +2853,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e5d28188c044",
-      "last_updated": "2026-08-21T06:22:34.241671+00:00"
-    },
-    {
-      "name": "Cloudways by DigitalOcean",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/digitalocean/cloudways/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "cd9090a1e882",
-      "last_updated": "2026-08-21T06:22:34.242165+00:00"
+      "last_updated": "2026-08-21T12:20:05.308468+00:00"
     },
     {
       "name": "CodeAI",
@@ -3161,7 +2867,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "ec5fdc577efc",
-      "last_updated": "2026-08-21T06:22:34.241697+00:00"
+      "last_updated": "2026-08-21T12:20:05.308494+00:00"
     },
     {
       "name": "Cognition",
@@ -3184,7 +2890,7 @@
         "deepwiki.com"
       ],
       "id": "fad73ea306d6",
-      "last_updated": "2026-08-21T06:22:34.240946+00:00"
+      "last_updated": "2026-08-21T12:20:05.307737+00:00"
     },
     {
       "name": "CoinDesk Data - Data API ",
@@ -3198,7 +2904,7 @@
       "category": "Technology",
       "assets": [],
       "id": "505c0a2a2c11",
-      "last_updated": "2026-08-21T06:22:34.241366+00:00"
+      "last_updated": "2026-08-21T12:20:05.308146+00:00"
     },
     {
       "name": "CoinDesk Mobile",
@@ -3212,7 +2918,7 @@
       "category": "Telecom",
       "assets": [],
       "id": "610af98bc670",
-      "last_updated": "2026-08-21T06:22:34.241710+00:00"
+      "last_updated": "2026-08-21T12:20:05.308506+00:00"
     },
     {
       "name": "CoinDesk.com",
@@ -3226,7 +2932,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8fec3594349c",
-      "last_updated": "2026-08-21T06:22:34.241704+00:00"
+      "last_updated": "2026-08-21T12:20:05.308500+00:00"
     },
     {
       "name": "Colined",
@@ -3240,7 +2946,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1e1810348096",
-      "last_updated": "2026-08-21T06:22:34.241716+00:00"
+      "last_updated": "2026-08-21T12:20:05.308513+00:00"
     },
     {
       "name": "Comcast Xfinity Bug Bounty",
@@ -3254,7 +2960,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a62c86357eeb",
-      "last_updated": "2026-08-21T06:22:34.241722+00:00"
+      "last_updated": "2026-08-21T12:20:05.308520+00:00"
     },
     {
       "name": "Consensus by CoinDesk",
@@ -3268,7 +2974,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c33da712553",
-      "last_updated": "2026-08-21T06:22:34.241735+00:00"
+      "last_updated": "2026-08-21T12:20:05.308532+00:00"
     },
     {
       "name": "Council on Foreign Relations",
@@ -3282,7 +2988,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c7790fda9755",
-      "last_updated": "2026-08-21T06:22:34.241626+00:00"
+      "last_updated": "2026-08-21T12:20:05.308422+00:00"
     },
     {
       "name": "Coupang Taiwan",
@@ -3307,7 +3013,7 @@
         "developers.tw.coupangcorp.com"
       ],
       "id": "65324260b0e6",
-      "last_updated": "2026-08-21T06:22:34.240917+00:00"
+      "last_updated": "2026-08-21T12:20:05.307708+00:00"
     },
     {
       "name": "Craft Coders Marketplace Bug Bounty",
@@ -3321,133 +3027,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "93b68b6b1f77",
-      "last_updated": "2026-08-21T06:22:34.241742+00:00"
-    },
-    {
-      "name": "Cross Border Fines",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "61d1a7b2974f",
-      "last_updated": "2026-08-21T06:22:34.242172+00:00"
-    },
-    {
-      "name": "Cyber Security Coalition",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Security",
-      "assets": [],
-      "id": "3eb043ad5763",
-      "last_updated": "2026-08-21T06:22:34.242180+00:00"
-    },
-    {
-      "name": "DHL Group Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dhlgroup/dhlvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "327844126638",
-      "last_updated": "2026-08-21T06:22:34.242188+00:00"
-    },
-    {
-      "name": "DIGI Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/digi/digi-vdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "51c6c0befe5f",
-      "last_updated": "2026-08-21T06:22:34.242195+00:00"
-    },
-    {
-      "name": "DPG Media",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Entertainment",
-      "assets": [],
-      "id": "30b12d07030f",
-      "last_updated": "2026-08-21T06:22:34.242203+00:00"
-    },
-    {
-      "name": "Dashlane Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "7b7408cd527f",
-      "last_updated": "2026-08-21T06:22:34.242211+00:00"
-    },
-    {
-      "name": "De Morgen",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "8534559c846f",
-      "last_updated": "2026-08-21T06:22:34.242218+00:00"
-    },
-    {
-      "name": "De Volkskrant",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "b7efe4be07ce",
-      "last_updated": "2026-08-21T06:22:34.242226+00:00"
-    },
-    {
-      "name": "Delen Private Bank",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Finance",
-      "assets": [],
-      "id": "8fba09d335a8",
-      "last_updated": "2026-08-21T06:22:34.242234+00:00"
+      "last_updated": "2026-08-21T12:20:05.308539+00:00"
     },
     {
       "name": "Dell Technologies Application Bug Bounty",
@@ -3461,7 +3041,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5e59a58d6335",
-      "last_updated": "2026-08-21T06:22:34.241754+00:00"
+      "last_updated": "2026-08-21T12:20:05.308546+00:00"
     },
     {
       "name": "Dell Technologies' Products Bug Bounty Program",
@@ -3475,7 +3055,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c1b6c8735c10",
-      "last_updated": "2026-08-21T06:22:34.241761+00:00"
+      "last_updated": "2026-08-21T12:20:05.308552+00:00"
     },
     {
       "name": "DevAcrobats",
@@ -3489,7 +3069,7 @@
       "category": "Technology",
       "assets": [],
       "id": "21a9b01423d1",
-      "last_updated": "2026-08-21T06:22:34.241767+00:00"
+      "last_updated": "2026-08-21T12:20:05.308559+00:00"
     },
     {
       "name": "DevSamurai",
@@ -3503,7 +3083,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "99d50cc46143",
-      "last_updated": "2026-08-21T06:22:34.241781+00:00"
+      "last_updated": "2026-08-21T12:20:05.308572+00:00"
     },
     {
       "name": "Deviniti",
@@ -3517,7 +3097,7 @@
       "category": "Technology",
       "assets": [],
       "id": "97182d68fc51",
-      "last_updated": "2026-08-21T06:22:34.241774+00:00"
+      "last_updated": "2026-08-21T12:20:05.308566+00:00"
     },
     {
       "name": "Digital Flanders Vulnerability Disclosure Program",
@@ -3531,21 +3111,7 @@
       "category": "Technology",
       "assets": [],
       "id": "268581949b14",
-      "last_updated": "2026-08-21T06:22:34.243157+00:00"
-    },
-    {
-      "name": "DigitalOcean",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "be1a56e810f3",
-      "last_updated": "2026-08-21T06:22:34.242241+00:00"
+      "last_updated": "2026-08-21T12:20:05.308935+00:00"
     },
     {
       "name": "Directly",
@@ -3559,7 +3125,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1a3ed7b63fa3",
-      "last_updated": "2026-08-21T06:22:34.241787+00:00"
+      "last_updated": "2026-08-21T12:20:05.308579+00:00"
     },
     {
       "name": "Discover VDP",
@@ -3576,7 +3142,7 @@
         "*.discoverfinancial.com"
       ],
       "id": "a578f31d2d4d",
-      "last_updated": "2026-08-21T06:22:34.240910+00:00"
+      "last_updated": "2026-08-21T12:20:05.307701+00:00"
     },
     {
       "name": "DocuSign",
@@ -3592,21 +3158,7 @@
         "All Docusign apps and assets not listed below as Out of Scope"
       ],
       "id": "1f8abfd7b7f0",
-      "last_updated": "2026-08-21T06:22:34.241010+00:00"
-    },
-    {
-      "name": "Donorbox VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/donorbox/donorboxvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "ec33cbb9714b",
-      "last_updated": "2026-08-21T06:22:34.242249+00:00"
+      "last_updated": "2026-08-21T12:20:05.307799+00:00"
     },
     {
       "name": "DoorDash",
@@ -3624,63 +3176,7 @@
         "www.doordash.com"
       ],
       "id": "f058b2366bb9",
-      "last_updated": "2026-08-21T06:22:34.240987+00:00"
-    },
-    {
-      "name": "Driessen Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/driessengroep/driessenvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "9fc4627e68ad",
-      "last_updated": "2026-08-21T06:22:34.242257+00:00"
-    },
-    {
-      "name": "Dropbox Bug Bounty",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "260724cce4e7",
-      "last_updated": "2026-08-21T06:22:34.242265+00:00"
-    },
-    {
-      "name": "Dropbox Vulnerability Disclosure Program ",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dropbox/dropbox-vdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "3c9ff2b7a448",
-      "last_updated": "2026-08-21T06:22:34.242273+00:00"
-    },
-    {
-      "name": "Dstny",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "8b67f751c99a",
-      "last_updated": "2026-08-21T06:22:34.242281+00:00"
+      "last_updated": "2026-08-21T12:20:05.307776+00:00"
     },
     {
       "name": "Dust",
@@ -3697,7 +3193,7 @@
         "https://dust.tt/api/v1"
       ],
       "id": "93e27d38203f",
-      "last_updated": "2026-08-21T06:22:34.241125+00:00"
+      "last_updated": "2026-08-21T12:20:05.307914+00:00"
     },
     {
       "name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
@@ -3711,21 +3207,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "0e2309c7ad46",
-      "last_updated": "2026-08-21T06:22:34.241794+00:00"
-    },
-    {
-      "name": "Dutch Lottery VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "4fccfd25bcb9",
-      "last_updated": "2026-08-21T06:22:34.242289+00:00"
+      "last_updated": "2026-08-21T12:20:05.308585+00:00"
     },
     {
       "name": "EPAM Systems Managed Bug Bounty Program",
@@ -3739,21 +3221,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8cbd4e371dcb",
-      "last_updated": "2026-08-21T06:22:34.241841+00:00"
-    },
-    {
-      "name": "EURid",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/eurid/eurid/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "44d275fcfc6c",
-      "last_updated": "2026-08-21T06:22:34.242307+00:00"
+      "last_updated": "2026-08-21T12:20:05.308632+00:00"
     },
     {
       "name": "Easy Agile",
@@ -3767,7 +3235,7 @@
       "category": "Technology",
       "assets": [],
       "id": "54085adc7aee",
-      "last_updated": "2026-08-21T06:22:34.241800+00:00"
+      "last_updated": "2026-08-21T12:20:05.308592+00:00"
     },
     {
       "name": "Elementor: Bug Bounty Program",
@@ -3781,7 +3249,7 @@
       "category": "Technology",
       "assets": [],
       "id": "586b7374ecb1",
-      "last_updated": "2026-08-21T06:22:34.241814+00:00"
+      "last_updated": "2026-08-21T12:20:05.308605+00:00"
     },
     {
       "name": "Elements",
@@ -3795,7 +3263,7 @@
       "category": "Technology",
       "assets": [],
       "id": "92be3ad2356c",
-      "last_updated": "2026-08-21T06:22:34.241821+00:00"
+      "last_updated": "2026-08-21T12:20:05.308612+00:00"
     },
     {
       "name": "Entain Game Logic Flaws Bug Bounty Program",
@@ -3809,7 +3277,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "84101b3fcee4",
-      "last_updated": "2026-08-21T06:22:34.241828+00:00"
+      "last_updated": "2026-08-21T12:20:05.308618+00:00"
     },
     {
       "name": "Entain Public Managed Bug Bounty Engagement 2024",
@@ -3823,7 +3291,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "4e1f6d86a617",
-      "last_updated": "2026-08-21T06:22:34.241835+00:00"
+      "last_updated": "2026-08-21T12:20:05.308625+00:00"
     },
     {
       "name": "Epic Games VDP",
@@ -3848,7 +3316,7 @@
         "*.easy.ac"
       ],
       "id": "1234d0f189b7",
-      "last_updated": "2026-08-21T06:22:34.240890+00:00"
+      "last_updated": "2026-08-21T12:20:05.307681+00:00"
     },
     {
       "name": "Etsy",
@@ -3862,49 +3330,7 @@
       "category": "Technology",
       "assets": [],
       "id": "13ab02d58ef8",
-      "last_updated": "2026-08-21T06:22:34.241855+00:00"
-    },
-    {
-      "name": "European Space Agency (ESA) VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "3c204e1c5baf",
-      "last_updated": "2026-08-21T06:22:34.242316+00:00"
-    },
-    {
-      "name": "Exact Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "afab201d8a32",
-      "last_updated": "2026-08-21T06:22:34.242324+00:00"
-    },
-    {
-      "name": "Exoscale Bug Bounty",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/exoscale/excoscalebugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "baf751f78717",
-      "last_updated": "2026-08-21T06:22:34.242332+00:00"
+      "last_updated": "2026-08-21T12:20:05.308646+00:00"
     },
     {
       "name": "Experian",
@@ -3918,7 +3344,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0ebffeb243d5",
-      "last_updated": "2026-08-21T06:22:34.241110+00:00"
+      "last_updated": "2026-08-21T12:20:05.307899+00:00"
     },
     {
       "name": "FIS",
@@ -3932,7 +3358,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bb490bc287c0",
-      "last_updated": "2026-08-21T06:22:34.241897+00:00"
+      "last_updated": "2026-08-21T12:20:05.308687+00:00"
     },
     {
       "name": "FanDuel Response",
@@ -3948,7 +3374,7 @@
         "*.fdbox.net"
       ],
       "id": "0a173aac5e1d",
-      "last_updated": "2026-08-21T06:22:34.241343+00:00"
+      "last_updated": "2026-08-21T12:20:05.308122+00:00"
     },
     {
       "name": "Felix Health Managed Bug Bounty Engagement",
@@ -3962,7 +3388,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "abec9c6d5834",
-      "last_updated": "2026-08-21T06:22:34.241862+00:00"
+      "last_updated": "2026-08-21T12:20:05.308653+00:00"
     },
     {
       "name": "Ferrero",
@@ -3987,21 +3413,7 @@
         "*.ferrero.com"
       ],
       "id": "8239914911fb",
-      "last_updated": "2026-08-21T06:22:34.241115+00:00"
-    },
-    {
-      "name": "Fing Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "a92da42b033a",
-      "last_updated": "2026-08-21T06:22:34.242340+00:00"
+      "last_updated": "2026-08-21T12:20:05.307904+00:00"
     },
     {
       "name": "Finnair Vulnerability Disclosure",
@@ -4017,7 +3429,7 @@
         "Finnair Assets"
       ],
       "id": "cda014e0eccb",
-      "last_updated": "2026-08-21T06:22:34.241259+00:00"
+      "last_updated": "2026-08-21T12:20:05.308048+00:00"
     },
     {
       "name": "Fireblocks MPC Managed Bug Bounty Engagement",
@@ -4031,7 +3443,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8b5c560ae2ac",
-      "last_updated": "2026-08-21T06:22:34.241890+00:00"
+      "last_updated": "2026-08-21T12:20:05.308680+00:00"
     },
     {
       "name": "Fireblocks Web Managed Bug Bounty Engagement",
@@ -4045,7 +3457,7 @@
       "category": "Technology",
       "assets": [],
       "id": "66ee3c6ad4ba",
-      "last_updated": "2026-08-21T06:22:34.241883+00:00"
+      "last_updated": "2026-08-21T12:20:05.308674+00:00"
     },
     {
       "name": "Fivetran",
@@ -4059,7 +3471,7 @@
       "category": "Technology",
       "assets": [],
       "id": "661667c74afc",
-      "last_updated": "2026-08-21T06:22:34.241904+00:00"
+      "last_updated": "2026-08-21T12:20:05.308694+00:00"
     },
     {
       "name": "Flourish",
@@ -4073,7 +3485,7 @@
       "category": "Technology",
       "assets": [],
       "id": "987f1baad06f",
-      "last_updated": "2026-08-21T06:22:34.241911+00:00"
+      "last_updated": "2026-08-21T12:20:05.308701+00:00"
     },
     {
       "name": "Gearset: Managed Bug Bounty",
@@ -4087,7 +3499,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5a2914278d3e",
-      "last_updated": "2026-08-21T06:22:34.241924+00:00"
+      "last_updated": "2026-08-21T12:20:05.308719+00:00"
     },
     {
       "name": "GetYourGuide VDP",
@@ -4112,7 +3524,7 @@
         "www.getyourguide.com"
       ],
       "id": "e234818a80e1",
-      "last_updated": "2026-08-21T06:22:34.240921+00:00"
+      "last_updated": "2026-08-21T12:20:05.307711+00:00"
     },
     {
       "name": "Glassdoor Managed Bug Bounty Engagement",
@@ -4126,7 +3538,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c05b1ecc141",
-      "last_updated": "2026-08-21T06:22:34.241931+00:00"
+      "last_updated": "2026-08-21T12:20:05.308726+00:00"
     },
     {
       "name": "Glean Technologies Public Engagement",
@@ -4140,7 +3552,7 @@
       "category": "Technology",
       "assets": [],
       "id": "928f1bdcea47",
-      "last_updated": "2026-08-21T06:22:34.241938+00:00"
+      "last_updated": "2026-08-21T12:20:05.308733+00:00"
     },
     {
       "name": "Gliffy",
@@ -4154,7 +3566,7 @@
       "category": "Technology",
       "assets": [],
       "id": "02f335654360",
-      "last_updated": "2026-08-21T06:22:34.241945+00:00"
+      "last_updated": "2026-08-21T12:20:05.308740+00:00"
     },
     {
       "name": "Gogo VDP",
@@ -4179,21 +3591,7 @@
         "www.gogoair.com"
       ],
       "id": "b5f30f85a9c5",
-      "last_updated": "2026-08-21T06:22:34.240914+00:00"
-    },
-    {
-      "name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "180760c734a1",
-      "last_updated": "2026-08-21T06:22:34.242348+00:00"
+      "last_updated": "2026-08-21T12:20:05.307704+00:00"
     },
     {
       "name": "HPE Networking Product Public Program",
@@ -4207,7 +3605,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10aec1d1b455",
-      "last_updated": "2026-08-21T06:22:34.241966+00:00"
+      "last_updated": "2026-08-21T12:20:05.308760+00:00"
     },
     {
       "name": "HPE VDP",
@@ -4232,21 +3630,7 @@
         "*nimblestorage.*"
       ],
       "id": "4449eae97e75",
-      "last_updated": "2026-08-21T06:22:34.241242+00:00"
-    },
-    {
-      "name": "HRS Group VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "858819a21860",
-      "last_updated": "2026-08-21T06:22:34.242355+00:00"
+      "last_updated": "2026-08-21T12:20:05.308032+00:00"
     },
     {
       "name": "Hack The Box",
@@ -4270,7 +3654,7 @@
         "labs.hackthebox.com"
       ],
       "id": "fa4d7c6bacca",
-      "last_updated": "2026-08-21T06:22:34.241053+00:00"
+      "last_updated": "2026-08-21T12:20:05.307841+00:00"
     },
     {
       "name": "Henkel",
@@ -4295,21 +3679,7 @@
         "*.cascola.com.br"
       ],
       "id": "51cf4e76a554",
-      "last_updated": "2026-08-21T06:22:34.240992+00:00"
-    },
-    {
-      "name": "Here Technologies",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "7c493aead720",
-      "last_updated": "2026-08-21T06:22:34.242364+00:00"
+      "last_updated": "2026-08-21T12:20:05.307781+00:00"
     },
     {
       "name": "Hertz VDP",
@@ -4326,35 +3696,7 @@
         "*hertz.io"
       ],
       "id": "519b87842215",
-      "last_updated": "2026-08-21T06:22:34.241090+00:00"
-    },
-    {
-      "name": "Het Laatste Nieuws",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "fae455abc513",
-      "last_updated": "2026-08-21T06:22:34.242372+00:00"
-    },
-    {
-      "name": "Het Parool",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/hetparool/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "d1224260e4f5",
-      "last_updated": "2026-08-21T06:22:34.242380+00:00"
+      "last_updated": "2026-08-21T12:20:05.307879+00:00"
     },
     {
       "name": "Hex",
@@ -4372,7 +3714,7 @@
         "https://hex.tech"
       ],
       "id": "d6d7cf18a5e8",
-      "last_updated": "2026-08-21T06:22:34.241145+00:00"
+      "last_updated": "2026-08-21T12:20:05.307934+00:00"
     },
     {
       "name": "Hexagon-VDP",
@@ -4388,7 +3730,7 @@
         "Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Hexagon AB are considered in scope."
       ],
       "id": "bfaa2494912f",
-      "last_updated": "2026-08-21T06:22:34.240983+00:00"
+      "last_updated": "2026-08-21T12:20:05.307772+00:00"
     },
     {
       "name": "HostGator LATAM Bug Bounty",
@@ -4402,7 +3744,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4e611a849a2e",
-      "last_updated": "2026-08-21T06:22:34.241952+00:00"
+      "last_updated": "2026-08-21T12:20:05.308747+00:00"
     },
     {
       "name": "HotDoc",
@@ -4416,7 +3758,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4228877eb876",
-      "last_updated": "2026-08-21T06:22:34.241960+00:00"
+      "last_updated": "2026-08-21T12:20:05.308753+00:00"
     },
     {
       "name": "Hotmart (VDP)",
@@ -4432,35 +3774,7 @@
         "*.buildstaging.com"
       ],
       "id": "1488b27f9c2f",
-      "last_updated": "2026-08-21T06:22:34.241135+00:00"
-    },
-    {
-      "name": "House of HR Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/houseofhr/houseofhrvulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "4491f65cac35",
-      "last_updated": "2026-08-21T06:22:34.242388+00:00"
-    },
-    {
-      "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "749f8c4ba3ef",
-      "last_updated": "2026-08-21T06:22:34.242397+00:00"
+      "last_updated": "2026-08-21T12:20:05.307924+00:00"
     },
     {
       "name": "HubSpot",
@@ -4485,21 +3799,7 @@
         "Other HubSpot-owned (sub)domains not listed as Out of Scope"
       ],
       "id": "b62acc7b1212",
-      "last_updated": "2026-08-21T06:22:34.241150+00:00"
-    },
-    {
-      "name": "Humo",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/humo/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "4187fb26dc61",
-      "last_updated": "2026-08-21T06:22:34.242404+00:00"
+      "last_updated": "2026-08-21T12:20:05.307939+00:00"
     },
     {
       "name": "Hyland Software",
@@ -4524,7 +3824,7 @@
         "OnBase"
       ],
       "id": "cc38fd039405",
-      "last_updated": "2026-08-21T06:22:34.241081+00:00"
+      "last_updated": "2026-08-21T12:20:05.307869+00:00"
     },
     {
       "name": "Hypixel Studios Managed Bug Bounty Engagement",
@@ -4538,35 +3838,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0e1ed24d1ec5",
-      "last_updated": "2026-08-21T06:22:34.241980+00:00"
-    },
-    {
-      "name": "ICI PARIS XL",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/aswatson/iciparisxl/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "7a16dd62ffaf",
-      "last_updated": "2026-08-21T06:22:34.242412+00:00"
-    },
-    {
-      "name": "ING Responsible Disclosure",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/ing/ing-responsible-disclosure/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "bb3f972b21b0",
-      "last_updated": "2026-08-21T06:22:34.242420+00:00"
+      "last_updated": "2026-08-21T12:20:05.308775+00:00"
     },
     {
       "name": "ION Group",
@@ -4591,7 +3863,7 @@
         "*.africapecongress.com"
       ],
       "id": "57baa834a639",
-      "last_updated": "2026-08-21T06:22:34.241315+00:00"
+      "last_updated": "2026-08-21T12:20:05.308093+00:00"
     },
     {
       "name": "Ibotta",
@@ -4605,7 +3877,7 @@
       "category": "Technology",
       "assets": [],
       "id": "37a565ad165e",
-      "last_updated": "2026-08-21T06:22:34.241988+00:00"
+      "last_updated": "2026-08-21T12:20:05.308782+00:00"
     },
     {
       "name": "Immutable Bug Bounty",
@@ -4619,7 +3891,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fc2b7aee1471",
-      "last_updated": "2026-08-21T06:22:34.242002+00:00"
+      "last_updated": "2026-08-21T12:20:05.308796+00:00"
     },
     {
       "name": "Imperva - Thales Bug Bounty",
@@ -4633,49 +3905,7 @@
       "category": "Technology",
       "assets": [],
       "id": "506bfff40921",
-      "last_updated": "2026-08-21T06:22:34.242009+00:00"
-    },
-    {
-      "name": "InnoGames",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/innogames/innogames/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Gaming",
-      "assets": [],
-      "id": "236e91bddee4",
-      "last_updated": "2026-08-21T06:22:34.242428+00:00"
-    },
-    {
-      "name": "Intel®",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/intel/intel/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "13018583c8d0",
-      "last_updated": "2026-08-21T06:22:34.242437+00:00"
-    },
-    {
-      "name": "Intergamma",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "2bda2b3c0b74",
-      "last_updated": "2026-08-21T06:22:34.242447+00:00"
+      "last_updated": "2026-08-21T12:20:05.308803+00:00"
     },
     {
       "name": "Itaú Unibanco",
@@ -4700,21 +3930,7 @@
         "bancofiat.com.br"
       ],
       "id": "b01439041334",
-      "last_updated": "2026-08-21T06:22:34.241248+00:00"
-    },
-    {
-      "name": "Ivo: AI VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "AI/ML",
-      "assets": [],
-      "id": "6dad4379eefb",
-      "last_updated": "2026-08-21T06:22:34.242461+00:00"
+      "last_updated": "2026-08-21T12:20:05.308037+00:00"
     },
     {
       "name": "Jaanga Marketplace Bug Bounty",
@@ -4728,21 +3944,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "f0d0b3759622",
-      "last_updated": "2026-08-21T06:22:34.241372+00:00"
-    },
-    {
-      "name": "KU Leuven Vulnerability Disclosure Program (VDP)",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "c75583fe6c82",
-      "last_updated": "2026-08-21T06:22:34.242473+00:00"
+      "last_updated": "2026-08-21T12:20:05.308151+00:00"
     },
     {
       "name": "Kaseya",
@@ -4767,21 +3969,7 @@
         "*.datto.com"
       ],
       "id": "cde6fa5afa2a",
-      "last_updated": "2026-08-21T06:22:34.241062+00:00"
-    },
-    {
-      "name": "Kiwa Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "4c82e901efba",
-      "last_updated": "2026-08-21T06:22:34.242485+00:00"
+      "last_updated": "2026-08-21T12:20:05.307850+00:00"
     },
     {
       "name": "Klarna",
@@ -4804,7 +3992,7 @@
         "app.klarna.com"
       ],
       "id": "1daea474a6e5",
-      "last_updated": "2026-08-21T06:22:34.241321+00:00"
+      "last_updated": "2026-08-21T12:20:05.308098+00:00"
     },
     {
       "name": "Kong",
@@ -4829,7 +4017,7 @@
         "http://cloud.konghq.com"
       ],
       "id": "f3d31886e487",
-      "last_updated": "2026-08-21T06:22:34.241076+00:00"
+      "last_updated": "2026-08-21T12:20:05.307864+00:00"
     },
     {
       "name": "Kraken Tech (VDP)",
@@ -4843,21 +4031,7 @@
       "category": "Technology",
       "assets": [],
       "id": "720e14b66405",
-      "last_updated": "2026-08-21T06:22:34.241100+00:00"
-    },
-    {
-      "name": "Kruidvat",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/aswatson/kruidvat/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "c3c5769899ee",
-      "last_updated": "2026-08-21T06:22:34.242496+00:00"
+      "last_updated": "2026-08-21T12:20:05.307889+00:00"
     },
     {
       "name": "LPL Financial VDP",
@@ -4875,49 +4049,7 @@
         "lpl.com"
       ],
       "id": "2170ac44c11a",
-      "last_updated": "2026-08-21T06:22:34.241285+00:00"
-    },
-    {
-      "name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "0b49af9f30da",
-      "last_updated": "2026-08-21T06:22:34.242507+00:00"
-    },
-    {
-      "name": "Libelle",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "d111aca4366b",
-      "last_updated": "2026-08-21T06:22:34.242518+00:00"
-    },
-    {
-      "name": "Liferay VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/liferay/liferay-vdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "36de84fa54cf",
-      "last_updated": "2026-08-21T06:22:34.242529+00:00"
+      "last_updated": "2026-08-21T12:20:05.308075+00:00"
     },
     {
       "name": "Liverpool Victoria",
@@ -4933,7 +4065,7 @@
         "Security vulnerabilities that are identified in Liverpool Victoria products or in website domains owned, operated, or controlled by Liverpool Victoria are in scope."
       ],
       "id": "3b7ba5eb0c8b",
-      "last_updated": "2026-08-21T06:22:34.241264+00:00"
+      "last_updated": "2026-08-21T12:20:05.308053+00:00"
     },
     {
       "name": "Lovable VDP",
@@ -4952,7 +4084,7 @@
         "oauth.lovable.dev"
       ],
       "id": "c21f72fedcb5",
-      "last_updated": "2026-08-21T06:22:34.241067+00:00"
+      "last_updated": "2026-08-21T12:20:05.307855+00:00"
     },
     {
       "name": "Lowe's Companies VDP",
@@ -4975,7 +4107,7 @@
         "lowes.com"
       ],
       "id": "df1ba27984ca",
-      "last_updated": "2026-08-21T06:22:34.241354+00:00"
+      "last_updated": "2026-08-21T12:20:05.308133+00:00"
     },
     {
       "name": "Luminor",
@@ -4995,21 +4127,7 @@
         "Any other Luminor System, Website, App, Domain and IP"
       ],
       "id": "b7a19c439a75",
-      "last_updated": "2026-08-21T06:22:34.240958+00:00"
-    },
-    {
-      "name": "MAGNIFIC VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "047ce57b9bcb",
-      "last_updated": "2026-08-21T06:22:34.242540+00:00"
+      "last_updated": "2026-08-21T12:20:05.307748+00:00"
     },
     {
       "name": "MOD Supply Chain VDP",
@@ -5034,7 +4152,7 @@
         "212.20.255.54"
       ],
       "id": "8a7a767b0de9",
-      "last_updated": "2026-08-21T06:22:34.240939+00:00"
+      "last_updated": "2026-08-21T12:20:05.307729+00:00"
     },
     {
       "name": "MSCI",
@@ -5050,7 +4168,7 @@
         "Any public-facing system owned, operated, or controlled by MSCI, including web applications hosted on those sites. "
       ],
       "id": "8312112e3c88",
-      "last_updated": "2026-08-21T06:22:34.241130+00:00"
+      "last_updated": "2026-08-21T12:20:05.307919+00:00"
     },
     {
       "name": "MUFG VDP",
@@ -5067,7 +4185,7 @@
         "*.mufgamericas.com"
       ],
       "id": "adf783454ca2",
-      "last_updated": "2026-08-21T06:22:34.240968+00:00"
+      "last_updated": "2026-08-21T12:20:05.307758+00:00"
     },
     {
       "name": "Majid Al Futtaim Retail",
@@ -5081,21 +4199,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "f043e2c8a276",
-      "last_updated": "2026-08-21T06:22:34.241607+00:00"
-    },
-    {
-      "name": "Marionnaud",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/aswatson/marionnaud/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "12887832c6dc",
-      "last_updated": "2026-08-21T06:22:34.242551+00:00"
+      "last_updated": "2026-08-21T12:20:05.308389+00:00"
     },
     {
       "name": "McGraw Hill",
@@ -5118,7 +4222,7 @@
         "tegrity.com"
       ],
       "id": "0e1e0a5e2b3a",
-      "last_updated": "2026-08-21T06:22:34.240902+00:00"
+      "last_updated": "2026-08-21T12:20:05.307693+00:00"
     },
     {
       "name": "Meesho",
@@ -5143,7 +4247,7 @@
         "supplier.meesho.com"
       ],
       "id": "1e01d6c3c207",
-      "last_updated": "2026-08-21T06:22:34.241058+00:00"
+      "last_updated": "2026-08-21T12:20:05.307845+00:00"
     },
     {
       "name": "Mintel",
@@ -5168,49 +4272,7 @@
         "https://data.mintel.com"
       ],
       "id": "1c17cac758d9",
-      "last_updated": "2026-08-21T06:22:34.241275+00:00"
-    },
-    {
-      "name": "Mobile Vikings",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Telecom",
-      "assets": [],
-      "id": "b7d99ef1fe2a",
-      "last_updated": "2026-08-21T06:22:34.242562+00:00"
-    },
-    {
-      "name": "Monzo Public Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "597ca5ddd150",
-      "last_updated": "2026-08-21T06:22:34.242573+00:00"
-    },
-    {
-      "name": "Moralis VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "90899ae24e71",
-      "last_updated": "2026-08-21T06:22:34.242584+00:00"
+      "last_updated": "2026-08-21T12:20:05.308064+00:00"
     },
     {
       "name": "Mueller Water Products (VDP)",
@@ -5224,7 +4286,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7a6316efcf7a",
-      "last_updated": "2026-08-21T06:22:34.240978+00:00"
+      "last_updated": "2026-08-21T12:20:05.307768+00:00"
     },
     {
       "name": "NBA Public Bug Bounty",
@@ -5249,35 +4311,7 @@
         "ak-static.cms-dev.nba.com"
       ],
       "id": "3224dd20a407",
-      "last_updated": "2026-08-21T06:22:34.241237+00:00"
-    },
-    {
-      "name": "NVIDIA Public Bug Bounty",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "36079bb7064b",
-      "last_updated": "2026-08-21T06:22:34.242595+00:00"
-    },
-    {
-      "name": "NVIDIA Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nvidia/nvidiavdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "e4efd10f3917",
-      "last_updated": "2026-08-21T06:22:34.242606+00:00"
+      "last_updated": "2026-08-21T12:20:05.308026+00:00"
     },
     {
       "name": "Neon",
@@ -5295,21 +4329,7 @@
         "https://console.neon.tech/api/v2/"
       ],
       "id": "6579233ce117",
-      "last_updated": "2026-08-21T06:22:34.241191+00:00"
-    },
-    {
-      "name": "Nestlé VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "29d45679cfcd",
-      "last_updated": "2026-08-21T06:22:34.242617+00:00"
+      "last_updated": "2026-08-21T12:20:05.307979+00:00"
     },
     {
       "name": "NetScaler Public Program",
@@ -5327,77 +4347,7 @@
         "NetScaler Gateway"
       ],
       "id": "02a0c93245f4",
-      "last_updated": "2026-08-21T06:22:34.241049+00:00"
-    },
-    {
-      "name": "Nexo",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nexo/nexo/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "014d670661ae",
-      "last_updated": "2026-08-21T06:22:34.242627+00:00"
-    },
-    {
-      "name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Healthcare",
-      "assets": [],
-      "id": "acea0be7c123",
-      "last_updated": "2026-08-21T06:22:34.242638+00:00"
-    },
-    {
-      "name": "Nexuzhealth VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Healthcare",
-      "assets": [],
-      "id": "31cf6aa71219",
-      "last_updated": "2026-08-21T06:22:34.242649+00:00"
-    },
-    {
-      "name": "Nexuzhealth Web PACS",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Healthcare",
-      "assets": [],
-      "id": "3c577f2b09e2",
-      "last_updated": "2026-08-21T06:22:34.242660+00:00"
-    },
-    {
-      "name": "Ninja Kiwi Games Bug Bounty program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Gaming",
-      "assets": [],
-      "id": "f396e8f5f108",
-      "last_updated": "2026-08-21T06:22:34.242671+00:00"
+      "last_updated": "2026-08-21T12:20:05.307836+00:00"
     },
     {
       "name": "OPPO",
@@ -5422,21 +4372,7 @@
         "FindX6"
       ],
       "id": "492796255baa",
-      "last_updated": "2026-08-21T06:22:34.241160+00:00"
-    },
-    {
-      "name": "OURA Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "54de625287b5",
-      "last_updated": "2026-08-21T06:22:34.242681+00:00"
+      "last_updated": "2026-08-21T12:20:05.307949+00:00"
     },
     {
       "name": "Omnicell",
@@ -5454,49 +4390,7 @@
         "*.omnicell.com"
       ],
       "id": "5498dd18cc57",
-      "last_updated": "2026-08-21T06:22:34.240894+00:00"
-    },
-    {
-      "name": "Online enrollment for students Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "a03b40c5d915",
-      "last_updated": "2026-08-21T06:22:34.242692+00:00"
-    },
-    {
-      "name": "Orbia Responsible Disclosure",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "77f41201a964",
-      "last_updated": "2026-08-21T06:22:34.242703+00:00"
-    },
-    {
-      "name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "b7806a76ce8e",
-      "last_updated": "2026-08-21T06:22:34.242714+00:00"
+      "last_updated": "2026-08-21T12:20:05.307685+00:00"
     },
     {
       "name": "PRISM",
@@ -5521,7 +4415,7 @@
         "http://*.leisure-partners.net"
       ],
       "id": "4b766b31407c",
-      "last_updated": "2026-08-21T06:22:34.240873+00:00"
+      "last_updated": "2026-08-21T12:20:05.307661+00:00"
     },
     {
       "name": "Peloton",
@@ -5541,7 +4435,7 @@
         "www.onepeloton.com"
       ],
       "id": "02130b7abf4a",
-      "last_updated": "2026-08-21T06:22:34.241291+00:00"
+      "last_updated": "2026-08-21T12:20:05.308081+00:00"
     },
     {
       "name": "Penn Entertainment",
@@ -5566,21 +4460,7 @@
         "thescore.com"
       ],
       "id": "db149440ee6d",
-      "last_updated": "2026-08-21T06:22:34.241180+00:00"
-    },
-    {
-      "name": "PeopleCert VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "64c0c0eab4a8",
-      "last_updated": "2026-08-21T06:22:34.242725+00:00"
+      "last_updated": "2026-08-21T12:20:05.307969+00:00"
     },
     {
       "name": "PepsiCo VDP",
@@ -5605,21 +4485,7 @@
         "*.doritos.co.uk"
       ],
       "id": "75132760a503",
-      "last_updated": "2026-08-21T06:22:34.241226+00:00"
-    },
-    {
-      "name": "Personio",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/personio/personio/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "057ba016aa77",
-      "last_updated": "2026-08-21T06:22:34.242736+00:00"
+      "last_updated": "2026-08-21T12:20:05.308016+00:00"
     },
     {
       "name": "PhonePe",
@@ -5644,63 +4510,7 @@
         "www.indusappstore.com"
       ],
       "id": "517bffd81960",
-      "last_updated": "2026-08-21T06:22:34.240898+00:00"
-    },
-    {
-      "name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "4e3ebc761913",
-      "last_updated": "2026-08-21T06:22:34.242746+00:00"
-    },
-    {
-      "name": "Posti Bug Bounty ",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "a4278eca66ef",
-      "last_updated": "2026-08-21T06:22:34.242757+00:00"
-    },
-    {
-      "name": "Proof.com VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/proof/proofvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "872b884799f0",
-      "last_updated": "2026-08-21T06:22:34.242768+00:00"
-    },
-    {
-      "name": "QC VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/quadcode/qcvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "f2e9ef4bc96d",
-      "last_updated": "2026-08-21T06:22:34.242779+00:00"
+      "last_updated": "2026-08-21T12:20:05.307689+00:00"
     },
     {
       "name": "QinetiQ Response",
@@ -5725,21 +4535,7 @@
         "148.252.225.26"
       ],
       "id": "ed5ec4e422d8",
-      "last_updated": "2026-08-21T06:22:34.241095+00:00"
-    },
-    {
-      "name": "Qualified Responsible Disclosure Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/qualified/qualifiedresponsibledisclosureprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "29fe2d0909aa",
-      "last_updated": "2026-08-21T06:22:34.242795+00:00"
+      "last_updated": "2026-08-21T12:20:05.307884+00:00"
     },
     {
       "name": "REI VDP",
@@ -5760,35 +4556,7 @@
         "rei.com"
       ],
       "id": "66110fe3f849",
-      "last_updated": "2026-08-21T06:22:34.241360+00:00"
-    },
-    {
-      "name": "RGF BE - VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "a2aafeb7d77e",
-      "last_updated": "2026-08-21T06:22:34.242806+00:00"
-    },
-    {
-      "name": "RIPE NCC",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "3427825a3a6d",
-      "last_updated": "2026-08-21T06:22:34.242817+00:00"
+      "last_updated": "2026-08-21T12:20:05.308139+00:00"
     },
     {
       "name": "Recreation.gov",
@@ -5810,21 +4578,7 @@
         "www.recreation.gov"
       ],
       "id": "d85c5dc9c5ad",
-      "last_updated": "2026-08-21T06:22:34.241216+00:00"
-    },
-    {
-      "name": "Red Bull",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/redbull/redbull/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "85bde676beb4",
-      "last_updated": "2026-08-21T06:22:34.242829+00:00"
+      "last_updated": "2026-08-21T12:20:05.308005+00:00"
     },
     {
       "name": "Regions Financial",
@@ -5849,35 +4603,7 @@
         "regionsapps.com"
       ],
       "id": "2ad304ff97e3",
-      "last_updated": "2026-08-21T06:22:34.241025+00:00"
-    },
-    {
-      "name": "Revolut VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/revolut/revolutvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "b2ab100c94db",
-      "last_updated": "2026-08-21T06:22:34.242840+00:00"
-    },
-    {
-      "name": "Rivian Bug Bounty",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "6b589414ec1b",
-      "last_updated": "2026-08-21T06:22:34.242851+00:00"
+      "last_updated": "2026-08-21T12:20:05.307813+00:00"
     },
     {
       "name": "Robinhood Markets",
@@ -5902,7 +4628,7 @@
         "1634080733"
       ],
       "id": "2ae43445023d",
-      "last_updated": "2026-08-21T06:22:34.241001+00:00"
+      "last_updated": "2026-08-21T12:20:05.307789+00:00"
     },
     {
       "name": "Robinhood Markets Bounty",
@@ -5927,35 +4653,7 @@
         "Tier 3"
       ],
       "id": "5e1214844c80",
-      "last_updated": "2026-08-21T06:22:34.241006+00:00"
-    },
-    {
-      "name": "SBB - Swiss Federal Railways",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Government",
-      "assets": [],
-      "id": "6911b10cec4d",
-      "last_updated": "2026-08-21T06:22:34.242862+00:00"
-    },
-    {
-      "name": "Salto Vulnerability Disclosure ",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "fbeba88438d0",
-      "last_updated": "2026-08-21T06:22:34.242873+00:00"
+      "last_updated": "2026-08-21T12:20:05.307794+00:00"
     },
     {
       "name": "SecureDrop",
@@ -5969,35 +4667,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10a3db3831d1",
-      "last_updated": "2026-08-21T06:22:34.241917+00:00"
-    },
-    {
-      "name": "Signicat Responsible Disclosure",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "10286394c06f",
-      "last_updated": "2026-08-21T06:22:34.242884+00:00"
-    },
-    {
-      "name": "SimScale",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "49aa330e313a",
-      "last_updated": "2026-08-21T06:22:34.242895+00:00"
+      "last_updated": "2026-08-21T12:20:05.308712+00:00"
     },
     {
       "name": "SingleStore",
@@ -6022,77 +4692,7 @@
         "nimbus-gateway.singlestore.com"
       ],
       "id": "9ea408c5ab20",
-      "last_updated": "2026-08-21T06:22:34.241348+00:00"
-    },
-    {
-      "name": "Skoda Auto Bug Bounty Program",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "10dbfca3d027",
-      "last_updated": "2026-08-21T06:22:34.242905+00:00"
-    },
-    {
-      "name": "Social Deal",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Social Media",
-      "assets": [],
-      "id": "5d047768ef8b",
-      "last_updated": "2026-08-21T06:22:34.242917+00:00"
-    },
-    {
-      "name": "SolarWinds VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/solarwinds/solarwindsvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "24ed801fff38",
-      "last_updated": "2026-08-21T06:22:34.242928+00:00"
-    },
-    {
-      "name": "Spacelift VDP",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/spacelift/spaceliftvdp/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "38570a300471",
-      "last_updated": "2026-08-21T06:22:34.242940+00:00"
-    },
-    {
-      "name": "Speakap Responsible Disclosure",
-      "platform": "Intigriti",
-      "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
-      "type": "vdp",
-      "bounty_min": 0,
-      "bounty_max": 0,
-      "currency": "USD",
-      "managed": true,
-      "category": "Technology",
-      "assets": [],
-      "id": "ae3843491fb2",
-      "last_updated": "2026-08-21T06:22:34.242951+00:00"
+      "last_updated": "2026-08-21T12:20:05.308127+00:00"
     },
     {
       "name": "Starbucks China",
@@ -6110,7 +4710,7 @@
         "www.starbucks.com.cn/"
       ],
       "id": "ea5b13dbc1ae",
-      "last_updated": "2026-08-21T06:22:34.241206+00:00"
+      "last_updated": "2026-08-21T12:20:05.307994+00:00"
     },
     {
       "name": "Starbucks Japan",
@@ -6132,7 +4732,7 @@
         "www.starbucks.co.jp"
       ],
       "id": "dcfa93525c57",
-      "last_updated": "2026-08-21T06:22:34.241201+00:00"
+      "last_updated": "2026-08-21T12:20:05.307989+00:00"
     },
     {
       "name": "Supabase",
@@ -6157,7 +4757,7 @@
         "supabase.com"
       ],
       "id": "483763f12da9",
-      "last_updated": "2026-08-21T06:22:34.241253+00:00"
+      "last_updated": "2026-08-21T12:20:05.308043+00:00"
     },
     {
       "name": "Syfe",
@@ -6181,7 +4781,7 @@
         "www.syfe.com"
       ],
       "id": "8233ff039b24",
-      "last_updated": "2026-08-21T06:22:34.241221+00:00"
+      "last_updated": "2026-08-21T12:20:05.308010+00:00"
     },
     {
       "name": "Taxwell VDP",
@@ -6195,7 +4795,7 @@
       "category": "Technology",
       "assets": [],
       "id": "286f0f5e1d29",
-      "last_updated": "2026-08-21T06:22:34.240954+00:00"
+      "last_updated": "2026-08-21T12:20:05.307744+00:00"
     },
     {
       "name": "The Browser Company of NYC",
@@ -6220,7 +4820,7 @@
         "thebrowser.company"
       ],
       "id": "ab216ef9e238",
-      "last_updated": "2026-08-21T06:22:34.241175+00:00"
+      "last_updated": "2026-08-21T12:20:05.307964+00:00"
     },
     {
       "name": "The Hut Group: Public Managed Bug Bounty Engagement",
@@ -6234,7 +4834,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bd9cc8014011",
-      "last_updated": "2026-08-21T06:22:34.241973+00:00"
+      "last_updated": "2026-08-21T12:20:05.308767+00:00"
     },
     {
       "name": "Tines (VDP)",
@@ -6251,7 +4851,7 @@
         "tines.io"
       ],
       "id": "886e8e901c08",
-      "last_updated": "2026-08-21T06:22:34.240950+00:00"
+      "last_updated": "2026-08-21T12:20:05.307740+00:00"
     },
     {
       "name": "TomTom",
@@ -6270,7 +4870,7 @@
         "https://github.com/tomtom-international/*"
       ],
       "id": "0d7cb89b0caf",
-      "last_updated": "2026-08-21T06:22:34.241337+00:00"
+      "last_updated": "2026-08-21T12:20:05.308116+00:00"
     },
     {
       "name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
@@ -6295,7 +4895,7 @@
         "design-system.alpha.canada.ca"
       ],
       "id": "817ba4542559",
-      "last_updated": "2026-08-21T06:22:34.240931+00:00"
+      "last_updated": "2026-08-21T12:20:05.307721+00:00"
     },
     {
       "name": "Tucows (VDP)",
@@ -6320,7 +4920,7 @@
         "*.wavelo.com"
       ],
       "id": "b0a8bb484cbf",
-      "last_updated": "2026-08-21T06:22:34.241040+00:00"
+      "last_updated": "2026-08-21T12:20:05.307827+00:00"
     },
     {
       "name": "Twilio",
@@ -6345,7 +4945,7 @@
         "http://tsock.us1.twilio.com"
       ],
       "id": "0ff277550614",
-      "last_updated": "2026-08-21T06:22:34.240962+00:00"
+      "last_updated": "2026-08-21T12:20:05.307752+00:00"
     },
     {
       "name": "U.S. Dept of Defense",
@@ -6361,7 +4961,7 @@
         "*.defense.gov"
       ],
       "id": "78aec942e587",
-      "last_updated": "2026-08-21T06:22:32.246013+00:00"
+      "last_updated": "2026-08-21T12:20:03.398787+00:00"
     },
     {
       "name": "Unico IDtech",
@@ -6386,7 +4986,7 @@
         "idpay-uat.unico.io"
       ],
       "id": "4b12fed71cb7",
-      "last_updated": "2026-08-21T06:22:34.241326+00:00"
+      "last_updated": "2026-08-21T12:20:05.308104+00:00"
     },
     {
       "name": "VF Corporation - VDP",
@@ -6406,7 +5006,7 @@
         "*.vfc.com"
       ],
       "id": "c3b22425ca2f",
-      "last_updated": "2026-08-21T06:22:34.241105+00:00"
+      "last_updated": "2026-08-21T12:20:05.307894+00:00"
     },
     {
       "name": "Varonis",
@@ -6427,7 +5027,7 @@
         "support.varonis.com"
       ],
       "id": "746f645c328a",
-      "last_updated": "2026-08-21T06:22:34.241309+00:00"
+      "last_updated": "2026-08-21T12:20:05.308087+00:00"
     },
     {
       "name": "Vercel Open Source",
@@ -6452,7 +5052,7 @@
         "https://github.com/vercel/async-sema"
       ],
       "id": "50d971e05e1f",
-      "last_updated": "2026-08-21T06:22:34.241020+00:00"
+      "last_updated": "2026-08-21T12:20:05.307808+00:00"
     },
     {
       "name": "Vercel Sandbox",
@@ -6468,7 +5068,7 @@
         "Vercel sandbox"
       ],
       "id": "daea99766ef5",
-      "last_updated": "2026-08-21T06:22:34.240680+00:00"
+      "last_updated": "2026-08-21T12:20:05.307497+00:00"
     },
     {
       "name": "Verily Life Sciences",
@@ -6489,7 +5089,7 @@
         "https://play.google.com/store/apps/details?id=com.verily.me"
       ],
       "id": "31e33e0bcf0b",
-      "last_updated": "2026-08-21T06:22:34.241185+00:00"
+      "last_updated": "2026-08-21T12:20:05.307974+00:00"
     },
     {
       "name": "Vueling",
@@ -6505,7 +5105,7 @@
         "*.vueling.com"
       ],
       "id": "2c339cd3070c",
-      "last_updated": "2026-08-21T06:22:34.240997+00:00"
+      "last_updated": "2026-08-21T12:20:05.307785+00:00"
     },
     {
       "name": "Wallet on Telegram",
@@ -6527,7 +5127,7 @@
         "wallettg.net"
       ],
       "id": "503758739167",
-      "last_updated": "2026-08-21T06:22:34.241332+00:00"
+      "last_updated": "2026-08-21T12:20:05.308110+00:00"
     },
     {
       "name": "Whoop Bug Bounty",
@@ -6550,7 +5150,7 @@
         "shop.whoop.com"
       ],
       "id": "bdf956826f1c",
-      "last_updated": "2026-08-21T06:22:34.241140+00:00"
+      "last_updated": "2026-08-21T12:20:05.307929+00:00"
     },
     {
       "name": "Wolt",
@@ -6575,7 +5175,7 @@
         "ops.wolt.com"
       ],
       "id": "91fd0de3f506",
-      "last_updated": "2026-08-21T06:22:34.240878+00:00"
+      "last_updated": "2026-08-21T12:20:05.307670+00:00"
     },
     {
       "name": "Worldpay",
@@ -6593,7 +5193,7 @@
         "www.virtualterminal.com"
       ],
       "id": "5a7562667126",
-      "last_updated": "2026-08-21T06:22:34.241085+00:00"
+      "last_updated": "2026-08-21T12:20:05.307874+00:00"
     },
     {
       "name": "YesWeHack Dojo",
@@ -6607,7 +5207,7 @@
       "category": "Technology",
       "assets": [],
       "id": "44be3c85998d",
-      "last_updated": "2026-08-21T06:22:34.243677+00:00"
+      "last_updated": "2026-08-21T12:20:05.309276+00:00"
     },
     {
       "name": "celix Solutions GmbH Marketplace Bug Bounty Program",
@@ -6621,7 +5221,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "78b1cc24ca5a",
-      "last_updated": "2026-08-21T06:22:34.241620+00:00"
+      "last_updated": "2026-08-21T12:20:05.308416+00:00"
     },
     {
       "name": "codeclou GmbH",
@@ -6635,7 +5235,7 @@
       "category": "Technology",
       "assets": [],
       "id": "85d3260d6a39",
-      "last_updated": "2026-08-21T06:22:34.241684+00:00"
+      "last_updated": "2026-08-21T12:20:05.308481+00:00"
     },
     {
       "name": "codefortynine",
@@ -6649,7 +5249,7 @@
       "category": "Technology",
       "assets": [],
       "id": "088296d4554e",
-      "last_updated": "2026-08-21T06:22:34.241691+00:00"
+      "last_updated": "2026-08-21T12:20:05.308488+00:00"
     },
     {
       "name": "eToro Managed Bug Bounty Engagement",
@@ -6663,7 +5263,7 @@
       "category": "Technology",
       "assets": [],
       "id": "11149648aec0",
-      "last_updated": "2026-08-21T06:22:34.241848+00:00"
+      "last_updated": "2026-08-21T12:20:05.308639+00:00"
     },
     {
       "name": "eazyBI",
@@ -6677,7 +5277,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f2112daad0d3",
-      "last_updated": "2026-08-21T06:22:34.241807+00:00"
+      "last_updated": "2026-08-21T12:20:05.308598+00:00"
     },
     {
       "name": "iFood: Bug Bounty Program",
@@ -6691,7 +5291,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7519d9eaf051",
-      "last_updated": "2026-08-21T06:22:34.241995+00:00"
+      "last_updated": "2026-08-21T12:20:05.308789+00:00"
     }
   ]
 }

@@ -1,6 +1,706 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Allegro",
+      "platform": "Intigriti",
+      "details": "Program removed: Allegro from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Atolls Vulnerability Disclosure Program (VDP)",
+      "platform": "Intigriti",
+      "details": "Program removed: Atolls Vulnerability Disclosure Program (VDP) from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Canada Post - Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Canada Post - Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Driessen Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Driessen Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Marionnaud",
+      "platform": "Intigriti",
+      "details": "Program removed: Marionnaud from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Dutch Lottery VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Dutch Lottery VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Qualified Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Qualified Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "RGF BE - VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: RGF BE - VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Nexuzhealth VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexuzhealth VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Intel®",
+      "platform": "Intigriti",
+      "details": "Program removed: Intel® from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Nexo",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexo from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Orbia Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Orbia Responsible Disclosure from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "BMW Group",
+      "platform": "Intigriti",
+      "details": "Program removed: BMW Group from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "House of HR Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: House of HR Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Proof.com VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Proof.com VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "DHL Group Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: DHL Group Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Skoda Auto Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "DigitalOcean",
+      "platform": "Intigriti",
+      "details": "Program removed: DigitalOcean from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "EURid",
+      "platform": "Intigriti",
+      "details": "Program removed: EURid from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Bitvavo VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Bitvavo VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Kiwa Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Kiwa Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Nestlé VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Nestlé VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Housing Application (huisvestingsapp) Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "NVIDIA Public Bug Bounty",
+      "platform": "Intigriti",
+      "details": "Program removed: NVIDIA Public Bug Bounty from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "De Volkskrant",
+      "platform": "Intigriti",
+      "details": "Program removed: De Volkskrant from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Het Laatste Nieuws",
+      "platform": "Intigriti",
+      "details": "Program removed: Het Laatste Nieuws from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Ivo: AI VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Ivo: AI VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+      "platform": "Intigriti",
+      "details": "Program removed: Grafana Labs - Vulnerability Disclosure Program (VDP) from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Nexuzhealth Web PACS",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexuzhealth Web PACS from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "BMW Group Automotive",
+      "platform": "Intigriti",
+      "details": "Program removed: BMW Group Automotive from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Cloudways by DigitalOcean",
+      "platform": "Intigriti",
+      "details": "Program removed: Cloudways by DigitalOcean from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "ICI PARIS XL",
+      "platform": "Intigriti",
+      "details": "Program removed: ICI PARIS XL from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Exoscale Bug Bounty",
+      "platform": "Intigriti",
+      "details": "Program removed: Exoscale Bug Bounty from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "KU Leuven Vulnerability Disclosure Program (VDP)",
+      "platform": "Intigriti",
+      "details": "Program removed: KU Leuven Vulnerability Disclosure Program (VDP) from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Spacelift VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Spacelift VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Anaconda Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Anaconda Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Port of Antwerp-Bruges",
+      "platform": "Intigriti",
+      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "SolarWinds VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: SolarWinds VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Salto Vulnerability Disclosure ",
+      "platform": "Intigriti",
+      "details": "Program removed: Salto Vulnerability Disclosure  from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Arm",
+      "platform": "Intigriti",
+      "details": "Program removed: Arm from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Signicat Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Signicat Responsible Disclosure from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "InnoGames",
+      "platform": "Intigriti",
+      "details": "Program removed: InnoGames from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "DIGI Responsible Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: DIGI Responsible Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Algemeen Dagblad",
+      "platform": "Intigriti",
+      "details": "Program removed: Algemeen Dagblad from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Red Bull",
+      "platform": "Intigriti",
+      "details": "Program removed: Red Bull from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "QC VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: QC VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Humo",
+      "platform": "Intigriti",
+      "details": "Program removed: Humo from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Donorbox VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Donorbox VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Moralis VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Moralis VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Cross Border Fines",
+      "platform": "Intigriti",
+      "details": "Program removed: Cross Border Fines from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "RIPE NCC",
+      "platform": "Intigriti",
+      "details": "Program removed: RIPE NCC from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Aikido Security: Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Aikido Security: Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "European Space Agency (ESA) VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: European Space Agency (ESA) VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "CM.com",
+      "platform": "Intigriti",
+      "details": "Program removed: CM.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Nexuzhealth",
+      "platform": "Intigriti",
+      "details": "Program removed: Nexuzhealth from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "DPG Media",
+      "platform": "Intigriti",
+      "details": "Program removed: DPG Media from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "SimScale",
+      "platform": "Intigriti",
+      "details": "Program removed: SimScale from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Attentia VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Attentia VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "ING Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: ING Responsible Disclosure from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Altera",
+      "platform": "Intigriti",
+      "details": "Program removed: Altera from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Bühler Group VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Bühler Group VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Lansweeper Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Het Parool",
+      "platform": "Intigriti",
+      "details": "Program removed: Het Parool from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Dstny",
+      "platform": "Intigriti",
+      "details": "Program removed: Dstny from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Dropbox Vulnerability Disclosure Program ",
+      "platform": "Intigriti",
+      "details": "Program removed: Dropbox Vulnerability Disclosure Program  from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "HRS Group VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: HRS Group VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Axel Springer SE Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Axel Springer SE Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Personio",
+      "platform": "Intigriti",
+      "details": "Program removed: Personio from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Here Technologies",
+      "platform": "Intigriti",
+      "details": "Program removed: Here Technologies from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Arbonia VDP program",
+      "platform": "Intigriti",
+      "details": "Program removed: Arbonia VDP program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Fing Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Fing Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Libelle",
+      "platform": "Intigriti",
+      "details": "Program removed: Libelle from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Online enrollment for students Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Online enrollment for students Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Posti Bug Bounty ",
+      "platform": "Intigriti",
+      "details": "Program removed: Posti Bug Bounty  from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Capital.com",
+      "platform": "Intigriti",
+      "details": "Program removed: Capital.com from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Cyber Security Coalition",
+      "platform": "Intigriti",
+      "details": "Program removed: Cyber Security Coalition from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "PeopleCert VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: PeopleCert VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Dropbox Bug Bounty",
+      "platform": "Intigriti",
+      "details": "Program removed: Dropbox Bug Bounty from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "De Morgen",
+      "platform": "Intigriti",
+      "details": "Program removed: De Morgen from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Citymesh Responsible Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Citymesh Responsible Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Kruidvat",
+      "platform": "Intigriti",
+      "details": "Program removed: Kruidvat from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Liferay VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Liferay VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Rivian Bug Bounty",
+      "platform": "Intigriti",
+      "details": "Program removed: Rivian Bug Bounty from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Intergamma",
+      "platform": "Intigriti",
+      "details": "Program removed: Intergamma from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Social Deal",
+      "platform": "Intigriti",
+      "details": "Program removed: Social Deal from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "NVIDIA Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: NVIDIA Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Revolut VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Revolut VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "SBB - Swiss Federal Railways",
+      "platform": "Intigriti",
+      "details": "Program removed: SBB - Swiss Federal Railways from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "MAGNIFIC VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: MAGNIFIC VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "Program removed: Delen Private Bank from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Exact Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Exact Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Bpost",
+      "platform": "Intigriti",
+      "details": "Program removed: Bpost from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Dashlane Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Dashlane Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Speakap Responsible Disclosure from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "OURA Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "Program removed: OURA Vulnerability Disclosure Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-21T12:20:05.952806+00:00",
+      "type": "removed",
+      "program_name": "Mobile Vikings",
+      "platform": "Intigriti",
+      "details": "Program removed: Mobile Vikings from Intigriti"
+    },
+    {
       "timestamp": "2026-08-21T00:33:13.002811+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -2799,706 +3499,6 @@
       "program_name": "Directly",
       "platform": "Bugcrowd",
       "details": "Program removed: Directly from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Chime Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Chime Managed Bug Bounty Engagement from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "iFood: Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: iFood: Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Internet Brands Public",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Internet Brands Public from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Colined",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Colined from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "celix Solutions GmbH Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: celix Solutions GmbH Marketplace Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Entain Game Logic Flaws Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "eToro Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "Program removed: eToro Managed Bug Bounty Engagement from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Aurory Managed Bug Bounty Engagement (Public)",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Aurory Managed Bug Bounty Engagement (Public) from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Indeed",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Indeed from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "AgilePulse Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: AgilePulse Marketplace Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Gliffy",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Gliffy from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Bitdefender Box v2",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Bitdefender Box v2 from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "AppFox",
-      "platform": "Bugcrowd",
-      "details": "Program removed: AppFox from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Aiven Managed Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Aiven Managed Bug Bounty from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "SecureDrop",
-      "platform": "Bugcrowd",
-      "details": "Program removed: SecureDrop from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Fireblocks Web Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Fireblocks Web Managed Bug Bounty Engagement from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Ibotta",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Ibotta from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Flourish",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Flourish from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Felix Health Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Felix Health Managed Bug Bounty Engagement from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T07:46:23.301208+00:00",
-      "type": "removed",
-      "program_name": "Cloudinary",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Cloudinary from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T01:10:42.212245+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T01:10:42.212245+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T01:10:42.212245+00:00",
-      "type": "removed",
-      "program_name": "Altera",
-      "platform": "Intigriti",
-      "details": "Program removed: Altera from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T01:10:42.212245+00:00",
-      "type": "removed",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "Program removed: TrueLayer from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T18:57:41.041582+00:00",
-      "type": "added",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "New program: PDQ bug bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T18:57:41.041582+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T18:57:41.041582+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T18:57:41.041582+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "added",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "New program: TrueLayer on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T13:00:56.151644+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T01:13:25.349792+00:00",
-      "type": "added",
-      "program_name": "Ivo: AI VDP",
-      "platform": "Intigriti",
-      "details": "New program: Ivo: AI VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-14T01:13:25.349792+00:00",
-      "type": "added",
-      "program_name": "Privy (Bounty)",
-      "platform": "HackerOne",
-      "details": "New program: Privy (Bounty) on HackerOne"
-    },
-    {
-      "timestamp": "2026-07-14T01:13:25.349792+00:00",
-      "type": "removed",
-      "program_name": "1Password - CTF",
-      "platform": "HackerOne",
-      "details": "Program removed: 1Password - CTF from HackerOne"
-    },
-    {
-      "timestamp": "2026-07-14T01:13:25.349792+00:00",
-      "type": "removed",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "Program removed: TrueLayer from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-13T08:41:41.428666+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-13T08:41:41.428666+00:00",
-      "type": "added",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "New program: PDQ bug bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-13T08:41:41.428666+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-13T08:41:41.428666+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-12T18:44:36.805747+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-12T18:44:36.805747+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-11T18:41:03.068183+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-11T18:41:03.068183+00:00",
-      "type": "removed",
-      "program_name": "PDQ bug bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: PDQ bug bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-11T01:21:16.810780+00:00",
-      "type": "added",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "New program: TrueLayer on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-11T01:21:16.810780+00:00",
-      "type": "added",
-      "program_name": "Izymes",
-      "platform": "Bugcrowd",
-      "details": "New program: Izymes on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-11T01:21:16.810780+00:00",
-      "type": "removed",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-11T01:21:16.810780+00:00",
-      "type": "removed",
-      "program_name": "Bitstamp",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Bitstamp from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-10T19:12:20.006125+00:00",
-      "type": "added",
-      "program_name": "Discover VDP",
-      "platform": "HackerOne",
-      "details": "New program: Discover VDP on HackerOne"
-    },
-    {
-      "timestamp": "2026-07-10T19:12:20.006125+00:00",
-      "type": "removed",
-      "program_name": "Privy (Bounty)",
-      "platform": "HackerOne",
-      "details": "Program removed: Privy (Bounty) from HackerOne"
-    },
-    {
-      "timestamp": "2026-07-10T13:51:18.561716+00:00",
-      "type": "added",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "New program: Nexuzhealth on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T13:51:18.561716+00:00",
-      "type": "added",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T13:51:18.561716+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T13:51:18.561716+00:00",
-      "type": "removed",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "Program removed: TrueLayer from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T08:56:10.772276+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T08:56:10.772276+00:00",
-      "type": "removed",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Lansweeper Bug Bounty Program from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T01:27:51.367091+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-10T01:27:51.367091+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-09T19:16:50.001736+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-09T19:16:50.001736+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "added",
-      "program_name": "55 Degrees",
-      "platform": "Bugcrowd",
-      "details": "New program: 55 Degrees on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "added",
-      "program_name": "AppLiger",
-      "platform": "Bugcrowd",
-      "details": "New program: AppLiger on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "added",
-      "program_name": "Hypixel Studios Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Hypixel Studios Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "removed",
-      "program_name": "Jora",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Jora from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "removed",
-      "program_name": "Izymes",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Izymes from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-09T01:30:15.198833+00:00",
-      "type": "removed",
-      "program_name": "J-Tricks - Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "Program removed: J-Tricks - Marketplace Bug Bounty Program from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-08T19:01:53.055508+00:00",
-      "type": "added",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "New program: TrueLayer on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T19:01:53.055508+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T19:01:53.055508+00:00",
-      "type": "removed",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "Program removed: Soundtrack Technologies from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T19:01:53.055508+00:00",
-      "type": "removed",
-      "program_name": "Toast VDP",
-      "platform": "Intigriti",
-      "details": "Program removed: Toast VDP from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T13:23:59.019068+00:00",
-      "type": "added",
-      "program_name": "Dashlane Vulnerability Disclosure Program",
-      "platform": "Intigriti",
-      "details": "New program: Dashlane Vulnerability Disclosure Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T13:23:59.019068+00:00",
-      "type": "added",
-      "program_name": "Soundtrack Technologies",
-      "platform": "Intigriti",
-      "details": "New program: Soundtrack Technologies on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T13:23:59.019068+00:00",
-      "type": "removed",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "Program removed: TrueLayer from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-08T13:23:59.019068+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-07T19:29:51.569889+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-07T19:29:51.569889+00:00",
-      "type": "removed",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "Program removed: Nexuzhealth from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-07T14:01:20.843438+00:00",
-      "type": "added",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-07T14:01:20.843438+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T19:34:53.683200+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T19:34:53.683200+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "added",
-      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Housing Application (huisvestingsapp) Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "added",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "added",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "New program: Nexuzhealth on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "removed",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "Program removed: Port of Antwerp-Bruges from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T14:51:44.199364+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T09:50:20.022546+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T09:50:20.022546+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-06T09:50:20.022546+00:00",
-      "type": "updated",
-      "program_name": "Telenor Sweden Public Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "Bounty updated: $5000 -> $6000"
-    },
-    {
-      "timestamp": "2026-07-05T18:56:13.735747+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-05T18:56:13.735747+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-05T01:47:27.129585+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-05T01:47:27.129585+00:00",
-      "type": "removed",
-      "program_name": "Nexuzhealth",
-      "platform": "Intigriti",
-      "details": "Program removed: Nexuzhealth from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-03T13:29:06.414278+00:00",
-      "type": "added",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "New program: TrueLayer on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-03T13:29:06.414278+00:00",
-      "type": "removed",
-      "program_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "Program removed: Housing Application (huisvestingsapp) Bug Bounty Program from Intigriti"
     }
   ]
 }
