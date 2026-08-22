@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-22T06:17:48.710360+00:00",
+      "type": "added",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Storebrand Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-22T06:17:48.710360+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-22T00:30:17.608236+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -3485,20 +3499,6 @@
       "program_name": "Backblaze",
       "platform": "Bugcrowd",
       "details": "New program: Backblaze on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Directly",
-      "platform": "Bugcrowd",
-      "details": "New program: Directly on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Broken Build Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Broken Build Bug Bounty on Bugcrowd"
     }
   ]
 }
