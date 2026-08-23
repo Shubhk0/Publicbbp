@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-23T18:11:03.574530+00:00",
+      "type": "added",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "New program: Axel Springer National Media & Tech on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-23T18:11:03.574530+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
       "timestamp": "2026-08-23T06:19:25.499908+00:00",
       "type": "added",
       "program_name": "Superdrug",
@@ -3485,20 +3499,6 @@
       "program_name": "Immutable Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Immutable Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "celix Solutions GmbH Marketplace Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: celix Solutions GmbH Marketplace Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
-      "platform": "Bugcrowd",
-      "details": "New program: Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026 on Bugcrowd"
     }
   ]
 }
