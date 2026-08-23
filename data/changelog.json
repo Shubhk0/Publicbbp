@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-23T06:19:25.499908+00:00",
+      "type": "added",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "New program: Superdrug on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-23T06:19:25.499908+00:00",
+      "type": "removed",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
+    },
+    {
       "timestamp": "2026-08-22T06:17:48.710360+00:00",
       "type": "added",
       "program_name": "Storebrand Responsible Disclosure",
@@ -3485,20 +3499,6 @@
       "program_name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
       "platform": "Bugcrowd",
       "details": "New program: Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026 on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Easy Agile",
-      "platform": "Bugcrowd",
-      "details": "New program: Easy Agile on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Backblaze",
-      "platform": "Bugcrowd",
-      "details": "New program: Backblaze on Bugcrowd"
     }
   ]
 }
