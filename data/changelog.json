@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-24T06:31:51.400895+00:00",
+      "type": "added",
+      "program_name": "Essity",
+      "platform": "HackerOne",
+      "details": "New program: Essity on HackerOne"
+    },
+    {
+      "timestamp": "2026-08-24T06:31:51.400895+00:00",
+      "type": "removed",
+      "program_name": "REI VDP",
+      "platform": "HackerOne",
+      "details": "Program removed: REI VDP from HackerOne"
+    },
+    {
       "timestamp": "2026-08-23T18:11:03.574530+00:00",
       "type": "added",
       "program_name": "Axel Springer National Media & Tech",
@@ -3485,20 +3499,6 @@
       "program_name": "Elements",
       "platform": "Bugcrowd",
       "details": "New program: Elements on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "codefortynine",
-      "platform": "Bugcrowd",
-      "details": "New program: codefortynine on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Immutable Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Immutable Bug Bounty on Bugcrowd"
     }
   ]
 }
