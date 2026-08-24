@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-24T12:21:07.793109+00:00",
+      "type": "added",
+      "program_name": "Challenge 0826",
+      "platform": "Intigriti",
+      "details": "New program: Challenge 0826 on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-24T12:21:07.793109+00:00",
+      "type": "removed",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Storebrand Responsible Disclosure from Intigriti"
+    },
+    {
       "timestamp": "2026-08-24T06:31:51.400895+00:00",
       "type": "added",
       "program_name": "Essity",
@@ -3485,20 +3499,6 @@
       "program_name": "Inprowiser Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Inprowiser Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "iFood: Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: iFood: Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Elements",
-      "platform": "Bugcrowd",
-      "details": "New program: Elements on Bugcrowd"
     }
   ]
 }
