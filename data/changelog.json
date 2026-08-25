@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-25T00:31:41.700104+00:00",
+      "type": "added",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Speakap Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-25T00:31:41.700104+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-24T18:21:06.632346+00:00",
       "type": "added",
       "program_name": "PDQ bug bounty program",
@@ -3485,20 +3499,6 @@
       "program_name": "Imperva - Thales Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Imperva - Thales Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "HotDoc",
-      "platform": "Bugcrowd",
-      "details": "New program: HotDoc on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "55 Degrees",
-      "platform": "Bugcrowd",
-      "details": "New program: 55 Degrees on Bugcrowd"
     }
   ]
 }
