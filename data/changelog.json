@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-25T12:21:29.772078+00:00",
+      "type": "added",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "New program: PDQ bug bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-25T12:21:29.772078+00:00",
+      "type": "removed",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Speakap Responsible Disclosure from Intigriti"
+    },
+    {
       "timestamp": "2026-08-25T00:31:41.700104+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -3485,20 +3499,6 @@
       "program_name": "Lansweeper Bug Bounty Program",
       "platform": "Intigriti",
       "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Atlassian-Built Apps",
-      "platform": "Bugcrowd",
-      "details": "New program: Atlassian-Built Apps on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Imperva - Thales Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Imperva - Thales Bug Bounty on Bugcrowd"
     }
   ]
 }
