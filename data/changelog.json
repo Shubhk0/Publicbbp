@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-25T18:20:28.752627+00:00",
+      "type": "added",
+      "program_name": "Vanguard",
+      "platform": "HackerOne",
+      "details": "New program: Vanguard on HackerOne"
+    },
+    {
+      "timestamp": "2026-08-25T18:20:28.752627+00:00",
+      "type": "removed",
+      "program_name": "Lowe's Companies VDP",
+      "platform": "HackerOne",
+      "details": "Program removed: Lowe's Companies VDP from HackerOne"
+    },
+    {
       "timestamp": "2026-08-25T12:21:29.772078+00:00",
       "type": "added",
       "program_name": "PDQ bug bounty program",
@@ -3485,20 +3499,6 @@
       "program_name": "Cloudinary",
       "platform": "Bugcrowd",
       "details": "New program: Cloudinary on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Gearset: Managed Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Gearset: Managed Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Lansweeper Bug Bounty Program",
-      "platform": "Intigriti",
-      "details": "New program: Lansweeper Bug Bounty Program on Intigriti"
     }
   ]
 }
