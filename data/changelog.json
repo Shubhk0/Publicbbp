@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-26T06:25:00.218740+00:00",
+      "type": "removed",
+      "program_name": "Superbank - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Superbank - Public Bug Bounty Program from YesWeHack"
+    },
+    {
       "timestamp": "2026-08-26T00:32:53.706185+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -3492,13 +3499,6 @@
       "program_name": "Asana",
       "platform": "Bugcrowd",
       "details": "New program: Asana on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Entain Game Logic Flaws Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
     }
   ]
 }
