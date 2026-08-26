@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-26T00:32:53.706185+00:00",
+      "type": "added",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Speakap Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-26T00:32:53.706185+00:00",
+      "type": "removed",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: PDQ bug bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-25T18:20:28.752627+00:00",
       "type": "added",
       "program_name": "Vanguard",
@@ -3485,20 +3499,6 @@
       "program_name": "Entain Game Logic Flaws Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "New program: Entain Game Logic Flaws Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Bullish.com",
-      "platform": "Bugcrowd",
-      "details": "New program: Bullish.com on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Cloudinary",
-      "platform": "Bugcrowd",
-      "details": "New program: Cloudinary on Bugcrowd"
     }
   ]
 }
