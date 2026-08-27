@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "added",
+      "program_name": "BrizoIT",
+      "platform": "Bugcrowd",
+      "details": "New program: BrizoIT on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "added",
+      "program_name": "Caelor Group",
+      "platform": "Bugcrowd",
+      "details": "New program: Caelor Group on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "added",
+      "program_name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: FindOut InfoVis AB - Marketplace Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "removed",
+      "program_name": "iFood: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: iFood: Bug Bounty Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "removed",
+      "program_name": "Imperva - Thales Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Imperva - Thales Bug Bounty from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-27T05:23:24.637749+00:00",
+      "type": "removed",
+      "program_name": "Immutable Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Immutable Bug Bounty from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-26T19:29:02.695646+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -3457,48 +3499,6 @@
       "program_name": "Elementor: Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "New program: Elementor: Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Altera",
-      "platform": "Intigriti",
-      "details": "New program: Altera on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Craft Coders Marketplace Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Craft Coders Marketplace Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Bitso Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitso Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "eazyBI",
-      "platform": "Bugcrowd",
-      "details": "New program: eazyBI on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Canva",
-      "platform": "Bugcrowd",
-      "details": "New program: Canva on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Agilis LT Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Agilis LT Bug Bounty on Bugcrowd"
     }
   ]
 }
