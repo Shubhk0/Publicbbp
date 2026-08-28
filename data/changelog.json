@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-28T17:47:23.345395+00:00",
+      "type": "added",
+      "program_name": "Dovecot",
+      "platform": "YesWeHack",
+      "details": "New program: Dovecot on YesWeHack"
+    },
+    {
       "timestamp": "2026-08-28T01:50:00.377610+00:00",
       "type": "removed",
       "program_name": "BIND 9 Bug Bounty Program",
@@ -3492,13 +3499,6 @@
       "program_name": "Bugcrowd",
       "platform": "Bugcrowd",
       "details": "New program: Bugcrowd on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "CoinDesk Mobile",
-      "platform": "Bugcrowd",
-      "details": "New program: CoinDesk Mobile on Bugcrowd"
     }
   ]
 }
