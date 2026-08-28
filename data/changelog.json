@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-28T01:50:00.377610+00:00",
+      "type": "removed",
+      "program_name": "BIND 9 Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: BIND 9 Bug Bounty Program from YesWeHack"
+    },
+    {
       "timestamp": "2026-08-27T05:23:24.637749+00:00",
       "type": "added",
       "program_name": "BrizoIT",
@@ -3492,13 +3499,6 @@
       "program_name": "CoinDesk Mobile",
       "platform": "Bugcrowd",
       "details": "New program: CoinDesk Mobile on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Elementor: Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Elementor: Bug Bounty Program on Bugcrowd"
     }
   ]
 }
