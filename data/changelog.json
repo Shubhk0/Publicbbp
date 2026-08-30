@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-30T20:10:15.095158+00:00",
+      "type": "removed",
+      "program_name": "Digital Flanders Vulnerability Disclosure Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Digital Flanders Vulnerability Disclosure Program from YesWeHack"
+    },
+    {
+      "timestamp": "2026-08-30T20:10:15.095158+00:00",
+      "type": "removed",
+      "program_name": "Ibotta",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Ibotta from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-30T10:48:52.331794+00:00",
       "type": "added",
       "program_name": "Superdrug",
@@ -3485,20 +3499,6 @@
       "program_name": "Entain Public Managed Bug Bounty Engagement 2024",
       "platform": "Bugcrowd",
       "details": "New program: Entain Public Managed Bug Bounty Engagement 2024 on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Blockchain.com Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Blockchain.com Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Binance",
-      "platform": "Bugcrowd",
-      "details": "New program: Binance on Bugcrowd"
     }
   ]
 }
