@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-30T10:48:52.331794+00:00",
+      "type": "added",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "New program: Superdrug on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-30T10:48:52.331794+00:00",
+      "type": "removed",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
+    },
+    {
       "timestamp": "2026-08-30T02:00:14.187196+00:00",
       "type": "added",
       "program_name": "Storebrand Responsible Disclosure",
@@ -3485,20 +3499,6 @@
       "program_name": "Binance",
       "platform": "Bugcrowd",
       "details": "New program: Binance on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Bitpanda Ongoing Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Bitpanda Ongoing Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Deviniti",
-      "platform": "Bugcrowd",
-      "details": "New program: Deviniti on Bugcrowd"
     }
   ]
 }
