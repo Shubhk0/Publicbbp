@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-31T11:58:30.574309+00:00",
+      "type": "added",
+      "program_name": "Delen Private Bank",
+      "platform": "Intigriti",
+      "details": "New program: Delen Private Bank on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-31T11:58:30.574309+00:00",
+      "type": "added",
+      "program_name": "Skoda Auto Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Skoda Auto Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-31T11:58:30.574309+00:00",
+      "type": "removed",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "Program removed: Monzo Public Bug Bounty Program from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-31T11:58:30.574309+00:00",
+      "type": "removed",
+      "program_name": "Tekion VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Tekion VDP from Intigriti"
+    },
+    {
       "timestamp": "2026-08-31T01:56:14.717195+00:00",
       "type": "added",
       "program_name": "Ibotta",
@@ -3471,34 +3499,6 @@
       "program_name": "Comcast Xfinity Bug Bounty",
       "platform": "Bugcrowd",
       "details": "New program: Comcast Xfinity Bug Bounty on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Felix Health Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Felix Health Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "codeclou GmbH",
-      "platform": "Bugcrowd",
-      "details": "New program: codeclou GmbH on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "iRobot",
-      "platform": "Bugcrowd",
-      "details": "New program: iRobot on Bugcrowd"
     }
   ]
 }
