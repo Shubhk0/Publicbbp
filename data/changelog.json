@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "timestamp": "2026-08-31T18:42:50.597499+00:00",
+      "type": "added",
+      "program_name": "iFood: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: iFood: Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-08-31T18:42:50.597499+00:00",
+      "type": "added",
+      "program_name": "Monzo Public Bug Bounty Program",
+      "platform": "Intigriti",
+      "details": "New program: Monzo Public Bug Bounty Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-08-31T18:42:50.597499+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
+      "timestamp": "2026-08-31T18:42:50.597499+00:00",
+      "type": "removed",
+      "program_name": "Afterpay Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Afterpay Bug Bounty Program from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-31T11:58:30.574309+00:00",
       "type": "added",
       "program_name": "Delen Private Bank",
@@ -3471,34 +3499,6 @@
       "program_name": "Port of Antwerp-Bruges",
       "platform": "Intigriti",
       "details": "New program: Port of Antwerp-Bruges on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "EPAM Systems Managed Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: EPAM Systems Managed Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Internet Brands Public",
-      "platform": "Bugcrowd",
-      "details": "New program: Internet Brands Public on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Gliffy",
-      "platform": "Bugcrowd",
-      "details": "New program: Gliffy on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Comcast Xfinity Bug Bounty",
-      "platform": "Bugcrowd",
-      "details": "New program: Comcast Xfinity Bug Bounty on Bugcrowd"
     }
   ]
 }
