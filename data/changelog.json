@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-01T15:39:04.207672+00:00",
+      "type": "added",
+      "program_name": "Adobe Public",
+      "platform": "Intigriti",
+      "details": "New program: Adobe Public on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-01T15:39:04.207672+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
       "timestamp": "2026-09-01T10:37:38.613817+00:00",
       "type": "added",
       "program_name": "Superdrug",
@@ -3485,20 +3499,6 @@
       "program_name": "HPE Networking Product Public Program",
       "platform": "Bugcrowd",
       "details": "New program: HPE Networking Product Public Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": " Comcast Xfinity Vulnerability Disclosure Program",
-      "platform": "Bugcrowd",
-      "details": "New program:  Comcast Xfinity Vulnerability Disclosure Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Block Open Source",
-      "platform": "Bugcrowd",
-      "details": "New program: Block Open Source on Bugcrowd"
     }
   ]
 }
