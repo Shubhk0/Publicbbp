@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-01T02:18:18.673352+00:00",
+      "type": "added",
+      "program_name": "Afterpay Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Afterpay Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-01T02:18:18.673352+00:00",
+      "type": "removed",
+      "program_name": "iFood: Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: iFood: Bug Bounty Program from Bugcrowd"
+    },
+    {
       "timestamp": "2026-08-31T18:42:50.597499+00:00",
       "type": "added",
       "program_name": "iFood: Bug Bounty Program",
@@ -3485,20 +3499,6 @@
       "program_name": "Bitdefender Box v2",
       "platform": "Bugcrowd",
       "details": "New program: Bitdefender Box v2 on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Colined",
-      "platform": "Bugcrowd",
-      "details": "New program: Colined on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Port of Antwerp-Bruges",
-      "platform": "Intigriti",
-      "details": "New program: Port of Antwerp-Bruges on Intigriti"
     }
   ]
 }
