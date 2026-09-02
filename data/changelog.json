@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-02T15:26:51.723033+00:00",
+      "type": "added",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "New program: Superdrug on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T15:26:51.723033+00:00",
+      "type": "removed",
+      "program_name": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
+      "platform": "YesWeHack",
+      "details": "Program removed: Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity from YesWeHack"
+    },
+    {
+      "timestamp": "2026-09-02T15:26:51.723033+00:00",
+      "type": "removed",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
+    },
+    {
       "timestamp": "2026-09-02T01:39:58.400361+00:00",
       "type": "added",
       "program_name": "Lowe's Companies VDP",
@@ -3478,27 +3499,6 @@
       "program_name": "Dell Technologies' Products Bug Bounty Program",
       "platform": "Bugcrowd",
       "details": "New program: Dell Technologies' Products Bug Bounty Program on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "AppLiger",
-      "platform": "Bugcrowd",
-      "details": "New program: AppLiger on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "BitGo Managed Public Bug Bounty Engagement ",
-      "platform": "Bugcrowd",
-      "details": "New program: BitGo Managed Public Bug Bounty Engagement  on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "FIS",
-      "platform": "Bugcrowd",
-      "details": "New program: FIS on Bugcrowd"
     }
   ]
 }
