@@ -1,6 +1,62 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "added",
+      "program_name": "Liferay DXP",
+      "platform": "Intigriti",
+      "details": "New program: Liferay DXP on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "added",
+      "program_name": "Kinepolis Group",
+      "platform": "Intigriti",
+      "details": "New program: Kinepolis Group on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "added",
+      "program_name": "Axel Springer National Media & Tech",
+      "platform": "Intigriti",
+      "details": "New program: Axel Springer National Media & Tech on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "removed",
+      "program_name": "Spacelift VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Spacelift VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "removed",
+      "program_name": "Superdrug",
+      "platform": "Intigriti",
+      "details": "Program removed: Superdrug from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "removed",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Speakap Responsible Disclosure from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-02T20:11:48.493504+00:00",
+      "type": "removed",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Storebrand Responsible Disclosure from Intigriti"
+    },
+    {
       "timestamp": "2026-09-02T15:26:51.723033+00:00",
       "type": "added",
       "program_name": "Superdrug",
@@ -3443,62 +3499,6 @@
       "program_name": "Auth0 by Okta",
       "platform": "Bugcrowd",
       "details": "New program: Auth0 by Okta on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "DevAcrobats",
-      "platform": "Bugcrowd",
-      "details": "New program: DevAcrobats on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Chipotle Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Chipotle Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "CoinDesk.com",
-      "platform": "Bugcrowd",
-      "details": "New program: CoinDesk.com on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "ClickHouse",
-      "platform": "Bugcrowd",
-      "details": "New program: ClickHouse on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Fireblocks Web Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Fireblocks Web Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Bullish Exchange",
-      "platform": "Bugcrowd",
-      "details": "New program: Bullish Exchange on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Council on Foreign Relations",
-      "platform": "Bugcrowd",
-      "details": "New program: Council on Foreign Relations on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Dell Technologies' Products Bug Bounty Program",
-      "platform": "Bugcrowd",
-      "details": "New program: Dell Technologies' Products Bug Bounty Program on Bugcrowd"
     }
   ]
 }
