@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-03T10:13:41.900730+00:00",
+      "type": "removed",
+      "program_name": "Dovecot",
+      "platform": "YesWeHack",
+      "details": "Program removed: Dovecot from YesWeHack"
+    },
+    {
       "timestamp": "2026-09-03T01:46:01.400336+00:00",
       "type": "added",
       "program_name": "APTIS",
@@ -3492,13 +3499,6 @@
       "program_name": "Blofin Crypto Managed Bug Bounty Engagement",
       "platform": "Bugcrowd",
       "details": "New program: Blofin Crypto Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Balsamiq for Atlassian Products",
-      "platform": "Bugcrowd",
-      "details": "New program: Balsamiq for Atlassian Products on Bugcrowd"
     }
   ]
 }
