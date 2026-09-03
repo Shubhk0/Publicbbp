@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "added",
+      "program_name": "APTIS",
+      "platform": "Bugcrowd",
+      "details": "New program: APTIS on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "added",
+      "program_name": "Akeles Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Akeles Marketplace Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "added",
+      "program_name": "Spacelift VDP",
+      "platform": "Intigriti",
+      "details": "New program: Spacelift VDP on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "removed",
+      "program_name": "Hypixel Studios Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Hypixel Studios Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-03T01:46:01.400336+00:00",
+      "type": "removed",
+      "program_name": "Ibotta",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Ibotta from Bugcrowd"
+    },
+    {
       "timestamp": "2026-09-02T20:11:48.493504+00:00",
       "type": "added",
       "program_name": "Liferay DXP",
@@ -3457,48 +3499,6 @@
       "program_name": "Balsamiq for Atlassian Products",
       "platform": "Bugcrowd",
       "details": "New program: Balsamiq for Atlassian Products on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Bolt Technology OÜ",
-      "platform": "Bugcrowd",
-      "details": "New program: Bolt Technology OÜ on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Appliances - Barracuda Networks, Inc.",
-      "platform": "Bugcrowd",
-      "details": "New program: Appliances - Barracuda Networks, Inc. on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Indeed",
-      "platform": "Bugcrowd",
-      "details": "New program: Indeed on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "eToro Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: eToro Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Cisco Meraki",
-      "platform": "Bugcrowd",
-      "details": "New program: Cisco Meraki on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Auth0 by Okta",
-      "platform": "Bugcrowd",
-      "details": "New program: Auth0 by Okta on Bugcrowd"
     }
   ]
 }
