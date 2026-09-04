@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-04T10:03:20.863011+00:00",
+      "type": "added",
+      "program_name": "REI VDP",
+      "platform": "HackerOne",
+      "details": "New program: REI VDP on HackerOne"
+    },
+    {
+      "timestamp": "2026-09-04T10:03:20.863011+00:00",
+      "type": "added",
+      "program_name": "Maya - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Maya - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-09-04T10:03:20.863011+00:00",
+      "type": "removed",
+      "program_name": "Klarna",
+      "platform": "HackerOne",
+      "details": "Program removed: Klarna from HackerOne"
+    },
+    {
       "timestamp": "2026-09-04T01:39:14.045649+00:00",
       "type": "added",
       "program_name": "Storebrand Responsible Disclosure",
@@ -3478,27 +3499,6 @@
       "program_name": "Trusted Firmware",
       "platform": "Intigriti",
       "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-16T01:19:47.681701+00:00",
-      "type": "removed",
-      "program_name": "Cisco Meraki",
-      "platform": "Bugcrowd",
-      "details": "Program removed: Cisco Meraki from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-16T01:19:47.681701+00:00",
-      "type": "removed",
-      "program_name": "Ninja Kiwi Games Bug Bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-16T01:19:47.681701+00:00",
-      "type": "removed",
-      "program_name": "Altera",
-      "platform": "Intigriti",
-      "details": "Program removed: Altera from Intigriti"
     }
   ]
 }
