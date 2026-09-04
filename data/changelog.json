@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-04T01:39:14.045649+00:00",
+      "type": "added",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Storebrand Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-04T01:39:14.045649+00:00",
+      "type": "removed",
+      "program_name": "Maya - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "Program removed: Maya - Public Bug Bounty Program from YesWeHack"
+    },
+    {
+      "timestamp": "2026-09-04T01:39:14.045649+00:00",
+      "type": "removed",
+      "program_name": "Liferay DXP",
+      "platform": "Intigriti",
+      "details": "Program removed: Liferay DXP from Intigriti"
+    },
+    {
       "timestamp": "2026-09-03T20:12:42.722559+00:00",
       "type": "added",
       "program_name": "Speakap Responsible Disclosure",
@@ -3478,27 +3499,6 @@
       "program_name": "Altera",
       "platform": "Intigriti",
       "details": "Program removed: Altera from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "BitGo Mobile Apps Bug Bounty Engagement ",
-      "platform": "Bugcrowd",
-      "details": "New program: BitGo Mobile Apps Bug Bounty Engagement  on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Certinia (formerly FinancialForce)",
-      "platform": "Bugcrowd",
-      "details": "New program: Certinia (formerly FinancialForce) on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-15T13:04:16.760475+00:00",
-      "type": "added",
-      "program_name": "Izymes",
-      "platform": "Bugcrowd",
-      "details": "New program: Izymes on Bugcrowd"
     }
   ]
 }
