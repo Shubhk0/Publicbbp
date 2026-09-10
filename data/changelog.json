@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-10T15:20:28.670183+00:00",
+      "type": "added",
+      "program_name": "Kiteworks Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Kiteworks Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-09-10T15:20:28.670183+00:00",
+      "type": "added",
+      "program_name": "BMC",
+      "platform": "Intigriti",
+      "details": "New program: BMC on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-10T15:20:28.670183+00:00",
+      "type": "removed",
+      "program_name": "Storebrand Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Storebrand Responsible Disclosure from Intigriti"
+    },
+    {
       "timestamp": "2026-09-10T10:08:41.356865+00:00",
       "type": "added",
       "program_name": "Posti Bug Bounty ",
@@ -3478,27 +3499,6 @@
       "program_name": "Axel Springer National Media & Tech",
       "platform": "Intigriti",
       "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-19T01:20:50.455571+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-18T12:43:55.596586+00:00",
-      "type": "added",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "New program: TrueLayer on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-18T12:43:55.596586+00:00",
-      "type": "removed",
-      "program_name": "Ninja Kiwi Games Bug Bounty program",
-      "platform": "Intigriti",
-      "details": "Program removed: Ninja Kiwi Games Bug Bounty program from Intigriti"
     }
   ]
 }
