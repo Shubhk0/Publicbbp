@@ -1,6 +1,76 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "added",
+      "program_name": "Creativas",
+      "platform": "Bugcrowd",
+      "details": "New program: Creativas on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "added",
+      "program_name": "Digital Rose's Marketplace Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Digital Rose's Marketplace Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "added",
+      "program_name": "Cappsule Sarl - Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: Cappsule Sarl - Marketplace Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "added",
+      "program_name": "codecentric AG - Marketplace Bug Bounty Program",
+      "platform": "Bugcrowd",
+      "details": "New program: codecentric AG - Marketplace Bug Bounty Program on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "added",
+      "program_name": "Catapult Labs Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "New program: Catapult Labs Bug Bounty on Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "removed",
+      "program_name": "Gliffy",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Gliffy from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "removed",
+      "program_name": "HotDoc",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HotDoc from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "removed",
+      "program_name": "The Hut Group: Public Managed Bug Bounty Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: The Hut Group: Public Managed Bug Bounty Engagement from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "removed",
+      "program_name": "HPE Networking Product Public Program",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HPE Networking Product Public Program from Bugcrowd"
+    },
+    {
+      "timestamp": "2026-09-10T20:09:22.577873+00:00",
+      "type": "removed",
+      "program_name": "HostGator LATAM Bug Bounty",
+      "platform": "Bugcrowd",
+      "details": "Program removed: HostGator LATAM Bug Bounty from Bugcrowd"
+    },
+    {
       "timestamp": "2026-09-10T15:20:28.670183+00:00",
       "type": "added",
       "program_name": "Kiteworks Public Bug Bounty Program",
@@ -3429,76 +3499,6 @@
       "program_name": "Trusted Firmware",
       "platform": "Intigriti",
       "details": "Program removed: Trusted Firmware from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-21T18:59:58.219741+00:00",
-      "type": "removed",
-      "program_name": "OneDoc",
-      "platform": "YesWeHack",
-      "details": "Program removed: OneDoc from YesWeHack"
-    },
-    {
-      "timestamp": "2026-07-20T13:42:45.962061+00:00",
-      "type": "added",
-      "program_name": "Ninja Kiwi Games Bug Bounty program",
-      "platform": "Intigriti",
-      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-20T13:42:45.962061+00:00",
-      "type": "added",
-      "program_name": "Axel Springer National Media & Tech",
-      "platform": "Intigriti",
-      "details": "New program: Axel Springer National Media & Tech on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-20T13:42:45.962061+00:00",
-      "type": "removed",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "Program removed: Tweakers from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-20T13:42:45.962061+00:00",
-      "type": "removed",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "Program removed: UZ Leuven from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-20T08:33:31.386478+00:00",
-      "type": "added",
-      "program_name": "UZ Leuven",
-      "platform": "Intigriti",
-      "details": "New program: UZ Leuven on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-20T08:33:31.386478+00:00",
-      "type": "removed",
-      "program_name": "TrueLayer",
-      "platform": "Intigriti",
-      "details": "Program removed: TrueLayer from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-19T01:20:50.455571+00:00",
-      "type": "added",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "New program: Trusted Firmware on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-19T01:20:50.455571+00:00",
-      "type": "added",
-      "program_name": "Tweakers",
-      "platform": "Intigriti",
-      "details": "New program: Tweakers on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-19T01:20:50.455571+00:00",
-      "type": "removed",
-      "program_name": "Axel Springer National Media & Tech",
-      "platform": "Intigriti",
-      "details": "Program removed: Axel Springer National Media & Tech from Intigriti"
     }
   ]
 }
