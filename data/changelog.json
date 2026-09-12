@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-12T19:45:44.553058+00:00",
+      "type": "removed",
+      "program_name": "Glean Technologies Public Engagement",
+      "platform": "Bugcrowd",
+      "details": "Program removed: Glean Technologies Public Engagement from Bugcrowd"
+    },
+    {
       "timestamp": "2026-09-10T20:09:22.577873+00:00",
       "type": "added",
       "program_name": "Creativas",
@@ -3492,13 +3499,6 @@
       "program_name": "DataCamp",
       "platform": "Intigriti",
       "details": "New program: DataCamp on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-22T01:19:37.175279+00:00",
-      "type": "removed",
-      "program_name": "Trusted Firmware",
-      "platform": "Intigriti",
-      "details": "Program removed: Trusted Firmware from Intigriti"
     }
   ]
 }
