@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-14T11:05:24.552979+00:00",
+      "type": "added",
+      "program_name": "ADAC Vulnerability Disclosure Program",
+      "platform": "Intigriti",
+      "details": "New program: ADAC Vulnerability Disclosure Program on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T11:05:24.552979+00:00",
+      "type": "added",
+      "program_name": "Superbank - Public Bug Bounty Program",
+      "platform": "YesWeHack",
+      "details": "New program: Superbank - Public Bug Bounty Program on YesWeHack"
+    },
+    {
+      "timestamp": "2026-09-14T11:05:24.552979+00:00",
+      "type": "removed",
+      "program_name": "Speakap Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "Program removed: Speakap Responsible Disclosure from Intigriti"
+    },
+    {
       "timestamp": "2026-09-13T10:42:48.064141+00:00",
       "type": "added",
       "program_name": "Glean Technologies Public Engagement",
@@ -3478,27 +3499,6 @@
       "program_name": "Capital.com",
       "platform": "Intigriti",
       "details": "Program removed: Capital.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-22T18:53:13.400779+00:00",
-      "type": "removed",
-      "program_name": "iRobot",
-      "platform": "Bugcrowd",
-      "details": "Program removed: iRobot from Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-22T13:16:02.777514+00:00",
-      "type": "added",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-22T13:16:02.777514+00:00",
-      "type": "removed",
-      "program_name": "Trouw",
-      "platform": "Intigriti",
-      "details": "Program removed: Trouw from Intigriti"
     }
   ]
 }
