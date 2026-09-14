@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "added",
+      "program_name": "Ninja Kiwi Games Bug Bounty program",
+      "platform": "Intigriti",
+      "details": "New program: Ninja Kiwi Games Bug Bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "added",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "New program: DataCamp on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "added",
+      "program_name": "Chia Network",
+      "platform": "HackerOne",
+      "details": "New program: Chia Network on HackerOne"
+    },
+    {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "removed",
+      "program_name": "Spacelift VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: Spacelift VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "removed",
+      "program_name": "SolarWinds VDP",
+      "platform": "Intigriti",
+      "details": "Program removed: SolarWinds VDP from Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T17:07:48.621930+00:00",
+      "type": "removed",
+      "program_name": "Vueling",
+      "platform": "HackerOne",
+      "details": "Program removed: Vueling from HackerOne"
+    },
+    {
       "timestamp": "2026-09-14T11:05:24.552979+00:00",
       "type": "added",
       "program_name": "ADAC Vulnerability Disclosure Program",
@@ -3457,48 +3499,6 @@
       "program_name": "CM.com",
       "platform": "Intigriti",
       "details": "New program: CM.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-23T08:06:18.219017+00:00",
-      "type": "removed",
-      "program_name": "Trouw",
-      "platform": "Intigriti",
-      "details": "Program removed: Trouw from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-23T01:26:51.379634+00:00",
-      "type": "added",
-      "program_name": "Trouw",
-      "platform": "Intigriti",
-      "details": "New program: Trouw on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-23T01:26:51.379634+00:00",
-      "type": "removed",
-      "program_name": "CM.com",
-      "platform": "Intigriti",
-      "details": "Program removed: CM.com from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-22T18:53:13.400779+00:00",
-      "type": "added",
-      "program_name": "Glassdoor Managed Bug Bounty Engagement",
-      "platform": "Bugcrowd",
-      "details": "New program: Glassdoor Managed Bug Bounty Engagement on Bugcrowd"
-    },
-    {
-      "timestamp": "2026-07-22T18:53:13.400779+00:00",
-      "type": "added",
-      "program_name": "SolarWinds VDP",
-      "platform": "Intigriti",
-      "details": "New program: SolarWinds VDP on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-22T18:53:13.400779+00:00",
-      "type": "removed",
-      "program_name": "Capital.com",
-      "platform": "Intigriti",
-      "details": "Program removed: Capital.com from Intigriti"
     }
   ]
 }
