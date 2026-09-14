@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-14T21:06:06.847187+00:00",
+      "type": "added",
+      "program_name": "PDQ bug bounty program",
+      "platform": "Intigriti",
+      "details": "New program: PDQ bug bounty program on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-14T21:06:06.847187+00:00",
+      "type": "removed",
+      "program_name": "DataCamp",
+      "platform": "Intigriti",
+      "details": "Program removed: DataCamp from Intigriti"
+    },
+    {
       "timestamp": "2026-09-14T17:07:48.621930+00:00",
       "type": "added",
       "program_name": "Ninja Kiwi Games Bug Bounty program",
@@ -3485,20 +3499,6 @@
       "program_name": "Capital.com",
       "platform": "Intigriti",
       "details": "New program: Capital.com on Intigriti"
-    },
-    {
-      "timestamp": "2026-07-23T18:55:43.758149+00:00",
-      "type": "removed",
-      "program_name": "DataCamp",
-      "platform": "Intigriti",
-      "details": "Program removed: DataCamp from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-23T08:06:18.219017+00:00",
-      "type": "added",
-      "program_name": "CM.com",
-      "platform": "Intigriti",
-      "details": "New program: CM.com on Intigriti"
     }
   ]
 }
