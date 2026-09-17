@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "timestamp": "2026-09-17T15:45:28.067387+00:00",
+      "type": "added",
+      "program_name": "Posten Bring Responsible Disclosure",
+      "platform": "Intigriti",
+      "details": "New program: Posten Bring Responsible Disclosure on Intigriti"
+    },
+    {
+      "timestamp": "2026-09-17T15:45:28.067387+00:00",
+      "type": "removed",
+      "program_name": "SimScale",
+      "platform": "Intigriti",
+      "details": "Program removed: SimScale from Intigriti"
+    },
+    {
       "timestamp": "2026-09-17T10:32:31.856939+00:00",
       "type": "added",
       "program_name": "Dovecot",
@@ -3485,20 +3499,6 @@
       "program_name": "Privy (Bounty)",
       "platform": "HackerOne",
       "details": "Program removed: Privy (Bounty) from HackerOne"
-    },
-    {
-      "timestamp": "2026-07-27T14:05:35.530743+00:00",
-      "type": "removed",
-      "program_name": "Tomorrowland",
-      "platform": "Intigriti",
-      "details": "Program removed: Tomorrowland from Intigriti"
-    },
-    {
-      "timestamp": "2026-07-27T09:22:10.231168+00:00",
-      "type": "added",
-      "program_name": "Superbank - Public Bug Bounty Program",
-      "platform": "YesWeHack",
-      "details": "New program: Superbank - Public Bug Bounty Program on YesWeHack"
     }
   ]
 }
