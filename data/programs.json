@@ -1,31 +1,31 @@
 {
   "metadata": {
-    "last_updated": "2026-09-19T14:55:54.532251+00:00",
+    "last_updated": "2026-09-19T19:41:19.119449+00:00",
     "total_programs": 408,
     "sources": [
+      "Intigriti",
+      "YesWeHack",
       "HackerOne",
       "Independent",
-      "Bugcrowd",
       "Immunefi",
-      "Intigriti",
-      "YesWeHack"
+      "Bugcrowd"
     ],
     "categories": [
-      "Government",
-      "Cryptocurrency",
       "Technology",
-      "Security",
-      "HR/Recruiting",
-      "Social Media",
-      "Automotive",
-      "Healthcare",
-      "Telecom",
-      "Gaming",
-      "Finance",
       "AI/ML",
-      "Entertainment",
+      "E-commerce",
+      "Security",
+      "Automotive",
+      "Social Media",
       "Transportation",
-      "E-commerce"
+      "Finance",
+      "Telecom",
+      "Entertainment",
+      "Healthcare",
+      "Cryptocurrency",
+      "Government",
+      "Gaming",
+      "HR/Recruiting"
     ]
   },
   "programs": [
@@ -44,7 +44,7 @@
         "DeFi"
       ],
       "id": "a5de8e6e8ff1",
-      "last_updated": "2026-09-19T14:55:51.263632+00:00"
+      "last_updated": "2026-09-19T19:41:17.363088+00:00"
     },
     {
       "name": "Aurora",
@@ -61,7 +61,7 @@
         "NEAR Protocol"
       ],
       "id": "8272f6788385",
-      "last_updated": "2026-09-19T14:55:51.263628+00:00"
+      "last_updated": "2026-09-19T19:41:17.363084+00:00"
     },
     {
       "name": "Olympus DAO",
@@ -78,7 +78,7 @@
         "DeFi"
       ],
       "id": "fec7d4184a88",
-      "last_updated": "2026-09-19T14:55:51.263635+00:00"
+      "last_updated": "2026-09-19T19:41:17.363089+00:00"
     },
     {
       "name": "Wormhole",
@@ -95,7 +95,7 @@
         "Blockchain"
       ],
       "id": "0e00e76f3c5a",
-      "last_updated": "2026-09-19T14:55:51.263625+00:00"
+      "last_updated": "2026-09-19T19:41:17.363081+00:00"
     },
     {
       "name": "Apple Security Bounty",
@@ -113,7 +113,7 @@
         "iCloud"
       ],
       "id": "7c72911bfc5b",
-      "last_updated": "2026-09-19T14:55:51.263638+00:00"
+      "last_updated": "2026-09-19T19:41:17.363094+00:00"
     },
     {
       "name": "Polygon",
@@ -129,7 +129,7 @@
         "Smart Contracts"
       ],
       "id": "3b51f9162cc6",
-      "last_updated": "2026-09-19T14:55:51.263630+00:00"
+      "last_updated": "2026-09-19T19:41:17.363086+00:00"
     },
     {
       "name": "Samsung",
@@ -146,7 +146,7 @@
         "Samsung Mobile"
       ],
       "id": "ad7ac2dbaf35",
-      "last_updated": "2026-09-19T14:55:51.263591+00:00"
+      "last_updated": "2026-09-19T19:41:17.363048+00:00"
     },
     {
       "name": "Microsoft MSRC",
@@ -165,7 +165,7 @@
         "Edge"
       ],
       "id": "f44a4e265c14",
-      "last_updated": "2026-09-19T14:55:51.263636+00:00"
+      "last_updated": "2026-09-19T19:41:17.363091+00:00"
     },
     {
       "name": "Swiss Post - E-Voting",
@@ -179,7 +179,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2daaf54b62ca",
-      "last_updated": "2026-09-19T14:55:53.950329+00:00"
+      "last_updated": "2026-09-19T19:41:18.658092+00:00"
     },
     {
       "name": "Intel",
@@ -197,7 +197,7 @@
         "Software"
       ],
       "id": "dfcc9b6f6216",
-      "last_updated": "2026-09-19T14:55:51.263645+00:00"
+      "last_updated": "2026-09-19T19:41:17.363101+00:00"
     },
     {
       "name": "Coinbase",
@@ -213,7 +213,7 @@
         "*.coinbase.com"
       ],
       "id": "96f540fbbf35",
-      "last_updated": "2026-09-19T14:55:51.263560+00:00"
+      "last_updated": "2026-09-19T19:41:17.363016+00:00"
     },
     {
       "name": "Kiteworks Public Bug Bounty Program",
@@ -227,7 +227,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c277d32a0fa6",
-      "last_updated": "2026-09-19T14:55:53.950136+00:00"
+      "last_updated": "2026-09-19T19:41:18.657930+00:00"
     },
     {
       "name": "Meta",
@@ -245,7 +245,7 @@
         "*.whatsapp.com"
       ],
       "id": "04ea3c52f50f",
-      "last_updated": "2026-09-19T14:55:51.263640+00:00"
+      "last_updated": "2026-09-19T19:41:17.363095+00:00"
     },
     {
       "name": "Shopify",
@@ -262,7 +262,7 @@
         "*.myshopify.com"
       ],
       "id": "f60f67a32e37",
-      "last_updated": "2026-09-19T14:55:51.263544+00:00"
+      "last_updated": "2026-09-19T19:41:17.362999+00:00"
     },
     {
       "name": "Sony PlayStation",
@@ -279,7 +279,7 @@
         "*.playstation.com"
       ],
       "id": "a4b6302bd1de",
-      "last_updated": "2026-09-19T14:55:51.263647+00:00"
+      "last_updated": "2026-09-19T19:41:17.363103+00:00"
     },
     {
       "name": "GitLab",
@@ -295,7 +295,7 @@
         "*.gitlab.com"
       ],
       "id": "255488fbe306",
-      "last_updated": "2026-09-19T14:55:51.263575+00:00"
+      "last_updated": "2026-09-19T19:41:17.363031+00:00"
     },
     {
       "name": "Dropbox",
@@ -311,7 +311,7 @@
         "*.dropbox.com"
       ],
       "id": "543776a93a9e",
-      "last_updated": "2026-09-19T14:55:51.263563+00:00"
+      "last_updated": "2026-09-19T19:41:17.363018+00:00"
     },
     {
       "name": "Google VRP",
@@ -330,7 +330,7 @@
         "Chrome"
       ],
       "id": "034f75566627",
-      "last_updated": "2026-09-19T14:55:51.263536+00:00"
+      "last_updated": "2026-09-19T19:41:17.362994+00:00"
     },
     {
       "name": "GitHub",
@@ -347,7 +347,7 @@
         "*.github.com"
       ],
       "id": "6fd31ec01bdb",
-      "last_updated": "2026-09-19T14:55:51.263539+00:00"
+      "last_updated": "2026-09-19T19:41:17.362996+00:00"
     },
     {
       "name": "Automattic",
@@ -364,7 +364,7 @@
         "*.tumblr.com"
       ],
       "id": "8cee4f9abbd1",
-      "last_updated": "2026-09-19T14:55:51.263569+00:00"
+      "last_updated": "2026-09-19T19:41:17.363024+00:00"
     },
     {
       "name": "Valve (Steam)",
@@ -381,7 +381,7 @@
         "*.valvesoftware.com"
       ],
       "id": "534c24ca9a87",
-      "last_updated": "2026-09-19T14:55:51.263577+00:00"
+      "last_updated": "2026-09-19T19:41:17.363033+00:00"
     },
     {
       "name": "WordPress",
@@ -398,7 +398,7 @@
         "*.wordpress.com"
       ],
       "id": "96d8c447ad19",
-      "last_updated": "2026-09-19T14:55:51.263567+00:00"
+      "last_updated": "2026-09-19T19:41:17.363022+00:00"
     },
     {
       "name": "OpenAI",
@@ -416,7 +416,7 @@
         "API"
       ],
       "id": "810f4ce065dc",
-      "last_updated": "2026-09-19T14:55:51.263594+00:00"
+      "last_updated": "2026-09-19T19:41:17.363049+00:00"
     },
     {
       "name": "PayPal",
@@ -433,7 +433,7 @@
         "*.venmo.com"
       ],
       "id": "104f6cb4977d",
-      "last_updated": "2026-09-19T14:55:51.263550+00:00"
+      "last_updated": "2026-09-19T19:41:17.363007+00:00"
     },
     {
       "name": "TikTok",
@@ -449,7 +449,7 @@
         "*.tiktok.com"
       ],
       "id": "41c09f6612b4",
-      "last_updated": "2026-09-19T14:55:51.263582+00:00"
+      "last_updated": "2026-09-19T19:41:17.363038+00:00"
     },
     {
       "name": "Twitter/X",
@@ -466,7 +466,7 @@
         "*.x.com"
       ],
       "id": "8b05478a2304",
-      "last_updated": "2026-09-19T14:55:51.263548+00:00"
+      "last_updated": "2026-09-19T19:41:17.363005+00:00"
     },
     {
       "name": "FDJ United (Online Betting and Gaming) - Bug Bounty program",
@@ -480,7 +480,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "bbdc538f7032",
-      "last_updated": "2026-09-19T14:55:53.950045+00:00"
+      "last_updated": "2026-09-19T19:41:18.657852+00:00"
     },
     {
       "name": "Mozilla",
@@ -497,7 +497,7 @@
         "*.mozilla.org"
       ],
       "id": "2ae1741465e0",
-      "last_updated": "2026-09-19T14:55:51.263652+00:00"
+      "last_updated": "2026-09-19T19:41:17.363107+00:00"
     },
     {
       "name": "Netflix",
@@ -513,7 +513,7 @@
         "*.netflix.com"
       ],
       "id": "086a3e9518f7",
-      "last_updated": "2026-09-19T14:55:51.263596+00:00"
+      "last_updated": "2026-09-19T19:41:17.363051+00:00"
     },
     {
       "name": "Okta",
@@ -529,7 +529,7 @@
         "*.okta.com"
       ],
       "id": "9f4a974ee292",
-      "last_updated": "2026-09-19T14:55:51.263604+00:00"
+      "last_updated": "2026-09-19T19:41:17.363060+00:00"
     },
     {
       "name": "Slack",
@@ -545,7 +545,7 @@
         "*.slack.com"
       ],
       "id": "81f0ed80d3e5",
-      "last_updated": "2026-09-19T14:55:51.263565+00:00"
+      "last_updated": "2026-09-19T19:41:17.363021+00:00"
     },
     {
       "name": "Snapchat",
@@ -561,7 +561,7 @@
         "*.snapchat.com"
       ],
       "id": "654339acdf6b",
-      "last_updated": "2026-09-19T14:55:51.263580+00:00"
+      "last_updated": "2026-09-19T19:41:17.363036+00:00"
     },
     {
       "name": "Spotify",
@@ -577,7 +577,7 @@
         "*.spotify.com"
       ],
       "id": "8929a4bffc1e",
-      "last_updated": "2026-09-19T14:55:51.263573+00:00"
+      "last_updated": "2026-09-19T19:41:17.363029+00:00"
     },
     {
       "name": "Tesla",
@@ -593,7 +593,7 @@
         "*.tesla.com"
       ],
       "id": "1e53c787e9aa",
-      "last_updated": "2026-09-19T14:55:51.263587+00:00"
+      "last_updated": "2026-09-19T19:41:17.363043+00:00"
     },
     {
       "name": "Twitch",
@@ -609,7 +609,7 @@
         "*.twitch.tv"
       ],
       "id": "832bcd5199e0",
-      "last_updated": "2026-09-19T14:55:51.263601+00:00"
+      "last_updated": "2026-09-19T19:41:17.363057+00:00"
     },
     {
       "name": "Uber",
@@ -625,7 +625,7 @@
         "*.uber.com"
       ],
       "id": "1c388161f115",
-      "last_updated": "2026-09-19T14:55:51.263546+00:00"
+      "last_updated": "2026-09-19T19:41:17.363002+00:00"
     },
     {
       "name": "Verizon Media",
@@ -641,7 +641,7 @@
         "*.verizonmedia.com"
       ],
       "id": "0e93b648bf0a",
-      "last_updated": "2026-09-19T14:55:51.263653+00:00"
+      "last_updated": "2026-09-19T19:41:17.363109+00:00"
     },
     {
       "name": "Yahoo",
@@ -657,7 +657,7 @@
         "*.yahoo.com"
       ],
       "id": "c4afbfa8e438",
-      "last_updated": "2026-09-19T14:55:51.263570+00:00"
+      "last_updated": "2026-09-19T19:41:17.363026+00:00"
     },
     {
       "name": "YesWeHack",
@@ -671,7 +671,7 @@
       "category": "Technology",
       "assets": [],
       "id": "08790ac64db4",
-      "last_updated": "2026-09-19T14:55:53.950415+00:00"
+      "last_updated": "2026-09-19T19:41:18.658166+00:00"
     },
     {
       "name": "Alibaba",
@@ -688,7 +688,7 @@
         "*.aliexpress.com"
       ],
       "id": "1e663c55ebdd",
-      "last_updated": "2026-09-19T14:55:51.263578+00:00"
+      "last_updated": "2026-09-19T19:41:17.363034+00:00"
     },
     {
       "name": "Atlassian",
@@ -705,7 +705,7 @@
         "*.jira.com"
       ],
       "id": "f16f32637911",
-      "last_updated": "2026-09-19T14:55:51.263599+00:00"
+      "last_updated": "2026-09-19T19:41:17.363055+00:00"
     },
     {
       "name": "Brave Browser",
@@ -721,7 +721,7 @@
         "Brave Browser"
       ],
       "id": "e9e28b985ee1",
-      "last_updated": "2026-09-19T14:55:51.263649+00:00"
+      "last_updated": "2026-09-19T19:41:17.363104+00:00"
     },
     {
       "name": "Cloudflare",
@@ -737,7 +737,7 @@
         "*.cloudflare.com"
       ],
       "id": "53fe16a5318a",
-      "last_updated": "2026-09-19T14:55:51.263585+00:00"
+      "last_updated": "2026-09-19T19:41:17.363041+00:00"
     },
     {
       "name": "Intigriti",
@@ -753,7 +753,7 @@
         "*.intigriti.com"
       ],
       "id": "02ac19fd9d04",
-      "last_updated": "2026-09-19T14:55:51.263606+00:00"
+      "last_updated": "2026-09-19T19:41:17.363062+00:00"
     },
     {
       "name": "KBC Group",
@@ -769,7 +769,7 @@
         "*.kbc.be"
       ],
       "id": "ec7d100d39ec",
-      "last_updated": "2026-09-19T14:55:51.263614+00:00"
+      "last_updated": "2026-09-19T19:41:17.363070+00:00"
     },
     {
       "name": "LCL",
@@ -785,7 +785,7 @@
         "*.lcl.fr"
       ],
       "id": "20bf092af586",
-      "last_updated": "2026-09-19T14:55:51.263615+00:00"
+      "last_updated": "2026-09-19T19:41:17.363072+00:00"
     },
     {
       "name": "Mastercard",
@@ -801,7 +801,7 @@
         "*.mastercard.com"
       ],
       "id": "28403b708fc8",
-      "last_updated": "2026-09-19T14:55:51.263588+00:00"
+      "last_updated": "2026-09-19T19:41:17.363045+00:00"
     },
     {
       "name": "Notion",
@@ -817,7 +817,7 @@
         "*.notion.so"
       ],
       "id": "4553c4b02abb",
-      "last_updated": "2026-09-19T14:55:51.263583+00:00"
+      "last_updated": "2026-09-19T19:41:17.363040+00:00"
     },
     {
       "name": "OVHcloud",
@@ -834,7 +834,7 @@
         "*.ovh.com"
       ],
       "id": "d90e8f3f80c1",
-      "last_updated": "2026-09-19T14:55:51.263617+00:00"
+      "last_updated": "2026-09-19T19:41:17.363073+00:00"
     },
     {
       "name": "Pinterest",
@@ -850,7 +850,7 @@
         "*.pinterest.com"
       ],
       "id": "cb0e3953cd1f",
-      "last_updated": "2026-09-19T14:55:51.263598+00:00"
+      "last_updated": "2026-09-19T19:41:17.363053+00:00"
     },
     {
       "name": "Proximus",
@@ -866,7 +866,7 @@
         "*.proximus.be"
       ],
       "id": "d1e12e9bf65c",
-      "last_updated": "2026-09-19T14:55:51.263612+00:00"
+      "last_updated": "2026-09-19T19:41:17.363069+00:00"
     },
     {
       "name": "Swiss Post",
@@ -882,7 +882,7 @@
         "*.post.ch"
       ],
       "id": "a3d50ea19011",
-      "last_updated": "2026-09-19T14:55:51.263620+00:00"
+      "last_updated": "2026-09-19T19:41:17.363076+00:00"
     },
     {
       "name": "TeamViewer - Bounty Program",
@@ -896,7 +896,7 @@
       "category": "Technology",
       "assets": [],
       "id": "500ceb5c5d45",
-      "last_updated": "2026-09-19T14:55:53.950340+00:00"
+      "last_updated": "2026-09-19T19:41:18.658101+00:00"
     },
     {
       "name": "Mon Espace Santé (MES)",
@@ -910,7 +910,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e76599c0001b",
-      "last_updated": "2026-09-19T14:55:53.950177+00:00"
+      "last_updated": "2026-09-19T19:41:18.657966+00:00"
     },
     {
       "name": "Infomaniak Bug Bounty program",
@@ -924,7 +924,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7b24d11fefe3",
-      "last_updated": "2026-09-19T14:55:53.950116+00:00"
+      "last_updated": "2026-09-19T19:41:18.657913+00:00"
     },
     {
       "name": "KOMOJU - Public Bug Bounty Program",
@@ -938,7 +938,7 @@
       "category": "Technology",
       "assets": [],
       "id": "157e18938dcb",
-      "last_updated": "2026-09-19T14:55:53.950126+00:00"
+      "last_updated": "2026-09-19T19:41:18.657921+00:00"
     },
     {
       "name": "Thüringer Aufbaubank Bug Bounty Program",
@@ -952,7 +952,7 @@
       "category": "Finance",
       "assets": [],
       "id": "e9cf0860d16c",
-      "last_updated": "2026-09-19T14:55:53.950372+00:00"
+      "last_updated": "2026-09-19T19:41:18.658129+00:00"
     },
     {
       "name": "Telenor Sweden Public Bug Bounty Program",
@@ -966,7 +966,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6c01cdf55b34",
-      "last_updated": "2026-09-19T14:55:53.950350+00:00"
+      "last_updated": "2026-09-19T19:41:18.658110+00:00"
     },
     {
       "name": "3DS OUTSCALE",
@@ -980,7 +980,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f15812db43e8",
-      "last_updated": "2026-09-19T14:55:53.949867+00:00"
+      "last_updated": "2026-09-19T19:41:18.657698+00:00"
     },
     {
       "name": "Cryptobox",
@@ -994,7 +994,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "7094b2a31c12",
-      "last_updated": "2026-09-19T14:55:53.949935+00:00"
+      "last_updated": "2026-09-19T19:41:18.657757+00:00"
     },
     {
       "name": "Doctolib",
@@ -1010,7 +1010,7 @@
         "*.doctolib.fr"
       ],
       "id": "42fe24942735",
-      "last_updated": "2026-09-19T14:55:51.263619+00:00"
+      "last_updated": "2026-09-19T19:41:17.363075+00:00"
     },
     {
       "name": "Dovecot",
@@ -1024,7 +1024,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3c98a2df12b3",
-      "last_updated": "2026-09-19T14:55:53.950014+00:00"
+      "last_updated": "2026-09-19T19:41:18.657826+00:00"
     },
     {
       "name": "Ezviz - Bug Bounty Program",
@@ -1038,7 +1038,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b4e889ff1c6",
-      "last_updated": "2026-09-19T14:55:53.950034+00:00"
+      "last_updated": "2026-09-19T19:41:18.657843+00:00"
     },
     {
       "name": "GoTo Financial - Public Bounty Program",
@@ -1052,7 +1052,7 @@
       "category": "Technology",
       "assets": [],
       "id": "ee3064273149",
-      "last_updated": "2026-09-19T14:55:53.950075+00:00"
+      "last_updated": "2026-09-19T19:41:18.657878+00:00"
     },
     {
       "name": "Government of Quebec",
@@ -1068,7 +1068,7 @@
         "*.quebec.ca"
       ],
       "id": "831d06679d80",
-      "last_updated": "2026-09-19T14:55:51.263624+00:00"
+      "last_updated": "2026-09-19T19:41:17.363080+00:00"
     },
     {
       "name": "Infomaniak",
@@ -1084,7 +1084,7 @@
         "*.infomaniak.com"
       ],
       "id": "eaa37dc95402",
-      "last_updated": "2026-09-19T14:55:51.263622+00:00"
+      "last_updated": "2026-09-19T19:41:17.363078+00:00"
     },
     {
       "name": "Louis Vuitton Malletier - Public Bug Bounty Program",
@@ -1098,7 +1098,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10208bfafbd1",
-      "last_updated": "2026-09-19T14:55:53.950146+00:00"
+      "last_updated": "2026-09-19T19:41:18.657939+00:00"
     },
     {
       "name": "Maya - Public Bug Bounty Program",
@@ -1112,7 +1112,7 @@
       "category": "Technology",
       "assets": [],
       "id": "afa364578f68",
-      "last_updated": "2026-09-19T14:55:53.950156+00:00"
+      "last_updated": "2026-09-19T19:41:18.657948+00:00"
     },
     {
       "name": "Paddle.com Public Bug Bounty Program",
@@ -1126,7 +1126,7 @@
       "category": "Technology",
       "assets": [],
       "id": "44a333c5072b",
-      "last_updated": "2026-09-19T14:55:53.950232+00:00"
+      "last_updated": "2026-09-19T19:41:18.658010+00:00"
     },
     {
       "name": "Randstad",
@@ -1142,7 +1142,7 @@
         "*.randstad.com"
       ],
       "id": "9e521fa14d51",
-      "last_updated": "2026-09-19T14:55:51.263607+00:00"
+      "last_updated": "2026-09-19T19:41:17.363064+00:00"
     },
     {
       "name": "Tencent Bug Bounty Program",
@@ -1156,7 +1156,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4d8433b524d8",
-      "last_updated": "2026-09-19T14:55:53.950361+00:00"
+      "last_updated": "2026-09-19T19:41:18.658120+00:00"
     },
     {
       "name": "ATG Public Bug Bounty Program",
@@ -1170,7 +1170,7 @@
       "category": "Technology",
       "assets": [],
       "id": "90c163ed0300",
-      "last_updated": "2026-09-19T14:55:53.949877+00:00"
+      "last_updated": "2026-09-19T19:41:18.657707+00:00"
     },
     {
       "name": "HARMAN International - Web Applications",
@@ -1184,7 +1184,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1cdac63a574f",
-      "last_updated": "2026-09-19T14:55:53.950085+00:00"
+      "last_updated": "2026-09-19T19:41:18.657887+00:00"
     },
     {
       "name": "Harman International Lifestyle Products & Services",
@@ -1198,7 +1198,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8580470a9ee5",
-      "last_updated": "2026-09-19T14:55:53.950095+00:00"
+      "last_updated": "2026-09-19T19:41:18.657896+00:00"
     },
     {
       "name": "MediaMarktSaturn Bug Bounty Program",
@@ -1212,7 +1212,7 @@
       "category": "Entertainment",
       "assets": [],
       "id": "21df1245fbf2",
-      "last_updated": "2026-09-19T14:55:53.950167+00:00"
+      "last_updated": "2026-09-19T19:41:18.657957+00:00"
     },
     {
       "name": "GOJEK - Public Bounty Program",
@@ -1226,7 +1226,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a6312a9d4e5f",
-      "last_updated": "2026-09-19T14:55:53.950055+00:00"
+      "last_updated": "2026-09-19T19:41:18.657861+00:00"
     },
     {
       "name": "Bug Bounty Program - BlaBlaCar",
@@ -1240,7 +1240,7 @@
       "category": "Technology",
       "assets": [],
       "id": "26e3ef3a2b2e",
-      "last_updated": "2026-09-19T14:55:53.949916+00:00"
+      "last_updated": "2026-09-19T19:41:18.657740+00:00"
     },
     {
       "name": "DANA Bug Bounty Program",
@@ -1254,7 +1254,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4f591bff80b9",
-      "last_updated": "2026-09-19T14:55:53.949955+00:00"
+      "last_updated": "2026-09-19T19:41:18.657774+00:00"
     },
     {
       "name": "DataDome Bug Bounty",
@@ -1268,7 +1268,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c2af94afeb4e",
-      "last_updated": "2026-09-19T14:55:53.949984+00:00"
+      "last_updated": "2026-09-19T19:41:18.657800+00:00"
     },
     {
       "name": "De Lijn",
@@ -1284,7 +1284,7 @@
         "*.delijn.be"
       ],
       "id": "a37b5ec204dc",
-      "last_updated": "2026-09-19T14:55:51.263610+00:00"
+      "last_updated": "2026-09-19T19:41:17.363067+00:00"
     },
     {
       "name": "GRW Trading FZE - Open Bug Bounty Program",
@@ -1298,7 +1298,7 @@
       "category": "Finance",
       "assets": [],
       "id": "662bb2947095",
-      "last_updated": "2026-09-19T14:55:53.950065+00:00"
+      "last_updated": "2026-09-19T19:41:18.657869+00:00"
     },
     {
       "name": "Programme de prime aux bogues du Gouvernement du Québec",
@@ -1312,7 +1312,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b72354bec37",
-      "last_updated": "2026-09-19T14:55:53.950264+00:00"
+      "last_updated": "2026-09-19T19:41:18.658038+00:00"
     },
     {
       "name": "VINCI SA - Public program",
@@ -1326,7 +1326,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f078cd723ce7",
-      "last_updated": "2026-09-19T14:55:53.950393+00:00"
+      "last_updated": "2026-09-19T19:41:18.658147+00:00"
     },
     {
       "name": "toom Baumarkt GmbH - Webshop",
@@ -1340,7 +1340,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "6933d4f80e78",
-      "last_updated": "2026-09-19T14:55:53.950447+00:00"
+      "last_updated": "2026-09-19T19:41:18.658194+00:00"
     },
     {
       "name": "vidaXL Services - Open Bug Bounty Program",
@@ -1354,7 +1354,7 @@
       "category": "Technology",
       "assets": [],
       "id": "95253a256034",
-      "last_updated": "2026-09-19T14:55:53.950457+00:00"
+      "last_updated": "2026-09-19T19:41:18.658203+00:00"
     },
     {
       "name": "Ant Group Security Response Center - Bug Bounty Program",
@@ -1368,7 +1368,7 @@
       "category": "Security",
       "assets": [],
       "id": "74fced93030b",
-      "last_updated": "2026-09-19T14:55:53.949896+00:00"
+      "last_updated": "2026-09-19T19:41:18.657724+00:00"
     },
     {
       "name": "DECATHLON",
@@ -1382,7 +1382,7 @@
       "category": "Technology",
       "assets": [],
       "id": "59bf7151cc8b",
-      "last_updated": "2026-09-19T14:55:53.949965+00:00"
+      "last_updated": "2026-09-19T19:41:18.657783+00:00"
     },
     {
       "name": "ExpressVPN",
@@ -1398,7 +1398,7 @@
         "*.expressvpn.com"
       ],
       "id": "e7cfbb51b3c0",
-      "last_updated": "2026-09-19T14:55:51.263602+00:00"
+      "last_updated": "2026-09-19T19:41:17.363059+00:00"
     },
     {
       "name": "ExpressVPN - Bug Bounty Program",
@@ -1412,7 +1412,7 @@
       "category": "Security",
       "assets": [],
       "id": "aa88bbc66db7",
-      "last_updated": "2026-09-19T14:55:53.950024+00:00"
+      "last_updated": "2026-09-19T19:41:18.657834+00:00"
     },
     {
       "name": "OTTO.DE Bug Bounty",
@@ -1426,7 +1426,7 @@
       "category": "Technology",
       "assets": [],
       "id": "88beea7077e2",
-      "last_updated": "2026-09-19T14:55:53.950200+00:00"
+      "last_updated": "2026-09-19T19:41:18.657983+00:00"
     },
     {
       "name": "BookBeat",
@@ -1440,7 +1440,7 @@
       "category": "Technology",
       "assets": [],
       "id": "abbbccea0c51",
-      "last_updated": "2026-09-19T14:55:53.949906+00:00"
+      "last_updated": "2026-09-19T19:41:18.657732+00:00"
     },
     {
       "name": "Contentsquare Bug Bounty Program",
@@ -1454,7 +1454,7 @@
       "category": "Technology",
       "assets": [],
       "id": "72dddf9ae245",
-      "last_updated": "2026-09-19T14:55:53.949926+00:00"
+      "last_updated": "2026-09-19T19:41:18.657749+00:00"
     },
     {
       "name": "Dossier Medical Partagé Bug Bounty Program",
@@ -1468,7 +1468,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "e1c9ab0c280e",
-      "last_updated": "2026-09-19T14:55:53.950005+00:00"
+      "last_updated": "2026-09-19T19:41:18.657817+00:00"
     },
     {
       "name": "Moneybox Bug Bounty",
@@ -1482,7 +1482,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4fca813fb1c1",
-      "last_updated": "2026-09-19T14:55:53.950188+00:00"
+      "last_updated": "2026-09-19T19:41:18.657974+00:00"
     },
     {
       "name": "Sogexia",
@@ -1496,7 +1496,7 @@
       "category": "Technology",
       "assets": [],
       "id": "ad286b7acd3c",
-      "last_updated": "2026-09-19T14:55:53.950285+00:00"
+      "last_updated": "2026-09-19T19:41:18.658056+00:00"
     },
     {
       "name": "Superbank - Public Bug Bounty Program",
@@ -1510,7 +1510,7 @@
       "category": "Finance",
       "assets": [],
       "id": "6b867ac0cea6",
-      "last_updated": "2026-09-19T14:55:53.950296+00:00"
+      "last_updated": "2026-09-19T19:41:18.658065+00:00"
     },
     {
       "name": "Swapcard",
@@ -1524,7 +1524,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "0e71d34817b9",
-      "last_updated": "2026-09-19T14:55:53.950308+00:00"
+      "last_updated": "2026-09-19T19:41:18.658074+00:00"
     },
     {
       "name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
@@ -1538,7 +1538,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6f66ca3f3b48",
-      "last_updated": "2026-09-19T14:55:53.950436+00:00"
+      "last_updated": "2026-09-19T19:41:18.658185+00:00"
     },
     {
       "name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
@@ -1552,7 +1552,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b40f5d8fd028",
-      "last_updated": "2026-09-19T14:55:53.950222+00:00"
+      "last_updated": "2026-09-19T19:41:18.658001+00:00"
     },
     {
       "name": "Santé Publique France Bug Bounty Program",
@@ -1566,7 +1566,7 @@
       "category": "Technology",
       "assets": [],
       "id": "43b78e911e78",
-      "last_updated": "2026-09-19T14:55:53.950275+00:00"
+      "last_updated": "2026-09-19T19:41:18.658047+00:00"
     },
     {
       "name": "VFS Global Bug Bounty Program",
@@ -1580,7 +1580,7 @@
       "category": "Technology",
       "assets": [],
       "id": "cd52bcc9e48d",
-      "last_updated": "2026-09-19T14:55:53.950382+00:00"
+      "last_updated": "2026-09-19T19:41:18.658138+00:00"
     },
     {
       "name": "Xelians - Blackbox program",
@@ -1594,7 +1594,7 @@
       "category": "Technology",
       "assets": [],
       "id": "441a506901b1",
-      "last_updated": "2026-09-19T14:55:53.950404+00:00"
+      "last_updated": "2026-09-19T19:41:18.658157+00:00"
     },
     {
       "name": "CyberGhost - Bug Bounty Program",
@@ -1608,7 +1608,7 @@
       "category": "Security",
       "assets": [],
       "id": "4e60eef5607c",
-      "last_updated": "2026-09-19T14:55:53.949945+00:00"
+      "last_updated": "2026-09-19T19:41:18.657766+00:00"
     },
     {
       "name": "Private Internet Access - Bug Bounty Program",
@@ -1622,7 +1622,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c0dc63eb04b2",
-      "last_updated": "2026-09-19T14:55:53.950253+00:00"
+      "last_updated": "2026-09-19T19:41:18.658028+00:00"
     },
     {
       "name": "IMOU Public Bug Bounty Program",
@@ -1636,7 +1636,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a282445020a9",
-      "last_updated": "2026-09-19T14:55:53.950105+00:00"
+      "last_updated": "2026-09-19T19:41:18.657904+00:00"
     },
     {
       "name": "Alasco GmbH - Bug Bounty Program",
@@ -1650,7 +1650,7 @@
       "category": "Technology",
       "assets": [],
       "id": "dc05c7e52bdb",
-      "last_updated": "2026-09-19T14:55:53.949886+00:00"
+      "last_updated": "2026-09-19T19:41:18.657715+00:00"
     },
     {
       "name": "DataDome Bot Bounty",
@@ -1664,7 +1664,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8f19cf2140d6",
-      "last_updated": "2026-09-19T14:55:53.949974+00:00"
+      "last_updated": "2026-09-19T19:41:18.657791+00:00"
     },
     {
       "name": "Pine Labs Bug Bounty Program",
@@ -1678,7 +1678,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c98bdbe3edde",
-      "last_updated": "2026-09-19T14:55:53.950242+00:00"
+      "last_updated": "2026-09-19T19:41:18.658019+00:00"
     },
     {
       "name": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1692,7 +1692,7 @@
       "category": "Technology",
       "assets": [],
       "id": "702ac98c26f3",
-      "last_updated": "2026-09-19T14:55:53.948785+00:00"
+      "last_updated": "2026-09-19T19:41:18.656753+00:00"
     },
     {
       "name": "1Password - Enterprise Password Manager",
@@ -1711,7 +1711,7 @@
         "https://events.1password.com/api/"
       ],
       "id": "8f570120c119",
-      "last_updated": "2026-09-19T14:55:53.948202+00:00"
+      "last_updated": "2026-09-19T19:41:18.656233+00:00"
     },
     {
       "name": "1win",
@@ -1732,7 +1732,7 @@
         "https://1win.com/casino"
       ],
       "id": "3522601aab4d",
-      "last_updated": "2026-09-19T14:55:53.948082+00:00"
+      "last_updated": "2026-09-19T19:41:18.656123+00:00"
     },
     {
       "name": "55 Degrees",
@@ -1746,7 +1746,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c387ba36176",
-      "last_updated": "2026-09-19T14:55:53.948944+00:00"
+      "last_updated": "2026-09-19T19:41:18.656890+00:00"
     },
     {
       "name": "6sense VDP",
@@ -1764,7 +1764,7 @@
         "https://chromewebstore.google.com/detail/6sense-si-extension-for-c/mkpoonlmiaknmcdcmdhbnehhglndcolf?hl=en"
       ],
       "id": "acfb0370148c",
-      "last_updated": "2026-09-19T14:55:53.948296+00:00"
+      "last_updated": "2026-09-19T19:41:18.656320+00:00"
     },
     {
       "name": "ADAC Vulnerability Disclosure Program",
@@ -1778,7 +1778,7 @@
       "category": "Technology",
       "assets": [],
       "id": "528ca2cea613",
-      "last_updated": "2026-09-19T14:55:53.949023+00:00"
+      "last_updated": "2026-09-19T19:41:18.656958+00:00"
     },
     {
       "name": "APTIS",
@@ -1792,7 +1792,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8ddc96a610df",
-      "last_updated": "2026-09-19T14:55:53.948916+00:00"
+      "last_updated": "2026-09-19T19:41:18.656867+00:00"
     },
     {
       "name": "AWS VDP",
@@ -1817,7 +1817,7 @@
         "*.people.aws.com"
       ],
       "id": "ae7baca9457d",
-      "last_updated": "2026-09-19T14:55:53.948262+00:00"
+      "last_updated": "2026-09-19T19:41:18.656288+00:00"
     },
     {
       "name": "AXIS OS",
@@ -1831,7 +1831,7 @@
       "category": "Technology",
       "assets": [],
       "id": "eb746f63ed9f",
-      "last_updated": "2026-09-19T14:55:53.948488+00:00"
+      "last_updated": "2026-09-19T19:41:18.656486+00:00"
     },
     {
       "name": "Accxia Marketplace Bug Bounty ",
@@ -1845,7 +1845,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "c6b798fed42f",
-      "last_updated": "2026-09-19T14:55:53.948390+00:00"
+      "last_updated": "2026-09-19T19:41:18.656399+00:00"
     },
     {
       "name": "Acorns Grow, Inc.",
@@ -1859,7 +1859,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e3693d6ea61e",
-      "last_updated": "2026-09-19T14:55:53.948396+00:00"
+      "last_updated": "2026-09-19T19:41:18.656404+00:00"
     },
     {
       "name": "Adevinta",
@@ -1884,7 +1884,7 @@
         "kijijiautos.ca"
       ],
       "id": "4cdd9f8cce29",
-      "last_updated": "2026-09-19T14:55:53.948244+00:00"
+      "last_updated": "2026-09-19T19:41:18.656271+00:00"
     },
     {
       "name": "Adobe Public",
@@ -1898,7 +1898,7 @@
       "category": "Technology",
       "assets": [],
       "id": "38f50ea76eba",
-      "last_updated": "2026-09-19T14:55:53.949030+00:00"
+      "last_updated": "2026-09-19T19:41:18.656964+00:00"
     },
     {
       "name": "Aelbox Marketplace Bug Bounty",
@@ -1912,7 +1912,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "bc977aa2e9b6",
-      "last_updated": "2026-09-19T14:55:53.948402+00:00"
+      "last_updated": "2026-09-19T19:41:18.656410+00:00"
     },
     {
       "name": "Afterpay Bug Bounty Program",
@@ -1926,7 +1926,7 @@
       "category": "Finance",
       "assets": [],
       "id": "a088235c06dc",
-      "last_updated": "2026-09-19T14:55:53.948407+00:00"
+      "last_updated": "2026-09-19T19:41:18.656416+00:00"
     },
     {
       "name": "AgilePulse Marketplace Bug Bounty Program",
@@ -1940,7 +1940,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "5faa4c0ad8ea",
-      "last_updated": "2026-09-19T14:55:53.948413+00:00"
+      "last_updated": "2026-09-19T19:41:18.656421+00:00"
     },
     {
       "name": "Agilis LT Bug Bounty",
@@ -1954,7 +1954,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fe1f8525dbd9",
-      "last_updated": "2026-09-19T14:55:53.948419+00:00"
+      "last_updated": "2026-09-19T19:41:18.656425+00:00"
     },
     {
       "name": "Agoda Public",
@@ -1972,7 +1972,7 @@
         "https://www.agoda.com/book/"
       ],
       "id": "cbda04503a55",
-      "last_updated": "2026-09-19T14:55:53.947948+00:00"
+      "last_updated": "2026-09-19T19:41:18.655998+00:00"
     },
     {
       "name": "Aikido Security: Bug Bounty Program",
@@ -1986,7 +1986,7 @@
       "category": "Security",
       "assets": [],
       "id": "d2e967bedf32",
-      "last_updated": "2026-09-19T14:55:53.949037+00:00"
+      "last_updated": "2026-09-19T19:41:18.656971+00:00"
     },
     {
       "name": "Aiven Managed Bug Bounty",
@@ -2000,7 +2000,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "4c11594ebad5",
-      "last_updated": "2026-09-19T14:55:53.948425+00:00"
+      "last_updated": "2026-09-19T19:41:18.656430+00:00"
     },
     {
       "name": "Akeles Marketplace Bug Bounty",
@@ -2014,7 +2014,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "eabd28c2370e",
-      "last_updated": "2026-09-19T14:55:53.948430+00:00"
+      "last_updated": "2026-09-19T19:41:18.656436+00:00"
     },
     {
       "name": "Algemeen Dagblad",
@@ -2028,7 +2028,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1c2cb40a66cf",
-      "last_updated": "2026-09-19T14:55:53.949044+00:00"
+      "last_updated": "2026-09-19T19:41:18.656977+00:00"
     },
     {
       "name": "Alibaba VDP",
@@ -2053,7 +2053,7 @@
         "*.alios.cn"
       ],
       "id": "d7137d8eeea2",
-      "last_updated": "2026-09-19T14:55:53.948192+00:00"
+      "last_updated": "2026-09-19T19:41:18.656225+00:00"
     },
     {
       "name": "Allegro",
@@ -2067,7 +2067,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2291578ca3b1",
-      "last_updated": "2026-09-19T14:55:53.949051+00:00"
+      "last_updated": "2026-09-19T19:41:18.656983+00:00"
     },
     {
       "name": "Altera",
@@ -2081,7 +2081,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f355800dc326",
-      "last_updated": "2026-09-19T14:55:53.949058+00:00"
+      "last_updated": "2026-09-19T19:41:18.656989+00:00"
     },
     {
       "name": "Anaconda Vulnerability Disclosure Program",
@@ -2095,7 +2095,7 @@
       "category": "Technology",
       "assets": [],
       "id": "294790ee64c3",
-      "last_updated": "2026-09-19T14:55:53.949066+00:00"
+      "last_updated": "2026-09-19T19:41:18.656996+00:00"
     },
     {
       "name": "Anduril Industries",
@@ -2116,7 +2116,7 @@
         "*.andurildev.com"
       ],
       "id": "4bc3faa740e3",
-      "last_updated": "2026-09-19T14:55:53.948011+00:00"
+      "last_updated": "2026-09-19T19:41:18.656056+00:00"
     },
     {
       "name": "Anthropic Cyber Jailbreak",
@@ -2132,7 +2132,7 @@
         "Fable 5.1"
       ],
       "id": "03973d776a34",
-      "last_updated": "2026-09-19T14:55:53.947951+00:00"
+      "last_updated": "2026-09-19T19:41:18.656001+00:00"
     },
     {
       "name": "AppFox",
@@ -2146,7 +2146,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c06dc2cbf047",
-      "last_updated": "2026-09-19T14:55:53.948483+00:00"
+      "last_updated": "2026-09-19T19:41:18.656481+00:00"
     },
     {
       "name": "AppLiger",
@@ -2160,7 +2160,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1f41c4354a91",
-      "last_updated": "2026-09-19T14:55:53.948436+00:00"
+      "last_updated": "2026-09-19T19:41:18.656440+00:00"
     },
     {
       "name": "Appliances - Barracuda Networks, Inc.",
@@ -2174,7 +2174,7 @@
       "category": "Technology",
       "assets": [],
       "id": "dc4f5e2150bc",
-      "last_updated": "2026-09-19T14:55:53.948514+00:00"
+      "last_updated": "2026-09-19T19:41:18.656502+00:00"
     },
     {
       "name": "Appsvio Marketplace Bug Bounty",
@@ -2188,7 +2188,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "49a33b16fe97",
-      "last_updated": "2026-09-19T14:55:53.948443+00:00"
+      "last_updated": "2026-09-19T19:41:18.656446+00:00"
     },
     {
       "name": "Arbonia VDP program",
@@ -2202,7 +2202,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5c40c44df7bc",
-      "last_updated": "2026-09-19T14:55:53.949073+00:00"
+      "last_updated": "2026-09-19T19:41:18.657002+00:00"
     },
     {
       "name": "Arlo Cash Rewards",
@@ -2216,7 +2216,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f04477e66d13",
-      "last_updated": "2026-09-19T14:55:53.948449+00:00"
+      "last_updated": "2026-09-19T19:41:18.656451+00:00"
     },
     {
       "name": "Arm",
@@ -2230,7 +2230,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5e3850cc8efa",
-      "last_updated": "2026-09-19T14:55:53.949080+00:00"
+      "last_updated": "2026-09-19T19:41:18.657008+00:00"
     },
     {
       "name": "Asana",
@@ -2244,7 +2244,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3717a474dfcd",
-      "last_updated": "2026-09-19T14:55:53.948454+00:00"
+      "last_updated": "2026-09-19T19:41:18.656456+00:00"
     },
     {
       "name": "Assa Abloy Americas",
@@ -2269,7 +2269,7 @@
         "https://bittings.medeco.com"
       ],
       "id": "669b67c6a57d",
-      "last_updated": "2026-09-19T14:55:53.947933+00:00"
+      "last_updated": "2026-09-19T19:41:18.655985+00:00"
     },
     {
       "name": "Atlassian-Built Apps",
@@ -2283,7 +2283,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b508fa19c6bf",
-      "last_updated": "2026-09-19T14:55:53.948466+00:00"
+      "last_updated": "2026-09-19T19:41:18.656466+00:00"
     },
     {
       "name": "Atolls Vulnerability Disclosure Program (VDP)",
@@ -2297,7 +2297,7 @@
       "category": "Technology",
       "assets": [],
       "id": "00b508db1d5f",
-      "last_updated": "2026-09-19T14:55:53.949087+00:00"
+      "last_updated": "2026-09-19T19:41:18.657014+00:00"
     },
     {
       "name": "Attentia VDP",
@@ -2311,7 +2311,7 @@
       "category": "Technology",
       "assets": [],
       "id": "55703f868a36",
-      "last_updated": "2026-09-19T14:55:53.949094+00:00"
+      "last_updated": "2026-09-19T19:41:18.657020+00:00"
     },
     {
       "name": "Aurory Managed Bug Bounty Engagement (Public)",
@@ -2325,7 +2325,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4263574003f7",
-      "last_updated": "2026-09-19T14:55:53.948471+00:00"
+      "last_updated": "2026-09-19T19:41:18.656471+00:00"
     },
     {
       "name": "Auth0 by Okta",
@@ -2339,7 +2339,7 @@
       "category": "Security",
       "assets": [],
       "id": "1695d293f5b7",
-      "last_updated": "2026-09-19T14:55:53.948477+00:00"
+      "last_updated": "2026-09-19T19:41:18.656476+00:00"
     },
     {
       "name": "Axel Springer National Media & Tech",
@@ -2353,7 +2353,7 @@
       "category": "Entertainment",
       "assets": [],
       "id": "4ece7b845e9a",
-      "last_updated": "2026-09-19T14:55:53.949101+00:00"
+      "last_updated": "2026-09-19T19:41:18.657027+00:00"
     },
     {
       "name": "Axel Springer SE Vulnerability Disclosure Program",
@@ -2367,7 +2367,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7af0ea85e900",
-      "last_updated": "2026-09-19T14:55:53.949108+00:00"
+      "last_updated": "2026-09-19T19:41:18.657033+00:00"
     },
     {
       "name": "BILL VDP",
@@ -2392,7 +2392,7 @@
         "id1114962353"
       ],
       "id": "e0abd5f4f5e2",
-      "last_updated": "2026-09-19T14:55:53.948206+00:00"
+      "last_updated": "2026-09-19T19:41:18.656237+00:00"
     },
     {
       "name": "BMC",
@@ -2406,7 +2406,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4c5fc4f72d90",
-      "last_updated": "2026-09-19T14:55:53.949115+00:00"
+      "last_updated": "2026-09-19T19:41:18.657040+00:00"
     },
     {
       "name": "BMW Group",
@@ -2420,7 +2420,7 @@
       "category": "Technology",
       "assets": [],
       "id": "394b189b3d32",
-      "last_updated": "2026-09-19T14:55:53.949123+00:00"
+      "last_updated": "2026-09-19T19:41:18.657046+00:00"
     },
     {
       "name": "BMW Group Automotive",
@@ -2434,7 +2434,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5bf547ab5af2",
-      "last_updated": "2026-09-19T14:55:53.949130+00:00"
+      "last_updated": "2026-09-19T19:41:18.657053+00:00"
     },
     {
       "name": "BOJA Consulting Bug Bounty",
@@ -2448,7 +2448,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1a745bb0c51e",
-      "last_updated": "2026-09-19T14:55:53.948581+00:00"
+      "last_updated": "2026-09-19T19:41:18.656570+00:00"
     },
     {
       "name": "Backblaze",
@@ -2462,7 +2462,7 @@
       "category": "Technology",
       "assets": [],
       "id": "164ae64e2f55",
-      "last_updated": "2026-09-19T14:55:53.948502+00:00"
+      "last_updated": "2026-09-19T19:41:18.656491+00:00"
     },
     {
       "name": "Baird",
@@ -2479,7 +2479,7 @@
         "https://*.rwbaird.com"
       ],
       "id": "7a8acd94ae26",
-      "last_updated": "2026-09-19T14:55:53.948161+00:00"
+      "last_updated": "2026-09-19T19:41:18.656197+00:00"
     },
     {
       "name": "Balsamiq for Atlassian Products",
@@ -2493,7 +2493,7 @@
       "category": "Technology",
       "assets": [],
       "id": "caf9e9edb6c8",
-      "last_updated": "2026-09-19T14:55:53.948508+00:00"
+      "last_updated": "2026-09-19T19:41:18.656496+00:00"
     },
     {
       "name": "Banco Plata",
@@ -2512,7 +2512,7 @@
         "id6443932656"
       ],
       "id": "7c12aac10a30",
-      "last_updated": "2026-09-19T14:55:53.948093+00:00"
+      "last_updated": "2026-09-19T19:41:18.656134+00:00"
     },
     {
       "name": "BankUnited",
@@ -2537,7 +2537,7 @@
         "lockboxir.bankunited.com"
       ],
       "id": "08ad4f2fbf63",
-      "last_updated": "2026-09-19T14:55:53.948038+00:00"
+      "last_updated": "2026-09-19T19:41:18.656083+00:00"
     },
     {
       "name": "Binance",
@@ -2551,7 +2551,7 @@
       "category": "Technology",
       "assets": [],
       "id": "16efa983fedb",
-      "last_updated": "2026-09-19T14:55:53.948520+00:00"
+      "last_updated": "2026-09-19T19:41:18.656507+00:00"
     },
     {
       "name": "BitGo Managed Public Bug Bounty Engagement ",
@@ -2565,7 +2565,7 @@
       "category": "Technology",
       "assets": [],
       "id": "22b9d12f515e",
-      "last_updated": "2026-09-19T14:55:53.948538+00:00"
+      "last_updated": "2026-09-19T19:41:18.656531+00:00"
     },
     {
       "name": "BitGo Mobile Apps Bug Bounty Engagement ",
@@ -2579,7 +2579,7 @@
       "category": "Telecom",
       "assets": [],
       "id": "c8edb911debb",
-      "last_updated": "2026-09-19T14:55:53.948543+00:00"
+      "last_updated": "2026-09-19T19:41:18.656537+00:00"
     },
     {
       "name": "Bitdefender",
@@ -2593,7 +2593,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f37d3a88a861",
-      "last_updated": "2026-09-19T14:55:53.948526+00:00"
+      "last_updated": "2026-09-19T19:41:18.656512+00:00"
     },
     {
       "name": "Bitdefender Box v2",
@@ -2607,7 +2607,7 @@
       "category": "Technology",
       "assets": [],
       "id": "68c1dfed6c65",
-      "last_updated": "2026-09-19T14:55:53.948532+00:00"
+      "last_updated": "2026-09-19T19:41:18.656517+00:00"
     },
     {
       "name": "Bitpanda Ongoing Bug Bounty",
@@ -2621,7 +2621,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bab6938a4d80",
-      "last_updated": "2026-09-19T14:55:53.948549+00:00"
+      "last_updated": "2026-09-19T19:41:18.656542+00:00"
     },
     {
       "name": "Bitso Managed Bug Bounty Engagement",
@@ -2635,7 +2635,7 @@
       "category": "Technology",
       "assets": [],
       "id": "060dc13d82a4",
-      "last_updated": "2026-09-19T14:55:53.948555+00:00"
+      "last_updated": "2026-09-19T19:41:18.656547+00:00"
     },
     {
       "name": "Bitvavo VDP",
@@ -2649,7 +2649,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6d660ad17c5d",
-      "last_updated": "2026-09-19T14:55:53.949137+00:00"
+      "last_updated": "2026-09-19T19:41:18.657059+00:00"
     },
     {
       "name": "Block Open Source",
@@ -2663,7 +2663,7 @@
       "category": "Technology",
       "assets": [],
       "id": "538eb42eb8f3",
-      "last_updated": "2026-09-19T14:55:53.948568+00:00"
+      "last_updated": "2026-09-19T19:41:18.656559+00:00"
     },
     {
       "name": "Blockchain.com Managed Bug Bounty Engagement",
@@ -2677,7 +2677,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "7fa69fc089ec",
-      "last_updated": "2026-09-19T14:55:53.948561+00:00"
+      "last_updated": "2026-09-19T19:41:18.656553+00:00"
     },
     {
       "name": "Blofin Crypto Managed Bug Bounty Engagement",
@@ -2691,7 +2691,7 @@
       "category": "Cryptocurrency",
       "assets": [],
       "id": "f24fe3ec5419",
-      "last_updated": "2026-09-19T14:55:53.948574+00:00"
+      "last_updated": "2026-09-19T19:41:18.656564+00:00"
     },
     {
       "name": "Bolt Technology OÜ",
@@ -2705,7 +2705,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c445a24c9f17",
-      "last_updated": "2026-09-19T14:55:53.948587+00:00"
+      "last_updated": "2026-09-19T19:41:18.656576+00:00"
     },
     {
       "name": "Bose (VDP)",
@@ -2729,7 +2729,7 @@
         "support.bose.xx"
       ],
       "id": "ac993af74b11",
-      "last_updated": "2026-09-19T14:55:53.948004+00:00"
+      "last_updated": "2026-09-19T19:41:18.656050+00:00"
     },
     {
       "name": "Bpost",
@@ -2743,7 +2743,7 @@
       "category": "Technology",
       "assets": [],
       "id": "9a99a7ea5761",
-      "last_updated": "2026-09-19T14:55:53.949144+00:00"
+      "last_updated": "2026-09-19T19:41:18.657066+00:00"
     },
     {
       "name": "Braze, Inc.",
@@ -2761,7 +2761,7 @@
         "https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/"
       ],
       "id": "966924abdd7b",
-      "last_updated": "2026-09-19T14:55:53.948117+00:00"
+      "last_updated": "2026-09-19T19:41:18.656158+00:00"
     },
     {
       "name": "British Airways VDP",
@@ -2783,7 +2783,7 @@
         "www.britishairways.com"
       ],
       "id": "193b59ad9664",
-      "last_updated": "2026-09-19T14:55:53.948070+00:00"
+      "last_updated": "2026-09-19T19:41:18.656112+00:00"
     },
     {
       "name": "BrizoIT",
@@ -2797,7 +2797,7 @@
       "category": "Technology",
       "assets": [],
       "id": "d24d0240954b",
-      "last_updated": "2026-09-19T14:55:53.948594+00:00"
+      "last_updated": "2026-09-19T19:41:18.656582+00:00"
     },
     {
       "name": "Broken Build Bug Bounty",
@@ -2811,7 +2811,7 @@
       "category": "Technology",
       "assets": [],
       "id": "63027b114f24",
-      "last_updated": "2026-09-19T14:55:53.948600+00:00"
+      "last_updated": "2026-09-19T19:41:18.656588+00:00"
     },
     {
       "name": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
@@ -2825,7 +2825,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "d47206c38f7d",
-      "last_updated": "2026-09-19T14:55:53.948607+00:00"
+      "last_updated": "2026-09-19T19:41:18.656594+00:00"
     },
     {
       "name": "Bugcrowd",
@@ -2839,7 +2839,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e9bd0139b248",
-      "last_updated": "2026-09-19T14:55:53.948613+00:00"
+      "last_updated": "2026-09-19T19:41:18.656599+00:00"
     },
     {
       "name": "Bullish Exchange",
@@ -2853,7 +2853,7 @@
       "category": "Technology",
       "assets": [],
       "id": "06980f2062d6",
-      "last_updated": "2026-09-19T14:55:53.948625+00:00"
+      "last_updated": "2026-09-19T19:41:18.656610+00:00"
     },
     {
       "name": "Bullish.com",
@@ -2867,7 +2867,7 @@
       "category": "Technology",
       "assets": [],
       "id": "98e1d4adf025",
-      "last_updated": "2026-09-19T14:55:53.948619+00:00"
+      "last_updated": "2026-09-19T19:41:18.656604+00:00"
     },
     {
       "name": "Bumba",
@@ -2883,7 +2883,7 @@
         "http://bumba.global"
       ],
       "id": "e42b87ae397b",
-      "last_updated": "2026-09-19T14:55:53.948229+00:00"
+      "last_updated": "2026-09-19T19:41:18.656258+00:00"
     },
     {
       "name": "Bühler Group VDP",
@@ -2897,7 +2897,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a031f7848ab6",
-      "last_updated": "2026-09-19T14:55:53.949152+00:00"
+      "last_updated": "2026-09-19T19:41:18.657073+00:00"
     },
     {
       "name": "CM.com",
@@ -2911,7 +2911,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8ec3245679f0",
-      "last_updated": "2026-09-19T14:55:53.949159+00:00"
+      "last_updated": "2026-09-19T19:41:18.657079+00:00"
     },
     {
       "name": "Caelor Group",
@@ -2925,7 +2925,7 @@
       "category": "Technology",
       "assets": [],
       "id": "9cc6343b5d67",
-      "last_updated": "2026-09-19T14:55:53.948631+00:00"
+      "last_updated": "2026-09-19T19:41:18.656615+00:00"
     },
     {
       "name": "Canada Post - Responsible Disclosure Program",
@@ -2939,7 +2939,7 @@
       "category": "Technology",
       "assets": [],
       "id": "020e8489a739",
-      "last_updated": "2026-09-19T14:55:53.949167+00:00"
+      "last_updated": "2026-09-19T19:41:18.657086+00:00"
     },
     {
       "name": "Canva",
@@ -2953,7 +2953,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bdcb2a882c27",
-      "last_updated": "2026-09-19T14:55:53.948637+00:00"
+      "last_updated": "2026-09-19T19:41:18.656620+00:00"
     },
     {
       "name": "Capital.com",
@@ -2967,7 +2967,7 @@
       "category": "Technology",
       "assets": [],
       "id": "d89ffbfdb8d5",
-      "last_updated": "2026-09-19T14:55:53.949174+00:00"
+      "last_updated": "2026-09-19T19:41:18.657092+00:00"
     },
     {
       "name": "Cappsule Sarl - Marketplace Bug Bounty Program",
@@ -2981,7 +2981,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "99ece869a766",
-      "last_updated": "2026-09-19T14:55:53.948643+00:00"
+      "last_updated": "2026-09-19T19:41:18.656626+00:00"
     },
     {
       "name": "Cash App",
@@ -2995,7 +2995,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0d6af6325c3e",
-      "last_updated": "2026-09-19T14:55:53.948656+00:00"
+      "last_updated": "2026-09-19T19:41:18.656637+00:00"
     },
     {
       "name": "Catapult Labs Bug Bounty",
@@ -3009,7 +3009,7 @@
       "category": "Technology",
       "assets": [],
       "id": "905687626549",
-      "last_updated": "2026-09-19T14:55:53.948662+00:00"
+      "last_updated": "2026-09-19T19:41:18.656644+00:00"
     },
     {
       "name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
@@ -3023,7 +3023,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "8375583dab6e",
-      "last_updated": "2026-09-19T14:55:53.948726+00:00"
+      "last_updated": "2026-09-19T19:41:18.656700+00:00"
     },
     {
       "name": "Certinia (formerly FinancialForce)",
@@ -3037,7 +3037,7 @@
       "category": "Technology",
       "assets": [],
       "id": "84a89761fc6d",
-      "last_updated": "2026-09-19T14:55:53.948951+00:00"
+      "last_updated": "2026-09-19T19:41:18.656896+00:00"
     },
     {
       "name": "Chime Managed Bug Bounty Engagement",
@@ -3051,7 +3051,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fd8eebc40cb7",
-      "last_updated": "2026-09-19T14:55:53.948681+00:00"
+      "last_updated": "2026-09-19T19:41:18.656661+00:00"
     },
     {
       "name": "Chipotle Managed Bug Bounty Engagement",
@@ -3065,7 +3065,7 @@
       "category": "Technology",
       "assets": [],
       "id": "908043658866",
-      "last_updated": "2026-09-19T14:55:53.948687+00:00"
+      "last_updated": "2026-09-19T19:41:18.656667+00:00"
     },
     {
       "name": "Circle",
@@ -3090,7 +3090,7 @@
         "https://github.com/circlefin/evm-xreserve-contracts"
       ],
       "id": "89176b3ec318",
-      "last_updated": "2026-09-19T14:55:53.948306+00:00"
+      "last_updated": "2026-09-19T19:41:18.656329+00:00"
     },
     {
       "name": "Cisco Networking",
@@ -3104,7 +3104,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1b75ff799cfb",
-      "last_updated": "2026-09-19T14:55:53.948694+00:00"
+      "last_updated": "2026-09-19T19:41:18.656672+00:00"
     },
     {
       "name": "Citi Group",
@@ -3120,7 +3120,7 @@
         "Any Citigroup owned asset"
       ],
       "id": "e014774abf33",
-      "last_updated": "2026-09-19T14:55:53.948085+00:00"
+      "last_updated": "2026-09-19T19:41:18.656127+00:00"
     },
     {
       "name": "City of Vienna Managed Bug Bounty",
@@ -3134,7 +3134,7 @@
       "category": "Technology",
       "assets": [],
       "id": "05b821df9978",
-      "last_updated": "2026-09-19T14:55:53.948700+00:00"
+      "last_updated": "2026-09-19T19:41:18.656678+00:00"
     },
     {
       "name": "Citymesh Responsible Vulnerability Disclosure Program",
@@ -3148,7 +3148,7 @@
       "category": "Technology",
       "assets": [],
       "id": "062e85d6de35",
-      "last_updated": "2026-09-19T14:55:53.949182+00:00"
+      "last_updated": "2026-09-19T19:41:18.657098+00:00"
     },
     {
       "name": "ClassDojo",
@@ -3162,7 +3162,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4899f7ac2fd6",
-      "last_updated": "2026-09-19T14:55:53.948706+00:00"
+      "last_updated": "2026-09-19T19:41:18.656683+00:00"
     },
     {
       "name": "Clear Street Disclosure Program",
@@ -3178,7 +3178,7 @@
         "clearstreet.io"
       ],
       "id": "30789e4e0ba9",
-      "last_updated": "2026-09-19T14:55:53.947972+00:00"
+      "last_updated": "2026-09-19T19:41:18.656021+00:00"
     },
     {
       "name": "ClickHouse",
@@ -3192,7 +3192,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1ae837815a43",
-      "last_updated": "2026-09-19T14:55:53.948712+00:00"
+      "last_updated": "2026-09-19T19:41:18.656689+00:00"
     },
     {
       "name": "Cloudinary",
@@ -3206,7 +3206,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e5d28188c044",
-      "last_updated": "2026-09-19T14:55:53.948719+00:00"
+      "last_updated": "2026-09-19T19:41:18.656694+00:00"
     },
     {
       "name": "Cloudways by DigitalOcean",
@@ -3220,7 +3220,7 @@
       "category": "Technology",
       "assets": [],
       "id": "cd9090a1e882",
-      "last_updated": "2026-09-19T14:55:53.949189+00:00"
+      "last_updated": "2026-09-19T19:41:18.657105+00:00"
     },
     {
       "name": "CodeAI",
@@ -3234,7 +3234,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "ec5fdc577efc",
-      "last_updated": "2026-09-19T14:55:53.948752+00:00"
+      "last_updated": "2026-09-19T19:41:18.656723+00:00"
     },
     {
       "name": "Cognition",
@@ -3257,7 +3257,7 @@
         "deepwiki.com"
       ],
       "id": "fad73ea306d6",
-      "last_updated": "2026-09-19T14:55:53.948014+00:00"
+      "last_updated": "2026-09-19T19:41:18.656059+00:00"
     },
     {
       "name": "CoinDesk Data - Data API ",
@@ -3271,7 +3271,7 @@
       "category": "Technology",
       "assets": [],
       "id": "505c0a2a2c11",
-      "last_updated": "2026-09-19T14:55:53.948370+00:00"
+      "last_updated": "2026-09-19T19:41:18.656384+00:00"
     },
     {
       "name": "CoinDesk Mobile",
@@ -3285,7 +3285,7 @@
       "category": "Telecom",
       "assets": [],
       "id": "610af98bc670",
-      "last_updated": "2026-09-19T14:55:53.948765+00:00"
+      "last_updated": "2026-09-19T19:41:18.656735+00:00"
     },
     {
       "name": "CoinDesk.com",
@@ -3299,7 +3299,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8fec3594349c",
-      "last_updated": "2026-09-19T14:55:53.948758+00:00"
+      "last_updated": "2026-09-19T19:41:18.656729+00:00"
     },
     {
       "name": "Colined",
@@ -3313,7 +3313,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1e1810348096",
-      "last_updated": "2026-09-19T14:55:53.948771+00:00"
+      "last_updated": "2026-09-19T19:41:18.656741+00:00"
     },
     {
       "name": "Comcast Xfinity Bug Bounty",
@@ -3327,7 +3327,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a62c86357eeb",
-      "last_updated": "2026-09-19T14:55:53.948778+00:00"
+      "last_updated": "2026-09-19T19:41:18.656747+00:00"
     },
     {
       "name": "Consensus by CoinDesk",
@@ -3341,7 +3341,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c33da712553",
-      "last_updated": "2026-09-19T14:55:53.948792+00:00"
+      "last_updated": "2026-09-19T19:41:18.656759+00:00"
     },
     {
       "name": "Council on Foreign Relations",
@@ -3355,7 +3355,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c7790fda9755",
-      "last_updated": "2026-09-19T14:55:53.948675+00:00"
+      "last_updated": "2026-09-19T19:41:18.656655+00:00"
     },
     {
       "name": "Coupang Taiwan",
@@ -3380,7 +3380,7 @@
         "developers.tw.coupangcorp.com"
       ],
       "id": "65324260b0e6",
-      "last_updated": "2026-09-19T14:55:53.947982+00:00"
+      "last_updated": "2026-09-19T19:41:18.656030+00:00"
     },
     {
       "name": "Craft Coders Marketplace Bug Bounty",
@@ -3394,7 +3394,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "93b68b6b1f77",
-      "last_updated": "2026-09-19T14:55:53.948799+00:00"
+      "last_updated": "2026-09-19T19:41:18.656765+00:00"
     },
     {
       "name": "Creativas",
@@ -3408,7 +3408,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8b96f58fcf42",
-      "last_updated": "2026-09-19T14:55:53.948805+00:00"
+      "last_updated": "2026-09-19T19:41:18.656771+00:00"
     },
     {
       "name": "Cross Border Fines",
@@ -3422,7 +3422,7 @@
       "category": "Technology",
       "assets": [],
       "id": "61d1a7b2974f",
-      "last_updated": "2026-09-19T14:55:53.949197+00:00"
+      "last_updated": "2026-09-19T19:41:18.657111+00:00"
     },
     {
       "name": "Cyber Security Coalition",
@@ -3436,7 +3436,7 @@
       "category": "Security",
       "assets": [],
       "id": "3eb043ad5763",
-      "last_updated": "2026-09-19T14:55:53.949204+00:00"
+      "last_updated": "2026-09-19T19:41:18.657118+00:00"
     },
     {
       "name": "DHL Group Vulnerability Disclosure Program",
@@ -3450,7 +3450,7 @@
       "category": "Technology",
       "assets": [],
       "id": "327844126638",
-      "last_updated": "2026-09-19T14:55:53.949211+00:00"
+      "last_updated": "2026-09-19T19:41:18.657124+00:00"
     },
     {
       "name": "DIGI Responsible Disclosure Program",
@@ -3464,7 +3464,7 @@
       "category": "Technology",
       "assets": [],
       "id": "51c6c0befe5f",
-      "last_updated": "2026-09-19T14:55:53.949219+00:00"
+      "last_updated": "2026-09-19T19:41:18.657131+00:00"
     },
     {
       "name": "DPG Media",
@@ -3478,7 +3478,7 @@
       "category": "Entertainment",
       "assets": [],
       "id": "30b12d07030f",
-      "last_updated": "2026-09-19T14:55:53.949227+00:00"
+      "last_updated": "2026-09-19T19:41:18.657137+00:00"
     },
     {
       "name": "Dashlane Vulnerability Disclosure Program",
@@ -3492,7 +3492,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7b7408cd527f",
-      "last_updated": "2026-09-19T14:55:53.949234+00:00"
+      "last_updated": "2026-09-19T19:41:18.657144+00:00"
     },
     {
       "name": "De Morgen",
@@ -3506,7 +3506,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8534559c846f",
-      "last_updated": "2026-09-19T14:55:53.949242+00:00"
+      "last_updated": "2026-09-19T19:41:18.657150+00:00"
     },
     {
       "name": "De Volkskrant",
@@ -3520,7 +3520,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b7efe4be07ce",
-      "last_updated": "2026-09-19T14:55:53.949249+00:00"
+      "last_updated": "2026-09-19T19:41:18.657157+00:00"
     },
     {
       "name": "Delen Private Bank",
@@ -3534,7 +3534,7 @@
       "category": "Finance",
       "assets": [],
       "id": "8fba09d335a8",
-      "last_updated": "2026-09-19T14:55:53.949257+00:00"
+      "last_updated": "2026-09-19T19:41:18.657164+00:00"
     },
     {
       "name": "Dell Technologies Application Bug Bounty",
@@ -3548,7 +3548,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5e59a58d6335",
-      "last_updated": "2026-09-19T14:55:53.948812+00:00"
+      "last_updated": "2026-09-19T19:41:18.656777+00:00"
     },
     {
       "name": "Dell Technologies' Products Bug Bounty Program",
@@ -3562,7 +3562,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c1b6c8735c10",
-      "last_updated": "2026-09-19T14:55:53.948819+00:00"
+      "last_updated": "2026-09-19T19:41:18.656783+00:00"
     },
     {
       "name": "DevAcrobats",
@@ -3576,7 +3576,7 @@
       "category": "Technology",
       "assets": [],
       "id": "21a9b01423d1",
-      "last_updated": "2026-09-19T14:55:53.948826+00:00"
+      "last_updated": "2026-09-19T19:41:18.656788+00:00"
     },
     {
       "name": "DevSamurai",
@@ -3590,7 +3590,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "99d50cc46143",
-      "last_updated": "2026-09-19T14:55:53.948839+00:00"
+      "last_updated": "2026-09-19T19:41:18.656800+00:00"
     },
     {
       "name": "Deviniti",
@@ -3604,7 +3604,7 @@
       "category": "Technology",
       "assets": [],
       "id": "97182d68fc51",
-      "last_updated": "2026-09-19T14:55:53.948832+00:00"
+      "last_updated": "2026-09-19T19:41:18.656794+00:00"
     },
     {
       "name": "Digital Rose's Marketplace Bug Bounty",
@@ -3618,7 +3618,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "89a7272ac9bb",
-      "last_updated": "2026-09-19T14:55:53.948846+00:00"
+      "last_updated": "2026-09-19T19:41:18.656806+00:00"
     },
     {
       "name": "DigitalOcean",
@@ -3632,7 +3632,7 @@
       "category": "Technology",
       "assets": [],
       "id": "be1a56e810f3",
-      "last_updated": "2026-09-19T14:55:53.949264+00:00"
+      "last_updated": "2026-09-19T19:41:18.657170+00:00"
     },
     {
       "name": "Directly",
@@ -3646,7 +3646,7 @@
       "category": "Technology",
       "assets": [],
       "id": "1a3ed7b63fa3",
-      "last_updated": "2026-09-19T14:55:53.948853+00:00"
+      "last_updated": "2026-09-19T19:41:18.656812+00:00"
     },
     {
       "name": "Discover VDP",
@@ -3663,7 +3663,7 @@
         "*.discoverfinancial.com"
       ],
       "id": "a578f31d2d4d",
-      "last_updated": "2026-09-19T14:55:53.947976+00:00"
+      "last_updated": "2026-09-19T19:41:18.656024+00:00"
     },
     {
       "name": "DocuSign",
@@ -3679,7 +3679,7 @@
         "All Docusign apps and assets not listed below as Out of Scope"
       ],
       "id": "1f8abfd7b7f0",
-      "last_updated": "2026-09-19T14:55:53.948066+00:00"
+      "last_updated": "2026-09-19T19:41:18.656108+00:00"
     },
     {
       "name": "Donorbox Vulnerability Disclosure Project",
@@ -3693,7 +3693,7 @@
       "category": "Technology",
       "assets": [],
       "id": "51b9b7ca325a",
-      "last_updated": "2026-09-19T14:55:53.949272+00:00"
+      "last_updated": "2026-09-19T19:41:18.657177+00:00"
     },
     {
       "name": "DoorDash",
@@ -3711,7 +3711,7 @@
         "www.doordash.com"
       ],
       "id": "f058b2366bb9",
-      "last_updated": "2026-09-19T14:55:53.948050+00:00"
+      "last_updated": "2026-09-19T19:41:18.656093+00:00"
     },
     {
       "name": "Driessen Vulnerability Disclosure Program",
@@ -3725,7 +3725,7 @@
       "category": "Technology",
       "assets": [],
       "id": "9fc4627e68ad",
-      "last_updated": "2026-09-19T14:55:53.949280+00:00"
+      "last_updated": "2026-09-19T19:41:18.657184+00:00"
     },
     {
       "name": "Dropbox Bug Bounty",
@@ -3739,7 +3739,7 @@
       "category": "Technology",
       "assets": [],
       "id": "260724cce4e7",
-      "last_updated": "2026-09-19T14:55:53.949287+00:00"
+      "last_updated": "2026-09-19T19:41:18.657190+00:00"
     },
     {
       "name": "Dropbox Vulnerability Disclosure Program ",
@@ -3753,7 +3753,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3c9ff2b7a448",
-      "last_updated": "2026-09-19T14:55:53.949295+00:00"
+      "last_updated": "2026-09-19T19:41:18.657197+00:00"
     },
     {
       "name": "Dstny",
@@ -3767,7 +3767,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8b67f751c99a",
-      "last_updated": "2026-09-19T14:55:53.949303+00:00"
+      "last_updated": "2026-09-19T19:41:18.657204+00:00"
     },
     {
       "name": "Dust",
@@ -3784,7 +3784,7 @@
         "https://dust.tt/api/v1"
       ],
       "id": "93e27d38203f",
-      "last_updated": "2026-09-19T14:55:53.948165+00:00"
+      "last_updated": "2026-09-19T19:41:18.656201+00:00"
     },
     {
       "name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
@@ -3798,7 +3798,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "0e2309c7ad46",
-      "last_updated": "2026-09-19T14:55:53.948860+00:00"
+      "last_updated": "2026-09-19T19:41:18.656818+00:00"
     },
     {
       "name": "Dutch Lottery VDP",
@@ -3812,7 +3812,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4fccfd25bcb9",
-      "last_updated": "2026-09-19T14:55:53.949310+00:00"
+      "last_updated": "2026-09-19T19:41:18.657210+00:00"
     },
     {
       "name": "EPAM Systems Managed Bug Bounty Program",
@@ -3826,7 +3826,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8cbd4e371dcb",
-      "last_updated": "2026-09-19T14:55:53.948909+00:00"
+      "last_updated": "2026-09-19T19:41:18.656861+00:00"
     },
     {
       "name": "EURid",
@@ -3840,7 +3840,7 @@
       "category": "Technology",
       "assets": [],
       "id": "44d275fcfc6c",
-      "last_updated": "2026-09-19T14:55:53.949318+00:00"
+      "last_updated": "2026-09-19T19:41:18.657217+00:00"
     },
     {
       "name": "Easy Agile",
@@ -3854,7 +3854,7 @@
       "category": "Technology",
       "assets": [],
       "id": "54085adc7aee",
-      "last_updated": "2026-09-19T14:55:53.948867+00:00"
+      "last_updated": "2026-09-19T19:41:18.656824+00:00"
     },
     {
       "name": "Elementor: Bug Bounty Program",
@@ -3868,7 +3868,7 @@
       "category": "Technology",
       "assets": [],
       "id": "586b7374ecb1",
-      "last_updated": "2026-09-19T14:55:53.948881+00:00"
+      "last_updated": "2026-09-19T19:41:18.656836+00:00"
     },
     {
       "name": "Elements",
@@ -3882,7 +3882,7 @@
       "category": "Technology",
       "assets": [],
       "id": "92be3ad2356c",
-      "last_updated": "2026-09-19T14:55:53.948888+00:00"
+      "last_updated": "2026-09-19T19:41:18.656842+00:00"
     },
     {
       "name": "Entain Game Logic Flaws Bug Bounty Program",
@@ -3896,7 +3896,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "84101b3fcee4",
-      "last_updated": "2026-09-19T14:55:53.948895+00:00"
+      "last_updated": "2026-09-19T19:41:18.656848+00:00"
     },
     {
       "name": "Entain Public Managed Bug Bounty Engagement 2024",
@@ -3910,7 +3910,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "4e1f6d86a617",
-      "last_updated": "2026-09-19T14:55:53.948902+00:00"
+      "last_updated": "2026-09-19T19:41:18.656855+00:00"
     },
     {
       "name": "Epic Games VDP",
@@ -3935,7 +3935,7 @@
         "*.easy.ac"
       ],
       "id": "1234d0f189b7",
-      "last_updated": "2026-09-19T14:55:53.947955+00:00"
+      "last_updated": "2026-09-19T19:41:18.656005+00:00"
     },
     {
       "name": "Essity",
@@ -3960,7 +3960,7 @@
         "https://api.vision.torkglobal.com/connect"
       ],
       "id": "4fdb58ce2e60",
-      "last_updated": "2026-09-19T14:55:53.947989+00:00"
+      "last_updated": "2026-09-19T19:41:18.656037+00:00"
     },
     {
       "name": "Etsy",
@@ -3974,7 +3974,7 @@
       "category": "Technology",
       "assets": [],
       "id": "13ab02d58ef8",
-      "last_updated": "2026-09-19T14:55:53.948930+00:00"
+      "last_updated": "2026-09-19T19:41:18.656878+00:00"
     },
     {
       "name": "European Space Agency (ESA) VDP",
@@ -3988,7 +3988,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3c204e1c5baf",
-      "last_updated": "2026-09-19T14:55:53.949326+00:00"
+      "last_updated": "2026-09-19T19:41:18.657224+00:00"
     },
     {
       "name": "Exact Vulnerability Disclosure Program",
@@ -4002,7 +4002,7 @@
       "category": "Technology",
       "assets": [],
       "id": "afab201d8a32",
-      "last_updated": "2026-09-19T14:55:53.949334+00:00"
+      "last_updated": "2026-09-19T19:41:18.657230+00:00"
     },
     {
       "name": "Exoscale Bug Bounty",
@@ -4016,7 +4016,7 @@
       "category": "Technology",
       "assets": [],
       "id": "baf751f78717",
-      "last_updated": "2026-09-19T14:55:53.949341+00:00"
+      "last_updated": "2026-09-19T19:41:18.657237+00:00"
     },
     {
       "name": "Experian",
@@ -4030,7 +4030,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0ebffeb243d5",
-      "last_updated": "2026-09-19T14:55:53.948152+00:00"
+      "last_updated": "2026-09-19T19:41:18.656189+00:00"
     },
     {
       "name": "FIS",
@@ -4044,7 +4044,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bb490bc287c0",
-      "last_updated": "2026-09-19T14:55:53.948972+00:00"
+      "last_updated": "2026-09-19T19:41:18.656915+00:00"
     },
     {
       "name": "FanDuel Response",
@@ -4060,7 +4060,7 @@
         "*.fdbox.net"
       ],
       "id": "0a173aac5e1d",
-      "last_updated": "2026-09-19T14:55:53.948354+00:00"
+      "last_updated": "2026-09-19T19:41:18.656370+00:00"
     },
     {
       "name": "Felix Health Managed Bug Bounty Engagement",
@@ -4074,7 +4074,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "abec9c6d5834",
-      "last_updated": "2026-09-19T14:55:53.948937+00:00"
+      "last_updated": "2026-09-19T19:41:18.656884+00:00"
     },
     {
       "name": "Ferrero",
@@ -4099,7 +4099,7 @@
         "*.ferrero.com"
       ],
       "id": "8239914911fb",
-      "last_updated": "2026-09-19T14:55:53.948157+00:00"
+      "last_updated": "2026-09-19T19:41:18.656193+00:00"
     },
     {
       "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
@@ -4113,7 +4113,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "ceadc5e9250a",
-      "last_updated": "2026-09-19T14:55:53.948376+00:00"
+      "last_updated": "2026-09-19T19:41:18.656389+00:00"
     },
     {
       "name": "Fing Bug Bounty Program",
@@ -4127,7 +4127,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a92da42b033a",
-      "last_updated": "2026-09-19T14:55:53.949349+00:00"
+      "last_updated": "2026-09-19T19:41:18.657244+00:00"
     },
     {
       "name": "Finnair Vulnerability Disclosure",
@@ -4143,7 +4143,7 @@
         "Finnair Assets"
       ],
       "id": "cda014e0eccb",
-      "last_updated": "2026-09-19T14:55:53.948287+00:00"
+      "last_updated": "2026-09-19T19:41:18.656311+00:00"
     },
     {
       "name": "Fireblocks MPC Managed Bug Bounty Engagement",
@@ -4157,7 +4157,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8b5c560ae2ac",
-      "last_updated": "2026-09-19T14:55:53.948965+00:00"
+      "last_updated": "2026-09-19T19:41:18.656909+00:00"
     },
     {
       "name": "Fireblocks Web Managed Bug Bounty Engagement",
@@ -4171,7 +4171,7 @@
       "category": "Technology",
       "assets": [],
       "id": "66ee3c6ad4ba",
-      "last_updated": "2026-09-19T14:55:53.948958+00:00"
+      "last_updated": "2026-09-19T19:41:18.656902+00:00"
     },
     {
       "name": "Fivetran",
@@ -4185,7 +4185,7 @@
       "category": "Technology",
       "assets": [],
       "id": "661667c74afc",
-      "last_updated": "2026-09-19T14:55:53.948979+00:00"
+      "last_updated": "2026-09-19T19:41:18.656921+00:00"
     },
     {
       "name": "Flourish",
@@ -4199,7 +4199,7 @@
       "category": "Technology",
       "assets": [],
       "id": "987f1baad06f",
-      "last_updated": "2026-09-19T14:55:53.948986+00:00"
+      "last_updated": "2026-09-19T19:41:18.656927+00:00"
     },
     {
       "name": "GULP",
@@ -4213,7 +4213,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2ee89f24ec31",
-      "last_updated": "2026-09-19T14:55:53.949357+00:00"
+      "last_updated": "2026-09-19T19:41:18.657251+00:00"
     },
     {
       "name": "Gearset: Managed Bug Bounty",
@@ -4227,7 +4227,7 @@
       "category": "Technology",
       "assets": [],
       "id": "5a2914278d3e",
-      "last_updated": "2026-09-19T14:55:53.949001+00:00"
+      "last_updated": "2026-09-19T19:41:18.656939+00:00"
     },
     {
       "name": "GetYourGuide VDP",
@@ -4252,7 +4252,7 @@
         "travelers-api.getyourguide.com"
       ],
       "id": "e234818a80e1",
-      "last_updated": "2026-09-19T14:55:53.947986+00:00"
+      "last_updated": "2026-09-19T19:41:18.656034+00:00"
     },
     {
       "name": "Glassdoor Managed Bug Bounty Engagement",
@@ -4266,7 +4266,7 @@
       "category": "Technology",
       "assets": [],
       "id": "8c05b1ecc141",
-      "last_updated": "2026-09-19T14:55:53.949008+00:00"
+      "last_updated": "2026-09-19T19:41:18.656946+00:00"
     },
     {
       "name": "Glean Technologies Public Engagement",
@@ -4280,7 +4280,7 @@
       "category": "Technology",
       "assets": [],
       "id": "928f1bdcea47",
-      "last_updated": "2026-09-19T14:55:53.949016+00:00"
+      "last_updated": "2026-09-19T19:41:18.656952+00:00"
     },
     {
       "name": "Gogo VDP",
@@ -4296,7 +4296,7 @@
         "gogogenius.stage.gogoair.cloud"
       ],
       "id": "b5f30f85a9c5",
-      "last_updated": "2026-09-19T14:55:53.947979+00:00"
+      "last_updated": "2026-09-19T19:41:18.656027+00:00"
     },
     {
       "name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
@@ -4310,7 +4310,7 @@
       "category": "Technology",
       "assets": [],
       "id": "180760c734a1",
-      "last_updated": "2026-09-19T14:55:53.949365+00:00"
+      "last_updated": "2026-09-19T19:41:18.657258+00:00"
     },
     {
       "name": "HPE VDP",
@@ -4335,7 +4335,7 @@
         "*nimblestorage.*"
       ],
       "id": "4449eae97e75",
-      "last_updated": "2026-09-19T14:55:53.948271+00:00"
+      "last_updated": "2026-09-19T19:41:18.656297+00:00"
     },
     {
       "name": "HRS Group VDP",
@@ -4349,7 +4349,7 @@
       "category": "Technology",
       "assets": [],
       "id": "858819a21860",
-      "last_updated": "2026-09-19T14:55:53.949373+00:00"
+      "last_updated": "2026-09-19T19:41:18.657264+00:00"
     },
     {
       "name": "Hack The Box",
@@ -4373,7 +4373,7 @@
         "labs.hackthebox.com"
       ],
       "id": "fa4d7c6bacca",
-      "last_updated": "2026-09-19T14:55:53.948101+00:00"
+      "last_updated": "2026-09-19T19:41:18.656142+00:00"
     },
     {
       "name": "Henkel",
@@ -4398,7 +4398,7 @@
         "*.cascola.com.br"
       ],
       "id": "51cf4e76a554",
-      "last_updated": "2026-09-19T14:55:53.948053+00:00"
+      "last_updated": "2026-09-19T19:41:18.656097+00:00"
     },
     {
       "name": "Here Technologies",
@@ -4412,7 +4412,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7c493aead720",
-      "last_updated": "2026-09-19T14:55:53.949381+00:00"
+      "last_updated": "2026-09-19T19:41:18.657271+00:00"
     },
     {
       "name": "Hertz VDP",
@@ -4429,7 +4429,7 @@
         "*hertz.io"
       ],
       "id": "519b87842215",
-      "last_updated": "2026-09-19T14:55:53.948134+00:00"
+      "last_updated": "2026-09-19T19:41:18.656173+00:00"
     },
     {
       "name": "Het Laatste Nieuws",
@@ -4443,7 +4443,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fae455abc513",
-      "last_updated": "2026-09-19T14:55:53.949389+00:00"
+      "last_updated": "2026-09-19T19:41:18.657278+00:00"
     },
     {
       "name": "Het Parool",
@@ -4457,7 +4457,7 @@
       "category": "Technology",
       "assets": [],
       "id": "d1224260e4f5",
-      "last_updated": "2026-09-19T14:55:53.949397+00:00"
+      "last_updated": "2026-09-19T19:41:18.657285+00:00"
     },
     {
       "name": "Hex",
@@ -4475,7 +4475,7 @@
         "https://hex.tech"
       ],
       "id": "d6d7cf18a5e8",
-      "last_updated": "2026-09-19T14:55:53.948183+00:00"
+      "last_updated": "2026-09-19T19:41:18.656217+00:00"
     },
     {
       "name": "Hexagon-VDP",
@@ -4491,7 +4491,7 @@
         "Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Hexagon AB are considered in scope."
       ],
       "id": "bfaa2494912f",
-      "last_updated": "2026-09-19T14:55:53.948046+00:00"
+      "last_updated": "2026-09-19T19:41:18.656090+00:00"
     },
     {
       "name": "Hotmart (VDP)",
@@ -4507,7 +4507,7 @@
         "*.buildstaging.com"
       ],
       "id": "1488b27f9c2f",
-      "last_updated": "2026-09-19T14:55:53.948174+00:00"
+      "last_updated": "2026-09-19T19:41:18.656209+00:00"
     },
     {
       "name": "House of HR Vulnerability Disclosure Program",
@@ -4521,7 +4521,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4491f65cac35",
-      "last_updated": "2026-09-19T14:55:53.949405+00:00"
+      "last_updated": "2026-09-19T19:41:18.657292+00:00"
     },
     {
       "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
@@ -4535,7 +4535,7 @@
       "category": "Technology",
       "assets": [],
       "id": "749f8c4ba3ef",
-      "last_updated": "2026-09-19T14:55:53.949413+00:00"
+      "last_updated": "2026-09-19T19:41:18.657299+00:00"
     },
     {
       "name": "HubSpot",
@@ -4560,7 +4560,7 @@
         "Other HubSpot-owned (sub)domains not listed as Out of Scope"
       ],
       "id": "b62acc7b1212",
-      "last_updated": "2026-09-19T14:55:53.948188+00:00"
+      "last_updated": "2026-09-19T19:41:18.656221+00:00"
     },
     {
       "name": "Humo",
@@ -4574,7 +4574,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4187fb26dc61",
-      "last_updated": "2026-09-19T14:55:53.949421+00:00"
+      "last_updated": "2026-09-19T19:41:18.657307+00:00"
     },
     {
       "name": "Hyland Software",
@@ -4599,7 +4599,7 @@
         "OnBase"
       ],
       "id": "cc38fd039405",
-      "last_updated": "2026-09-19T14:55:53.948126+00:00"
+      "last_updated": "2026-09-19T19:41:18.656165+00:00"
     },
     {
       "name": "ICI PARIS XL",
@@ -4613,7 +4613,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7a16dd62ffaf",
-      "last_updated": "2026-09-19T14:55:53.949431+00:00"
+      "last_updated": "2026-09-19T19:41:18.657316+00:00"
     },
     {
       "name": "ING Responsible Disclosure",
@@ -4627,7 +4627,7 @@
       "category": "Technology",
       "assets": [],
       "id": "bb3f972b21b0",
-      "last_updated": "2026-09-19T14:55:53.949444+00:00"
+      "last_updated": "2026-09-19T19:41:18.657327+00:00"
     },
     {
       "name": "ION Group",
@@ -4652,7 +4652,7 @@
         "*.africapecongress.com"
       ],
       "id": "57baa834a639",
-      "last_updated": "2026-09-19T14:55:53.948326+00:00"
+      "last_updated": "2026-09-19T19:41:18.656347+00:00"
     },
     {
       "name": "InnoGames",
@@ -4666,7 +4666,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "236e91bddee4",
-      "last_updated": "2026-09-19T14:55:53.949454+00:00"
+      "last_updated": "2026-09-19T19:41:18.657336+00:00"
     },
     {
       "name": "Intel® Vulnerability Disclosure Program ",
@@ -4680,7 +4680,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6aaf35c74a0e",
-      "last_updated": "2026-09-19T14:55:53.949463+00:00"
+      "last_updated": "2026-09-19T19:41:18.657345+00:00"
     },
     {
       "name": "Intergamma",
@@ -4694,7 +4694,7 @@
       "category": "Technology",
       "assets": [],
       "id": "2bda2b3c0b74",
-      "last_updated": "2026-09-19T14:55:53.949472+00:00"
+      "last_updated": "2026-09-19T19:41:18.657353+00:00"
     },
     {
       "name": "Itaú Unibanco",
@@ -4719,7 +4719,7 @@
         "bancofiat.com.br"
       ],
       "id": "b01439041334",
-      "last_updated": "2026-09-19T14:55:53.948277+00:00"
+      "last_updated": "2026-09-19T19:41:18.656301+00:00"
     },
     {
       "name": "Ivo: AI VDP",
@@ -4733,7 +4733,7 @@
       "category": "AI/ML",
       "assets": [],
       "id": "6dad4379eefb",
-      "last_updated": "2026-09-19T14:55:53.949481+00:00"
+      "last_updated": "2026-09-19T19:41:18.657360+00:00"
     },
     {
       "name": "Jaanga Marketplace Bug Bounty",
@@ -4747,7 +4747,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "f0d0b3759622",
-      "last_updated": "2026-09-19T14:55:53.948382+00:00"
+      "last_updated": "2026-09-19T19:41:18.656394+00:00"
     },
     {
       "name": "KU Leuven Vulnerability Disclosure Program (VDP)",
@@ -4761,7 +4761,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c75583fe6c82",
-      "last_updated": "2026-09-19T14:55:53.949490+00:00"
+      "last_updated": "2026-09-19T19:41:18.657368+00:00"
     },
     {
       "name": "Kaseya",
@@ -4786,7 +4786,7 @@
         "*.datto.com"
       ],
       "id": "cde6fa5afa2a",
-      "last_updated": "2026-09-19T14:55:53.948109+00:00"
+      "last_updated": "2026-09-19T19:41:18.656150+00:00"
     },
     {
       "name": "Kiwa Vulnerability Disclosure Program",
@@ -4800,7 +4800,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4c82e901efba",
-      "last_updated": "2026-09-19T14:55:53.949506+00:00"
+      "last_updated": "2026-09-19T19:41:18.657376+00:00"
     },
     {
       "name": "Klarna",
@@ -4823,7 +4823,7 @@
         "app.klarna.com"
       ],
       "id": "1daea474a6e5",
-      "last_updated": "2026-09-19T14:55:53.948333+00:00"
+      "last_updated": "2026-09-19T19:41:18.656351+00:00"
     },
     {
       "name": "Kong",
@@ -4848,7 +4848,7 @@
         "http://cloud.konghq.com"
       ],
       "id": "f3d31886e487",
-      "last_updated": "2026-09-19T14:55:53.948121+00:00"
+      "last_updated": "2026-09-19T19:41:18.656162+00:00"
     },
     {
       "name": "Kraken Tech (VDP)",
@@ -4862,7 +4862,7 @@
       "category": "Technology",
       "assets": [],
       "id": "720e14b66405",
-      "last_updated": "2026-09-19T14:55:53.948143+00:00"
+      "last_updated": "2026-09-19T19:41:18.656181+00:00"
     },
     {
       "name": "Kruidvat",
@@ -4876,7 +4876,7 @@
       "category": "Technology",
       "assets": [],
       "id": "c3c5769899ee",
-      "last_updated": "2026-09-19T14:55:53.949514+00:00"
+      "last_updated": "2026-09-19T19:41:18.657384+00:00"
     },
     {
       "name": "LPL Financial VDP",
@@ -4894,7 +4894,7 @@
         "lpl.com"
       ],
       "id": "2170ac44c11a",
-      "last_updated": "2026-09-19T14:55:53.948311+00:00"
+      "last_updated": "2026-09-19T19:41:18.656333+00:00"
     },
     {
       "name": "Lansweeper Bug Bounty Program",
@@ -4908,7 +4908,7 @@
       "category": "Technology",
       "assets": [],
       "id": "0b49af9f30da",
-      "last_updated": "2026-09-19T14:55:53.949523+00:00"
+      "last_updated": "2026-09-19T19:41:18.657392+00:00"
     },
     {
       "name": "Libelle",
@@ -4922,7 +4922,7 @@
       "category": "Technology",
       "assets": [],
       "id": "d111aca4366b",
-      "last_updated": "2026-09-19T14:55:53.949532+00:00"
+      "last_updated": "2026-09-19T19:41:18.657399+00:00"
     },
     {
       "name": "Liferay VDP",
@@ -4936,7 +4936,7 @@
       "category": "Technology",
       "assets": [],
       "id": "36de84fa54cf",
-      "last_updated": "2026-09-19T14:55:53.949541+00:00"
+      "last_updated": "2026-09-19T19:41:18.657407+00:00"
     },
     {
       "name": "Liverpool Victoria",
@@ -4952,7 +4952,7 @@
         "Security vulnerabilities that are identified in Liverpool Victoria products or in website domains owned, operated, or controlled by Liverpool Victoria are in scope."
       ],
       "id": "3b7ba5eb0c8b",
-      "last_updated": "2026-09-19T14:55:53.948292+00:00"
+      "last_updated": "2026-09-19T19:41:18.656315+00:00"
     },
     {
       "name": "Lovable VDP",
@@ -4971,7 +4971,7 @@
         "oauth.lovable.dev"
       ],
       "id": "c21f72fedcb5",
-      "last_updated": "2026-09-19T14:55:53.948113+00:00"
+      "last_updated": "2026-09-19T19:41:18.656154+00:00"
     },
     {
       "name": "Lowe's Companies VDP",
@@ -4994,7 +4994,7 @@
         "lowes.com"
       ],
       "id": "df1ba27984ca",
-      "last_updated": "2026-09-19T14:55:53.948364+00:00"
+      "last_updated": "2026-09-19T19:41:18.656379+00:00"
     },
     {
       "name": "Luminor",
@@ -5014,7 +5014,7 @@
         "Any other Luminor System, Website, App, Domain and IP"
       ],
       "id": "b7a19c439a75",
-      "last_updated": "2026-09-19T14:55:53.948027+00:00"
+      "last_updated": "2026-09-19T19:41:18.656072+00:00"
     },
     {
       "name": "MAGNIFIC VDP",
@@ -5028,7 +5028,7 @@
       "category": "Technology",
       "assets": [],
       "id": "047ce57b9bcb",
-      "last_updated": "2026-09-19T14:55:53.949550+00:00"
+      "last_updated": "2026-09-19T19:41:18.657415+00:00"
     },
     {
       "name": "MOD Supply Chain VDP",
@@ -5053,7 +5053,7 @@
         "212.20.255.54"
       ],
       "id": "8a7a767b0de9",
-      "last_updated": "2026-09-19T14:55:53.948007+00:00"
+      "last_updated": "2026-09-19T19:41:18.656053+00:00"
     },
     {
       "name": "MSCI",
@@ -5069,7 +5069,7 @@
         "Any public-facing system owned, operated, or controlled by MSCI, including web applications hosted on those sites. "
       ],
       "id": "8312112e3c88",
-      "last_updated": "2026-09-19T14:55:53.948170+00:00"
+      "last_updated": "2026-09-19T19:41:18.656205+00:00"
     },
     {
       "name": "MUFG VDP",
@@ -5086,7 +5086,7 @@
         "*.mufgamericas.com"
       ],
       "id": "adf783454ca2",
-      "last_updated": "2026-09-19T14:55:53.948034+00:00"
+      "last_updated": "2026-09-19T19:41:18.656079+00:00"
     },
     {
       "name": "Majid Al Futtaim Retail",
@@ -5100,7 +5100,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "f043e2c8a276",
-      "last_updated": "2026-09-19T14:55:53.948650+00:00"
+      "last_updated": "2026-09-19T19:41:18.656632+00:00"
     },
     {
       "name": "Marionnaud",
@@ -5114,7 +5114,7 @@
       "category": "Technology",
       "assets": [],
       "id": "12887832c6dc",
-      "last_updated": "2026-09-19T14:55:53.949559+00:00"
+      "last_updated": "2026-09-19T19:41:18.657422+00:00"
     },
     {
       "name": "McGraw Hill",
@@ -5137,7 +5137,7 @@
         "tegrity.com"
       ],
       "id": "0e1e0a5e2b3a",
-      "last_updated": "2026-09-19T14:55:53.947969+00:00"
+      "last_updated": "2026-09-19T19:41:18.656018+00:00"
     },
     {
       "name": "Meesho",
@@ -5162,7 +5162,7 @@
         "supplier.meesho.com"
       ],
       "id": "1e01d6c3c207",
-      "last_updated": "2026-09-19T14:55:53.948105+00:00"
+      "last_updated": "2026-09-19T19:41:18.656146+00:00"
     },
     {
       "name": "Mintel",
@@ -5187,7 +5187,7 @@
         "https://internal-auth.mintel.com/"
       ],
       "id": "1c17cac758d9",
-      "last_updated": "2026-09-19T14:55:53.948301+00:00"
+      "last_updated": "2026-09-19T19:41:18.656324+00:00"
     },
     {
       "name": "Mobile Vikings",
@@ -5201,7 +5201,7 @@
       "category": "Telecom",
       "assets": [],
       "id": "b7d99ef1fe2a",
-      "last_updated": "2026-09-19T14:55:53.949568+00:00"
+      "last_updated": "2026-09-19T19:41:18.657431+00:00"
     },
     {
       "name": "Monzo Public Bug Bounty Program",
@@ -5215,7 +5215,7 @@
       "category": "Technology",
       "assets": [],
       "id": "597ca5ddd150",
-      "last_updated": "2026-09-19T14:55:53.949577+00:00"
+      "last_updated": "2026-09-19T19:41:18.657438+00:00"
     },
     {
       "name": "Moralis VDP",
@@ -5229,7 +5229,7 @@
       "category": "Technology",
       "assets": [],
       "id": "90899ae24e71",
-      "last_updated": "2026-09-19T14:55:53.949586+00:00"
+      "last_updated": "2026-09-19T19:41:18.657446+00:00"
     },
     {
       "name": "Mueller Water Products (VDP)",
@@ -5243,7 +5243,7 @@
       "category": "Technology",
       "assets": [],
       "id": "7a6316efcf7a",
-      "last_updated": "2026-09-19T14:55:53.948042+00:00"
+      "last_updated": "2026-09-19T19:41:18.656086+00:00"
     },
     {
       "name": "NBA Public Bug Bounty",
@@ -5268,7 +5268,7 @@
         "allstar-dev.nba.com"
       ],
       "id": "3224dd20a407",
-      "last_updated": "2026-09-19T14:55:53.948267+00:00"
+      "last_updated": "2026-09-19T19:41:18.656292+00:00"
     },
     {
       "name": "NVIDIA Public Bug Bounty",
@@ -5282,7 +5282,7 @@
       "category": "Technology",
       "assets": [],
       "id": "36079bb7064b",
-      "last_updated": "2026-09-19T14:55:53.949595+00:00"
+      "last_updated": "2026-09-19T19:41:18.657455+00:00"
     },
     {
       "name": "NVIDIA Vulnerability Disclosure Program",
@@ -5296,7 +5296,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e4efd10f3917",
-      "last_updated": "2026-09-19T14:55:53.949604+00:00"
+      "last_updated": "2026-09-19T19:41:18.657463+00:00"
     },
     {
       "name": "Neon",
@@ -5315,7 +5315,7 @@
         "https://console.neon.tech/api/v2/"
       ],
       "id": "6579233ce117",
-      "last_updated": "2026-09-19T14:55:53.948225+00:00"
+      "last_updated": "2026-09-19T19:41:18.656254+00:00"
     },
     {
       "name": "Nestlé VDP",
@@ -5329,7 +5329,7 @@
       "category": "Technology",
       "assets": [],
       "id": "29d45679cfcd",
-      "last_updated": "2026-09-19T14:55:53.949614+00:00"
+      "last_updated": "2026-09-19T19:41:18.657471+00:00"
     },
     {
       "name": "NetScaler Public Program",
@@ -5347,7 +5347,7 @@
         "NetScaler Gateway"
       ],
       "id": "02a0c93245f4",
-      "last_updated": "2026-09-19T14:55:53.948097+00:00"
+      "last_updated": "2026-09-19T19:41:18.656138+00:00"
     },
     {
       "name": "Nexo",
@@ -5361,7 +5361,7 @@
       "category": "Technology",
       "assets": [],
       "id": "014d670661ae",
-      "last_updated": "2026-09-19T14:55:53.949623+00:00"
+      "last_updated": "2026-09-19T19:41:18.657479+00:00"
     },
     {
       "name": "Nexuzhealth",
@@ -5375,7 +5375,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "acea0be7c123",
-      "last_updated": "2026-09-19T14:55:53.949632+00:00"
+      "last_updated": "2026-09-19T19:41:18.657487+00:00"
     },
     {
       "name": "Nexuzhealth VDP",
@@ -5389,7 +5389,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "31cf6aa71219",
-      "last_updated": "2026-09-19T14:55:53.949641+00:00"
+      "last_updated": "2026-09-19T19:41:18.657495+00:00"
     },
     {
       "name": "Nexuzhealth Web PACS",
@@ -5403,7 +5403,7 @@
       "category": "Healthcare",
       "assets": [],
       "id": "3c577f2b09e2",
-      "last_updated": "2026-09-19T14:55:53.949650+00:00"
+      "last_updated": "2026-09-19T19:41:18.657503+00:00"
     },
     {
       "name": "Ninja Kiwi Games Bug Bounty program",
@@ -5417,7 +5417,7 @@
       "category": "Gaming",
       "assets": [],
       "id": "f396e8f5f108",
-      "last_updated": "2026-09-19T14:55:53.949659+00:00"
+      "last_updated": "2026-09-19T19:41:18.657511+00:00"
     },
     {
       "name": "OPPO",
@@ -5442,7 +5442,7 @@
         "FindX6"
       ],
       "id": "492796255baa",
-      "last_updated": "2026-09-19T14:55:53.948197+00:00"
+      "last_updated": "2026-09-19T19:41:18.656229+00:00"
     },
     {
       "name": "OURA Vulnerability Disclosure Program",
@@ -5456,7 +5456,7 @@
       "category": "Technology",
       "assets": [],
       "id": "54de625287b5",
-      "last_updated": "2026-09-19T14:55:53.949669+00:00"
+      "last_updated": "2026-09-19T19:41:18.657519+00:00"
     },
     {
       "name": "Omnicell",
@@ -5474,7 +5474,7 @@
         "*.omnicell.com"
       ],
       "id": "5498dd18cc57",
-      "last_updated": "2026-09-19T14:55:53.947958+00:00"
+      "last_updated": "2026-09-19T19:41:18.656008+00:00"
     },
     {
       "name": "Online enrollment for students Bug Bounty Program",
@@ -5488,7 +5488,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a03b40c5d915",
-      "last_updated": "2026-09-19T14:55:53.949678+00:00"
+      "last_updated": "2026-09-19T19:41:18.657533+00:00"
     },
     {
       "name": "Orbia Responsible Disclosure",
@@ -5502,7 +5502,7 @@
       "category": "Technology",
       "assets": [],
       "id": "77f41201a964",
-      "last_updated": "2026-09-19T14:55:53.949687+00:00"
+      "last_updated": "2026-09-19T19:41:18.657542+00:00"
     },
     {
       "name": "PDQ bug bounty program",
@@ -5516,7 +5516,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b7806a76ce8e",
-      "last_updated": "2026-09-19T14:55:53.949696+00:00"
+      "last_updated": "2026-09-19T19:41:18.657550+00:00"
     },
     {
       "name": "PRISM",
@@ -5541,7 +5541,7 @@
         "http://*.leisure-partners.net"
       ],
       "id": "4b766b31407c",
-      "last_updated": "2026-09-19T14:55:53.947939+00:00"
+      "last_updated": "2026-09-19T19:41:18.655991+00:00"
     },
     {
       "name": "Peloton",
@@ -5561,7 +5561,7 @@
         "www.onepeloton.com"
       ],
       "id": "02130b7abf4a",
-      "last_updated": "2026-09-19T14:55:53.948316+00:00"
+      "last_updated": "2026-09-19T19:41:18.656338+00:00"
     },
     {
       "name": "Penn Entertainment",
@@ -5586,7 +5586,7 @@
         "thescore.com"
       ],
       "id": "db149440ee6d",
-      "last_updated": "2026-09-19T14:55:53.948216+00:00"
+      "last_updated": "2026-09-19T19:41:18.656245+00:00"
     },
     {
       "name": "PeopleCert VDP",
@@ -5600,7 +5600,7 @@
       "category": "Technology",
       "assets": [],
       "id": "64c0c0eab4a8",
-      "last_updated": "2026-09-19T14:55:53.949706+00:00"
+      "last_updated": "2026-09-19T19:41:18.657558+00:00"
     },
     {
       "name": "PepsiCo VDP",
@@ -5625,7 +5625,7 @@
         "*.doritos.co.uk"
       ],
       "id": "75132760a503",
-      "last_updated": "2026-09-19T14:55:53.948257+00:00"
+      "last_updated": "2026-09-19T19:41:18.656284+00:00"
     },
     {
       "name": "Personio",
@@ -5639,7 +5639,7 @@
       "category": "Technology",
       "assets": [],
       "id": "057ba016aa77",
-      "last_updated": "2026-09-19T14:55:53.949715+00:00"
+      "last_updated": "2026-09-19T19:41:18.657566+00:00"
     },
     {
       "name": "PhonePe",
@@ -5664,7 +5664,7 @@
         "www.indusappstore.com"
       ],
       "id": "517bffd81960",
-      "last_updated": "2026-09-19T14:55:53.947961+00:00"
+      "last_updated": "2026-09-19T19:41:18.656011+00:00"
     },
     {
       "name": "Port of Antwerp-Bruges",
@@ -5678,7 +5678,7 @@
       "category": "Technology",
       "assets": [],
       "id": "4e3ebc761913",
-      "last_updated": "2026-09-19T14:55:53.949724+00:00"
+      "last_updated": "2026-09-19T19:41:18.657574+00:00"
     },
     {
       "name": "Posten Bring Responsible Disclosure",
@@ -5692,7 +5692,7 @@
       "category": "Technology",
       "assets": [],
       "id": "e14518bddbfa",
-      "last_updated": "2026-09-19T14:55:53.949734+00:00"
+      "last_updated": "2026-09-19T19:41:18.657583+00:00"
     },
     {
       "name": "Posti Bug Bounty ",
@@ -5706,7 +5706,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a4278eca66ef",
-      "last_updated": "2026-09-19T14:55:53.949743+00:00"
+      "last_updated": "2026-09-19T19:41:18.657591+00:00"
     },
     {
       "name": "Proof.com VDP",
@@ -5720,7 +5720,7 @@
       "category": "Technology",
       "assets": [],
       "id": "872b884799f0",
-      "last_updated": "2026-09-19T14:55:53.949752+00:00"
+      "last_updated": "2026-09-19T19:41:18.657599+00:00"
     },
     {
       "name": "QC VDP",
@@ -5734,7 +5734,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f2e9ef4bc96d",
-      "last_updated": "2026-09-19T14:55:53.949762+00:00"
+      "last_updated": "2026-09-19T19:41:18.657607+00:00"
     },
     {
       "name": "QinetiQ Response",
@@ -5759,7 +5759,7 @@
         "148.252.225.26"
       ],
       "id": "ed5ec4e422d8",
-      "last_updated": "2026-09-19T14:55:53.948139+00:00"
+      "last_updated": "2026-09-19T19:41:18.656177+00:00"
     },
     {
       "name": "Qualified Responsible Disclosure Program",
@@ -5773,7 +5773,7 @@
       "category": "Technology",
       "assets": [],
       "id": "29fe2d0909aa",
-      "last_updated": "2026-09-19T14:55:53.949771+00:00"
+      "last_updated": "2026-09-19T19:41:18.657616+00:00"
     },
     {
       "name": "RGF BE - VDP",
@@ -5787,7 +5787,7 @@
       "category": "Technology",
       "assets": [],
       "id": "a2aafeb7d77e",
-      "last_updated": "2026-09-19T14:55:53.949781+00:00"
+      "last_updated": "2026-09-19T19:41:18.657624+00:00"
     },
     {
       "name": "RIPE NCC",
@@ -5801,7 +5801,7 @@
       "category": "Technology",
       "assets": [],
       "id": "3427825a3a6d",
-      "last_updated": "2026-09-19T14:55:53.949790+00:00"
+      "last_updated": "2026-09-19T19:41:18.657632+00:00"
     },
     {
       "name": "Recreation.gov",
@@ -5823,7 +5823,7 @@
         "www.recreation.gov"
       ],
       "id": "d85c5dc9c5ad",
-      "last_updated": "2026-09-19T14:55:53.948248+00:00"
+      "last_updated": "2026-09-19T19:41:18.656275+00:00"
     },
     {
       "name": "Red Bull",
@@ -5837,7 +5837,7 @@
       "category": "Technology",
       "assets": [],
       "id": "85bde676beb4",
-      "last_updated": "2026-09-19T14:55:53.949809+00:00"
+      "last_updated": "2026-09-19T19:41:18.657649+00:00"
     },
     {
       "name": "Regions Financial",
@@ -5862,7 +5862,7 @@
         "regionsapps.com"
       ],
       "id": "2ad304ff97e3",
-      "last_updated": "2026-09-19T14:55:53.948078+00:00"
+      "last_updated": "2026-09-19T19:41:18.656119+00:00"
     },
     {
       "name": "Revolut VDP",
@@ -5876,7 +5876,7 @@
       "category": "Technology",
       "assets": [],
       "id": "b2ab100c94db",
-      "last_updated": "2026-09-19T14:55:53.949819+00:00"
+      "last_updated": "2026-09-19T19:41:18.657657+00:00"
     },
     {
       "name": "Rivian Bug Bounty",
@@ -5890,7 +5890,7 @@
       "category": "Technology",
       "assets": [],
       "id": "6b589414ec1b",
-      "last_updated": "2026-09-19T14:55:53.949828+00:00"
+      "last_updated": "2026-09-19T19:41:18.657665+00:00"
     },
     {
       "name": "Robinhood Markets",
@@ -5915,7 +5915,7 @@
         "1634080733"
       ],
       "id": "2ae43445023d",
-      "last_updated": "2026-09-19T14:55:53.948058+00:00"
+      "last_updated": "2026-09-19T19:41:18.656101+00:00"
     },
     {
       "name": "Robinhood Markets Bounty",
@@ -5940,7 +5940,7 @@
         "Tier 3"
       ],
       "id": "5e1214844c80",
-      "last_updated": "2026-09-19T14:55:53.948062+00:00"
+      "last_updated": "2026-09-19T19:41:18.656104+00:00"
     },
     {
       "name": "SBB - Swiss Federal Railways",
@@ -5954,7 +5954,7 @@
       "category": "Government",
       "assets": [],
       "id": "6911b10cec4d",
-      "last_updated": "2026-09-19T14:55:53.949838+00:00"
+      "last_updated": "2026-09-19T19:41:18.657673+00:00"
     },
     {
       "name": "Salto Vulnerability Disclosure ",
@@ -5968,7 +5968,7 @@
       "category": "Technology",
       "assets": [],
       "id": "fbeba88438d0",
-      "last_updated": "2026-09-19T14:55:53.949847+00:00"
+      "last_updated": "2026-09-19T19:41:18.657682+00:00"
     },
     {
       "name": "SecureDrop",
@@ -5982,7 +5982,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10a3db3831d1",
-      "last_updated": "2026-09-19T14:55:53.948994+00:00"
+      "last_updated": "2026-09-19T19:41:18.656933+00:00"
     },
     {
       "name": "Signicat Responsible Disclosure",
@@ -5996,7 +5996,7 @@
       "category": "Technology",
       "assets": [],
       "id": "10286394c06f",
-      "last_updated": "2026-09-19T14:55:53.949857+00:00"
+      "last_updated": "2026-09-19T19:41:18.657690+00:00"
     },
     {
       "name": "SingleStore",
@@ -6021,7 +6021,7 @@
         "nimbus-gateway.singlestore.com"
       ],
       "id": "9ea408c5ab20",
-      "last_updated": "2026-09-19T14:55:53.948359+00:00"
+      "last_updated": "2026-09-19T19:41:18.656374+00:00"
     },
     {
       "name": "Starbucks China",
@@ -6039,7 +6039,7 @@
         "www.starbucks.com.cn/"
       ],
       "id": "ea5b13dbc1ae",
-      "last_updated": "2026-09-19T14:55:53.948239+00:00"
+      "last_updated": "2026-09-19T19:41:18.656267+00:00"
     },
     {
       "name": "Starbucks Japan",
@@ -6061,7 +6061,7 @@
         "www.starbucks.co.jp"
       ],
       "id": "dcfa93525c57",
-      "last_updated": "2026-09-19T14:55:53.948234+00:00"
+      "last_updated": "2026-09-19T19:41:18.656263+00:00"
     },
     {
       "name": "Supabase",
@@ -6086,7 +6086,7 @@
         "supabase.com"
       ],
       "id": "483763f12da9",
-      "last_updated": "2026-09-19T14:55:53.948282+00:00"
+      "last_updated": "2026-09-19T19:41:18.656306+00:00"
     },
     {
       "name": "Syfe",
@@ -6110,7 +6110,7 @@
         "www.syfe.com"
       ],
       "id": "8233ff039b24",
-      "last_updated": "2026-09-19T14:55:53.948253+00:00"
+      "last_updated": "2026-09-19T19:41:18.656280+00:00"
     },
     {
       "name": "Taxwell VDP",
@@ -6129,7 +6129,7 @@
         "taxwell.org"
       ],
       "id": "286f0f5e1d29",
-      "last_updated": "2026-09-19T14:55:53.948022+00:00"
+      "last_updated": "2026-09-19T19:41:18.656067+00:00"
     },
     {
       "name": "The Browser Company of NYC",
@@ -6154,7 +6154,7 @@
         "thebrowser.company"
       ],
       "id": "ab216ef9e238",
-      "last_updated": "2026-09-19T14:55:53.948211+00:00"
+      "last_updated": "2026-09-19T19:41:18.656241+00:00"
     },
     {
       "name": "Tines (VDP)",
@@ -6171,7 +6171,7 @@
         "tines.io"
       ],
       "id": "886e8e901c08",
-      "last_updated": "2026-09-19T14:55:53.948018+00:00"
+      "last_updated": "2026-09-19T19:41:18.656063+00:00"
     },
     {
       "name": "TomTom",
@@ -6190,7 +6190,7 @@
         "https://github.com/tomtom-international/*"
       ],
       "id": "0d7cb89b0caf",
-      "last_updated": "2026-09-19T14:55:53.948349+00:00"
+      "last_updated": "2026-09-19T19:41:18.656365+00:00"
     },
     {
       "name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
@@ -6215,7 +6215,7 @@
         "articles.alpha.canada.ca"
       ],
       "id": "817ba4542559",
-      "last_updated": "2026-09-19T14:55:53.948000+00:00"
+      "last_updated": "2026-09-19T19:41:18.656046+00:00"
     },
     {
       "name": "Tucows (VDP)",
@@ -6240,7 +6240,7 @@
         "*.wavelo.com"
       ],
       "id": "b0a8bb484cbf",
-      "last_updated": "2026-09-19T14:55:53.948089+00:00"
+      "last_updated": "2026-09-19T19:41:18.656131+00:00"
     },
     {
       "name": "Twilio",
@@ -6265,7 +6265,7 @@
         "http://tsock.us1.twilio.com"
       ],
       "id": "0ff277550614",
-      "last_updated": "2026-09-19T14:55:53.948031+00:00"
+      "last_updated": "2026-09-19T19:41:18.656075+00:00"
     },
     {
       "name": "U.S. Dept of Defense",
@@ -6281,7 +6281,7 @@
         "*.defense.gov"
       ],
       "id": "78aec942e587",
-      "last_updated": "2026-09-19T14:55:51.263530+00:00"
+      "last_updated": "2026-09-19T19:41:17.362986+00:00"
     },
     {
       "name": "Unico IDtech",
@@ -6306,7 +6306,7 @@
         "idpay-uat.unico.io"
       ],
       "id": "4b12fed71cb7",
-      "last_updated": "2026-09-19T14:55:53.948339+00:00"
+      "last_updated": "2026-09-19T19:41:18.656356+00:00"
     },
     {
       "name": "VF Corporation - VDP",
@@ -6326,7 +6326,7 @@
         "*.vfc.com"
       ],
       "id": "c3b22425ca2f",
-      "last_updated": "2026-09-19T14:55:53.948148+00:00"
+      "last_updated": "2026-09-19T19:41:18.656185+00:00"
     },
     {
       "name": "Vanguard",
@@ -6342,7 +6342,7 @@
         "Scope"
       ],
       "id": "cd6e1e596b90",
-      "last_updated": "2026-09-19T14:55:53.947965+00:00"
+      "last_updated": "2026-09-19T19:41:18.656014+00:00"
     },
     {
       "name": "Varonis",
@@ -6363,7 +6363,7 @@
         "support.varonis.com"
       ],
       "id": "746f645c328a",
-      "last_updated": "2026-09-19T14:55:53.948321+00:00"
+      "last_updated": "2026-09-19T19:41:18.656342+00:00"
     },
     {
       "name": "Vercel Open Source",
@@ -6388,7 +6388,7 @@
         "https://github.com/vercel/async-sema"
       ],
       "id": "50d971e05e1f",
-      "last_updated": "2026-09-19T14:55:53.948074+00:00"
+      "last_updated": "2026-09-19T19:41:18.656115+00:00"
     },
     {
       "name": "Verily Life Sciences",
@@ -6409,7 +6409,7 @@
         "https://play.google.com/store/apps/details?id=com.verily.me"
       ],
       "id": "31e33e0bcf0b",
-      "last_updated": "2026-09-19T14:55:53.948220+00:00"
+      "last_updated": "2026-09-19T19:41:18.656250+00:00"
     },
     {
       "name": "Wallet on Telegram",
@@ -6431,7 +6431,7 @@
         "wallettg.net"
       ],
       "id": "503758739167",
-      "last_updated": "2026-09-19T14:55:53.948344+00:00"
+      "last_updated": "2026-09-19T19:41:18.656361+00:00"
     },
     {
       "name": "Whoop Bug Bounty",
@@ -6454,7 +6454,7 @@
         "shop.whoop.com"
       ],
       "id": "bdf956826f1c",
-      "last_updated": "2026-09-19T14:55:53.948179+00:00"
+      "last_updated": "2026-09-19T19:41:18.656213+00:00"
     },
     {
       "name": "Wolt",
@@ -6479,7 +6479,7 @@
         "ops.wolt.com"
       ],
       "id": "91fd0de3f506",
-      "last_updated": "2026-09-19T14:55:53.947944+00:00"
+      "last_updated": "2026-09-19T19:41:18.655995+00:00"
     },
     {
       "name": "Worldpay",
@@ -6497,7 +6497,7 @@
         "www.virtualterminal.com"
       ],
       "id": "5a7562667126",
-      "last_updated": "2026-09-19T14:55:53.948130+00:00"
+      "last_updated": "2026-09-19T19:41:18.656169+00:00"
     },
     {
       "name": "YesWeHack Dojo",
@@ -6511,7 +6511,7 @@
       "category": "Technology",
       "assets": [],
       "id": "44be3c85998d",
-      "last_updated": "2026-09-19T14:55:53.950425+00:00"
+      "last_updated": "2026-09-19T19:41:18.658175+00:00"
     },
     {
       "name": "celix Solutions GmbH Marketplace Bug Bounty Program",
@@ -6525,7 +6525,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "78b1cc24ca5a",
-      "last_updated": "2026-09-19T14:55:53.948669+00:00"
+      "last_updated": "2026-09-19T19:41:18.656649+00:00"
     },
     {
       "name": "codecentric AG - Marketplace Bug Bounty Program",
@@ -6539,7 +6539,7 @@
       "category": "E-commerce",
       "assets": [],
       "id": "1138f1db1226",
-      "last_updated": "2026-09-19T14:55:53.948732+00:00"
+      "last_updated": "2026-09-19T19:41:18.656706+00:00"
     },
     {
       "name": "codeclou GmbH",
@@ -6553,7 +6553,7 @@
       "category": "Technology",
       "assets": [],
       "id": "85d3260d6a39",
-      "last_updated": "2026-09-19T14:55:53.948739+00:00"
+      "last_updated": "2026-09-19T19:41:18.656712+00:00"
     },
     {
       "name": "codefortynine",
@@ -6567,7 +6567,7 @@
       "category": "Technology",
       "assets": [],
       "id": "088296d4554e",
-      "last_updated": "2026-09-19T14:55:53.948745+00:00"
+      "last_updated": "2026-09-19T19:41:18.656717+00:00"
     },
     {
       "name": "d-you App & German EUDI Wallet Ecosystem",
@@ -6589,7 +6589,7 @@
         "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb"
       ],
       "id": "5ba74cf08337",
-      "last_updated": "2026-09-19T14:55:53.947794+00:00"
+      "last_updated": "2026-09-19T19:41:18.655853+00:00"
     },
     {
       "name": "eToro Managed Bug Bounty Engagement",
@@ -6603,7 +6603,7 @@
       "category": "Technology",
       "assets": [],
       "id": "11149648aec0",
-      "last_updated": "2026-09-19T14:55:53.948923+00:00"
+      "last_updated": "2026-09-19T19:41:18.656872+00:00"
     },
     {
       "name": "eazyBI",
@@ -6617,7 +6617,7 @@
       "category": "Technology",
       "assets": [],
       "id": "f2112daad0d3",
-      "last_updated": "2026-09-19T14:55:53.948874+00:00"
+      "last_updated": "2026-09-19T19:41:18.656830+00:00"
     }
   ]
 }
